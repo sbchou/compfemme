@@ -1,0 +1,729 @@
+M	CHARACTER	DIALOGUE
+M	MOTHER	You feeling any better?
+M	THE KID	A little bit.
+M	MOTHER	Guess what.
+M	THE KID	What?
+M	MOTHER	Your grandfather's here.
+M	THE KID	Mom, can't you tell him that I'm sick?
+M	MOTHER	You are sick, that's why he's here.
+M	THE KID	He'll pinch my cheek. I hate that.
+M	MOTHER	Maybe he won't.
+M	GRANDFATHER	Hey! How's the sickie? Heh?
+M	MOTHER	I think I'll leave you two pals.
+M	GRANDFATHER	I brought you a special present.
+M	THE KID	What is it?
+M	GRANDFATHER	Open it up.
+M	THE KID	A book?
+M	GRANDFATHER	That's right. When I was your age, television was called books. And this is a special book. It was the book my father used to read to me when I was sick, and I used to read it to your father. And today, I'm gonna read it to you.
+M	THE KID	Has it got any sports in it?
+M	GRANDFATHER	Are you kidding? Fencing. Fighting. Torture. Revenge. Giants. Monsters. Chases. Escapes. True love. Miracles.
+M	THE KID	It doesn't sound too bad. I'll try and stay awake.
+M	GRANDFATHER	Oh. Well, thank you very much. It's very nice of you. Your vote of confidence is overwhelming. All right. The Princess Bride, by S. Morgenstern. Chapter One. Buttercup was raised on a small farm in the country of Florin.
+M	GRANDFATHER (O.S.)	Her favorite pastimes were riding her horse and tormenting the farm boy that worked there. His name was Westley, but she never called him that. Isn't that a wonderful beginning? Yeah. It's really good. Nothing gave Buttercup as much pleasure as ordering Westley around.
+M	BUTTERCUP	Farm boy. Polish my horse's saddle. I want to see my face shining in it by morning.
+M	WESTLEY	As you wish.
+M	GRANDFATHER (O.S.)	"As you wish" was all he ever said to her.
+M	BUTTERCUP	Farm Boy. Fill these with water-- --please.
+M	WESTLEY	As you wish.
+M	GRANDFATHER (O.S.)	That day, she was amazed to discover that when he was saying, "As you wish," what he meant was, "I love you."
+M	GRANDFATHER (O.S.)	And even more amazing was the day she realized she truly loved him back.
+M	BUTTERCUP	Farm Boy, fetch me that pitcher.
+M	WESTLEY	As you wish.
+M	THE KID (O.S.)	--hold it, hold it--
+M	THE KID	What is this? Are you trying to trick me?--Where's the sports?--Is this a kissing book?
+M	GRANDFATHER	--wait, just wait--
+M	THE KID	--well, when does it get good?
+M	GRANDFATHER	Keep your shirt on. Let me read. Westley had no money for marriage. So he packed his few belongings and left the farm to seek his fortune across the sea.
+M	GRANDFATHER (O.S.)	It was a very emotional time for Buttercup-- I don't be-leeve this.
+M	BUTTERCUP	I fear I'll never see you again.
+M	WESTLEY	Of course you will.
+M	BUTTERCUP	But what if something happens to you?
+M	WESTLEY	Hear this now: I will come for you.
+M	BUTTERCUP	But how can you be sure?
+M	WESTLEY	This is true love. You think this happens every day?
+M	GRANDFATHER (O.S.)	Westley didn't reach his destination. His ship was attacked by the Dread Pirate Roberts, who never left captives alive. When Buttercup got the news that Westley was murdered-- --murdered by pirates is good--
+M	GRANDFATHER (O.S.)	She went into her room and shut the door. And for days, she neither slept nor ate.
+M	BUTTERCUP	I will never love again.
+M	GRANDFATHER (O.S.)	Five years later, the main square of Florin City was filled as never before to hear the announcement of the great Prince Humperdinck's bride-to be.
+M	HUMPERDINCK	My people... a month from now, our country will have its 500th anniversary. On that sundown, I shall marry a lady who was once a commoner like yourselves-- --but perhaps you will not find her common now. Would you like to meet her?
+M	HUMPERDINCK	My people... the Princess Buttercup!! Buttercup's emptiness consumed her. Although the law of the land gave Humperdinck the right to choose his bride, she did not love him. Despite Humperdinck's reassurance that she would grow to love him, the only joy she found was in her daily ride.
+M	VOICE	A word, my lady?
+M	VIZZINI	We are but poor, lost circus performers. Is there a village nearby?
+M	BUTTERCUP	There is nothing nearby; not for miles.
+M	VIZZINI	Then there will be no one to hear you scream--
+M	INIGO	What is that you're ripping?
+M	VIZZINI	It's fabric from the uniform of an Army officer of Guilder.
+M	FEZZIK	Who's Guilder?
+M	VIZZINI	The country across the sea. The sworn enemy of Florin. Go!
+M	VIZZINI	Once the horse reaches the castle, the fabric will make the Prince suspect the Guilderians have abducted his love. When he finds her body dead on the Guilder frontier, his suspicions will be totally confirmed.
+M	FEZZIK	You never said anything about killing anyone.
+M	VIZZINI	I've hired you to help me start a war. That's a prestigious line of work with a long and glorious tradition.
+M	FEZZIK	I just don't think it's right, killing an innocent girl.
+M	VIZZINI	Am I going mad or did the word "think" escape your lips? You were not hired for your brains, you hippopotamic land mass.
+M	INIGO	I agree with FEZZIK.
+M	VIZZINI	he's really getting Oh. The sot has spoken. What happens to her is not truly your concern--I will kill her-- And remember this--never forget this--
+M	VIZZINI	--when I found you, you were so slobbering drunk you couldn't buy brandy-- he can while Vizzini --and you--friendless, brainless, helpless, hopeless--Do you want me to send you back to where you were, unemployed in Greenland?
+M	INIGO	That Vizzini, he can fuss.
+M	FEZZIK	...fuss... fuss... I think he likes to scream at us.
+M	INIGO	Probably he means no harm.
+M	FEZZIK	He's really very short on charm.
+M	INIGO	Oh, you've a great gift for rhyme.
+M	FEZZIK	Yes, some of the time.
+M	VIZZINI	Enough of that.
+M	INIGO	Fezzik, are there rocks ahead?
+M	FEZZIK	If there are, we'll all be dead.
+M	VIZZINI	No more rhymes now, I mean it.
+M	FEZZIK	Anybody want a peanut?
+M	VIZZINI	We'll reach the Cliffs by dawn.
+M	VIZZINI	Why are you doing that?
+M	INIGO	Making sure nobody's following us.
+M	VIZZINI	That would be inconceivable.
+M	BUTTERCUP	Despite what you think, you will be caught. And when you are, the Prince will see you all hanged.
+M	VIZZINI	Of all the necks on this boat, Highness, the one you should be worrying about is your own.
+M	VIZZINI	Stop doing that. We can all relax, it's almost over--
+M	INIGO	You're sure nobody's following us?
+M	VIZZINI	As I told you, it would be absolutely, totally, and in all other ways, inconceivable. No one in Guilder knows what we've done. And no one in Florin could have gotten here so fast. Out of curiosity, why do you ask?
+M	INIGO	No reason. It's only, I just happened to look behind us, and something is there.
+M	VIZZINI	What?
+M	VIZZINI	Probably some local fisherman out for a pleasure cruise at night through eel-infested waters.
+M	VIZZINI	Go in, get after her!
+M	INIGO	I don't swim.
+M	FEZZIK	I only dog paddle.
+M	VIZZINI	Veer left. Left. Left! Do you know what that sound is, Highness? Those are the Shrieking Eels--if you doubt me, just wait. They always grow louder when they're about to feed on human flesh.
+M	VIZZINI	If you swim back now, I promise, no harm will come to you. I doubt you will get such an offer from the Eels.
+M	GRANDFATHER (O.S.)	She doesn't get eaten by the Eels at this time.
+M	THE KID	What?
+M	GRANDFATHER	The Eel doesn't get her. I'm explaining to you because you looked nervous.
+M	THE KID	Well, I wasn't nervous.
+M	THE KID	Well, maybe I was a little bit concerned. But that's not the same thing.
+M	GRANDFATHER	Because I can stop now if you want.
+M	THE KID	No. You could read a little bit more... if you want.
+M	GRANDFATHER	"Do you know what that sound is, Highness?"
+M	VIZZINI	Those are the Shrieking Eels.
+M	THE KID (O.S.)	We're past that, Grandpa.
+M	THE KID	You read it already.
+M	GRANDFATHER	Oh. Oh my goodness, I did. I'm sorry. Beg your pardon.
+M	GRANDFATHER (O.S.)	All right, all right, let's see. Uh, she was in the water, the Eel was coming after her. She was frightened. The Eel started to charge her. And then--
+M	VIZZINI	Put her down. Just put her down.
+M	INIGO	I think he's getting closer.
+M	VIZZINI	He's no concern of ours. Sail on! I suppose you think you're brave, don't you?
+M	BUTTERCUP	Only compared to some.
+M	INIGO	Look! He's right on top of us. I wonder if he is using the same wind we are using.
+M	VIZZINI	Whoever he is, he's too late-- --see? The Cliffs of Insanity.
+M	VIZZINI	Hurry up. Move the thing! Um... that other thing. Move it! We're safe--only FEZZIK is strong enough to go up our way--he'll have to sail around for hours 'til he finds a harbor.
+M	INIGO	He's climbing the rope. And he's gaining on us.
+M	VIZZINI	Inconceivable!
+M	VIZZINI	Faster!
+M	FEZZIK	I thought I was going faster.
+M	VIZZINI	You were supposed to be this colossus. You were this great, legendary thing. And yet he gains.
+M	FEZZIK	Well, I'm carrying three people. And he's got only himself.
+M	VIZZINI	--I do not accept excuses. I'm just going to have to find myself a new giant, that's all.
+M	FEZZIK	Don't say that, Vizzini. Please.
+M	VIZZINI	Did I make it clear that your job is at stake?
+M	FEZZIK	He has very good arms.
+M	VIZZINI	He didn't fall? Inconceivable!!
+M	INIGO	You keep using that word--I do not think it means what you think it means. My God! He's climbing.
+M	VIZZINI	Whoever he is, he's obviously seen us with the Princess, and must therefore die. You, carry her. We'll head straight for the Guilder frontier. Catch up when he's dead. If he falls, fine. If not, the sword.
+M	INIGO	I want to duel him left-handed.
+M	VIZZINI	You know what a hurry we're in.
+M	INIGO	Well, it's the only way I can be satisfied. If I use my right--tch-- over too quickly.
+M	VIZZINI	Oh, have it your way.
+M	FEZZIK	You be careful. --people in masks cannot be trusted.
+M	VIZZINI	I'm waiting!
+M	INIGO	Hello there.
+M	INIGO	Slow going?
+M	MAN IN BLACK	Look, I don't mean to be rude, but this is not as easy as it looks. So I'd appreciate it if you wouldn't distract me.
+M	INIGO	Sorry.
+M	MAN IN BLACK	Thank you.
+M	INIGO	I do not suppose you could speed things up?
+M	MAN IN BLACK	If you're in such a hurry, you could lower a rope, or a tree branch, or find something useful to do.
+M	INIGO	I could do that. In fact, I've got some rope up here. But I do not think that you will accept my help, since I am only waiting around to kill you.
+M	MAN IN BLACK	That does put a damper on our relationship.
+M	INIGO	But I promise I will not kill you until you reach the top.
+M	MAN IN BLACK	That's very comforting. But I'm afraid you'll just have to wait.
+M	INIGO	I hate waiting. I could give you my word as a Spaniard.
+M	MAN IN BLACK	No good. I've known too many Spaniards.
+M	INIGO	You don't know any way you'll trust me?
+M	MAN IN BLACK	Nothing comes to mind.
+M	INIGO	I swear on the soul of my father, Domingo Montoya, you will reach the top alive.
+M	MAN IN BLACK	Throw me the rope.
+M	MAN IN BLACK	Thank you.
+M	INIGO	We'll wait until you're ready.
+M	MAN IN BLACK	Again. Thank you.
+M	INIGO	I do not mean to pry, but you don't by any chance happen to have six fingers on your right hand?
+M	MAN IN BLACK	Do you always begin conversations this way?
+M	INIGO	My father was slaughtered by a six- fingered man. He was a great swordmaker, my father. And when the six-fingered man appeared and requested a special sword, my father took the job. He slaved a year before he was done.
+M	MAN IN BLACK	I have never seen its equal.
+M	INIGO	The six-fingered man returned and demanded it, but at one-tenth his promised price. My father refused. Without a word, the six-fingered man slashed him through the heart. I loved my father, so, naturally, challenged his murderer to a duel... I failed... the six-fingered man did leave me alive with the six-fingered sword, but he gave me these.
+M	MAN IN BLACK	How old were you?
+M	INIGO	I was eleven years old. When I was strong enough, I dedicated my life to the study of fencing. So the next time we meet, I will not fail. I will go up to the six-fingered man and say, "Hello, my name is Inigo Montoya. You killed my father. Prepare to die."
+M	MAN IN BLACK	You've done nothing but study swordplay?
+M	INIGO	More pursuit than study lately. You see, I cannot find him. It's been twenty years now. I am starting to lose confidence. I just work for Vizzini to pay the bills. There's not a lot of money in revenge.
+M	MAN IN BLACK	Well, I certainly hope you find him, someday.
+M	INIGO	You are ready, then?
+M	MAN IN BLACK	Whether I am or not, you've been more than fair.
+M	INIGO	You seem a decent fellow. I hate to kill you.
+M	MAN IN BLACK	You seem a decent fellow. I hate to die.
+M	INIGO	Begin!
+M	INIGO	You're using Bonetti's defense against me, ah?
+M	MAN IN BLACK	I thought it fitting, considering the rocky terrain--
+M	INIGO	Naturally, you must expect me to attack with Capo Ferro--
+M	MAN IN BLACK	--naturally-- --but I find Thibault cancels out Capo Ferro, don't you?
+M	INIGO	Unless the enemy has studied his Agrippa--
+M	INIGO	--which I have.
+M	INIGO	You are wonderful!
+M	MAN IN BLACK	Thank you--I've worked hard to become so.
+M	INIGO	I admit it--you are better than I am.
+M	MAN IN BLACK	Then why are you smiling?
+M	INIGO	Because I know something you don't know.
+M	MAN IN BLACK	And what is that?
+M	INIGO	I am not left-handed.
+M	MAN IN BLACK	You're amazing!
+M	INIGO	I ought to be after twenty years.
+M	MAN IN BLACK	There's something I ought to tell you.
+M	INIGO	Tell me.
+M	MAN IN BLACK	I am not left-handed either.
+M	INIGO	Who are you?!
+M	MAN IN BLACK	No one of consequence.
+M	INIGO	I must know.
+M	MAN IN BLACK	Get used to disappointment.
+M	INIGO	Okay.
+M	INIGO	Kill me quickly.
+M	MAN IN BLACK	I would as soon destroy a stained glass window as an artist like yourself. However, since I can't have you following me either--
+M	MAN IN BLACK	Please understand, I hold you in the highest respect.
+M	VIZZINI	Inconceivable!
+M	VIZZINI	Give her to me. Catch up with us quickly.
+M	FEZZIK	What do I do?
+M	VIZZINI	Finish him, finish him. Your way.
+M	FEZZIK	Oh, good, my way. Thank you, Vizzini. Which way is my way?
+M	VIZZINI	Pick up one of those rocks, get behind the boulder, and in a few minutes, the Man in Black will come running around the bend. The minute his head is in view, hit it with the rock!
+M	FEZZIK	My way's not very sportsmanlike.
+M	FEZZIK	I did that on purpose. I don't have to miss.
+M	MAN IN BLACK	I believe you--So what happens now?
+M	FEZZIK	We face each other as God intended. Sportsmanlike. No tricks, no weapons, skill against skill alone.
+M	MAN IN BLACK	You mean, you'll put down your rock and I'll put down my sword, and we'll try to kill each other like civilized people?
+M	FEZZIK	I could kill you now.
+M	MAN IN BLACK	Frankly, I think the odds are slightly in your favor at hand fighting.
+M	FEZZIK	It's not my fault being the biggest and the strongest. I don't even exercise.
+M	MAN IN BLACK	Look are you just fiddling around with me or what?
+M	FEZZIK	I just want you to feel you're doing well. I hate for people to die embarrassed.
+M	FEZZIK	You're quick.
+M	MAN IN BLACK	And a good thing too.
+M	FEZZIK	Why do you wear a mask? Were you burned by acid, or something like that?
+M	MAN IN BLACK	Oh no. It's just that they're terribly comfortable. I think everyone will be wearing them in the future.
+M	FEZZIK	I just figured out why you give me so much trouble.
+M	MAN IN BLACK	Why is that, do you think?
+M	FEZZIK	Well, I haven't fought just one person for so long. I've been specializing in groups. Battling gangs for local charities, that kind of thing.
+M	MAN IN BLACK	Why should that make such a difference?
+M	FEZZIK	Well... ...you see, you use different moves when you're fighting half a dozen people than when you only have to be worried about one.
+M	MAN IN BLACK	I don't envy you the headache you will have when you awake. But, in the meantime, rest well... and dream of large women.
+M	HUMPERDINCK	There was a mighty duel--it ranged all over. They were both masters.
+M	RUGEN	Who won? How did it end?
+M	HUMPERDINCK	The loser ran off alone. The winner followed those footprints toward Guilder!
+M	RUGEN	Shall we track them both?
+M	HUMPERDINCK	The loser is nothing--only the Princess matters-- --clearly this was all planned by warriors of Guilder. We must be ready for whatever lies ahead.
+M	RUGEN	Could this be a trap?
+M	HUMPERDINCK	I always think everything could be a trap--Which is why I'm still alive.
+M	VIZZINI	So, it is down to you. And it is down to me.
+M	VIZZINI	If you wish her dead, by all means keep moving forward.
+M	MAN IN BLACK	Let me explain--
+M	VIZZINI	--there's nothing to explain. You're trying to kidnap what I've rightfully stolen.
+M	MAN IN BLACK	Perhaps an arrangement can be reached.
+M	VIZZINI	There will be no arrangement-- --and you're killing her!
+M	MAN IN BLACK	But if there can be no arrangement, then we are at an impasse.
+M	VIZZINI	I'm afraid so--I can't compete with you physically. And you're no match for my brains.
+M	MAN IN BLACK	You're that smart?
+M	VIZZINI	Let me put it this way: have you ever heard of Plato, Aristotle, Socrates?
+M	MAN IN BLACK	Yes.
+M	VIZZINI	Morons.
+M	MAN IN BLACK	Really? In that case, I challenge you to a battle of wits.
+M	VIZZINI	For the Princess?
+M	VIZZINI	To the death?
+M	VIZZINI	I accept.
+M	MAN IN BLACK	Good. Then pour the wine.
+M	MAN IN BLACK	Inhale this, but do not touch.
+M	VIZZINI	I smell nothing.
+M	MAN IN BLACK	What you do not smell is called iocane powder. It is odorless, tasteless, dissolves instantly in liquid, and is among the more deadlier poisons known to man.
+M	VIZZINI	Hmm.
+M	MAN IN BLACK	All right: where is the poison? The battle of wits has begun. It ends when you decide and we both drink, and find out who is right and who is dead.
+M	VIZZINI	But it's so simple. All I have to do is divine from what I know of you. Are you the sort of man who would put the poison into his own goblet, or his enemy's?
+M	VIZZINI	Now, a clever man would put the poison into his own goblet, because he would know that only a great fool would reach for what he was given. I'm not a great fool, so I can clearly not choose the wine in front of you. But you must have known I was not a great fool; you would have counted on it, so I can clearly not choose the wine in front of me.
+M	MAN IN BLACK	You've made your decision then?
+M	VIZZINI	Not remotely. Because iocane comes from Australia, as everyone knows. And Australia is entirely peopled with criminals. And criminals are used to having people not trust them, as you are not trusted by me. So I can clearly not choose the wine in front of you.
+M	MAN IN BLACK	Truly, you have a dizzying intellect.
+M	VIZZINI	Wait till I get going! Where was I?
+M	MAN IN BLACK	Australia.
+M	VIZZINI	Yes--Australia, and you must have suspected I would have known the powder's origin, so I can clearly not choose the wine in front of me.
+M	MAN IN BLACK	You're just stalling now.
+M	VIZZINI	You'd like to think that, wouldn't you? You've beaten my giant, which means you're exceptionally strong. So, you could have put the poison in your own goblet, trusting on your strength to save you. So I can clearly not choose the wine in front of you. But, you've also bested my Spaniard which means you must have studied. And in studying, you must have learned that man is mortal so you would have put the poison as far from yourself as possible, so I can clearly not choose the wine in front of me.
+M	MAN IN BLACK	You're trying to trick me into giving away something--it won't work--
+M	VIZZINI	It has worked--you've given everything away--I know where the poison is.
+M	MAN IN BLACK	Then make your choice.
+M	VIZZINI	I will. And I choose--
+M	VIZZINI	--what in the world can that be?
+M	MAN IN BLACK	What? Where? I don't see anything.
+M	VIZZINI	Oh, well, I--I could have sworn I saw something. No matter.
+M	MAN IN BLACK	What's so funny?
+M	VIZZINI	I'll tell you in a minute. First, let's drink--me from my glass, and you from yours.
+M	MAN IN BLACK	You guessed wrong.
+M	VIZZINI	You only think I guessed wrong-- --that's what's so funny! I switched glasses when your back was turned. You fool.
+M	VIZZINI	You fell victim to one of the classic blunders. The most famous is "Never get involved in a land war in Asia." But only slightly less well known is this: "Never go in against a Sicilian when death is on the line."
+M	BUTTERCUP	Who are you?
+M	MAN IN BLACK	I am no one to be trifled with, that is all you ever need know.
+M	BUTTERCUP	To think--all that time it was your cup that was poisoned.
+M	MAN IN BLACK	They were both poisoned. I spent the last few years building up an immunity to iocane powder.
+M	HUMPERDINCK	Someone has beaten a giant! There will be great suffering in Guilder if she dies.
+M	MAN IN BLACK	Catch your breath.
+M	BUTTERCUP	If you'll release me... whatever you ask for ransom... you'll get it, I promise you...
+M	MAN IN BLACK	And what is that worth, the promise of a woman? You're very funny, Highness.
+M	BUTTERCUP	I was giving you a chance. No matter where you take me... there's no greater hunter than Prince Humperdinck. He could track a falcon on a cloudy day. He can find you.
+M	MAN IN BLACK	You think your dearest love will save you?
+M	BUTTERCUP	I never said he was my dearest love. And yes, he will save me. That I know.
+M	MAN IN BLACK	You admit to me you do not love your fiancé?
+M	BUTTERCUP	He knows I do not love him.
+M	MAN IN BLACK	"Are not capable of love" is what you mean.
+M	BUTTERCUP	I have loved more deeply than a killer like yourself could ever dream.
+M	MAN IN BLACK	That was a warning, Highness. The next time, my hand flies on its own. For where I come from, there are penalties when a woman lies.
+M	HUMPERDINCK	Iocane. I'd bet my life on it. And there are the Princess's footprints. She is alive... or was, an hour ago. If she is otherwise when I find her, I shall be very put out.
+M	MAN IN BLACK	Rest, Highness.
+M	BUTTERCUP	I know who you are--your cruelty reveals everything.
+M	BUTTERCUP	You're the Dread Pirate Roberts; admit it.
+M	MAN IN BLACK	With pride. What can I do for you?
+M	BUTTERCUP	You can die slowly cut into a thousand pieces.
+M	MAN IN BLACK	Hardly complimentary, Your Highness. Why loose your venom on me?
+M	BUTTERCUP	You killed my love.
+M	MAN IN BLACK	It's possible; I kill a lot of people. Who was this love of yours? Another Prince, like this one, ugly, rich, and scabby?
+M	BUTTERCUP	No. A farm boy. Poor. Poor and perfect, with eyes like the sea after a storm.
+M	BUTTERCUP	On the high seas, your ship attacked, and the Dread Pirate Roberts never takes prisoners.
+M	MAN IN BLACK	I can't afford to make exceptions. Once word leaks out that a pirate has gone soft, people begin to disobey you, and then it's nothing but work, work, work, all the time.
+M	BUTTERCUP	You mock my pain.
+M	MAN IN BLACK	Life is pain, Highness. Anyone who says differently is selling something. I remember this farm boy of yours, I think. This would be, what, five years ago?
+M	MAN IN BLACK	Does it bother you to hear?
+M	BUTTERCUP	Nothing you can say will upset me.
+M	MAN IN BLACK	He died well, that should please you. No bribe attempts or blubbering. He simply said, "Please. Please, I need to live." It was the "please" that caught my memory. I asked him what was so important for him. "True love," he replied. And then he spoke of a girl of surpassing beauty and faithfulness. I can only assume he meant you. You should bless me for destroying him before he found out what you really are.
+M	BUTTERCUP	And what am I?
+M	MAN IN BLACK	Faithfulness he talked of, madam. Your enduring faithfulness. Now, tell me truly. When you found out he was gone, did you get engaged to your prince that same hour, or did you wait a whole week out of respect for the dead?
+M	BUTTERCUP	You mocked me once, never do it again-- I died that day!
+M	BUTTERCUP	You can die too, for all I care!!
+M	MAN IN BLACK	...as... you... wish...
+M	BUTTERCUP	Oh, my sweet Westley; what have I done?
+M	HUMPERDINCK	Disappeared. He must have seen us closing in, which might account for his panicking in error. Unless I'm wrong, and I am never wrong, they are headed dead into the fire swamp.
+M	WESTLEY	Can you move at all?
+M	BUTTERCUP	Move? You're alive. If you want, I can fly.
+M	WESTLEY	I told you, "I would always come for you." Why didn't you wait for me?
+M	BUTTERCUP	Well... you were dead.
+M	WESTLEY	Death cannot stop true love. All it can do is delay it for a while.
+M	BUTTERCUP	I will never doubt again.
+M	WESTLEY	There will never be a need.
+M	THE KID (O.S.)	Oh no. No, please.
+M	GRANDFATHER	What is it? What's the matter?
+M	THE KID	They're kissing again, do we have to hear the kissing part?
+M	GRANDFATHER	Someday, you may not mind so much.
+M	THE KID	Skip on to the Fire Swamp--that sounded good.
+M	GRANDFATHER	Oh. You're sick, I'll humor you. So now, where were we here? Yeah, yeah, yeah. Ah. Oh. Okay. Westley and Buttercup raced along the ravine floor. Ha. Your pig fiancé is too late. A few more steps and we'll be safe in the Fire Swamp.
+M	BUTTERCUP	We'll never survive.
+M	WESTLEY	Nonsense--you're only saying that because no one ever has.
+M	WESTLEY	It's not that bad. I'm not saying I'd like to build a summer home here, but the trees are actually quite lovely.
+M	WESTLEY	Well now, that was an adventure.
+M	WESTLEY	Singed a bit, were you?
+M	BUTTERCUP	You?
+M	WESTLEY	Well, one thing I will say. The Fire Swamp certainly does keep you on your toes.
+M	WESTLEY	This will all soon be but a happy memory because Roberts' ship "Revenge" is anchored at the far end. And I, as you know, am Roberts.
+M	BUTTERCUP	But how is that possible, since he's been marauding twenty years and you only left me five years ago?
+M	WESTLEY	I myself am often surprised at life's little quirks.
+M	WESTLEY	You see, what I told you before about saying "please" was true. It intrigued Roberts, as did my descriptions of your beauty.
+M	WESTLEY	Finally, Roberts decided something. He said, "All right, Westley, I've never had a valet. You can try it for tonight. I'll most likely kill you in the morning." Three years he said that. "Good night, Westley. Good work. Sleep well. I'll most likely kill you in the morning." It was a fine time for me. I was learning to fence, to fight, anything anyone would teach me. And Roberts and I eventually became friends. And then it happened.
+M	BUTTERCUP	What?--go on--
+M	WESTLEY	Well, Roberts had grown so rich, he wanted to retire. So he took me to his cabin and told me his secret. "I am not the Dread Pirate Roberts," he said. "My name is Ryan. I inherited this ship from the previous Dread Pirate Roberts, just as you will inherit it from me. The man I inherited it from was not the real Dread Pirate Roberts, either. His name was Cummerbund. The real Roberts has been retired fifteen years and living like a king in Patagonia." Then he explained the name was the important thing for inspiring the necessary fear. You see, no one would surrender to the Dread Pirate Westley.
+M	WESTLEY	So we sailed ashore, took on an entirely new crew and he stayed aboard for awhile as first mate, all the time calling me Roberts. Once the crew believed, he left the ship and I have been Roberts ever since. Except, now that we're together, I shall retire and hand the name over to someone else. Is everything clear to you?
+M	BUTTERCUP	We'll never succeed--we may as well die here.
+M	WESTLEY	No. No. We have already succeeded.
+M	WESTLEY	I mean, what are the three terrors of the Fire Swamp? One, the flame spurts. No problem. There's a popping sound preceding each, we can avoid that. Two, the Lightning Sand. But you were clever enough to discover what that looks like, so in the future we can avoid that too.
+M	BUTTERCUP	Westley, what about the R.O.U.S.'s?
+M	WESTLEY	Rodents of Unusual Size? I don't think they exist...
+M	BUTTERCUP	Westley!
+M	BUTTERCUP	We did it.
+M	WESTLEY	Now, was that so terrible?
+M	HUMPERDINCK	Surrender!
+M	WESTLEY	You mean you wish to surrender to me? Very well, I accept.
+M	HUMPERDINCK	I give you full marks for bravery-- don't make yourself a fool.
+M	WESTLEY	Ah, but how will you capture us? We know the secrets of the Fire Swamp. We can live there quite happily for some time. So, whenever you feel like dying, feel free to visit.
+M	HUMPERDINCK	I tell you once again--surrender!
+M	WESTLEY	It will not happen!
+M	HUMPERDINCK	For the last time--SURRENDER!
+M	WESTLEY	DEATH FIRST!!
+M	BUTTERCUP	Will you promise not to hurt him?
+M	HUMPERDINCK	What was that?
+M	WESTLEY	What was that?
+M	BUTTERCUP	If we surrender, and I return with you, will you promise not to hurt this man?
+M	HUMPERDINCK	May I live a thousand years and never hunt again.
+M	BUTTERCUP	He is a sailor on the pirate ship "Revenge." Promise to return him to his ship.
+M	HUMPERDINCK	I swear it will be done.
+M	HUMPERDINCK	Once we're out of sight, take him back to Florin and throw him in the Pit of Despair.
+M	RUGEN	I swear it will be done.
+M	BUTTERCUP	I thought you were dead once, and it almost destroyed me. I could not bear it if you died again, not when I could save you.
+M	RUGEN	Come, sir. We must get you to your ship.
+M	WESTLEY	We are men of action. Lies do not become us.
+M	RUGEN	Well spoken, sir--
+M	RUGEN	--what is it?
+M	WESTLEY	You have six fingers on your right hand--someone was looking for you--
+M	WESTLEY	Where am I?
+M	ALBINO	The Pit of Despair.
+M	ALBINO	Don't even think-- --don't even think about trying to escape. The chains are far too thick. And don't dream of being rescued either. The only way in is secret. And only the Prince, the Count, and I know how to get in and out.
+M	WESTLEY	Then I'm here till I die?
+M	ALBINO	Till they kill you. Yeah.
+M	WESTLEY	Then why bother curing me?
+M	ALBINO	The Prince and the Count always insist on everyone being healthy before they're broken.
+M	WESTLEY	So it's to be torture.
+M	WESTLEY	I can cope with torture.
+M	WESTLEY	You don't believe me?
+M	ALBINO	You survived the Fire Swamp. You must be very brave... ...but nobody withstands The Machine.
+M	HUMPERDINCK	She's been like that ever since the Fire Swamp. It's my father's failing health that's upsetting her.
+M	RUGEN	Of course.
+M	GRANDFATHER (O.S.)	The King died that very night, and before the following dawn, Buttercup and Humperdinck were married.
+M	GRANDFATHER (O.S.)	And at noon, she met her subjects again. This time as their Queen.
+M	HUMPERDINCK	My father's final words were...
+M	THE KID (O.S.)	--hold it. Hold it, Grandpa.
+M	THE KID	You read that wrong. She doesn't marry Humperdinck, she marries Westley. I'm just sure of it. After all that Westley did for her, if she does not marry him, it wouldn't be fair.
+M	GRANDFATHER	Well, who says life is fair? Where is that written? Life isn't always fair.
+M	THE KID	I'm telling you you're messing up the story, now get it right!
+M	GRANDFATHER	Do you want me to go on with this?
+M	THE KID	Yes.
+M	GRANDFATHER	All right, then. No more interruptions. ...at noon, she met her subjects again. This time as their Queen.
+M	HUMPERDINCK	My father's final words were "love her as I loved her, and there will be joy." I present to you your Queen. Queen Buttercup.
+M	BUTTERCUP	Why do you do this?
+M	ANCIENT BOOER	Because you had love in your hands, and you gave it up.
+M	BUTTERCUP	But they would have killed Westley if I hadn't done it.
+M	ANCIENT BOOER	Your true love lives and you marry another-- --True love saved her in the Fire Swamp, and she treated it like garbage. And that's what she is, the Queen of Refuse! So, bow down to her if you want. Bow to her. Bow to the Queen of Slime, the Queen of Filth, the Queen of Putrescence. Boo! Boo! Rubbish! Filth! Slime! Muck! Boo! Boo!
+M	GRANDFATHER (O.S.)	It was ten days till the wedding. The King still lived, but Buttercup's nightmares were growing steadily worse. See? Didn't I tell you she'd never marry that rotten Humperdinck?
+M	GRANDFATHER (O.S.)	--yes, you're very smart. Shut-Up.
+M	BUTTERCUP	It comes to this: I love Westley. I always have. I know now I always will. If you tell me I must marry you in ten days, please believe I will be dead by morning.
+M	HUMPERDINCK	I could never cause you grief; consider our wedding off. You returned this Westley to his ship?
+M	RUGEN	Yes.
+M	HUMPERDINCK	Then we will simply alert him. Beloved, are you certain he still wants you? After all, it was you who did the leaving in the Fire Swamp. Not to mention that pirates are not known to be men of their words.
+M	BUTTERCUP	My Westley will always come for me.
+M	HUMPERDINCK	I suggest a deal. You write four copies of a letter. I'll send my four fastest ships. One in each direction. The Dread Pirate Roberts is always close to Florin this time of year. We'll run up the white flag and deliver your message. If Westley wants you, bless you both. If not... please consider me as an alternative to suicide. Are we agreed?
+M	RUGEN	Your Princess is really a winning creature. A trifle simple, perhaps, but her appeal is undeniable.
+M	HUMPERDINCK	Oh, I know. The people are quite taken with her. It's odd, but when I hired Vizzini to have her murdered on our engagement day, I thought that was clever. But it's going to be so much more moving when I strangle her on our wedding night. Once Guilder is blamed, the nation will be truly outraged. They'll demand we go to war.
+M	RUGEN	Now, where is that secret knot? It's impossible to find. and it opens, Are you coming down into the Pit? Westley's got his strength back. I am starting him on The Machine tonight.
+M	HUMPERDINCK	Tyrone, you know how much I love watching you work. But, I've got my country's five hundredth anniversary to plan, my wedding to arrange, MY wife to murder, and Guilder to frame for it. I'm swamped.
+M	RUGEN	Get some rest--if you haven't got your health, you haven't got anything.
+M	RUGEN	Beautiful, isn't it? It took me half a lifetime to invent it. I'm sure you've discovered my deep and abiding interest in pain. At present I'm writing the definitive work on the subject. So I want you to be totally honest with me on how The Machine makes you feel.
+M	RUGEN	This being our first try, I'll use the lowest setting.
+M	RUGEN	As you know, the concept of the suction pump is centuries old. Well, really, that's all this is. Except that instead of sucking water, I'm sucking life. I've just sucked one year of your life away. I might one day go as high as five, but I really don't know what that would do to you. So, let's just start with what we have. What did this do to you? Tell me. And remember, this is for posterity, so be honest--how do you feel?
+M	RUGEN	Interesting.
+M	HUMPERDINCK	Yellin.
+M	YELLIN	Sire.
+M	HUMPERDINCK	As Chief Enforcer of all Florin, I trust you with this secret: killers from Guilder are infiltrating the Thieves' Forest and plan to murder my bride on our wedding night.
+M	YELLIN	My spy network has heard no such news.
+M	BUTTERCUP	Any word from Westley?
+M	HUMPERDINCK	Too soon, my angel. Patience.
+M	BUTTERCUP	He will come for me.
+M	HUMPERDINCK	Of course.
+M	HUMPERDINCK	She will not be murdered. On the day of the wedding, I want the Thieves' Forest emptied and every inhabitant arrested.
+M	YELLIN	Many of the thieves will resist. My regular enforcers will be inadequate.
+M	HUMPERDINCK	Form a Brute Squad then. I want the Thieves' Forest emptied before I wed.
+M	YELLIN	It won't be easy, Sire.
+M	HUMPERDINCK	Try ruling the world sometime.
+M	GRANDFATHER (O.S.)	The day of the wedding arrived. The Brute Squad had their hands full carrying out Humperdinck's orders.
+M	YELLIN	Is everybody out?
+M	ASSISTANT BRUTE	Almost. There's a Spaniard giving us some trouble.
+M	YELLIN	Well, you give him some trouble. Move!
+M	INIGO	I am waiting for you, Vizzini. You told me to go back to the beginning. So I have. This is where I am, and this is where I'll stay. I will not be moved.
+M	ASSISTANT BRUTE	Ho there.
+M	INIGO	I do not budge. Keep your "Ho there."
+M	ASSISTANT BRUTE	But the Prince gave orders--
+M	INIGO	--So did Vizzini--when a job went wrong, you went back to the beginning. And this is where we got the job. So it's the beginning, and I'm staying till Vizzini comes.
+M	ASSISTANT BRUTE	You! Brute! Come here.
+M	INIGO	--I--am--waiting--for--Vizzini-- You surely are a meanie.
+M	FEZZIK	Hello.
+M	INIGO	It's you.
+M	FEZZIK	True!
+M	FEZZIK	You don't look so good. You don't smell so good either.
+M	INIGO	Perhaps not. I feel fine.
+M	FEZZIK	Yeah?
+M	GRANDFATHER (O.S.)	FEZZIK and Inigo were reunited. And as FEZZIK nursed his inebriated friend back to health, he told Inigo of Vizzini's death and the existence of Count Rugen, the six-fingered man. Considering Inigo's lifelong search, he handled the news surprisingly well.
+M	GRANDFATHER (O.S.)	FEZZIK took great care in reviving Inigo.
+M	INIGO	That's enough. That's enough! Where is this Rugen so I may kill him?
+M	FEZZIK	He's with the Prince in the Castle. But the castle gate is guarded by thirty men.
+M	INIGO	How many could you handle?
+M	FEZZIK	I don't think more than ten.
+M	INIGO	That leaves twenty for me. At my best, I could never defeat that many. I need Vizzini to plan. I have no gift for strategy.
+M	FEZZIK	But Vizzini's dead.
+M	INIGO	No--not Vizzini--I need the Man in Black--
+M	FEZZIK	--what?--
+M	INIGO	--look, he bested you with strength, your greatness. He bested me with steel. He must have out-thought Vizzini, and a man who can do that can plan my castle's onslaught any day. Let's go--
+M	FEZZIK	--where?
+M	INIGO	To find the Man in Black, obviously.
+M	FEZZIK	But you don't know where he is.
+M	INIGO	Don't bother me with trifles; after twenty years, at last, my father's soul will be at peace.
+M	INIGO	There will be blood tonight!!
+M	HUMPERDINCK	Rise and report.
+M	YELLIN	The Thieves' Forest is emptied. Thirty men guard the castle gate.
+M	HUMPERDINCK	Double it. My Princess must be safe.
+M	YELLIN	The gate has but one key, and I carry that.
+M	HUMPERDINCK	Ah! My dulcet darling. Tonight we marry. Tomorrow morning, your men will escort us to Florin Channel where every ship in my armada waits to accompany us on our honeymoon.
+M	BUTTERCUP	Every ship but your four fastest, you mean.
+M	BUTTERCUP	Every ship but the four you sent.
+M	HUMPERDINCK	Yes. Yes, of course. Naturally, not those four.
+M	YELLIN	Your Majesties.
+M	BUTTERCUP	You never sent the ships. Don't bother lying. It doesn't matter. Westley will come for me anyway.
+M	HUMPERDINCK	You're a silly girl.
+M	BUTTERCUP	Yes, I am a silly girl, for not having seen sooner that you were nothing but a coward with a heart full of fear.
+M	HUMPERDINCK	I-would-not-say-such things-if-I- were-you-
+M	BUTTERCUP	Why not? You can't hurt me. Westley and I are joined by the bonds of love. And you cannot track that. Not with a thousand bloodhounds. And you cannot break it. Not with a thousand swords. And when I say you are a coward, that is only because you are the slimiest weakling ever to crawl the earth.
+M	HUMPERDINCK	IWOULDNOTSAYSUCHTHINGSIFIWEREYOU!
+M	HUMPERDINCK	You truly love each other, and so you might have been truly happy. Not one couple in a century has that chance, no matter what the storybooks say. And so I think no man in a century will suffer as greatly as you will.
+M	RUGEN	
+M	INIGO	FEZZIK, FEZZIK, listen, do you hear?-- That is the sound of ultimate suffering. My heart made that sound when Rugen slaughtered my father. The Man in Black makes it now.
+M	FEZZIK	The Man in Black?
+M	INIGO	His true love is marrying another tonight, so who else has cause for Ultimate Suffering? Excuse me--
+M	INIGO	--pardon me, it's important--
+M	INIGO	--FEZZIK, please--
+M	FEZZIK	Everybody... MOVE!!
+M	INIGO	Thank you.
+M	INIGO	Where is the Man in Black?
+M	INIGO	You get there from this grove, yes? FEZZIK, jog his memory.
+M	FEZZIK	I'm sorry, Inigo. I didn't mean to jog him so hard. Inigo?
+M	INIGO	Father, I have failed you for twenty years. Now our misery can end. Somewhere... somewhere close by is a man who can help us. I cannot find him alone. I need you. I need you to guide my sword. Please.
+M	INIGO	Guide my sword.
+M	FEZZIK	He's dead.
+M	INIGO	It just is not fair. --Grandpa, Grandpa--wait--
+M	THE KID	--wait--what did FEZZIK mean, "He's dead?" I mean he didn't mean dead. Westley's only faking, right?
+M	GRANDFATHER	You want me to read this or not?
+M	THE KID	Who gets Humperdinck?
+M	GRANDFATHER	I don't understand.
+M	THE KID	Who kills Prince Humperdinck? At the end, somebody's got to do it. Is it Inigo? Who?
+M	GRANDFATHER	Nobody. Nobody kills him. He lives.
+M	THE KID	You mean he wins? Jesus, Grandpa! What did you read me this thing for?
+M	GRANDFATHER	You know, you've been very sick and you're taking this story very seriously. I think we better stop now.
+M	THE KID	No! I'm okay. I'm okay. --sit down. All right?
+M	GRANDFATHER	Okay. All right, now, let's see. Where were we? Oh yes. In the Pit of Despair.
+M	INIGO	Well, we Montoyas have never taken defeat easily. Come along, FEZZIK. Bring the body.
+M	FEZZIK	The body?
+M	INIGO	Have you any money?
+M	FEZZIK	I have a little.
+M	INIGO	I just hope it's enough to buy a miracle, that's all.
+M	LITTLE OLD GUY (O.S.)	Go away!
+M	MIRACLE MAX	What? What?
+M	INIGO	Are you the Miracle Max who worked for the King all those years?
+M	MIRACLE MAX	The King's stinking son fired me. And thank you so much for bringing up such a painful subject. While you're at it, why don't you give me a nice paper cut and pour lemon juice on it? We're closed!
+M	MIRACLE MAX	Beat it or I'll call the Brute Squad.
+M	FEZZIK	I'm on the Brute Squad.
+M	MIRACLE MAX	You are the Brute Squad.
+M	INIGO	We need a miracle. It's very important.
+M	MIRACLE MAX	Look, I'm retired. And besides, why would you want someone the King's stinking son fired? I might kill whoever you wanted me to miracle.
+M	INIGO	He's already dead.
+M	MIRACLE MAX	He is, eh? I'll take a look. Bring him in.
+M	MIRACLE MAX	I've seen worse.
+M	INIGO	Sir. Sir.
+M	MIRACLE MAX	Hah?
+M	INIGO	We're really in a terrible rush.
+M	MIRACLE MAX	Don't rush me, sonny. You rush a miracle man, you get rotten miracles. You got money?
+M	INIGO	Sixty-five.
+M	MIRACLE MAX	Sheesh! I never worked for so little, except once, and that was a very noble cause.
+M	INIGO	This is noble, sir. His wife is crippled. His children are on the brink of starvation.
+M	MIRACLE MAX	Are you a rotten liar.
+M	INIGO	I need him to help avenge my father, murdered these twenty years.
+M	MIRACLE MAX	Your first story was better. Where's that bellows? He probably owes you money, huh? Well, I'll ask him.
+M	INIGO	He's dead. He can't talk.
+M	MIRACLE MAX	Look who knows so much. Well, it just so happens that your friend here is only mostly dead. There's a big difference between mostly dead and all dead. Please open his mouth.
+M	MIRACLE MAX	Now, mostly dead is slightly alive. Now, all dead... well, with all dead, there's usually only one thing that you can do.
+M	INIGO	What's that?
+M	MIRACLE MAX	Go through his clothes and look for loose change.
+M	MIRACLE MAX	Hey! Hello in there. Hey! What's so important? What you got here that's worth living for?
+M	WESTLEY	...tr... oooo.... luv...
+M	INIGO	True love. You heard him. You could not ask for a more noble cause than that.
+M	MIRACLE MAX	Sonny, true love is the greatest thing in the world. Except for a nice MLT, a mutton, lettuce and tomato sandwich, where the mutton is nice and lean and the tomato is ripe. They're so perky, I love that. But that's not what he said. He distinctly said "to blave." And, as we all know, "to blave" means "to bluff." So you're probably playing cards, and he cheated--
+M	A WOMAN'S VOICE	--Liar--LIAR-LI-A-A-AR--
+M	MIRACLE MAX	--get back, witch--
+F	VALERIE	I'm not a witch, I'm your wife. But after what you just said, I'm not even sure I want to be that anymore.
+M	MIRACLE MAX	You never had it so good.
+F	VALERIE	"True love." He said, "true love," Max. My God--
+M	MIRACLE MAX	Don't say another word, Valerie.
+F	VALERIE	He's afraid. Ever since Prince Humperdinck fired him, his confidence is shattered.
+M	MIRACLE MAX	Why'd you say that name--you promised me that you would never say that name--
+F	VALERIE	What, Humperdinck? Humperdinck. Humperdinck. Ooo-ooo, Humperdinck--
+M	MIRACLE MAX	I'm not listening.
+F	VALERIE	A life expiring and you don't have the decency to say why you won't help--
+M	MIRACLE MAX	Nobody's hearing nothing!
+F	VALERIE	Humperdinck. Humperdinck! Humperdinck!
+M	INIGO	--But this is Buttercup's true love-- If you heal him, he will stop Humperdinck's wedding.
+F	VALERIE	Humperdinck. Humperdinck--
+M	MIRACLE MAX	Shut up-- Wait. Wait. I make him better, Humperdinck suffers?
+M	INIGO	Humiliations galore!
+M	MIRACLE MAX	That is a noble cause. Give me the sixty-five, I'm on the job.
+M	INIGO	That's a miracle pill?
+F	VALERIE	The chocolate coating makes it go down easier. But you have to wait fifteen minutes for full potency. And you shouldn't go swimming after, for at least, what?
+M	MIRACLE MAX	An hour.
+F	VALERIE	Yeah, an hour.
+M	MIRACLE MAX	A good hour. Yeah.
+M	INIGO	Thank you for everything.
+M	MIRACLE MAX	Okay.
+F	VALERIE	Bye-bye, boys.
+M	MIRACLE MAX	Have fun storming the castle.
+F	VALERIE	Think it'll work?
+M	MIRACLE MAX	It would take a miracle. Bye!
+F	VALERIE	Bye.
+M	FEZZIK	Inigo--there's more than thirty--
+M	INIGO	What's the difference? We've got him. Help me here. We'll have to force feed him.
+M	FEZZIK	Has it been fifteen minutes?
+M	INIGO	We can't wait--the wedding's in half an hour and we must strike in the hustle and the bustle beforehand.
+M	INIGO	Tilt his head back. Open his mouth.
+M	FEZZIK	How long do we have to wait before we know if the miracle works?
+M	INIGO	Your guess is as good as mine--
+M	WESTLEY	I'll beat you both apart. I'll take you both together.
+M	FEZZIK	Guess not very long.
+M	WESTLEY	Why won't my arms move?
+M	FEZZIK	You've been mostly dead all day.
+M	INIGO	We had Miracle Max make a pill to bring you back.
+M	WESTLEY	Who are you?--Are we enemies? Why am I on this wall?--Where's Buttercup?--
+M	INIGO	Let me explain-- --No, there is too much. Let me sum up. Buttercup is marrying Humperdinck in a little less than half an hour, so all we have to do is get in, break up the wedding, steal the Princess, make our escape after I kill Count Rugen.
+M	WESTLEY	That doesn't leave much time for dilly dallying.
+M	FEZZIK	You've just wiggled your finger. That's wonderful.
+M	WESTLEY	I've always been a quick healer. What are our liabilities? There is but one working castle gate.
+M	INIGO	And it is guarded by sixty men.
+M	WESTLEY	And our assets?
+M	INIGO	Your brains, FEZZIK's strength, my steel.
+M	WESTLEY	That's it? Impossible. If I had a month to plan, maybe I could come up with something. But this...
+M	FEZZIK	You just shook your head--that doesn't make you happy?
+M	WESTLEY	My brains, his steel, and your strength against sixty men, and you think a little head jiggle is supposed to make me happy? I mean, if we only had a wheelbarrow, that would be something.
+M	INIGO	Where did we put that wheelbarrow the Albino had?
+M	FEZZIK	Over the Albino, I think.
+M	WESTLEY	Well, why didn't you list that among our assets in the first place? What I wouldn't give for a holocaust cloak.
+M	INIGO	There we cannot help you.
+M	FEZZIK	Will this do?
+M	INIGO	Where did you get that?
+M	FEZZIK	At Miracle Max's. It fit so nice, he said I could keep it.
+M	WESTLEY	All right, all right. Come on, help me up.
+M	WESTLEY	Now, I'll need a sword eventually.
+M	INIGO	Why? You can't even lift one.
+M	WESTLEY	True, but that's hardly common knowledge, is it? limply back. Thank you. Now, there may be problems once we're inside.
+M	INIGO	I'll say--how do I find the Count?-- Once I do, how do I find you again?-- Once I find you again, how do we escape?--
+M	FEZZIK	Don't pester him, he's had a hard day.
+M	INIGO	Right, right, sorry.
+M	FEZZIK	Inigo.
+M	INIGO	What?
+M	FEZZIK	I hope we win...
+M	HUMPERDINCK	You don't seem excited, my little muffin.
+M	BUTTERCUP	Should I be?
+M	HUMPERDINCK	Brides often are, I'm told.
+M	BUTTERCUP	I do not marry tonight.
+M	BUTTERCUP	My Westley will save me.
+M	IMPRESSIVE CLERGYMAN	Mawidge... mawidge is what bwings us togewer today...
+M	IMPRESSIVE CLERGYMAN	Mawidge, the bwessed awwangement, that dweam wiffim a dweam...
+M	YELLIN (O.S.)	Stand your ground, men. Stand your ground.
+M	YELLIN	Stand your ground.
+M	FEZZIK	I AM THE DREAD PIRATE ROBERTS. THERE WILL BE NO SURVIVORS.
+M	INIGO	Now?
+M	WESTLEY	Not yet.
+M	FEZZIK	MY MEN ARE HERE, AND I AM HERE, BUT SOON YOU WILL NOT BE HERE--
+M	INIGO	Now?
+M	WESTLEY	Light him.
+M	FEZZIK	THE DREAD PIRATE ROBERTS TAKES NO SURVIVORS. ALL YOUR WORST NIGHTMARES ARE ABOUT TO COME TRUE.
+M	IMPRESSIVE CLERGYMAN	...Ven wuv, twoo wuv, wiw fowwow you fowever..
+M	FEZZIK	THE DREAD PIRATE ROBERTS IS HERE FOR YOUR SOULS!
+M	YELLIN	Stay where you are. I said stay where you are!
+M	IMPRESSIVE CLERGYMAN	...so tweasuwe your vruv...
+M	HUMPERDINCK	Skip to the end.
+M	IMPRESSIVE CLERGYMAN	Have you the wing?
+M	BUTTERCUP	Here comes my Westley now.
+M	WESTLEY	FEZZIK, the portcullis.
+M	HUMPERDINCK	Your Westley is dead.
+M	HUMPERDINCK	I killed him myself.
+M	BUTTERCUP	Then why is there fear behind your eyes?
+M	WESTLEY	Give us the gate key.
+M	YELLIN	I have no gate key.
+M	INIGO	FEZZIK, tear his arms off.
+M	YELLIN	Oh, you mean this gate key.
+M	IMPRESSIVE CLERGYMAN	And do you, Pwincess Buwwercwup...
+M	HUMPERDINCK	Man and wife--say man and wife...
+M	IMPRESSIVE CLERGYMAN	Man and wife.
+M	HUMPERDINCK	Escort the bride to the Honeymoon Suite--I'll be there shortly.
+M	BUTTERCUP	He didn't come.
+M	RUGEN	Kill the dark one and the giant, but leave the third for questioning.
+M	INIGO	Hello. My name is Inigo Montoya. You killed my father. Prepare to die.
+M	INIGO	FEZZIK, I need you--
+M	FEZZIK	I can't leave him alone.
+M	INIGO	He's getting away from me, FEZZIK. Please. FEZZIK!
+M	FEZZIK	I'll be right back.
+M	INIGO	Thank you --
+M	KING	Strange wedding.
+F	QUEEN	Yes. A very strange wedding. Come along.
+M	KING	What was that for?
+M	BUTTERCUP	Because you've always been so kind to me. And I won't be seeing you again since I'm killing myself once we reach the Honeymoon Suite.
+M	KING	Won't that be nice? She kissed me...
+M	INIGO	...Sorry, Father... I tried... I tried...
+M	RUGEN	You must be that little Spanish brat I taught a lesson to all those years ago. It's simply incredible. Have you been chasing me your whole life only to fail now? I think that's the worst thing I ever heard. How marvelous.
+M	WESTLEY	There's a shortage of perfect breasts in this world. It would be a pity to damage yours.
+M	BUTTERCUP	Oh, Westley, darling. Westley, why won't you hold me?
+M	WESTLEY	Gently.
+M	BUTTERCUP	At a time like this that's all you can think to say? "Gently?"
+M	WESTLEY	Gently!!
+M	RUGEN	Good heavens. Are you still trying to win?
+M	RUGEN	You've got an overdeveloped sense of vengeance. It's going to get you into trouble some day.
+M	INIGO	Hello. My name is Inigo Montoya, you killed my father; prepare to die.
+M	INIGO	Hello. My name is Inigo Montoya, you killed my father, prepare to die.
+M	INIGO	Hello. My name is Inigo Montoya. You killed my father. Prepare to die.
+M	RUGEN	Stop saying that!
+M	INIGO	HELLO! MY NAME IS INIGO MONTOYA. YOU KILLED MY FATHER. PREPARE TO DIE.
+M	RUGEN	No--
+M	INIGO	--offer me money--
+M	RUGEN	--yes--
+M	INIGO	--power too--promise me that--
+M	RUGEN	--all that I have and more please--
+M	INIGO	--offer me everything I ask for--
+M	RUGEN	--anything you want--
+M	INIGO	I WANT MY FATHER BACK, YOU SON-OF-A- BITCH!
+M	BUTTERCUP	Oh, Westley, will you ever forgive me?
+M	WESTLEY	What hideous sin have you committed lately?
+M	BUTTERCUP	I got married. I didn't want to. It all happened so fast.
+M	WESTLEY	It never happened.
+M	BUTTERCUP	What?
+M	WESTLEY	It never happened.
+M	BUTTERCUP	But it did. I was there. This old man said, "Man and wife."
+M	WESTLEY	Did you say, "I do"?
+M	BUTTERCUP	Well, no, we sort of skipped that part.
+M	WESTLEY	Then you're not married--if you didn't say it, you didn't do it-- --wouldn't you agree, Your Highness?
+M	HUMPERDINCK	A technicality that will shortly be remedied. But first things first. To the death.
+M	WESTLEY	No. To the pain.
+M	HUMPERDINCK	I don't think I'm quite familiar with that phrase.
+M	WESTLEY	I'll explain. And I'll use small words so that you'll be sure to understand, you wart-hog-faced buffoon.
+M	HUMPERDINCK	That may be the first time in my life a man has dared insult me.
+M	WESTLEY	It won't be the last. To the pain means the first thing you lose will be your feet, below the ankles, then your hands at the wrists, next your nose.
+M	HUMPERDINCK	--and then my tongue, I suppose. I killed you too quickly the last time, a mistake I don't mean to duplicate tonight.
+M	WESTLEY	I wasn't finished--the next thing you lose will be your left eye, followed by your right--
+M	HUMPERDINCK	--and then my ears, I understand. Let's get on with it--
+M	WESTLEY	Wrong! Your ears you keep, and I'll tell you why--
+M	WESTLEY	--so that every shriek of every child at seeing your hideousness will be yours to cherish--every babe that weeps at your approach, every woman who cries out, "Dear God, what is that thing?" will echo in your perfect ears. That is what "to the pain" means. It means I leave you in anguish, wallowing in freakish misery forever.
+M	HUMPERDINCK	I think you're bluffing--
+M	WESTLEY	It's possible, pig--I might be bluffing--it's conceivable, you miserable vomitous mass, that I'm only lying here because I lack the strength to stand--then again, perhaps I have the strength after all.
+M	WESTLEY	--DROP YOUR SWORD!
+M	WESTLEY	Have a seat.
+M	WESTLEY	Tie him up. Make it as tight as you like.
+M	INIGO	Where's FEZZIK?
+M	WESTLEY	I thought he was with you.
+M	INIGO	No.
+M	WESTLEY	In that case--
+M	INIGO	Help him.
+M	BUTTERCUP	Why does Westley need helping?
+M	INIGO	Because he has no strength--
+M	HUMPERDINCK	I knew it! I knew you were bluffing! I knew he was bluffing.
+M	INIGO	Shall I dispatch him for you?
+M	WESTLEY	Thank you, but no--whatever happens to us, I want him to live a long life alone with his cowardice.
+M	FEZZIK (O.S.)	Inigo! Inigo, where are you?
+M	FEZZIK	Ah, there you are. Inigo, I saw the Prince's stables, and there they were, four white horses. And I thought, there are four of us, if we ever find the lad--hello, lad--so I took them with me, in case we ever bumped into each other. I guess we just did.
+M	INIGO	FEZZIK, you did something right.
+M	FEZZIK	Don't worry--I won't let it go to my head.
+M	INIGO	You know, it's very strange--I have been in the revenge business so long, now that it's over, I don't know what to do with the rest of my life.
+M	WESTLEY	Have you ever considered piracy? You'd make a wonderful Dread Pirate Roberts. They rode to freedom. And as dawn arose, Westley and Buttercup knew they were safe. A wave of love swept over them. And as they reached for each other...
+M	THE KID'S BEDROOM	The Grandfather stops reading.
+M	THE KID	What? What?
+M	GRANDFATHER	No, it's kissing again. You don't want to hear it.
+M	THE KID	I don't mind so much.
+M	GRANDFATHER	Okay. Since the invention of the kiss, there have been five kisses that were rated the most passionate, the most pure. This one left them all behind. The end.
+M	GRANDFATHER	Now I think you ought to go to sleep.
+M	THE KID	Okay.
+M	GRANDFATHER	Okay. Okay. Okay. All right. So long.
+M	THE KID	Grandpa? Maybe you could come over and read it again to me tomorrow.
+M	GRANDFATHER	As you wish...

@@ -1,0 +1,695 @@
+M	CHARACTER	DIALOGUE
+M	-- Thomas Wolfe,	"God's Lonely Man"
+M	PERSONAL OFFICE	Marvis Cab Company Blue and White Cab Co. Acme Taxi Dependable Taxi Services JRB Cab Company Speedo Taxi Service
+M	PERSONNEL OFFICER (O.S.)	No trouble with the Hack Bureau?
+M	TRAVIS (O.S.)	No Sir.
+M	PERSONNEL OFFICER (O.S.)	Got your license? Yes.
+M	PERSONNEL OFFICER	So why do you want to be a taxi driver?
+M	TRAVIS	I can't sleep nights.
+M	PERSONNEL OFFICER	There's porno theatres for that.
+M	TRAVIS	I know. I tried that.
+M	PERSONNEL OFFICER	So whatja do now?
+M	TRAVIS	I ride around nights mostly. Subways, buses. See things. Figur'd I might as well get paid for it. We don't need any misfits around here, son.
+M	TRAVIS	You kiddin? Who else would hack through South Bronx or Harlem at night?
+M	PERSONNEL OFFICER	You want to work uptown nights?
+M	TRAVIS	I'll work anywhere, anytime. I know I can't be choosy.
+M	PERSONNEL OFFICER	How's your driving record?
+M	TRAVIS	Clean. Real clean. As clean as my conscience.
+M	PERSONNEL OFFICER	Listen, son, you gonna get smart, you can leave right now.
+M	TRAVIS	Sorry, sir. I didn't mean that.
+M	PERSONNEL OFFICER	Physical? Criminal?
+M	TRAVIS	Also clean.
+M	PERSONNEL OFFICER	Age?
+M	TRAVIS	Twenty-six.
+M	PERSONNEL OFFICER	Education?
+M	TRAVIS	Some. Here and there.
+M	PERSONNEL OFFICER	Military record?
+M	TRAVIS	Honorable discharge. May 1971.
+M	PERSONNEL OFFICER	You moonlightin?
+M	TRAVIS	No, I want long shifts.
+M	PERSONNEL OFFICER	We hire a lot of moonlighters here.
+M	TRAVIS	So I hear.
+M	PERSONNEL OFFICER	Hell, we ain't that much fussy anyway. There's always opening on one fleet or another. Fill out these forms and give them to the girl at the desk, and leave your phone number. You gotta phone?
+M	TRAVIS	No.
+M	PERSONNEL OFFICER	Well then check back tomorrow.
+M	TRAVIS	Yes, Sir.
+M	TRAVIS (V.O.)	April 10, 1972. Thank God for the rain which has helped wash the garbage and trash off the sidewalks.
+M	TRAVIS (V.O.)	I'm working a single now, which means stretch-shifts, six to six, sometimes six to eight in the a.m., six days a week.
+M	TRAVIS (V.O.)	It's a hustle, but it keeps me busy. I can take in three to three-fifty a week, more with skims.
+M	MAN IN BUSINESS SUIT	Is Kennedy operating, cabbie? Is it grounded?
+M	TRAVIS	Why should it be grounded?
+M	MAN IN BUSINESS SUIT	Listen -- I mean I just saw the needle of the Empire State Building. You can't see it for the fog!
+M	TRAVIS	Then it's a good guess it's grounded.
+M	MAN IN BUSINESS SUIT	The Empire State in fog means something, don't it? Do you know, or don't you? What is your number, cabbie?
+M	TRAVIS	Have you tried the telephone?
+M	MAN IN BUSINESS SUIT	There isn't time for that. In other words, you don't know.
+M	TRAVIS	No.
+M	MAN IN BUSINESS SUIT	Well, you should know, damn it, or who else would know? Pull over right here. Why don't you stick your goddamn head out of the goddamn window once in a while and find out about the goddamn fog!
+M	MAN IN BUSINESS SUIT	Taxi! Taxi!
+M	TRAVIS (V.O.)	I work the whole city, up, down, don't make no difference to me -- does to some.
+M	TRAVIS (V.O.)	Some won't take spooks -- Hell, don't make no difference to me. Oh baby, baby.
+M	PROSTITUTE (O.S.)	Come on.
+M	TRAVIS (V.O.)	They're all animals anyway. All the animals come out at night: Whores, skunk pussies, buggers, queens, fairies, dopers, junkies, sick, venal. Someday a real rain will come and wash all this scum off the streets. Each night when I return the cab to the garage I have to clean the come off the back seat. Some nights I clean off the blood.
+M	BE ALERT!!	IS ALWAYS READY FOR THE UNEXPECTED TO ROAD CONDITIONS ON A DIME!
+M	ALL NIGHT DRIVERS	MUST PHONE IN AT ONCE TO JUDSON 2-3410 AND MUST FILE A REPORT PROMPTLY AT 9 AM THE FOLLOWING MORNING AT 43 W. 61ST.
+M	1ST CABBIE	...hadda piss like a bull steer, so I pull over on 10th Ave, yank up the hood and do the engine job. There I am with my dong in my hand when a guy come up and asks if I need any help. Just checking the battery, I says, and, meanwhile...
+M	2ND CABBIE	If he thinks I'm going up into The Jungle this time of night, he can shove it.
+M	3RD CABBIE	Fuck that Violets First. Fucking saddle horse. No, no, the OTB. Fuck them. No, it was TKR. TCR and I'da made seven fucking grand. Fuck them too. Alright, what about the second race?
+M	4TH CABBIE	Over at Love, this hooker took on the whole garage. Blew the whole fucking joint and they wouldn't even let her use the drinking fountain.
+M	CONCESSION GIRL	Kin I help ya?
+M	TRAVIS	What is your name? My name is Travis.
+M	CONCESSION GIRL	Awh, come off it, Pal.
+M	TRAVIS	No, I'm serious, really...
+M	CONCESSION GIRL	Ya want me to call da boss? Huh? That what you want?
+M	TRAVIS	No, no, it's alright. I'll have a big Coca-Cola -- without ice -- and a large buttered popcorn, and... ...some of them chocolate covered malted milk balls... and ju-jukes, a box. They last.
+M	CONCESSION GIRL	We don't have ju-jukes. We don't have Coca-Cola. We only got Royal Crown Cola.
+M	TRAVIS	That's fine.
+M	CONCESSION GIRL	That's a dollar forty-seven. Come here, bitch. I'm gonna split you in half.
+M	TRAVIS (V.O.)	Twelve hours of work and I still cannot sleep. The days dwindle on forever and do not end.
+F	BETSY	Tom.
+F	BETSY	Tom, come here a moment. I think this canvas report is about ready to go out. Check it out with Andy, and if he okays if, have a copy made for the campaign headquarters in every county. And don't forget to add the new photo releases.
+M	TOM	The senator's white paper is almost ready, Bets. Should we wait for that?
+F	BETSY	Andy usually just sends those to the national media. The local press doesn't know what to do with a position paper until UPI and AP tell them anyway.
+M	TOM	I think we should try to get maximum coverage for this new mandatory welfare program. Push the issues.
+F	BETSY	First push the man, then the issue. Senator Palantine is first of all a dynamic man, an intelligent, interesting, fascinating man.
+M	TOM	You forgot "sexy".
+F	BETSY	No, I didn't forget "sexy".
+M	TOM	Just didn't get around to it, huh?
+F	BETSY	Oh, Tom, please.
+M	TOM	Well, for Christsakes, you sound like you're selling... I don't know what... cars... not issues.
+F	BETSY	Have you ever wondered why CBS News has the highest ratings?
+M	TOM	More people watch it.
+F	BETSY	Alright, forget it if you're not going to be serious,
+M	TOM	No, c'mon, I'm listening. I was just...
+F	BETSY	Just what?
+M	TOM	Kidding around... you know, fun.
+F	BETSY	Maybe if you'd try thinking once in a while, you'd get somewhere.
+M	TOM	With who?
+F	BETSY	Alright, now. You want to know why CBS has the highest ratings? You think their news is any different from NBC, ABC? It's all the same news. Same stories. Same order usually. What, you thought they had good news for people, right? You thought that's why people watched CBS? I'll tell you why people watch CBS. Cronkite. The man. You got it? Not the news, not the issues, the man. If Walter Cronkite told people to eat soap, they'd do it. We are selling cars, goddamn it.
+M	TOM	Well, if Cronkite's so great, why don't we run him instead?
+F	BETSY	That's the last. The finish. Period. Some people can learn. Some people can't. And you wonder why we never get serious --
+M	TOM	Sure we could run him. You realize he's already head of his block association.
+F	BETSY	Have you been noticing anything strange?
+M	TOM	No, why?
+F	BETSY	Why's that taxi driver across the street been staring at us?
+M	TOM	What taxi driver?
+F	BETSY	That taxi driver. The one that's been sitting here.
+M	TOM	How long has he been there?
+F	BETSY	I don't know -- but it feels like a long time.
+M	TOM	Well, I'll go out and ask him. All my life needed was a sense of direction, a sense of someplace to go. I do not believe one should devote his life to morbid self-attention, but should become a person like other people.
+M	TRAVIS (V.O.)	I first saw her at Palantine Campaign Headquarters at 58th and Broadway. She was wearing a yellow dress, answering the phone at her desk.
+M	TRAVIS (V.O.)	She appeared like an angel out of this open sewer. Out of this filthy mass. She is alone: They cannot touch her.
+M	WIZARD	First she did her make-up. You know, I hate it when they do that. I mean she does the whole works, the mascara, the eye-shadow, the lipstick, the rouge...
+M	DOUGH-BOY	Not rouge. Blush-On, they call it.
+M	WIZARD	The kind with a brush. this place, but he is too much a part of this to let his
+M	WIZARD	Travis.
+M	TRAVIS	Hey Wizard.
+M	DOUGH-BOY	Yeah, that's Blush-On. My wife uses it,
+M	WIZARD	Ask Travis. He's the ladies man.
+M	WIZARD	Well, whatever the fuck it is, she used it. And then the spray perfume. You know, the real sweat kind -- and, on top of that, get this, right when we're crossing the Tri-boro bridge -- she changes her pantyhose!
+M	DOUGH-BOY	No.
+M	WIZARD	Yeah.
+M	DOUGH-BOY	Could you see anything?
+M	WIZARD	Well, she was trying to keep her skirt down, sort of, you know. But it was pretty obvious what she was doing. I mean, Christ, it was rush hour and the traffic's practically standing still.
+M	DOUGH-BOY	What did you do?
+M	WIZARD	Threw on the emergency, jumped the seat and fucked her brains out -- What do you think! What do I have to do? Draw you a picture?
+M	DOUGH-BOY	Yeah. What was I supposed to do? I was watching in the rear view. You know, just checkin' traffic. So howsit?
+M	TRAVIS	Some fleet driver for Bell just got cut up. Just heard it on the radio.
+M	DOUGH-BOY	Stick up?
+M	WIZARD	Sure. What do you think? She wanted to get out of the cab. I said "Look, you're in the middle of the fucking bridge..."
+M	DOUGH-BOY	You said that?
+M	WIZARD	Well, I said, "Lady, please, we're on a bridge..."
+M	DOUGH-BOY	And what happened?
+M	WIZARD	She stayed in the cab, what's she gonna do? But she stiffed me. A real skunk.
+M	DOUGH-BOY	A real skunk.
+M	WIZARD	Travis, you know Dough-Boy, Charlie T.?
+M	DOUGH-BOY	Yeah. We went to Harvard together.
+M	WIZARD	We call him Dough-Boy cause he likes the dollars. He'll chase a buck straight into Jersey.
+M	DOUGH-BOY	Look who's talking? Who else would stay up all night to catch the morning rush hour?
+M	WIZARD	So howsit?
+M	TRAVIS	Some fleet driver for Bell just got cut up. Just heard it on the radio.
+M	DOUGH-BOY	Stick up?
+M	TRAVIS	No, just some crazy fucker. Cut half his ear off.
+M	DOUGH-BOY	Where.
+M	TRAVIS	In the jungle. 122nd. should these people enjoy the love and intimacy that has always eluded him? He must enjoy these schizoid emotions,
+M	DOUGH-BOY	You run all over town, don't you, Travis?
+M	WIZARD	Fuckin' Mau Mau land, that's what it is.
+M	TRAVIS	Huh?
+M	DOUGH-BOY	I mean, you handle some pretty rough traffic, huh?
+M	TRAVIS	I have.
+M	DOUGH-BOY	You carry a piece? You need one?
+M	TRAVIS	Nah. I suppose not.
+M	DOUGH-BOY	Well, you ever need one, I know a feller that kin getcha a real nice deal. Lotsa shit around.
+M	WIZARD	The cops and company raise hell they find out.
+M	DOUGH-BOY	Truck drivers bring up Harlem Specials that blow up in your hand. But this guy don't deal no shit. Just quality. If you ever need anything, I can put you in touch.
+M	WIZARD	For a fee.
+M	DOUGH-BOY	For a fee.
+M	WIZARD	I never use mine. But it's a good thing to have. Just as a threat.
+M	DOUGH-BOY	Well, if there's this many hackies inside, there must be lots of fares outside. And I'm gonna hustle 'em.
+M	WIZARD	What ya gonna do with all that money, Dough-Boy?
+M	DOUGH-BOY	Support my kids. Can you dig it? Nice to meet ya, Travis. So long, Wizard. Say hello to Malcolm X for me.
+F	BETSY	Try holding the match like this.
+M	TOM	This is gotta be a game, right?
+F	BETSY	This I gotta see.
+M	TOM	Ouch!
+F	BETSY	Oh, are you all right?
+M	TOM	I'm great. Always set my fingers on fire. If you want to see another trick. I do this thing with my nose.
+F	BETSY	No. I just wanted to see if you could light it that way. The guy at the newsstand can.
+M	TOM	Ah, yes, the guy at the newsstand, Mr. Asbestos...
+F	BETSY	He happens to be missing fingers. I first noticed when --
+M	TOM	Is he Italian?
+F	BETSY	No, why?
+M	TOM	You sure he's not Italian?
+F	BETSY	He's Black, OK?
+M	TOM	Well, If he had been Italian, they could have been shot off. Sometimes the mob does that to teach guys a lesson, If they blow a job or something.
+F	BETSY	As I said, he isn't Italian. Besides, I thought they just killed them.
+M	TOM	Don't be naive. They can't kill everybody. They have different punishments for different things. Like, if they kill a stool pigeon, they leave a canary on the body. It's symbolic.
+F	BETSY	Why don't they leave a pigeon instead of a canary?
+M	TOM	I don't know. Maybe they don't leave a canary. Don't be technical. What I'm saying is if this newsstand guy's Italian and his fingers are gone, maybe he's a thief.
+F	BETSY	First, he's not Italian. Second he's not a thief. I noticed the fingers when he was getting my change -- the right change. Two of his fingers are missing. Just stubs. Like they were blown away. I was putting my change in my purse when I saw him get out a cigarette. I couldn't help watching. I was dying to see how he'd light it.
+M	TOM	With the other hand, right?
+F	BETSY	No, stupid. With the stubs. That's the whole point.
+M	TOM	I know that guy. His hand looks like a paw. An old Black guy, the newsstand at --
+F	BETSY	No, this is young -- well, I'm never sure how old Black people are -- but, anyway, he isn't old. That's for sure.
+M	TOM	Show me how he did that again.
+M	TRAVIS	I want to volunteer.
+M	TOM	If you'll come this way.
+M	TRAVIS	No. I want to volunteer to you.
+M	TOM	Bets.
+F	BETSY	And why is that?
+M	TRAVIS	Because you are the most beautiful woman I have ever seen. "fascinating".
+F	BETSY	Is that so? But what do you think of Charles Palantine?
+M	TRAVIS	Who mam?
+F	BETSY	Charles Palantine. The man you want to volunteer to help elect president.
+M	TRAVIS	Oh, I think he's a wonderful man. Make a great, great President.
+F	BETSY	You want to canvass?
+M	TRAVIS	Yes, mam.
+F	BETSY	How do you feel about Senator Palantine's stand on welfare?
+M	TRAVIS	Welfare, mam? I think the Senator's right. People should work for a living. I do. I like to work. Every day. Get those old coots off welfare and make 'em work for a change.
+F	BETSY	Well, that's not exactly what the Senator has proposed. You might not want to canvass, but there is plenty more other work we need done: Office work, filing, poster hanging.
+M	TRAVIS	I'm a good worker, Betsy mam, a real good worker.
+F	BETSY	If you talk to Tom, he'll assign you to something.
+M	TRAVIS	If you don't mind, mam, I'd rather work for you.
+F	BETSY	Well, we're all working tonight.
+M	TRAVIS	Well, Betsy mam, I drive a taxi at night.
+F	BETSY	Well, then, what is it you exactly want to do?
+M	TRAVIS	If you don't mind, mam, I'd be mighty pleased if you'd go out and have some coffee and pie with me.
+F	BETSY	Why?
+M	TRAVIS	Well, Betsy mam, I drive by this place here in my taxi many times a day. And I watch you sitting here at this big long desk with these telephones, and I say to myself, that's a lonely girl. She needs a friend. And I'm gonna be her friend.
+F	BETSY	I don't know...
+M	TRAVIS	It's just to the corner, mam. In broad daytime. Nothing can happen. I'll be there to protect you.
+F	BETSY	All right. All right. I'm taking a break at four o'clock. If you're here then we'll go to the corner and have some coffee and pie.
+M	TRAVIS	Oh, I appreciate that, Betsy mam. I'll be here at four o'clock exactly. And... ah... Betsy...
+F	BETSY	Yes?
+M	TRAVIS	My name is Travis.
+F	BETSY	Thank you, Travis.
+F	BETSY	I'm just going to find out what the cabbies are thinking.
+M	TRAVIS (V.O.)	April 26, 1972. Four o'clock p.m. I took Betsy to the Mayfair Coffee Shop on Broadway...
+M	TRAVIS (V.O.)	I had black coffee and apple pie with a slice of melted yellow cheese. I think that was a good selection. Betsy had coffee and a fruit salad dish. She could have had anything she wanted.
+F	BETSY	We've signed up 15,000 Palantine volunteers in New York so far. The organizational problems are becoming just staggering.
+M	TRAVIS	I know what you mean. I've got the same problems. I just can't get things organized. Little things, I mean. Like my room, my possessions. I should get one of those signs that says, "One of these days I'm gonna get organezizied"
+F	BETSY	Travis, I never ever met anybody like you before.
+M	TRAVIS	I can believe that.
+F	BETSY	Where do you live?
+M	TRAVIS	Oh, uptown. You know. Some joint. It ain't much.
+F	BETSY	So why did you decide to drive a taxi at night?
+M	TRAVIS	I had a regular job for a while, days. You know, doin' this, doin' that. But I didn't have anything to do at night. I got kinda lonely, you know, just wandering around. So I decided to works nights. It ain't good to be alone, you know.
+F	BETSY	After this job, I'm looking forward to being alone for a while.
+M	TRAVIS	Yeah, well... In a cab you get to meet people. You meet lotsa people. It's good for you.
+F	BETSY	What kind of people?
+M	TRAVIS	Just people people, you know. Just people. Had a dead man once.
+F	BETSY	Really?
+M	TRAVIS	He'd been shot. I didn't know that. He just crawled into the back seat, said "West 45th Street" and conked out.
+F	BETSY	What did you do?
+M	TRAVIS	I shut the meter off, for one thing. I knew I wasn't going to get paid. Then I dropped him off at the cop shop. They took him.
+F	BETSY	That's really something.
+M	TRAVIS	Oh, you see lots of freaky stuff in a cab. Especially when the moon's out.
+F	BETSY	The moon?
+M	TRAVIS	The full moon. One night I had three or four weirdos in a row and I looked up and, sure enough, there it was -- the full moon.
+M	TRAVIS	Oh, yeah. People will do anything in front of a taxi driver. I mean anything. People too cheap to rent a hotel room, people scoring dope, people shooting up, people who want to embarrass you. It's like you're not even there, not even a person. Nobody knows you.
+F	BETSY	Com'on, Travis. It's not that bad. I take lots of taxis.
+M	TRAVIS	I know. I could have picked you up.
+F	BETSY	Huh?
+M	TRAVIS	Late one night. About three. At the plaza.
+F	BETSY	Three in the morning? I don't think so. I have to go to bed early. I work days. It must have been somebody else.
+M	TRAVIS	No. It was you. You had some manila folders and a pink bag from Saks.
+F	BETSY	You're right! Now I remember! It was after the Western regional planners were in town and the meeting went late. The next day I was completely bushed. It was unbelievable.
+M	TRAVIS	If it wasn't for a drunk I would have picked you up. He wanted to go to the DMZ.
+F	BETSY	The DMZ?
+M	TRAVIS	South Bronx. The worst. I tried to ditch him, but he was already in the cab, so I had to take him. That's the law. Otherwise I would have picked you up.
+F	BETSY	That would have been quite a coincidence.
+M	TRAVIS	You'd be surprised how often you see the same people, get the same fare. People have patterns. They do more or less the same things every day. I can tell.
+F	BETSY	Well, I don't go to the Plaza every night.
+M	TRAVIS	I didn't mean you. But just ordinary people. A guy I know -- Dough-Boy -- met his wife that way. They got to talking. She said she usually caught the bus so he started picking her up at the bus stop, taking her home with the flag up.
+F	BETSY	That's very romantic. Some of your fares must be interesting. See any stars, politicians, deliver any babies yet?
+M	TRAVIS	Well, no... not really... had some famous people in the cab. I got this guy who makes lasers. Not regular lasers, not the big kind. Little lasers, pocket sized, small enough to clip your belt like a transistor radio, like a gun, you know. Like a ray gun. Zap.
+F	BETSY	What hours do you work?
+M	TRAVIS	I work a single, which means there's no replacement -- no second man on the cab. Six to six, sometimes eight. Seventy-two hours a week.
+F	BETSY	You mean you work seventy-two hours a week.
+M	TRAVIS	Sometimes 76 or 80. Sometimes I squeeze a few more hours in the morning. Eighty miles a day, a hundred miles a night.
+F	BETSY	You must be rich.
+M	TRAVIS	It keeps ya busy.
+F	BETSY	You know what you remind me of?
+M	TRAVIS	What?
+F	BETSY	That song by Kris Kristofferson, where it's said "Like a pusher, party truth, partly fiction, a walking contradiction".
+M	TRAVIS	I'm no pusher, Betsy. Honest. I never have pushed.
+M	TRAVIS	I didn't mean that, Travis. Just the part about the contradiction.
+M	TRAVIS	Oh. Who was that again?
+F	BETSY	The singer?
+M	TRAVIS	Yeah. Yes. I don't follow music too much.
+F	BETSY	Kris Kristofferson. You work at night, you get an instinct. You can smell them. The big tippers, the stiffs, the trouble makers. Quarter is good tip for Manhattan. Queens is better, Brooklyn is best. Go for the guys with suitcases. The rich are the worst tippers, hooks are lousy. Spooks are okay, but they don't live at Park Ave after all.
+M	TRAVIS (V.O.)	I called Betsy again at her office, and she said maybe we could go to a movie together after she gets off work tomorrow. That's my day off. At first she hesitated, but I called her again and she agreed. Betsy. Betsy what? I forgot to ask her last name again. Damn. I've got to remember stuff like that.
+M	MAN'S VOICE	St. Regis Hotel.
+M	TOM	It's 12:30 now. You'll have fifteen minutes before the actual luncheon begins.
+M	ASSISTANT	I don't think we have to worry about anybody here committing themselves until things start coming in from California.
+M	TRAVIS	Say, aren't you Charles Palantine, the candidate?
+M	PALANTINE	Yes I am.
+M	TRAVIS	Well, I'm one of your biggest supporters. I tell everybody that comes in this cab that they should vote for you.
+M	PALANTINE	Why, thank you Travis.
+M	TRAVIS	I'm sure you'll win, sir. Everybody I know is going to vote for you. I was going to put one of your stickers on my taxi but the company said it was against their policy.
+M	PALANTINE	I'll tell you, Travis, I've learned more about this country sitting in taxi cabs than in the board room of General Motors.
+M	TOM	And in some other places too...
+M	PALANTINE	Travis, what single thing would you want the next President of this country to do most?
+M	TRAVIS	I don't know, sir. I don't follow political issues much.
+M	PALANTINE	There must be something...
+M	TRAVIS	Well, he should clean up this city here. It's full of filth and scum. Scum and filth. It's like an open sewer. I can hardly take it. Some days I go out and smell it then I get headaches that just stay and never go away. We need a President that would clean up this whole mess. Flush it out.
+M	PALANTINE	I know what you mean, Travis, and it's not going to be easy. We're going to have to make some radical changes.
+M	TRAVIS	Damn straight.
+M	PALANTINE	Nice talking to you, Travis.
+M	TRAVIS	Thank you, sir. You're a good man, sir.
+F	BETSY	You didn't have to spend your money --
+M	TRAVIS	He'll, what else can I do with it all?
+F	BETSY	Travis, you haven't even played the record?
+M	TRAVIS	Yeah, well my stereo player is broke. But I'm sure the record is OK.
+F	BETSY	Your stereo broke? God, I could hardly stand that. I live on music.
+M	TRAVIS	I don't follow music much. I'd like to though. Honest.
+F	BETSY	So you haven't heard this record yet?
+M	TRAVIS	No. I thought maybe you could play it for me on your player.
+F	BETSY	What are you doing?
+M	TRAVIS	I bought a couple of tickets.
+F	BETSY	But this is a porno movie.
+M	TRAVIS	No, these are the kind that couples go to. They're not like the other movies. All kinds of couples go. Honest. I've seen them. That he really wants to get this pure white girl into that
+M	TRAVIS	Damn.
+F	BETSY	What's wrong?
+M	TRAVIS	I forgot to get the Coca-Cola.
+M	TRAVIS	Where are you going?
+F	BETSY	I'm leaving.
+M	TRAVIS	What do you mean?
+F	BETSY	These are not the kind of movies I go to.
+M	TRAVIS	Well, I don't follow movies too much...
+F	BETSY	You mean these are the only kind of movies you go to?
+M	TRAVIS	This is sort of high class...
+F	BETSY	I mean porno movies.
+M	TRAVIS	Well... mostly...
+F	BETSY	My God!
+M	TRAVIS	We can go to another movie if you like, I don't care. I got money. There's plenty...
+F	BETSY	If you just wanted to fuck, why didn't you just come right out and say it?
+M	TRAVIS	...there's plenty of movies around here. I haven't seen any of them, but I'm sure they're good.
+F	BETSY	No, Travis. You're a sweet guy and all that, but I think this is it. I'm going home.
+M	TRAVIS	You mean you don't want to go to a movie? There's plenty of movies around here.
+F	BETSY	No, I don't feel so good. We're just two very different kinds of people, that's all.
+M	TRAVIS	Huh?
+F	BETSY	It's very simple. You go your way, I'll go mine. Thanks anyway, Travis.
+M	TRAVIS	But... Betsy...
+F	BETSY	I'm getting a taxi.
+M	TRAVIS	What about the record?
+F	BETSY	Keep it.
+M	TRAVIS	Can I call you?
+M	TRAVIS	Please, Betsy, I bought it for you.
+F	BETSY	All right, I'll accept the record.
+F	BETSY	Taxi!
+M	TRAVIS	But I got a taxi.
+M	TRAVIS (V.O.)	May 8, 1972. My life has taken another turn again. The days move along with regularity...
+M	TRAVIS (V.O.)	...one day indistinguishable from the next, a long continuous chain, then suddenly -- there is a change.
+M	TRAVIS (V.O.)	I tried to call her several times.
+M	TRAVIS	You feeling better? You said you didn't feel so good...
+M	TRAVIS (V.O.)	But after the first call, she would no longer come to the phone.
+M	TRAVIS (V.O.)	I also sent flowers with no luck. I should not dwell on such things, but set them behind me. The smell of the flowers only made me sicker. The headaches got worse I think I've got stomach cancer. I should not complain so. "You're only as healthy as you feel."
+M	TRAVIS (V.O.)	I realize now how much she is like the others, so cold and distant. Many people are like that. They're like a union.
+M	PROFESSIONAL PASSENGER	Jackson Heights.
+M	TRAVIS	I'm off duty. You mean you don't want to go out to Jackson Heights?
+M	TRAVIS	No, I'm off duty.
+M	PROFESSIONAL PASSENGER	Then how come your "Off Duty" light wasn't on.
+M	TRAVIS	It was on. It just takes a while to warm up. Like a TV.
+M	YOUNG PASSENGER	471 Central Park West.
+M	YOUNG PASSENGER	Just pull over to the curb a moment.
+M	YOUNG PASSENGER	Yeah, that's fine. Just sit here.
+M	YOUNG PASSENGER	Cabbie, ya see that light up there on the seventh floor, three windows from this side of the building?
+M	TRAVIS (V.O.)	Yeah.
+M	YOUNG PASSENGER (O.S.)	Ya see that woman there? Yeah.
+M	YOUNG PASSENGER (O.S.)	That's my wife. But it ain't my apartment. A nigger lives there. She left me two weeks ago. It took me this long to find out where she went. I'm gonna kill her.
+M	YOUNG PASSENGER	What do you think of that, cabbie?
+M	YOUNG PASSENGER	Huh? What do you think of that, huh?
+M	YOUNG PASSENGER	I'm gonna kill her with a .44 Magnum pistol. Did you ever see what a .44 can do to a woman's face, cabbie? Did you ever see what it can do to a woman's pussy, cabbie?
+M	YOUNG PASSENGER (O.S.)	I'm going to put it right up to her, cabbie. Right in her, cabbie. You must think I'm real sick, huh? A real pervert. Sitting here and talking about a woman's pussy and a .44, huh?
+M	DOUGH-BOY	Hey Travis. This here's Easy Andy. He's a travelling salesman.
+M	ANDY	Hello Travis.
+M	ANDY	This is fine, Dough-Boy Pay Dough-Boy here.
+M	TRAVIS	20 bucks?
+M	DOUGH-BOY	Yeah. Hey thanks. That's real nice, Travis.
+M	ANDY	Dough-Boy probably told you I don't carry any Saturday Night Specials or crap like that. It's all out of State, clean, brand new, top-of-the-line stuff.
+M	TRAVIS	You got a .44 Magnum?
+M	ANDY	That's an expensive gun.
+M	TRAVIS	I got money.
+M	ANDY	It's a monster. Can stop a car -- put a bullet right into the block. A premium high resale gun. $350 -- that's only a hundred over list.
+M	ANDY	I could sell this gun in Harlem for $500 today -- but I just deal high quality goods to high quality people. Now this may be a little big for practical use, in which case I'd recommend the .38 Smith and Wesson Special. Fine solid gun -- nickel plated. Snub-nosed, otherwise the same as the service revolver. Now that'll stop anything that moves and it's handy, flexible. The Magnum, you know, that's only if you want to splatter it against the wall. The movies have driven up the price of the Magnum anyway. Everybody wants them now. But the Wesson .38 -- only $250 -- and worth every dime of it. Throw in a holster for $10.
+M	ANDY	Some of these guns are like toys, but a Smith and Wesson, man, you can hit somebody over the head with it and it will still come back dead on. Nothing beats quality. You interested in an automatic?
+M	TRAVIS	I want a .32. Revolver. And a palm gun. That .22 there.
+M	ANDY	That's the Colt .25 -- a fine little gun. Don't do a lot of damage, but it's as fast as the Devil. Handy little gun, you can carry it almost anywhere. I'll throw it in for another
+M	TRAVIS	How much for everything.
+M	ANDY	The .32's $150 -- and you're really getting a good deal now -- and all together it comes to, ah, seven eighty- five for four pieces and a holster. Hell, I'll give you the holster, we'll make it seventy-five and you've got a deal -- a good one.
+M	TRAVIS	How much to get a permit to carry?
+M	ANDY	Well, you're talking big money now. I'd say at least five grand, maybe more, and it would take a while to check it out. The way things are going now $5.000 is probably low. You see, I try not to fool with the small-time crap. Too risky, too little bread. Say 6 G's, but if I get the permit it'll be as solid as the Empire State Building.
+M	TRAVIS	Nah, this'll be fine.
+M	ANDY	You can't carry in a cab even with a permit -- so why bother?
+M	TRAVIS	Is there a firing range around?
+M	ANDY	Sure, here, take this card, go to this place and give 'em the card. They'll charge you, but there won't be any hassle.
+M	ANDY	You in Nam? Can't help but notice your jacket?
+M	TRAVIS	Huh?
+M	ANDY	Vietnam? I saw it on your jacket. Where were you? Bet you got to handle a lot of weapons out there.
+M	TRAVIS	Yeah. I was all around. One hospital, then the next.
+M	ANDY	It's hell out there all right. A real shit-eatin' war. I'll say this, though: It's bringing a lot of fantastic guns. The market's flooded. Colt automatics are all over.
+M	TRAVIS	They'd never get me to go back. They'd have to shoot me first. You got anything to carry these in?
+M	ANDY	Sure.
+M	ANDY	You like ball games?
+M	TRAVIS	Huh?
+M	ANDY	I can get you front and center. What do you like? I can get you Mets, Knicks, Rangers? Hell, I can get you the Mayor's box.
+M	TRAVIS	Nah. I ain't interested.
+M	ANDY	Okay, okay.
+M	ANDY	Wait a second, Travis. I'll walk you out.
+M	TRAVIS (V.O.)	May 29, 1972. I must get in shape. Too much sitting has ruined my body. Twenty-five push-ups each morning, one hundred sit-ups, one hundred knee-bends. I have quit smoking.
+M	TRAVIS (V.O.)	Total organization is necessary. Every muscle must be tight.
+M	TRAVIS (V.O.)	My body fights me always. It won't work, it won't sleep, it won't shit, it won't eat.
+M	TV DISC JOCKEY	Freshingly, fantastic, freaked-out dance time. Can you dig it? Dig on it. You got it, flaunt it.
+F	IRIS	Come on, mister, let's get outta here -- quick.
+M	SPORT	Come on, baby, let's go. This is all a real drag.
+M	SPORT	Just forget all about this, cabbie. It's nothing.
+M	FEMALE MOVIE VOICE (O.S.)	Oh, come on, now, down, lick it, come on... Mmm, that's good. Ahh, ahh, more...
+M	TRAVIS (V.O.)	The idea had been growing in my brain...
+M	TRAVIS (V.O.)	...for some time. True Force. All the king's men cannot put it back together again. Listen you screwheads: Here is a man...
+M	TRAVIS (V.O.)	...who wouldn't take it any more, a man who stood up against the scum, the cunts, the dogs, the filth. Here is...
+M	TRAVIS	Hey 'Melio.
+M	STICK-UP MAN	Come on, man. Quick, quick, quick. Hand over that bread.
+M	TRAVIS	Hey dude!
+M	'MELIO	Thanks, man. Figured I'd get him on the way out.
+M	TRAVIS	You're gonna have to cover me on this one, 'Melio. I can't stay for the cop show.
+M	'MELIO	You can't do that, Travis. You're my witness.
+M	TRAVIS	The hell I can't. It's no sweat for you. What is this for you, number five?
+M	'MELIO	No, only four. Alright, Travis, I'll do what I can.
+M	TRAVIS	Thanks a lot.
+M	SOAP OPERA BOY	Is it that she just doesn't -- like me?
+M	SOAP OPERA GIRL	Well, Jim, it's just that -- I don't know how to say this -- it's that she thinks your parents aren't... good enough, I guess.
+M	TRAVIS	Damn, damn.
+M	WIZARD	You know Eddie, he's the new hippie kid in our group, long hair...
+M	WIZARD	...he called up the Dispatcher last night. Charlie McCall, our dispatcher...
+M	DOUGH-BOY	One-Ball McCall?
+M	WIZARD	That's the guy. Eddie calls him up and says, "Hey, what do you want me to do. I'm over here at Poly Prep. I got a girl in the back and she doesn't have the fare. She wants me to come in back and collect. What should I do?
+M	CHARLIE T	This is on the two-way with about a hundred and fifty cars listenin' in.
+M	WIZARD	McCall says. "How much on the meter?" Eddie comes back and says "Two-fifty." McCall says, "Is she worth it".
+M	DOUGH-BOY	Fuckin' One-Ball.
+M	WIZARD	And the kid says, "Yeah. She's about 19, good-lookin." McCall says, "What can I tell you?"
+M	FOURTH CABBIE	She should have told him to get an OK from the front office.
+M	WIZARD	McCall says, "Well, if you want some help I'll see if I can send some units out."
+M	CHARLIE T	Yeah. About a hundred and fifty.
+M	DOUGH-BOY	I hope he had a checker.
+M	WIZARD	She was just a kid. Stoned, you know.
+M	CHARLIE T	Hiya Killer.
+M	WIZARD	You're getting a rep, Travis.
+M	CHARLIE T	Got the five you owe me, Killer?
+M	WIZARD (O.S.)	What's the action around?
+M	TRAVIS	Slow.
+M	CHARLIE T	Shit yes. Night woulda been dead if I hadn't grabbed an outatowner at Kennedy. Took him round the horn and got a five dollar tip to boot.
+M	WIZARD	One of these days we're gonna turn you in, Charlie T. Fleecin the hicks like that.
+M	DOUGH-BOY	Remember the time this cat picks up four dudes from the other side, Pakastanis I think they were, holds up their passports, to the toll booth collector on the bridge and charges 'em ten bucks each for crossing the border?
+M	CHARLIE T	Hell, I know'd you to do worse.
+M	DOUGH-BOY	Least I'm no airport rat. I work the whole town.
+M	CHARLIE T	It's a living.
+M	WIZARD	Well, I'm shovin' on.
+M	TRAVIS	Hey Wiz, just a second. I wanna talk to you.
+M	CHARLIE T	See ya, Killer. Don't forget your pea shooter.
+M	TRAVIS	Hey Wiz.
+M	TRAVIS	Wiz?
+M	WIZARD	Yeah?
+M	TRAVIS	Look, ah, we never talked much, you and me...
+M	WIZARD	Yeah?
+M	TRAVIS	I wanted to ask you something, on account you've been around so long.
+M	WIZARD	Shoot. They don't call me the Wizard for nothing.
+M	TRAVIS	Well, I just, you know...
+M	WIZARD	Things got ya down?
+M	TRAVIS	Real down.
+M	WIZARD	It happens.
+M	TRAVIS	Sometimes it gets so I just don't know what I'm gonna do. I get some real crazy ideas, you know? Just go out and do somethin.
+M	WIZARD	The taxi life, you mean.
+M	TRAVIS	Yeah.
+M	WIZARD	I know.
+M	TRAVIS	Like do anything, you know.
+M	WIZARD	Travis, look, I dig it. Let me explain. You choose a certain way of life. You live it. It becomes what you are. I've been a hack 27 years, the last ten at night. Still don't own my own cab. I guess that's the way I want it. You see, that must be what I am.
+M	WIZARD	Look, a person does a certain thing and that's all there is to it. It becomes what he is. Why fight it? What do you know? How long you been a hack, a couple months? You're like a peg and you get dropped into a slot and you got to squirm and wiggle around a while until you fit in.
+M	TRAVIS	That's just about the dumbest thing I ever heard, Wizard.
+M	WIZARD	What do you expect, Bertrand Russell? I've been a cabbie all my life, what do I know? I don't even know what you're talking about.
+M	TRAVIS	Neither do I, I guess.
+M	WIZARD	You fit in. It's lonely, it's rough at first. But you fit in. You got no choice.
+M	WIZARD	Yeah. Sorry, Wizard.
+M	WIZARD	Don't worry, Killer. You'll be all right. I seen enough to know.
+M	TRAVIS	Thanks.
+M	TOM	Betsy, come over here a moment.
+F	BETSY	What is it? I'm busy.
+M	TOM	Just follow me.
+M	TOM	Look there. No, over further -- get your glasses -- yes, over there. Isn't that little guy the same guy that was bugging you around the office about a month ago?
+F	BETSY	No, I don't think so. That's someone else.
+M	TOM	Now look more closely. Look around the eyes and chin. See? See there?
+M	TRAVIS	Are you a Secret Service Man?
+M	SECRET SERVICE MAN	Why do you ask?
+M	TRAVIS	I've seen a lot of suspicious-looking people around here today.
+M	SECRET SERVICE MAN	Who?
+M	TRAVIS	Oh, lots. I don't know where they all are now. There used to be one standing over there. Is it hard to get to be a Secret Service Man?
+M	SECRET SERVICE MAN	Why?
+M	TRAVIS	I kinda thought I might make a good one. I'm very observant.
+M	SECRET SERVICE MAN	Oh?
+M	TRAVIS	I was in the Army too. And I'm good with crowds.
+M	SECRET SERVICE MAN	Is that so?
+M	TRAVIS	What kind of guns do you guys use? .38's?
+M	SECRET SERVICE MAN	Look, um, if you give me your name and address, we'll send you the information on how to apply.
+M	TRAVIS	You would, huh?
+M	SECRET SERVICE MAN	Sure.
+M	TRAVIS	My name is Henry Krinkle -- that's with a "K." K-R-I-N-K-L-E. I live at 13 1/2 Hopper Avenue, Fair Lawn, New Jersey. Zip code 07410. Got that?
+M	SECRET SERVICE MAN	Sure, Henry. I got it all. We'll send you all the stuff all right.
+M	TRAVIS	Great, hey. Thanks a lot.
+M	TRAVIS (V.O.)	June 11. Eight rallies in six more days. The time is coming.
+M	HIPPIE HOOKER	Hey cabbie! You comin' or goin'?
+M	PALANTINE	The time has come to put an end to the things that divide us: racism, poverty, way -- and to those persons who seek to divide us. Never have I seen such a group of high officials from the President to Senate leaders to Cabinet members...
+M	PALANTINE	...pit black against white, young against old, sow anger, disunity and suspicion -- and all in the name of the "good of the country." Well, their game is over. All their games are over. Now is the time to stand up against such foolishness, propaganda and demagoguery. Now is the time for one man to stand up and accept his neighbor, for one man to give in order that all might receive. Is unity and love of common good such a lost thing?
+M	TRAVIS (V.O.)	Dear Father and Mother, June is the month, I remember, which brings not only your wedding anniversary, but also Father's Day and Mother's birthday. I'm sorry I can't remember the exact dates, but I hope this card will take care of all of them. I'm sorry I again can not send you my address like I promised to last year, but the sensitive nature of my work for the Army demands utmost secrecy. I know you will understand. I am healthy and well and making lots of money. I have been going with a girl for several months and I know you would be proud if you could see her. Her name is Betsy, but I can tell you no more than that.
+M	POLICEMAN	Hey, cabbie, you can't park here.
+M	TRAVIS	Sorry, officer.
+M	POLICEMAN	You waiting for a fare?
+M	TRAVIS	No, officer.
+M	POLICEMAN	All right, move it.
+M	TRAVIS (V.O.)	I hope this card finds you all well, as it does me. I hope no one has died. Don't worry about me. One day there will be a knock on the door and it will be me. Love, Travis.
+M	TRAVIS	Hello.
+F	IRIS	You looking for some action?
+M	TRAVIS	Well... I guess so.
+F	IRIS	All right. You see that guy over there? His name is Sport. Go talk to him. I'll wait here.
+M	TRAVIS	You name Sport?
+M	SPORT	Here, officer, take me in. I'm clean. I didn't do it. Got a ticket once in Jersey. That's all. Honest, officer.
+M	TRAVIS	Your name Sport?
+M	SPORT	Anything you say, officer.
+M	TRAVIS	I'm no cop. I want some action.
+M	SPORT	I saw. $20 fifteen minutes. $30 half hour.
+M	TRAVIS	Shit.
+M	SPORT	Take it or leave it.
+M	SPORT	No, not me. There'll be an elderly gent to take the bread.
+M	SPORT	Catch you later, Copper.
+M	TRAVIS	I'm no cop.
+M	SPORT	Well, if you are, it's entrapment already.
+M	TRAVIS	I'm hip.
+M	SPORT	Funny, you don't look hip.
+F	IRIS	This is my room.
+M	OLD MAN	Hey cowboy!
+M	OLD MAN	The rod. Gimme the rod, cowboy.
+M	OLD MAN	This ain't Dodge City, cowboy. You don't need no piece. I'm keepin' time.
+M	TRAVIS	Why you hang around with them greasers?
+F	IRIS	A girl needs protection.
+M	TRAVIS	Yeah. From the likes of them.
+F	IRIS	It's your time mister. Fifteen minutes ain't long. That cigarette burns out, your time is up.
+M	TRAVIS	What's your name?
+F	IRIS	Easy.
+M	TRAVIS	That ain't much of a name.
+F	IRIS	It's easy to remember. Easy Lay.
+M	TRAVIS	What's your real name?
+F	IRIS	I don't like my real name.
+M	TRAVIS	What's your real name?
+F	IRIS	Iris.
+M	TRAVIS	That's a nice name.
+F	IRIS	That's what you think.
+M	TRAVIS	Don't you remember me? Button your shirt.
+F	IRIS	Why? Who are you?
+M	TRAVIS	I drive a taxi. You tried to get away one night. Remember?
+F	IRIS	No.
+M	TRAVIS	You tried to run away in my taxi but your friend -- Sport -- wouldn't let you.
+F	IRIS	I don't remember.
+M	TRAVIS	It don't matter. I'm gonna get you outta here.
+F	IRIS	We better make it, or Sport'll get mad. How do you want to make it?
+M	TRAVIS	I don't want to make it. I came here to get you out.
+F	IRIS	You want to make it like this?
+M	TRAVIS	Can't you listen to me? Don't you want to get out of here?
+F	IRIS	Why should I want to get out of here? This is where I live.
+M	TRAVIS	But you're the one that wanted to get away. You're the one that came into my cab.
+F	IRIS	I musta been stoned.
+M	TRAVIS	Do they drug you?
+F	IRIS	Oh, come off it, man.
+M	TRAVIS	Listen...
+F	IRIS	Don't you want to make it? Can't you make it?
+M	TRAVIS	I want to help you.
+F	IRIS	You can't make it, can you? I can help you.
+M	TRAVIS	Fuck it! Fuck it! Fuck it! Fuck it! Fuck it! Fuck it! Fuck it!
+F	IRIS	You can do it in my mouth.
+M	TRAVIS	Don't you understand anything?
+F	IRIS	You don't have to make it, mister.
+M	TRAVIS	Do you understand why I came here?
+F	IRIS	I think so. I tried to get into your cab one night, and now you want to come and take me away.
+M	TRAVIS	Don't you want to go?
+F	IRIS	I can leave anytime I want.
+M	TRAVIS	But that one night?
+F	IRIS	I was stoned. That's why they stopped me. When I'm not stoned, I got no place else to go. They just protect me from myself.
+M	TRAVIS	Well, I tried.
+F	IRIS	I understand, mister. It means something, really.
+M	TRAVIS	Can I see you again?
+F	IRIS	That's not hard to do.
+M	TRAVIS	No, I mean really. This is nothing for a person to do.
+F	IRIS	Sure. All right. We'll have breakfast. I get up about one o'clock. Tomorrow.
+M	TRAVIS	Well tomorrow noon there's a... I got a...
+F	IRIS	Well, you want to or not?
+M	TRAVIS	O.K. It's a date. I'll see you here, then.
+M	TOM	Oh, Iris?
+F	IRIS	Yes?
+M	TOM	My name's Travis.
+F	IRIS	Thank you, Travis.
+M	TRAVIS	So long, Iris. Sweet Iris.
+M	OLD MAN	I think this is yours, cowboy.
+M	TRAVIS	Here's the twenty bucks, old man. You better damn well spend it right.
+M	OLD MAN	Come back anytime you want, cowboy. But without the rod -- please.
+M	ASSISTANT	Well, at least it wasn't chicken.
+M	PALANTINE	It wasn't? I thought it was. It tasted like chicken.
+M	TOM	C'mon, Senator. That was a class dinner. The St. Regis is a class joint. That was veal.
+M	PALANTINE	Was it? It sure tasted like chicken to me. Lately, everything tastes like chicken to me.
+M	ASSISTANT	Everything? Got to watch your gut.
+M	PALANTINE	What about it? I took 20 off before we started this thing.
+M	ASSISTANT	And you've put ten of it back on.
+M	PALANTINE	Ten? I don't think so. You really think so? Ten?
+M	TOM	Those TV cameras do. I caught the rally on CBS. You looked a little paunchy.
+M	PALANTINE	I don't think I gained ten pounds.
+M	PALANTINE	Jesus Christ.
+F	IRIS	...and after that Sport and I just started hanging out...
+M	TRAVIS	Where is home?
+F	IRIS	I got so many sunglasses. I couldn't live without my shades, man. I must have twelve pair of shades.
+M	TRAVIS	Where?
+F	IRIS	Pittsburgh.
+M	TRAVIS	I ain't ever been there, but it don't seem like such a bad place.
+F	IRIS	Why do you want me to go back to my parents? They hate me. Why do you think I split? There ain't nothin there.
+M	TRAVIS	But you can't live like this. It's hell. Girls should live at home.
+F	IRIS	Didn't you ever hear of women's lib?
+M	TRAVIS	Young girls are supposed to dress up, go to school, play with boys, you know, that kinda stuff.
+F	IRIS	God, you are square.
+M	TRAVIS	At least I don't walk the streets like a skunk pussy. I don't screw and fuck with killers and junkies.
+F	IRIS	Who's a killer?
+M	TRAVIS	That fella "Sport" looks like a killer to me.
+F	IRIS	He never killed nobody. He's a Libra.
+M	TRAVIS	Huh?
+F	IRIS	I'm a Libra too. That's why we get along so well.
+M	TRAVIS	He looks like a killer.
+F	IRIS	I think Cancer's make the best lovers. My whole family are air signs.
+M	TRAVIS	He shoots dope too.
+F	IRIS	What makes you so high and mighty? Did you ever look at your own eyeballs in a mirror. You don't get eyes like that from...
+M	TRAVIS	He's worse than an animal. Jail's too good for scum like that.
+F	IRIS	Rock music died in 1970, that's what I think. Before that it was fantastic. I can tell you that. Everybody was crashing, hanging out at the Fillmore. Me and my girlfriend Ann used to go up the fire escape, you know? It was unbelievable. Rock Stars everywhere. That Airplane -- that's my group, man. All Libras. But now everybody's split or got sick or busted. I think I'll move to one of those communes in Vermont, you know? That's where all the smart ones went. I stayed here.
+M	TRAVIS	I never been to a commune. I don't know. I saw pictures in a magazine, and it didn't look very clean to me.
+F	IRIS	Why don't you come to a commune with me?
+M	TRAVIS	Me? I could never go to a place like that.
+F	IRIS	Why not?
+M	TRAVIS	I... I don't get along with people like that.
+F	IRIS	You a scorpion? That's it. You're a scorpion. I can tell.
+M	TRAVIS	Besides, I've got to stay here.
+F	IRIS	Why?
+M	TRAVIS	I've got something important to do. I can't leave.
+F	IRIS	What's so important?
+M	TRAVIS	I can't say -- it's top secret. I'm doing something for the Army. The cab thing is just part time.
+F	IRIS	You a narc?
+M	TRAVIS	Do I look like a narc?
+F	IRIS	Yeah.
+F	IRIS	God, I don't know who's weirder, you or me.
+M	TRAVIS	What are you going to do about Sport and that old bastard?
+F	IRIS	Just leave'em. There's plenty of other girls.
+M	TRAVIS	You just gonna leave 'em?
+F	IRIS	What should I do? Call the cops?
+M	TRAVIS	Cops don't do nothin.
+F	IRIS	Sport never treated me bad, honest. Never beat me up once.
+M	TRAVIS	You can't leave 'em to do the same to other girls. You should get rid of them.
+F	IRIS	How?
+M	TRAVIS	I don't know. Just should, though. Somebody should kill 'em. Nobody'd miss 'em.
+F	IRIS	God. I know where they should have a commune for you. They should have a commune for you at Bellevue.
+M	TRAVIS	I'm sorry, Iris. I didn't mean that.
+F	IRIS	You're not much with girls, are you?
+M	TRAVIS	Well, Iris, I look at it this way. A lot of girls come into my cab, some of them very beautiful. And I figure all day long men have been after them: trying to touch them, talk to them, ask them out. And they hate it. So I figure the best I can do for them is not bother them at all. So I don't say a thing. I pretend I'm not even there. I figure they'll understand that and appreciate me for it.
+F	IRIS	Do you really think I should go to the commune?
+M	TRAVIS	I think you should go home, but otherwise I think you should go. It would be great for you. You have to get away from here. The city's a sewer, you gotta get out of it.
+F	IRIS	Sure you don't want to come with me?
+M	TRAVIS	I can't. Otherwise, I would.
+F	IRIS	I sure hate to go alone...
+M	TRAVIS	I'll give you the money to go. I don't want you to take any from those guys.
+F	IRIS	You don't have to.
+M	TRAVIS	I want to -- what else can I do with my money? You may not see me again -- for a while.
+F	IRIS	What do you mean?
+M	TRAVIS	My work may take me out of New York.
+M	SPORT	What's the matter, baby, don't you feel right?
+F	IRIS	It's my stomach. I got the flu.
+M	SPORT	Oh, baby, there ain't no flu. You know that, baby.
+F	IRIS	Honest, Sport.
+M	SPORT	You're just tired, baby. You just need your man. I am your man, you know. You are my woman. I wouldn't be nothing without you.
+M	SPORT	I know this may not mean anything to you, baby, but sometimes I get so emotional, sometimes I think, I wish every man could have what I have now, that every woman could be loved the way I love you. I go home and I think what it would be without you, and then I thank God for you. I think to myself, man, you are so lucky. You got a woman who loves you, who needs you, a woman who keeps you strong. It's just you and me. I'm nothing without you. I can go like this for ever and ever. We can do it, baby. You and me. Just you and me.
+M	TRAVIS (V.O.)	My whole life has pointed in one direction. I see that now. There never has been any choice for me.
+M	TRAVIS (V.O.)	Loneliness has followed me all my life. The life of loneliness pursues me wherever I go: in bars, cars, coffee shops, theaters, stores, sidewalks. There is no escape. I am God's lonely man.
+M	TRAVIS (V.O.)	I am not a fool. I will no longer fool myself. I will no longer let myself fall apart, become a joke and object of ridicule. I know there is no longer any hope. I cannot continue this hollow, empty fight. I must sleep. What hope is there for me? Dear Iris, This money should be enough for your trip. By the indistinguishable.
+M	PALANTINE	...and with your help we will go on to victory at the polls Tuesday.
+M	PALANTINE (CONTD)	On to victory in Miami Beach next month and on to victory next November!
+M	SECRET SERVICE MAN	Detain that man!
+M	TRAVIS	Hey, Sport. How are things?
+M	SPORT	O.K., cowboy.
+M	TRAVIS	How are things in the pimp business, hey Sport?
+M	SPORT	What's going on?
+M	TRAVIS	I'm here to see Iris.
+M	SPORT	Iris?
+M	SPORT	Wha -- ?
+M	TRAVIS	Yeah, Iris. You know anybody by that name?
+M	SPORT	No. Hillbilly, you'd better get your wise ass outa here and quick, or you're gonna be in trouble.
+M	TRAVIS	You carry a gun?
+M	TRAVIS	Get it.
+M	SPORT	Hey, mister, I don't know what's going on here. This don't make any sense.
+M	TRAVIS	Show it to me.
+M	TRAVIS	Now suck on that.
+M	OLD MAN	Don't kill me! Don't kill me!
+F	IRIS	Don't kill him, Travis! Don't kill him!
+M	TRAVIS	Pgghew! Pgghew! being read in voice over.
+M	IRIS' FATHER (V.O.)	Dear Mr. Bickle,I can't say how happy Mrs. Steensma and I were to hear that you are well and recuperating.We tried to visit you at the hospital when we were in New York to pick up Iris, but you were still in a coma. There is no way we can repay you for returning our Iris to us. We thought we had lost her, but now our lives are full again. Needless to say, you are something of a hero around this household. I'm sure you want to know about Iris. She is back in school and working hard. The transition has been very hard for her, as you can well imagine, but we have taken steps to see she never has cause to run away again. In conclusion, Mrs. Steensma and I would like to again thank you from the bottom of our hearts. Unfortunately, we cannot afford to come to New York again to thank you in person, or we surely would. But if you should ever come to Pittsburgh, you would find yourself a most welcome guest in our home. Our deepest thanks, Burt and Ivy Steensma
+M	WIZARD	A private-owner wanted to swap wheels. Now my tires were brand new. "Give me a couple days," I says.
+M	CHARLIE T	Howdy Wizard, Killer.
+M	CHARLIE T	Don't mess with the Killer.
+M	TRAVIS	Hey Charlie T.
+M	WIZARD	Howsit, Charlie? Hey Travis, I think you gotta fare.
+M	TRAVIS	Shit.
+M	CHARLIE T	Take it slow, Killer.
+M	FEMALE VOICE	34 East 56th Street.
+F	BETSY	Hello, Travis.
+M	TRAVIS	Hello, Betsy.
+M	TRAVIS	I see where Palantine got the nomination.
+F	BETSY	Yes. It won't be long now. Seventeen days.
+M	TRAVIS	Well, I hope he wins.
+F	BETSY	How are you, Travis? I read about you in the papers.
+M	TRAVIS	Oh, I got over that. It was nothing, really. The papers always blow these things up. A little stiffness. That'll go away. I just sleep more, that's all.
+M	TRAVIS	Here we are.
+M	TRAVIS	No, no, please. This fare's on me. Please.
+F	BETSY	Thank you, Travis.
+F	BETSY	Travis?
+M	TRAVIS	Yeah.
+F	BETSY	Maybe I'll see you again sometime, huh?
+M	TRAVIS	Sure.

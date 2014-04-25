@@ -1,0 +1,623 @@
+M	CHARACTER	DIALOGUE
+M	Based on the novel by Robert Ludlum	and The 2002 Universal Film "The Bourne Identity" WHITE: 9/17/03
+F	MARIE	Where were you, Jason? In the car.
+M	BOURNE	Conklin up front.
+F	MARIE	I'll get the book.
+M	BOURNE	No. There's nothing new.
+F	MARIE	You're sure? We should still -- we should write it down.
+M	BOURNE	Two years we're scribbling in a notebook --
+F	MARIE	-- it hasn't been two years --
+M	BOURNE	-- it's always bad and it's never anything but bits and pieces anyway! You ever think that maybe it's just making it worse? You don't wonder that?
+F	MARIE	We write them down because sooner or later you're going to remember something good.
+M	BOURNE	I do remember something good. All the time. I remember you.
+M	BOURNE	I'm trying, Marie, Okay?
+F	MARIE	I worry when you get like this.
+M	BOURNE	It's just a nightmare.
+F	MARIE	I don't mean that. I worry when you try to ignore it.
+F	MARIE	Sleep. Sleep now.
+M	BOURNE	I should be better by now.
+F	MARIE	You are better. And I think it's not memories at all. It's just a dream you keep having over and over.
+M	BOURNE	But it ends up the same.
+F	MARIE	One day it will be different. It just takes time. We'll make new memories. You and me.
+M	MR. MOHAN	And your question, sir?
+M	KIRILL	She's my sister. There's been a death in the family. This is the last place we know she called from.
+M	BOURNE	We gotta go, Marie. We gotta go, now.
+M	BOURNE	We're blown.
+F	MARIE	No... How?
+M	BOURNE	The Telegraph office.
+F	MARIE	But we were so careful.
+M	BOURNE	We pushed it. We got lazy.
+F	MARIE	But you're sure?
+M	BOURNE	He was at the campground yesterday.
+F	MARIE	So...
+M	BOURNE	It's wrong. Guy with a rental car and hundred dollar sneakers sleeps in a tent?
+F	MARIE	That's crazy.
+M	BOURNE	No. Not this. This is real. And he's right there...
+F	MARIE	Where --
+M	BOURNE	Back there -- at the corner -- Hyundai -- silver --
+F	MARIE	...but you're not -- you're not sure...
+M	BOURNE	We can't wait to be sure.
+F	MARIE	I don't want to move again... I like it here.
+M	BOURNE	Look, we clear out, we get to the shack, we get safe. We hang there awhile. I'll come back. I'll check it out. But right now we can't --
+F	MARIE	-- where's left to go? --
+M	BOURNE	-- there's places -- we can't afford to be wrong!
+M	BOURNE	You drive.
+F	MARIE	What?
+M	BOURNE	Switch! You drive!
+F	MARIE	-- where? -
+M	BOURNE	-- make the left -- toward the bridge --
+F	MARIE	Jesus! -- -- is he back there? --
+M	BOURNE	-- not yet --
+F	MARIE	-- it's just him? --
+M	BOURNE	-- yeah -- one guy -- I don't think he was ready --
+F	MARIE	-- hang on --
+M	BOURNE	You keep going to the shack. I'll meet you there in an hour.
+F	MARIE	Where are you going?
+M	BOURNE	I'm going to bail on the other side and wait. This bridge is the only way he can follow.
+F	MARIE	What if it's not who you think it is?
+M	BOURNE	If he crosses the bridge, it is.
+F	MARIE	There must be another way!
+M	BOURNE	I warned them, Marie. I told them to leave us alone.
+F	MARIE	Jason, please don't do this...it won't ever be over like this.
+M	BOURNE	There's no choice.
+M	BOURNE	At the end make the left, when I roll out do not slow down.
+F	MARIE	I love you, too.
+M	BOURNE	Tell me later.
+M	TEDDY/RADIO (V.O.)	The seller has arrived.
+M	TEDDY/RADIO (V.O.)	He's inside.
+M	CRONIN	What have you got, Survey One?
+M	TEDDY/RADIO (V.O.)	"Hub, this is Survey One. Mobile One is in motion. Seller is inside and waiting."
+M	TEDDY/RADIO (V.O.)	"We are ready to go."
+M	MIKE/RADIO	"This is Escort One. I'm clear."
+M	CRONIN	"All teams -- listen up -- we are standing-by for final green."
+F	KIM	Langley...
+F	PAMELA	Martin?
+M	MARSHALL	I'm here. So is Donnie and Jack Weller. We understand you're using the full allocation for this buy?
+F	PAMELA	That's where we came out.
+M	MARSHALL	It's a lot of money, Pam.
+F	PAMELA	We're talking raw, unprocessed KGB files. It's not something we can go out and comparison shop.
+M	MARSHALL	Still...
+F	PAMELA	For a thief. A mole. I vetted the source, Marty. He's real. If it does nothing more than narrow the list of suspects, it's a bargain at ten times the price. Pamela, Jack Weller here. It's the quality that's at issue...
+F	PAMELA	Yes, sir. I'm in total agreement. If they're fakes, they're expensive. Gentlemen, I've got the seller on site and in play. Quite honestly, there's not much more to talk about.
+M	MARSHALL	All right Pam, your game, your call...
+M	CRONIN/RADIO	"Final Green. You are go. are go for Final Green." Repeat, you
+M	VIC/RADIO	"On my way up."
+M	IVAN	Show me.
+M	VIC	Here?
+M	IVAN	Now. Show now.
+M	VIC	This is everything? Is there.
+M	IVAN	Is there. Is all there.
+M	VIC	-- what the hell is that? -- alone -- you said alone --
+M	VIC	-- who? -- who else is here? --
+M	IVAN	-- no! -- not me! -- no other people! --
+M	VIC	-- shut up! -- just shut the --
+M	TEDDY/RADIO	"Hub? -- we just -- we lost power -- the building! -- the whole place just went dark! --"
+M	CRONIN	"-- repeat -- who is dark? -- the target building or your location? --
+M	GRETKOV	[You're early.]
+M	KIRILL	[You're complaining?]
+M	GRETKOV	[It's clean?]
+M	KIRILL	[Would I bring it?]
+M	GRETKOV	[What are you doing?]
+M	KIRILL	[I'm taking a shower, it's been a long day.]
+M	GRETKOV	[Make it fast, my plane is waiting.]
+F	PAMELA	We need to get in there.
+M	CRONIN	I'm working on it.
+M	CRONIN	-- so there were two of these explosive charges placed on the power lines. One of them failed. The fingerprint... That's from the one that didn't go off.
+F	PAMELA	And the Germans can't match it?
+M	TEDDY	Nobody's got it. We checked every database we could access. Nothing.
+M	CRONIN	Show her the other thing.
+M	TEDDY	This is a KGB file that must've fallen somehow and then slipped under, I guess, a desk there, or...
+F	PAMELA	Do we know what this says?
+M	TEDDY	Yup... The main word there, the file heading, translates as: Treadstone.
+F	PAMELA	What the hell is a "Treadstone?" Ward? Yes?
+M	PAMELA/PHONE	Pamela Landy.
+M	ABBOTT/PHONE	What can I do for you, Pam?
+M	PAMELA/PHONE	I was hoping you had some time for me.
+M	ABBOTT/PHONE	Time for what?
+M	PAMELA/PHONE	I'm free right now actually.
+M	ABBOTT/PHONE	That sounds ominous. Let me check my schedule.
+F	PAMELA	Treadstone.
+M	ABBOTT	Never heard of it.
+F	PAMELA	That's not gonna fly.
+M	ABBOTT	With all due respect, Pam, I think you might've wandered a little past your pay-grade.
+F	PAMELA	That's a warrant from Director Marshall granting me unrestricted access to all personnel and materials associated with Treadstone.
+M	ABBOTT	And what are we looking for?
+F	PAMELA	I want to know about Treadstone.
+M	ABBOTT	To know about it? It was a kill squad. Black on black. Closed down two years ago. Nobody wants to know about Treadstone. Not around here. You better take this back to Marty and make sure he knows what you're doing.
+F	PAMELA	He does. I've been down to the archives. I have the files, Ward.
+F	PAMELA	Let's talk about Conklin.
+M	ABBOTT	What are you after, Pam? You want to fry me? You want my desk? Is that it?
+F	PAMELA	I want to know what happened.
+M	ABBOTT	What happened? Jason Bourne happened. You've got the files? Then let's cut the crap. It went wrong. Conklin had these guys wound so tight they were bound to snap. Bourne was his number one -- guy went out to work, screwed the op and never came back. Conklin couldn't fix it, couldn't find Bourne, couldn't adjust. It all went sideways. Finally there were no options left.
+F	PAMELA	So you had Conklin killed. I mean, if we're cutting the crap...
+M	ABBOTT	I've given thirty years and two marriages to this agency. I've shoveled shit on four continents. I'm due to retire next year and believe me, I need my pension, but if you think I'm gonna sit here and let you dangle me with this, you can go to hell. Marshall too. It had to be done.
+F	PAMELA	And Bourne? Where's he now?
+M	ABBOTT	Dead in a ditch? Drunk in a bar in Mogadishu? Who knows?
+F	PAMELA	I think I do. We had a deal going down in Berlin last week. During the buy, both our Field Agent and the seller were killed. We pulled a fingerprint from a timing charge that didn't go off. They were killed by Jason Bourne.
+M	CRONIN	They're ready for us upstairs.
+M	IMMIGRATION OFFICER	[Where you coming from, Mr. Bourne?]
+M	BOURNE	[Tangiers.]
+M	IMMIGRATION OFFICER	[Sir, would you be so kind as to step over here, please?]
+M	BOURNE	[Uh, sure.]
+M	IMMIGRATION OFFICER	[Please wait in here.]
+M	PAMELA'S (V.O.)	Seven years ago, twelve million dollars was stolen from a CIA account...
+F	PAMELA	...in Warsaw. This is...
+F	PAMELA	...Ivan Mevedev -- senior financial manager -- worked for one of the new Russian petroleum companies, Pecos Oil. He claimed to know where the money landed. We believe this could have only happened with help from someone inside the Agency... This...
+F	PAMELA	...this is Conklin's computer.
+F	PAMELA	...At the time of his death, Conklin was sitting on a personal account in the amount of seven-hundred and sixty thousand dollars.
+M	ABBOTT	Do you know what his budget was?
+F	PAMELA	Excuse me.
+M	ABBOTT	We were throwing money at him. Throwing it at him and asking him to keep it dark.
+F	PAMELA	May I finish?
+M	ABBOTT	Conklin might've been a nut, but he wasn't a mole. You have me his calendar for a couple of days, I'll prove he killed Lincoln. This is supposed to be definitive?
+F	PAMELA	What's definitive, is that I just lost two people in Berlin!
+M	ABBOTT	So what's your theory? Conklin's reaching out from the grave to protect his good name? The man is dead.
+M	MARSHALL	No one's disputing that, Ward.
+M	ABBOTT	For crissake, Marty, you knew Conklin. Does this scan? I mean, at all?
+M	MARSHALL	Okay, cut to the chase, Pam. What are you selling?
+F	PAMELA	I think that Bourne and Conklin were in business. That Bourne is still involved. And that whatever information I was going to buy in Berlin, it was big enough to make Bourne come out from wherever he's been hiding to kill again. How's that scan?
+M	ZORN	Hey... Look, you're not gonna believe this, but Jason Bourne's passport just came on the grid in Naples.
+M	NEVINS	...what can I do? I can't. I'll call you when I know what I'm into... I don't know, some guy's name came up on the computer. So start without me, if I can get there, I will. Later...
+M	CRONIN	Looks like he's been detained.
+F	PAMELA	Who's going? Us?
+M	CRONIN	There's only a Consulate, they sent a field officer out half an hour ago --
+F	PAMELA	Then get a number, they need to know who they're dealing with.
+M	NEVINS	Alright, Mr. Bourne, is that your name? Name's Nevins. I'm with the US Consulate. Could I see your passport?
+M	NEVINS	So, Mr. Bourne...
+M	NEVINS	What are you doing in Tangiers?
+M	NEVINS	Are you travelling alone?
+M	NEVINS	Look, I don't know what you've done. But, you're gonna need to play ball here.
+M	NEVINS	Nevins...
+M	PAMELA/PHONE	This is Pamela Landy, a CI Supervisor calling from Langley, Virginia. Are you with a Jason Bourne now?
+M	NEVINS	Yes...
+F	PAMELA	Then use extreme caution. He can be very unpredictable and violent. Use whatever means necessary to...
+M	NEVINS	Okay, I'll call you right back.
+M	NEVINS	Hello?
+M	PAMELA/PHONE	Mr. Nevins?
+M	NEVINS/PHONE	Who's this?
+M	PAMELA/PHONE	Pamela Landy, again. Where do we stand?
+M	NEVINS/PHONE	I think... I think he got away.
+F	PAMELA	Have you locked down the area?
+M	NEVINS/PHONE	Ah, we're in Italy. They don't exactly "lock down" real quick...
+M	PAMELA/PHONE	How long have you worked for the agency?
+M	NEVINS/PHONE	Me? Four years.
+M	PAMELA/PHONE	If you ever want to make it to five, you're gonna listen to me real close. Jason Bourne is armed and extremely dangerous. A week ago, he assassinated two men in Berlin, one of whom was a highly-experienced field officer...
+M	PAMELA/PHONE	I want that area secured, I want any evidence secured and I want it done now. Is that clear??
+M	NEVINS/PHONE	Yes, sir -- ma'am...
+M	PAMELA/PHONE	I'm getting on a plane to Berlin in 45 minutes, which means you are going to call me back in 30, and when I ask you where we stand, I had better be impressed. My mobile number is...
+M	ABBOTT	Berlin!
+F	PAMELA	I've already got a team there. I doubt Bourne's in Naples to settle down and raise a family.
+M	ABBOTT	You don't know what you're getting into here.
+F	PAMELA	And you do? From the moment he left Treadstone, he has killed and eluded every person that you sent to find him...
+M	MARSHALL	Enough. I want both of you on that plane. And we are -- all of us -- going to do what we were either too lazy or inept to do the last time around -- you're going to find this sonofabitch and take him down before he destroys any more of this agency. Is that definitive enough for you?
+M	CRONIN	-- Kurt's reopening all the wyfi and sat links --
+F	PAMELA	-- uplink all relevant files to Kim -- -- and I want them to contact anyone who had anything to do with Treadstone --
+M	PAMELA/TAPE	"Jason Bourne is armed and extremely dangerous..."
+M	PAMELA/TAPE	"...a week ago he assassinated two men in Berlin, one a highly..."
+M	CRONIN	So your cover at the time was what?
+F	NICKY	That I was an American student in Paris.
+M	CRONIN	What exactly did your job with Treadstone in Paris consist of?
+F	NICKY	I had two responsibilities. One was to coordinate logistical operations. The other was to monitor the health of the agents, to make sure they were up to date with their medications.
+M	CRONIN	Health, meaning what?
+F	NICKY	Their mental health. Because of what they'd been through. They were prone to a variety of problems.
+F	PAMELA	What kind of problems?
+F	NICKY	Depression. Anger. Compulsive behaviors. They had physical symptoms -- headaches -- sensitivity to light --
+F	PAMELA	Amnesia?
+F	NICKY	Before this? Before Bourne? No.
+M	ABBOTT	Were you familiar with the training program?
+F	NICKY	The details? No. I mean, I was told it was voluntary. I don't know if that's true or not, but that's what I was told. Look, they took vulnerable subjects, okay? You mix that with the right pharmacology and some serious behavior modification, and, I don't know, I mean, I guess anything's possible.
+M	ZORN	The jet's ready. There's a car for you.
+F	NICKY	Good luck.
+F	PAMELA	You were his local contact. You were with him the night Conklin died. You're coming with us.
+F	PAMELA	I'm curious about Bourne. Your interpretation of his condition. You have specific training in the identification and diagnosis of psychological conditions?
+F	NICKY	Am I a doctor, no, but...
+F	PAMELA	Are you an expert in amnesia?
+F	NICKY	Look, what do you want me to say? I was there. I believed him.
+F	PAMELA	Believed what?
+F	NICKY	I believed Jason Bourne had suffered a severe traumatic breakdown.
+F	PAMELA	So he fooled you.
+F	NICKY	If you say so.
+F	PAMELA	Not good enough. You're the person who floated this amnesia story. Ever feel sorry for him? For what he'd been through?
+F	NICKY	You're making it out like we're friends here or something. I met him alone twice.
+F	PAMELA	You felt nothing? No spark? Two young people in Paris? Dangerous missions? Life and death?
+F	NICKY	You mean, did I want a date?
+F	PAMELA	Did you?
+F	NICKY	These were killers. Conklin had them all jacked up. They were Dobermans.
+F	PAMELA	Some women like Dobermans --
+F	NICKY	What do you want from me? I was reassigned. I'm out.
+F	PAMELA	See, that's a problem for me, Nicky. Whatever he's doing, we need to end it. This isn't the kind of mess you walk away from.
+F	KIM	-- so far Bourne's had no contact with anyone on the list -- Langley pulled an image out of Naples, it's uploading right now.
+M	KURT	Coming in now...
+F	PAMELA	Is it him?
+M	CRONIN	He's not hiding, that's for sure. Why Naples?
+M	ZORN	Why now?
+M	KURT	Could be random.
+M	CRONIN	Maybe he's running.
+M	ABBOTT	On his own passport?
+F	KIM	What's he actually doing?
+M	CRONIN	What's he doing? He's making his first mistake...
+F	NICKY	It's not a mistake. They don't make mistakes. And they don't do random. There's always an objective, always a target. If he's in Naples, on his own passport, there's a reason.
+M	THE DOORMAN	[Can he walk?]
+M	GRETKOV	[You told me Jason Bourne was dead.]
+M	BOURNE	I emptied it.
+M	JARDA	Felt a little light.
+M	BOURNE	Drop it.
+M	BOURNE	Here...
+M	BOURNE	Front. Use your teeth.
+M	JARDA	Sorry. Old habits.
+M	JARDA	Word in the ether was you'd lost your memory.
+M	BOURNE	You still should've moved.
+M	JARDA	I like it here. Last time I saw you was Greece. You had a good spot.
+M	JARDA	I had the girl. I had her lined up that whole afternoon. Waiting for you, that was the problem. You ever do two targets? It's tough.
+M	JARDA	So why didn't you kill me then?
+M	BOURNE	She wouldn't let me. She's the only reason you're alive.
+M	JARDA	What do you want?
+M	BOURNE	Conklin.
+M	JARDA	He's dead.
+M	BOURNE	Try again.
+M	JARDA	Shot dead in Paris. Dead the night you walked out.
+M	BOURNE/PHONE	Then who runs Treadstone?
+M	JARDA	Nobody. They shut it down. We're the last two. It's over...
+M	BOURNE	You're lying. If it's over, why are they after me?
+M	JARDA	I don't know.
+M	BOURNE	Who sent you to Greece?
+M	JARDA	A voice. A voice from the States. Someone new.
+M	BOURNE	Pamela Landy?
+M	JARDA	I don't know who that is.
+M	BOURNE	What's going on in Berlin?
+M	JARDA	I don't know! Why would I lie?
+M	JARDA	What the hell did you do? You must have really screwed up.
+M	JARDA	She really did that? Told you not to kill me? I had a woman once. But after a while, what do you talk about? I mean, for us. The work. You can't tell them who you are...
+M	BOURNE	I did.
+M	JARDA	I thought you were here to kill me.
+M	BOURNE	What did you do?
+M	BOURNE	You called it in?
+M	JARDA	I'm sorry.
+M	BOURNE	How long? How long do I have --
+M	BOURNE	How long?
+M	JAR #3	-- it's a red flag file! -- so fix it, call them back ASAP! --
+M	JAR #1	What? What'd they do?
+M	JAR #3	She called Munich local.
+M	JAR #2	It's probably just a drill anyway.
+M	BOURNE	-- car keys?
+M	JARDA	-- my coat -- but we should --
+M	BOURNE	-- what? --
+M	JARDA	-- take the back -- get another car --
+F	PAMELA	So he beats a man within an inch of his life, strangles him, then blows the place up? For someone with amnesia, he certainly hasn't forgotten how to kill, has he?
+M	CRONIN	-- hey! -- they've got him boxed in! --
+M	ZORN	Forget it. They lost him.
+M	TEDDY	What're you talking about? They've got a three block perimeter.
+M	ZORN	You can't see him? He's not in front of you? Forget it. He's gone.
+M	CRONIN	It's not gonna be like last time.
+M	ZORN	You better start listening to someone. Cause we've been there.
+M	ABBOTT	Okay, enough... Take a walk, Danny. Get some air.
+F	NICKY	I don't think we need to keep looking for him anyway.
+F	PAMELA	And why is that?
+F	NICKY	Because he's doing just what he said he'd do. He's coming for us.
+M	HOTEL OPERATOR #1 (V.O.)	[Berlin Hilton, how can I help you?]
+M	BOURNE/PHONE (V.O.)	[I'm trying to reach a guest, Pamela Landy, please.]
+M	HOTEL OPERATOR #1 (V.O.)	['m sorry but I'm not showing that we have a guest by that name.]
+M	BOURNE/PHONE	[Pamela Landy, please.]
+M	HOTEL OPERATOR #2	[Sorry, I don't see it here.]
+M	HOTEL VOICES (V.O.)	[--no one here by that name--] [--no, sir, there's no Landy here--] [--how are you spelling that, sir?--] [--sorry, but no--] [--I have no Landy registered, sir--]
+M	PAMELA/PHONE	Hello --
+M	CONKLIN	Neski. Vladimir Neski... He's at the Hotel Brecker. Get the papers. Say it.
+M	BOURNE	Neski. Hotel Brecker. Papers.
+M	CONKLIN	This is not a drill, soldier. We're clear on that? This is a live project and you are go. Training is over.
+M	BOURNE	Yes, sir.
+M	CONKLIN	Good, then gimme the damn picture back. See you on the other side. Pull over, he's getting out.
+M	TAXI DRIVER	[The Hotel Brecker or the Grand?, make up your mind.]
+M	BOURNE	[What?]
+M	TAXI DRIVER	[This is the Westin Grand. You just said Brecker.]
+M	BOURNE	[Yeah. Sorry. This is good.]
+M	BOURNE	Hi. I think I left my backpack here yesterday. Black, Nike.
+F	PAMELA	Anything?
+M	TEDDY	No. Munich's a bust. He's loose.
+F	PAMELA	Are we locked up?
+M	CRONIN	I told everyone they had an hour -- eat, sleep, shave, whatever they want, but once we're back, we're back for good.
+M	BOURNE	[That black SUV. Fifty Euros if you keep me close.]
+M	PAMELA (V.O.)	-- Munich to Berlin, check everything -- flights -- trains -- police reports -- that'll be Box #1, Teddy that's yours --
+M	PAMELA (V.O.)	-- Box #2, call it Prior German Connections -- Nicky, I want to re- run all Bourne's Treadstone material, every footstep -- Kim, Box #3 -- let's call it Munich Outbound --
+F	PAMELA	-- let's stay on the local cops, we need a vehicle -- parking ticket -- something -- Langley's offered to upload any satellite imaging we need, so let's find a target to look for. Danny, Box #4 -- I need fresh eyes -- review the buy where we lost the three million -- timeline it with what we know about Bourne's movements. Turn it upside down and see how it looks --
+F	PAMELA	Is it fresh?
+F	NICKY	It's got caffeine in it. That's all I know.
+F	PAMELA	Pamela Landy.
+M	BOURNE/PHONE	I was at the Westin this morning. I could have killed you.
+F	PAMELA	Who is this?
+M	BOURNE	It's me.
+F	PAMELA	Bourne?
+F	PAMELA	What do you want?
+M	BOURNE	I want to come in.
+F	PAMELA	Okay, how do you want to do it?
+M	BOURNE	I want someone I know to take me in.
+F	PAMELA	Who?
+M	BOURNE	There was a girl in Paris. Part of the program. She used to handle the medication.
+F	PAMELA	What if we can't find her?
+M	BOURNE/PHONE	It's easy. She's standing right in front of you.
+F	PAMELA	Okay, Jason, your move.
+M	BOURNE	Alexanderplatz. 30 minutes. Under the World Clock. Alone. Give her your phone.
+M	ZORN	Here's the clock -- shit -- he's put her in the middle of everything.
+M	CRONIN	-- it's a nightmare -- we'll never get her covered.
+M	ABBOTT	Call a Mayday into Berlin station. We need snipers, DOD, whatever they got. Snipers?
+F	PAMELA	Hold on -- he said he wants to come in.
+M	ABBOTT	My ass he does. You're playing with fire, Pamela. Marshall said nail him to the wall. I don't know how you interpreted that, but I don't think he meant repatriate him.
+F	PAMELA	Don't you want answers?
+M	ABBOTT	There are no answers. There's either Jason Bourne alive or Jason Bourne dead. And I for one would prefer the latter. And what about her? You just send her out to this lunatic with no protection?
+F	PAMELA	What do you think? Is he coming in?
+F	NICKY	I don't know. He was sick. He wanted out. I believed him.
+F	PAMELA	Alright...
+F	PAMELA	...make the call. Get a wire on her. If it starts to go wrong, take him out.
+F	KIM	They got the number. Bourne's calls came from Nevins' phone. The field agent in Genoa.
+M	TEDDY	Nevins is Bourne?
+M	ABBOTT	Are you an idiot?! Bourne must've cloned his phone!
+M	ABBOTT	I hope you know what you're doing --
+M	BOURNE	See that tram coming around the corner?
+F	NICKY	Yes.
+M	BOURNE	Get on it.
+M	BOURNE	Walk.
+F	PAMELA	Where's Nicky?
+M	ABBOTT	Goddamn it -- I told you.
+M	CRONIN	Listen! Listen!
+M	BOURNE'S VOICE	What did I say? What did I tell you in Paris?
+M	BOURNE	What were my words? Leave me alone! Leave me out of it! But you couldn't do that, could you?
+F	NICKY	I did... Jason, I swear, I did... I told them... I told them I believed you...
+M	BOURNE	Who is Pamela Landy?
+F	NICKY	You hear me? I believed you.
+M	BOURNE	IS SHE RUNNING TREADSTONE?
+M	NICKY'S VOICE	She's CI. Counterintelligence. She's a Deputy Director.
+M	BOURNE'S VOICE	What the hell is she doing?
+F	NICKY	What's she doing?
+M	BOURNE	Why is she trying to kill me?
+F	NICKY	They know! They know you were here. They know you killed these two guys. They know you and Conklin had something on the side. They don't know what it is, but they know!
+M	DELTA (V.O.)	Where are they? Anyone?
+M	BOURNE	How do they know that? How can they know any of that?
+F	NICKY	What is this, a game?
+M	BOURNE	I want to hear it from you.
+M	BOURNE	Say it.
+F	NICKY	Last week an Agency field officer went to make a buy from a Russian national.
+M	BOURNE	A Russian?
+F	NICKY	It was Pamela Landy's op. The guy was going to sell-out a mole or something. I haven't been debriefed on exactly what it was.
+M	BOURNE	Last week? When?
+F	NICKY	And you got to him before we could.
+M	BOURNE	I killed him???
+F	NICKY	You left a print! There was Kel that didn't go off! There was a partial print, they tracked it back to Treadstone! They know it's you!
+M	BOURNE	I left a fingerprint! You fucking people.
+M	DELTA C.O.	She must be in one of the pedestrian tunnels.
+M	BOURNE	What was Landy buying? What kind of files? WHAT WAS SHE BUYING?
+F	NICKY	Conklin! Stuff on Conklin!
+F	PAMELA	That phone has a locator on it.
+M	BOURNE	Why are you here, then?
+F	NICKY	Please -- I'm only here because of Paris -- because they can't figure out what you're doing -- I'm here because of Abbott --
+M	BOURNE	Abbott?
+F	NICKY	He closed down Treadstone -- he took care of me after Paris...
+M	BOURNE	So when was I here?
+F	NICKY	What do you mean?
+M	BOURNE	For Treadstone. In Berlin. You know my file. I did a job here. When?
+F	NICKY	No. You never worked Berlin.
+M	BOURNE	My first job.
+F	NICKY	Your first assignment was Geneva.
+M	BOURNE	That's a lie!
+F	NICKY	You never worked Berlin...
+F	NICKY	No... Jason... please...
+M	BOURNE	I was here!
+F	NICKY	...it's not in the file... I swear... I know your file... your first job was Geneva!... I swear to God you never worked here!...
+M	CRONIN	Got it, yeah. Hang on... Okay, they've got three guys out front and another two taking the back stairs. No word on Nicky.
+M	KURT	Even if she's still got your phone, it might take awhile -- signal's hard to trace down there.
+F	PAMELA	So what's he doing? You believe him?
+M	ABBOTT	It's hard to swallow. The confusion -- the amnesia -- but he keeps on killing? It's more calculated than sick. What about Nicky? She's the last one to see Bourne in Paris. She's the one he asks for. They disappear...
+F	PAMELA	Well, whatever he's doing, I've had enough -- this is now a search and destroy mission. I want the Berlin police fully briefed and -- -- get this out to all the agencies.
+M	ZORN	Sir...
+M	ABBOTT	Thanks.
+M	ZORN	I have that number you wanted...
+M	ABBOTT	She say what time I should call?
+M	ZORN	The sooner the better.
+M	ZORN	I did my box work, but I wanted to show you before I showed Landy. I came out here last night because none of this was making any sense. I mean, I'm with you on this, Conklin was a nut, but a traitor? I just can't get there.
+M	ABBOTT	What do you have, Danny?
+M	ZORN	You put a four-gam Kel on here and it's gonna take out power to the building. You know that. What you can't know, is if it's gonna blow the room with it.
+M	ABBOTT	And?
+M	ZORN	There were two charges, they were supposed to go off simultaneously. The second one, the one that didn't go off, was down here... First of all, this is nothing, it's a sub-line for the breaker above. Second, why put the charge all the way down here? If you're good enough to get in here and handle the gear, you're good enough to know you don't need this. Bourne would know.
+M	ABBOTT	It was staged?
+M	ZORN	Is it a slam dunk? No, but...
+M	ABBOTT	Jesus...
+M	ZORN	Okay. What if someone decided to cover their tracks by blaming Conklin and Bourne. What if Bourne didn't have anything to do with this?
+M	ABBOTT	Keep going...
+M	ZORN	Something's been going on here in Europe. And it's still going on. Post Conklin. Who's been in Berlin?
+M	ABBOTT	Lots of people...
+M	ZORN	Including Landy... She had access to the archives.
+M	ABBOTT	Who else knows about this?
+M	ZORN	Nobody. You. I had to tell you, right?
+M	ABBOTT	Show me again...
+M	ZORN	Okay...
+M	CLERK	Guten Abend.
+M	BOURNE	Guten Abend.
+M	CLERK	Can I help you?
+M	CLERK	Sir? Do you have a reservation?
+M	BOURNE	No. Sorry. I just got in... I -- Is room 645 available? I stayed there before. My wife and I.
+M	CLERK	I'm sorry, that room is occupied. Would room 644 be okay, it's just across the hall...
+M	BOURNE	Sure. That's fine. Danka.
+M	CRONIN	-- go -- take the van! --
+F	PAMELA	-- the hotel -- how far? --
+M	TEDDY	-- five, six minutes --
+M	CRONIN	-- Kurt -- you're here! -- keep the comm line open! --
+M	MANAGER	He's in 618.
+M	SWAT CAPTAIN	Call all the guests on the 6th floor. Tell them to remain in their rooms. Tell them it's a police order.
+M	SWAT TEAM BOSS	[-- LISTEN UP! -- WE'RE CLEARING THE
+M	TEDDY	Black coat, possibly leather. Dark slacks. Dark t-shirt. He says they're gonna try and corral the guests on the street over there, and then check them out, but...
+F	PAMELA	Yeah, that'll work...What the hell was he doing here?
+M	CRONIN	Maybe he just needed a place to spend the night?
+F	PAMELA	I want to look at the room. Check it out.
+M	ABBOTT	They missed him?
+M	TEDDY	So far. But they found Nicky. She's back at the Westin. Bourne let her go.
+M	ABBOTT	He let her go? Great. Where's Danny? He should head over there and debrief her. What's here? What was he doing?
+M	TEDDY	We don't know. They're in a room upstairs. I was told to wait down here.
+M	ABBOTT	OK, if you see Danny tell him I went back to the hotel.
+M	CRONIN	The room he checked into was across the hall -- why, why would he come here?
+F	PAMELA	He must've had a reason. That's how they were trained.
+M	CRONIN	He went out the window in here... Pam, you need to see this.
+M	CRONIN	Who's Neski?
+F	PAMELA	Alright... take it down.
+M	CRONIN	What?
+F	PAMELA	This stays between you and I. We finally have an edge. I don't want to lose it.
+M	ABBOTT	You told me Bourne was dead.
+M	GRETKOV	There was a mistake.
+M	ABBOTT	I'll say. You killed his goddam girlfriend instead. Now they're onto Neski. They're at the Brecker Hotel even as we speak.
+M	GRETKOV	Will it track back to us?
+M	ABBOTT	No. The files are spotless. Whatever they find, it's just going to make Conklin look worse.
+M	GRETKOV	And the Landy woman?
+M	ABBOTT	She's done everything I wanted. She bit on Conklin so fast it was laughable. She even found his bogus Swiss account...
+M	GRETKOV	Anything else?
+M	ABBOTT	There's a body in the basement. Danny Zorn. He's got to disappear. For good. Clean and fast. I'll put him in bed with Conklin and Bourne. Even the girl, Nicky. Give me twenty-four hours, I'll think it up. But get the goddamn body out of there.
+M	ABBOTT	Neski was a roadblock. Without me, there's no company, no fortune. You owe me, Uri. One last push.
+M	GRETKOV	One last push. One.
+M	GRETKOV	[Airport.] [We're done here.]
+M	BOURNE	Mr. Abbott?
+M	TEDDY	Here's what I've got. Remember Vladimir Neski? Russian politician? Seven years ago, he was due to speak to a group of European Oil ministers here at the hotel. He never did. He was murdered.
+F	PAMELA	By who?
+M	TEDDY	His wife. In room 645. Then she shot herself.
+F	PAMELA	Alright... I want you, Kurt and Kim to stay on Bourne, track everything that's out there...
+F	PAMELA	And I want you to go through and cross reference our buy that went bad, the Neskis, and Treadstone --
+F	PAMELA	-- they have to be related.
+M	TEDDY	We're looking at all Berlin outbound. Good news is, every train station in Berlin has thirty to forty fixed, digital security cameras. Common feed.
+F	PAMELA	Are we hacking or asking?
+M	TEDDY	Yes. In that order.
+F	PAMELA	And what about you, anything?
+M	CRONIN	It's starting to link up -- the hijacked money -- the leak -- Pecos Oil -- one last bit is Treadstone.
+M	CRONIN	Does it look like he's faking?
+M	TEDDY	On the way in? Forget it.
+M	KURT	The leg's definitely hurt.
+M	CRONIN	Well, there's no window in the men's room, folks, so let's find somebody coming out with a bad left leg.
+M	KURT	Maybe he's still in there.
+M	TEDDY	I've got a limping guy, but it's the right leg.
+F	KIM	Walking away, or walking toward you?
+M	CRONIN	That's him. It's the coat! What train is that?
+M	BOURNE	Hey...
+M	BOURNE	I wanted to kill him.
+F	MARIE	But you found another choice.
+M	BOURNE	I did.
+F	MARIE	It wouldn't have changed the way you feel.
+M	BOURNE	It might have.
+M	BOURNE	I know it's a dream.
+F	MARIE	You do?
+M	BOURNE	I only dream about people who are dead.
+M	BOURNE	God, I miss you. I don't know what to do without you.
+F	MARIE	Jason. You know exactly what to do. That is your mission now.
+F	PAMELA	Sorry to wake you.
+M	ABBOTT	I wasn't sleeping. You OK?
+F	NICKY	Yeah, thanks.
+M	ABBOTT	What's up?
+F	PAMELA	Bunch of stuff.
+M	CRONIN	We tied the room Bourne visited tonight to a murder/suicide seven years ago. A Russian couple, the Neskis.
+M	ABBOTT	Neski. The reformer. I remember that.
+M	CRONIN	He championed the equal distribution of oil leases in the Caspian Sea. When he died, they were all released to one petroleum company, Pecos Oil. Guess what? -- the CEO, Uri Gretkov, is ex-KGB.
+F	NICKY	Someone was using Treadstone as a private cleaning service.
+M	ABBOTT	Conklin... It's -- I'm sorry, Pamela. I guess you were right all along.
+F	PAMELA	There's something else.
+M	ABBOTT	What?
+F	PAMELA	They found Danny Zorn's body. Dead in the basement at the building where my people got hit the first time.
+M	ABBOTT	Oh, God... It must have been Bourne.
+F	PAMELA	Did he say anything to you?
+M	ABBOTT	No... It must have been Bourne.
+F	PAMELA	We'll know for sure when we get the security tapes.
+M	CRONIN	But we can relax. We tracked him. He's on a train to Moscow.
+M	ABBOTT	Moscow? What the Hell's he going to Moscow for?
+F	PAMELA	Don't know.
+M	ABBOTT	Jesus... I, Zorn... I have to call his family. Tell them...
+F	PAMELA	I'm sorry, Ward.
+M	GRETKOV	Da...
+M	ABBOTT/PHONE	You didn't stay, Uri.
+M	GRETKOV	This is not a clean phone.
+M	CRONIN	You're sure?
+F	PAMELA	What? The tapes?
+M	CRONIN	Hold on... Yep. And Abbott just direct dialed Moscow from his room...
+M	GRETKOV	Leaving was a business decision. We're both rich, come enjoy it.
+M	ABBOTT	What do you mean?
+M	GRETKOV	Go to the airport. Get a plane. I'll have a brass band waiting for you.
+M	ABBOTT	Save it for Bourne.
+M	GRETKOV	What?
+M	ABBOTT	He left yesterday on the night train. He's probably just getting in now. You'll have to hurry.
+M	GRETKOV	Bourne comes here? Why?
+M	ABBOTT	Good luck.
+F	PAMELA	Open it.
+M	ABBOTT	They go. You stay.
+F	PAMELA	Yes. Now...
+M	ABBOTT	Sit down.
+F	PAMELA	I'd rather stand if it's all the same to you.
+M	ABBOTT	I don't exactly know what to say -- I'm sorry.
+F	PAMELA	'Why' would be enough for me.
+M	ABBOTT	I'm not a traitor. I've served my ountry.
+F	PAMELA	And pocketed a fair amount of change while doing it.
+M	ABBOTT	Why not? It was just money.
+F	PAMELA	And Danny Zorn, what was that?
+M	ABBOTT	Had to be done.
+F	PAMELA	No good options left?
+M	ABBOTT	In the end, honestly, it's hubris. Simple hubris. You reach a point in this game when the only satisfaction left is to see how clever you are.
+F	PAMELA	No. You lost your way.
+M	ABBOTT	Well, you're probably right. I guess that's all that hubris is.
+M	TAXI DRIVER (O.S.)	[Gangster bastards don't care what they do.]
+M	BOURNE	[You know this address?]
+M	TAXI DRIVER	[It's always something, right?]
+M	YOUNG CABBY	[He was just here. They just left.]
+M	BOURNE	You wait. You understand? Stay.
+M	TAXI DRIVER	Sure. No problem. I sit.
+M	TAXI DRIVER/PHONE	[Hello...?]
+M	BOURNE	[A pen... to write... one minute...]
+M	TAXI DRIVER	[-- I'm looking at him -- American -- he's right here! --]
+M	BOURNE	Wait! Hey! [-- UP! -- HANDS UP! -- KEEP THEM UP! -- DROP THE GUN! -- DROP IT! -- [-- I'M KGB, ASSHOLES! -- WE'RE CHASING THE SAME GUY! -- HE'S GETTING AWAY! --
+M	SECURITY GUARD	[-- hey! -- hey you! -- stop! --]
+M	BOURNE	[Quiet. Silence. Okay?]
+F	IRENA	[I have no money. No drugs. Is that what you want?]
+M	BOURNE	Sit. Can you... [The chair. Have the chair.]
+F	IRENA	I speak English.
+M	BOURNE	Please...
+M	BOURNE	Of all the people in the world, you're the only one I have anything to offer. That's why I came here.
+F	IRENA	Okay.
+M	BOURNE	It's nice. Does this picture mean anything to you? Hmm?
+F	IRENA	It's nothing. It's just a picture.
+M	BOURNE	No. It's because you don't know how they died.
+F	IRENA	No, I do.
+M	BOURNE	I would want to know. I would want to know that my mother didn't kill my father. I would want to know that she didn't kill herself.
+F	IRENA	What?
+M	BOURNE	I would grow up thinking that they didn't love me if they just left me like that.
+M	BOURNE	It changes things. That knowledge. Doesn't it?
+F	IRENA	Yes...
+M	BOURNE	That's not what happened to your parents.
+F	IRENA	Then what?
+M	BOURNE	I killed them.
+M	BOURNE	It was my job. My first time. Your father was supposed to be alone. But then your mother, she came out of nowhere... I had to change my plan. You understand me? You don't have to live like that anymore. Thinking that.
+F	IRENA	You killed them.
+M	BOURNE	They loved you. And I killed them.
+F	IRENA	How... how can... how can you be here and say this?
+M	BOURNE	I don't want you to forgive me.
+F	IRENA	For who? KILLED FOR WHO?
+M	BOURNE	It doesn't matter. Your life is hard enough.
+F	IRENA	You're a liar.
+M	BOURNE	You know I'm not.
+F	IRENA	YOU'RE A LIAR!
+M	BOURNE	Look at me.
+F	IRENA	I should kill you... if it's true you should die... I should kill you now!
+M	BOURNE	I can't let you do that either.
+F	IRENA	Because you're afraid!
+M	BOURNE	No. Because you don't want to know how it feels.
+M	BOURNE	I have to go now.
+F	IRENA	Is this really happening?
+M	BOURNE	I'm sorry.
+M	PAMELA (O.S.)	Hello, David.
+M	BOURNE	Where am I?
+F	PAMELA	Ramstein Air Base, Germany. Before the wall fell you would have woken up in a Russian prison hospital.
+M	BOURNE	Oh, shit...
+F	PAMELA	Careful...
+M	BOURNE	Why am I alive?
+F	PAMELA	Are you disappointed?
+M	BOURNE	I know who you are.
+F	PAMELA	Thank you for your gift. I'm sorry about Marie.
+M	BOURNE	What's that?
+F	PAMELA	Do you think you can read? Are you well enough?
+F	PAMELA	It's all in here. Treadstone. A summary of your life. All of it.
+M	BOURNE	Don't need it. I remember everything.
+F	PAMELA	Sounds like a threat.
+M	BOURNE	You didn't answer my question.
+F	PAMELA	Why you're alive? You're alive because you're special. Because she kept you alive. Because we want you back on our side.
+F	PAMELA	Take a look at it. We'll talk later.
+F	PAMELA	Let's give him half an hour.
+F	NICKY	So?
+F	PAMELA	Felt promising. It's a start.

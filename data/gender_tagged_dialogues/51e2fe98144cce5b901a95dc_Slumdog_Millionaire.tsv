@@ -1,0 +1,944 @@
+M	CHARACTER	DIALOGUE
+M	JAVED O/S	Salim! Salim!
+M	TALKBACK V/O	Ten to white-out, nine, eight, seven...
+M	PREM	Are you ready?
+M	PREM (CONT'D)	I said are you ready?
+F	JAMAL	Yes.
+M	TALKBACK V/O	...three, two, one, zero. Cue Prem, cue applause... CONTINUED: 4
+M	TALKBACK V/O	Go, Prem.
+M	PREM	Welcome to Who Wants To Be A Millionaire!
+M	PREM (CONT'D)	Please give a warm welcome to our first contestant of the night- a local from our very own Mumbai!
+M	PREM (CONT'D)	Smile, dammit.
+M	CONSTABLE SRINIVAS	Your name, bhen chod.
+M	CONSTABLE SRINIVAS (CONT'D)	Your name!
+F	JAMAL	Jamal Malik.
+M	PREM	So, Jamal, tell us a bit about yourself.
+M	JAMAL V/O	I work in a call centre. In Juhu.
+M	PREM	A Phone-basher! And what type of call centre would this be?
+F	JAMAL	XL 5. Mobile phones.
+M	PREM	Aha! So, you're the man who rings me up every single day of my life with Special Offers, huh?
+F	JAMAL	No, actually, I'm an assistant.
+M	PREM	An Assistant Phone-basher? And what does an Assistant Phone- basher do, exactly?
+F	JAMAL	I- I get tea for people and- CONTINUED: 8
+M	PREM	- a chi-wallah! Why didn't you say?
+M	PREM (CONT'D)	So, ladies and gentlemen, Jamal Malik from Mumbai, let's play Who Wants To Be A Millionaire...!
+M	INSPECTOR	Has he confessed, yet?
+M	CONSTABLE SRINIVAS	Apart from his name, I can't get a word out of the runt.
+M	INSPECTOR	You've been here all bloody night, Srinivas. What have you been doing?
+M	CONSTABLE SRINIVAS	Tough guy.
+M	INSPECTOR	A little electricity will loosen his tongue.
+M	INSPECTOR (CONT'D)	Every night I get home, "why can't we have a/c like Bajan Chacha? CONTINUED: 10 Why don't you care about your poor family, dying in this heat." Twenty-four years a policeman and I can't afford bloody a/c.
+M	INSPECTOR (CONT'D)	But you. You've got ten million rupees ek dum guaranteed, yaar? And who knows how much further? Fancy the twenty million, do you? I think you probably do.
+M	INSPECTOR (CONT'D)	So. Were you wired up? A mobile or a pager, correct? Some little hidden gadget? No? A coughing accomplice in the audience? Microchip under the skin, huh?
+M	INSPECTOR (CONT'D)	Srinivas! Look, it's hot, my wife is giving me hell, I've got a desk full of murderers, rapists, extortionists, assorted bum-bandits...and you. Why don't you save us both a lot of time? Hmm?
+M	INSPECTOR OF POLICE	He's unconscious, chutiya. What good is that? How many times have I told you-?
+M	CONSTABLE SRINIVAS	Sorry, Sir. CONTINUED: (2) 10
+M	YOUNG CONSTABLE	He's coming! Sir.
+M	INSPECTOR	Aré wa, Srinivas, we'll have Amnesty International in here next, peeing their pants about human rights. Get him down, tidy him up, for God's sake.
+M	CONSTABLE SRINIVAS	Maybe he did know the answers.
+M	INSPECTOR	Have you gone soft, Srinivas? Professors, lawyers, doctors, General Knowledge Wallahs never get beyond sixteen thousand rupees. And he's on ten million? What the hell can a slum dog possibly know?
+F	JAMAL	The answers.
+M	JAMAL (CONT'D)	I know the answers.
+M	SALIM	Jamal! Catch it! Catch it! CONTINUED: 11 How could you drop that? It was a sitter.
+M	SECURITY GUARD	Private-ka land! Private-ka land! The planes won't kill you, mader chod, I will! CONTINUED: 13
+M	SALIM	Vinod! Musketeers coming through!
+M	WOMAN'S VOICE	Jamal!
+F	JAMAL	Shit. Mummy-ji.
+M	JAMAL'S MOTHER	Don't you move a muscle.
+M	JAMAL'S MOTHER (CONT'D)	Thank you, Mister Gupta. I will deal with these two.
+M	MISTER NANDHA	So, the musketeers return. We are honoured. Salim. Or Porthos, isn't it?
+M	SALIM	I know!
+M	MISTER NANDHA	And Athos.
+M	COMMISSIONER OF POLICE	It is so kind of you to visit our station, Sir. A great honour.
+M	PREM	Not at all, not at all. I hope you will visit us, Commissioner.
+M	PREM (CONT'D)	Bring the family. It's a lot of fun.
+M	COMMISSIONER OF POLICE	Oh! A thousand thanks, Sir. Missus Janda will be overcome. CONTINUED: 16
+M	COMMISSIONER OF POLICE	chi, you lazy chutiyé, chi!
+M	COMMISSIONER OF POLICE	Ah, Inspector! Cracked it?
+M	INSPECTOR	Nearly, Sir.
+M	COMMISSIONER OF POLICE	Nearly? Nearly? When Prem Kumar himself has-
+M	PREM	Inspector. How good to meet you. Clearly the kid cheated.
+M	INSPECTOR	Clearly, Sir.
+M	PREM	So, it is just a question of how, no?
+M	INSPECTOR	Indeed, Sir. The proof. That is all we need.
+M	PREM	We are lucky to have a man of your obvious experience on the case. This kid might run rings around us filmi types, but he won't make fools out of the Mumbai Police Force, I can see that.
+M	PREM (CONT'D)	In front of sixty million people. CONTINUED: (2) 16 Which is what will happen if we don't get a result, Gentlemen. He goes back on the show to rob us all with the whole of India watching. But. I can rely on you.
+M	PREM (CONT'D)	Has he- has he made any allegations?
+M	INSPECTOR	Allegations?
+M	PREM	He's a cunning one. A convincing liar. Don't be taken in, Inspector, don't be taken in.
+M	INSPECTOR	So, Mister Malik, the man who knows the answers. Talk.
+M	PREM	So, are you ready for your first question for one thousand rupees?
+F	JAMAL	Yes.
+M	PREM	Not bad money to sit in a chair and answer a question. Better than making the tea, no? CONTINUED: 18
+F	JAMAL	No. Yes. No.
+M	PREM	No. Yes. No. Apka final answer?
+M	PREM (CONT'D)	Remember, you have three lifelines if you're not sure of your answer- Ask the Audience, 50/50 and Phone a Friend. So, the question:
+M	PREM (CONT'D)	Who was the star of the 1973 hit film Zanjeer. Was it A-
+M	SALIM	Immediately, sir.
+M	SALIM (CONT'D)	Bhai, get out of there. Prakash wants a shit.
+M	JAMAL O.S.	Not finished.
+M	PRAKASH	Stop your time-pass. This is urgent. CONTINUED: 20
+M	JAMAL O.S.	It's a shy one. Since when was there a time limit on a crap?
+M	SALIM	Since there was a customer waiting, that's when.
+M	JAMAL O.S.	Come on out, you beauty, unveil yourself, my darling-warling....
+M	PRAKASH	Look, kid, I got a bad stomach. It's borderline.... I'm off to Devi's bog. Give me that.
+M	SALIM	You just lost me good money, you stupid idiot-
+M	MAN	It's Amitabh! That's his helicopter!
+M	JAMAL O.S.	Amitabh? Amitabh Bacchan?
+F	JAMAL	No! Wait! Salim, sala! Salim! CONTINUED: 21
+M	JAMAL (CONT'D)	Wait! Amitabh....
+M	JAMAL (CONT'D)	Amitabh-ji! Amitabh-ji! Please. Amitabh-ji.
+M	JAMAL (CONT'D)	A thousand thanks, Amitabh-ji.
+M	MAN	It's coming!
+F	JAMAL	Amitabh, Amitabh, oh Amitabh! I have your autograph, oh, holy Amitabh!
+M	MOTHER	Here it comes!
+F	JAMAL	Sala! Sala!
+M	PREM V/O	You chose A- Amitabh Bacchan. Guess what? You just won one thousand rupees!
+F	JAMAL	You don't have to be a genius.
+M	CONSTABLE SRINIVAS	I knew it was Amitabh.
+F	JAMAL	Like I said. CONTINUED: 25
+M	JAMAL (CONT'D)	He's the most famous man in India...!
+M	PREM O/S	For four thousand rupees....the national emblem of India is a picture of three lions. What is written underneath? Is it...
+M	PREM	Fashion alone triumphs. D) Money alone triumphs.
+M	PREM (CONT'D)	What do we think, Jamal? The most famous phrase in our country's history. Maybe you want to phone a friend?
+M	PREM (CONT'D)	Or Ask the Audience? I have a hunch they might just know the answer. What do we think?
+F	JAMAL	Yes.
+M	PREM	Yes?
+F	JAMAL	Ask the audience.
+M	PREM	Well, you're the contestant, Jamal. Put the poor man out of his misery, Ladies and Gentlemen. Press your key-pad now.
+M	INSPECTOR	So, Jamal. My five-year-old daughter knows the answer to that, but you don't. Strange for a millionaire genius. What happened? Your accomplice nip out for a piss, did he? Or did he just not cough loud enough?
+M	CONSTABLE SRINIVAS	The Inspector asked you a question.
+F	JAMAL	How much is bhelpuri at Jeevan's stall on Chowpatty Beach?
+M	INSPECTOR	What?
+F	JAMAL	One bhelpuri. How much?
+M	CONSTABLE SRINIVAS	Ten rupees.
+F	JAMAL	Wrong. Fifteen since Divali. Who stole Constable Varma's bicycle outside Dadar Station last Thursday?
+M	INSPECTOR	You know who that was?
+F	JAMAL	Everyone in Juhu knows that. Even five year-olds. CONTINUED: 27
+M	INSPECTOR	I'll give you five hundred rupees if you just admit it. You go home, I go home. Everybody happy.
+M	INSPECTOR (CONT'D)	No, you want to go back on the programme and win twenty million rupees, don't you?
+F	JAMAL	Wouldn't you?
+M	PREM	The audience has chosen. And, whaddya know? Ninety-nine percent of them think the answer is A). The truth alone triumphs. What do we think, Jamal? A hundred percent would have made me a little more reassured, maybe....
+M	PREM (CONT'D)	Are you married, Jamal?
+F	JAMAL	No.
+M	PREM	Well, don't despair, there's someone out there who thinks our national motto is "Fashion alone triumphs". You two could be very well matched.
+M	DIRECTOR	What the bloody hell is he playing at? He's way off script...
+M	VISION MIXER	Split up with his girl-friend. CONTINUED: 29
+M	DIRECTOR	Which one?
+M	VISION MIXER	All three, I heard. Nita as well. Back with the wife. She's pregnant again.
+M	DIRECTOR	Oh, God, that's all we need....
+M	VISION MIXER	Oh, for Sharukh Khan...Stand by white out.
+M	PREM	...won four thousand rupees!
+M	PREM (CONT'D)	One more question before the commercial break. What will our Call Centre Assistant do next?
+M	PREM (CONT'D)	Religion! Interesting. For sixteen thousand rupees, in depictions of the God Ram, he is famously holding what in his right hand? Is it A) a flower. a bow and arrow?
+M	JAMAL AND SALIM'S MOTHER	It's going to come. Today. I can feel it.
+M	WOMAN	Hope so. My head is exploding. CONTINUED: 31
+M	MOTHER	Yes. We need rain.
+M	MOTHER (CONT'D)	Run! Jamal, Salim, run!
+M	MOTHER (CONT'D)	Go! Run!
+M	SALIM	Krishna, quick!
+M	KRISHNA	No way! You're a bloody Muslim. Get away from me!
+M	KRISHNA (CONT'D)	They're Muslims! Him and him!
+M	MOTHER	Go!
+F	JAMAL	Salim!
+M	JAMAL (CONT'D)	Mister Nandha.
+M	MISTER NANDHA	Ram nam satya hai, Babri Masjid dhvasth hai.
+F	JAMAL	Mister Nandha?
+M	MISTER NANDHA	We have destroyed your mosque. Now, the followers of Ram will drive you dogs out of our city. Ram has returned to his temple! Ram has returned!
+F	JAMAL	Let's go, bhai.
+F	JAMAL	We should go back. See if Ama- What about Jeevan Chacha? Maybe he-
+M	SALIM	- I saw him. He was with them.
+F	JAMAL	But he wouldn't hurt-
+M	SALIM	- he was with them!
+F	JAMAL	But-
+M	SALIM	- shut up, Jamal, can't you? Just shut up!
+M	SALIM (CONT'D)	Ja!
+F	JAMAL	What shall we do? CONTINUED: 33
+M	SALIM	Go away. Ja, ja!
+M	SALIM (CONT'D)	She'll have the Security Guard onto us, standing there.
+F	JAMAL	Not if we let her in.
+M	SALIM	No.
+F	JAMAL	She could be the third musketeer.
+M	SALIM	I am the head of this family, now. And I say no. Piss off, you. We don't even know what the third musketeer's called. CONTINUED: 36
+F	JAMAL	Where's your Mother?
+M	JAMAL (CONT'D)	Father?
+M	JAMAL (CONT'D)	I'm Jamal. He's Salim.
+F	LATIKA	Latika.
+F	JAMAL	I wake up every morning wishing I didn't know the answer to that question? If it wasn't for Ram and Allah, I would still have a Mother.
+F	JAMAL	D) A bow and arrow.
+M	PREM	Final answer?
+F	JAMAL	Final answer.
+M	PREM	Computer-ji, D lock kiya-jaye. CONTINUED: 38
+M	PREM (CONT'D)	Jamal Malik, you answered D? Ram is depicted with a bow and arrow in his hand. And guess what? You've just won sixteen thousand rupees! Well done, my friend. Time for a commercial break- don't go away, now.
+M	PREM (CONT'D)	Got lucky, huh? I'd take the money. You'll never get the next one.
+F	JAMAL	You're from the Juhu slum, aren't you?
+M	PREM	Hmm? Sure. Know where I live now, kid? Pali Hill. Twelve bedrooms, a/c in every room, two kitchens, a gym and a screening room. Steel balls is what it takes, my friend, steel balls.
+M	DIRECTOR V/O	Prem? Tone it down, for goodness sake. You're making him a laughing stock.
+M	PREM	We're having fun here. They love it...Where the hell do you get them from?
+M	DIRECTOR V/O	It's supposed to be a quiz show, not a blood sport.
+M	FLOOR MANAGER	Two minutes. CONTINUED: (2) 38
+M	PREM	Stop wetting your pants. I'll be a good little boy with the next one. Promise.
+M	PREM	Meet me after the show. Please.
+M	NITA	No.
+M	PREM	Nita, I can explain.
+M	NITA	No need. I read it in bloody Stardust. Didn't even have the balls to tell me. "Prem's happiness with another baby on the way". After everything you said...
+M	PREM	Baby, it all happened before I met you. I swear to you.
+M	NITA	She's got the gestation period of an elephant, then.
+M	PREM	You see? Amidst all this misery, only you can make me laugh.
+M	NITA	All this misery...
+M	PREM	Her and I- nothing. You have to believe me, baby...
+M	FLOOR MANAGER	One minute. CONTINUED: 39
+M	PREM	No. I'm not going on.
+M	NITA	Prem...
+M	PREM	I can't. Without you, it's all pointless.
+M	PREM (CONT'D)	You. Tell the Director.
+M	FLOOR MANAGER	Thirty seconds.
+M	NITA	Prem...
+M	PREM	Calypso Bar, private room, just you and me?
+M	FLOOR MANAGER	Fifteen.
+M	NITA	Alright.
+M	PREM	Steel balls. Okay, Juhu boy, you've had a good run. Take your Mother to Khandala and eat some chiki.
+F	JAMAL	My Mother's dead. CONTINUED: 40
+M	PREM	Well, your girlfriend then. Even better.
+F	JAMAL	I don't have a girl-friend.
+M	PREM	Live wire like you? You surprise me.
+M	FLOOR MANAGER	Five, four...
+M	TALKBACK V/O	....three, two, one...
+M	PREM	Welcome back to Who Wants to be a Millionaire! Our contestant, Jamal Malik, Call Centre Assistant- from Mumbai, is on sixteen thousand rupees and has already used one lifeline: Ask the Audience. So, my friend: are you ready for the next question?
+F	JAMAL	Yes.
+M	PREM	Then, let's play.
+M	PREM (CONT'D)	For sixty-four thousand rupees. The British architect Frederick Stevens designed which famous building in India? Is it: A) The Taj Mahal. B) Chhatrapati Shivaji Terminus. C) India Gate. D) Howrah Bridge. What do you think, Jamal? Are you one of those tea-boys with a penchant for architecture? CONTINUED: 41
+M	PREM	So, what's it to be? Walk away and this cheque for sixteen thousand rupees is yours. Look, it's even got your name on it.
+F	JAMAL	I don't have a bank account.
+M	JAMAL (CONT'D)	But I'll take cash.
+M	PREM	Nope. Looks like the Producer's stolen my wallet again-
+F	JAMAL	- I'll play.
+M	PREM	You'll play?
+F	JAMAL	Why not?
+M	PREM	Well, well, well. We've got a wild one, here. CONTINUED: 42
+M	PREM (CONT'D)	For sixty-four thousand rupees, Ladies and Gentlemen, the question once again....
+F	JAMAL	Latika! Latika!
+M	JAMAL (CONT'D)	Latika!
+M	JAMAL (CONT'D)	Latika!
+M	JAMAL V/O	Chhatrapati Shivaji Terminus.
+M	PREM V/O	Chhatrapati Shivaji Terminus. Sure?
+M	JAMAL V/O	I think so.
+M	PREM V/O	You think so. A brave man, Ladies and Gentlemen, a brave man.
+F	JAMAL	Yes. Final answer. Chhatrapati Shivaji Terminus.
+M	PREM	Is the right answer! Sixty-four thousand rupees to you, Sir!
+M	INSPECTOR	And did she come back?
+F	JAMAL	I wouldn't be here if she had.
+M	INSPECTOR	Pretty was she?
+M	INSPECTOR (CONT'D)	Guess not.
+F	JAMAL	The most beautiful woman in the world.
+M	INSPECTOR OF POLICE	Well, well. The slum dog barks. Money or women. The reason for most mistakes in life. Looks like you got mixed up with both. Srinivas, you need the exercise: a trip to VT Station to check on the statue. And lock your bloody bike up. CONTINUED: 45
+M	INSPECTOR	That's the chutiyé out the way. Now, man to man. How did you know all the answers?
+F	JAMAL	If I knew, I'd tell you.
+M	PREM	Now we're into the serious money. For two hundred and fifty thousand rupees, ladies and gentlemen, a quarter of a million rupees...the song Chalo Ri Murali was written by which Surdas. B) Tulsidas. C) Mira Bai. D) Kabir. Remember you still have two lifelines- fifty- fifty and Phone A Friend. Tempted to use one?
+F	JAMAL	No.
+M	PREM	No?
+F	JAMAL	I know this one.
+M	PREM	Oh. I see. An expert on the poets, huh? CONTINUED: 49
+F	JAMAL	Four, nine, zero, nine- the one with the stick going down, Salim- six- stick going up-
+F	LATIKA	Oi!
+F	JAMAL	Six, one, shit, let's go-
+M	SECURITY GUARD	Got you now, little shits.
+M	SECURITY GUARD	Aha! Little thief!
+M	SECURITY GUARD (CONT'D)	Pervert!
+M	SALIM	Useless bloody look-out. What good is she, huh? CONTINUED: 51
+F	LATIKA	I tried to warn you.
+F	JAMAL	It's okay, Salim.
+M	MAN	Hello.
+M	MAN (CONT'D)	Hot, huh? My name is Maman.
+M	MAMAN	Anyone hungry? Come on in.
+F	JAMAL	He must be a very good man to look after these people.
+M	SALIM	A saint.
+M	ARVIND	We're not allowed to talk to them.
+F	LATIKA	Why not?
+M	LATIKA (CONT'D)	Well, if there are seconds, Maman is definitely a Saint.
+M	LATIKA (CONT'D)	I tell you, Lord Siva is with us.
+M	MAMAN	Stop! You. Again. CONTINUED: 56
+M	MAMAN (CONT'D)	Everyone.
+M	MAMAN (CONT'D)	You sing like one, and you fight like one. I think you've found your dog, Punnoose.
+M	SALIM	Okay, let's go, let's go! It's not a bloody holiday! Give me that.
+F	JAMAL	Hey, Salim!
+M	SALIM	What, choté bhai? You got a problem? CONTINUED: 57
+M	SALIM (CONT'D)	Here. For you.
+F	LATIKA	I don't want it.
+M	SALIM	You'll earn double. I'm doing you a favour, Latika.
+F	JAMAL	She doesn't want it.
+M	SALIM	Chup, Jamal.
+M	SALIM (CONT'D)	I'll drop it.
+M	SALIM (CONT'D)	Triple if it's crying.
+M	SALIM	Madher chod...! CONTINUED: 59
+M	SALIM	You're dead, sala.
+M	PUNNOOSE	Get back to bed, dogs! What the hell...
+M	JAMAL V/O	They taught me every song in the history of Indian music.
+M	INSPECTOR V/O	And why would they do that, I wonder?
+M	MAMAN	Very good, very good. I am pleased, Arvind. He is ready.
+M	ARVIND	Ready?
+M	PUNNOOSE	Salim! CONTINUED: 61
+M	MAMAN	Okay. Take him out the back.
+M	MAMAN (CONT'D)	Now the other one. Salim, go get Jamal.
+M	SALIM	What?
+M	MAMAN	Gunfighter Number One, isn't that right, Salim? The money, the women, the cars...you want them bad, huh? And why not?
+M	MAMAN (CONT'D)	The time has come to choose, yaar. The life of a slum dog or the life of a man. A real man. A gunfighter, Salim.
+M	MAMAN (CONT'D)	Your destiny is in your hands, bhai. You can be me. Or nobody. Understand?
+M	SALIM	Yes, Maman.
+M	MAMAN	So, brother, go get Jamal. CONTINUED: 62
+F	JAMAL	...weddings, government things, big parties. If Maman says my voice is ready. Big money.
+F	LATIKA	Enough for a room?
+F	JAMAL	Easily. Maybe an apartment.
+F	LATIKA	Really?
+F	JAMAL	That's what Arvind said. On Harbour Road. You, me and Salim. The three musketeers.
+F	LATIKA	Harbour Road! We can have ice cream from Babanji's.
+F	JAMAL	Every day if we want. It's my turn.
+F	LATIKA	Good luck, Jamal.
+F	JAMAL	So, this is it, hey, bhai? The good life, here we come....
+M	SALIM	Athos. CONTINUED: 63
+F	JAMAL	Porthos?
+M	SALIM	When I say.
+M	MAMAN	Jamal, hello. You have done well. It's time for you to- turn professional.
+F	JAMAL	Really?
+M	MAMAN	Sing me a song, yaar. How about Chalo Ri Murali, huh? My favourite.
+F	JAMAL	Fifty rupees.
+M	MAMAN	What?
+F	JAMAL	I've turned professional. What can I do?
+M	MAMAN	Sala...!
+M	SALIM	Go!
+F	LATIKA	Jamal!
+F	JAMAL	Run!
+F	JAMAL	Come on! Faster! CONTINUED: 68 Take it! Take it! I can't reach...
+F	LATIKA	Jamal!
+F	JAMAL	Got to go back. We've got to go back.
+M	SALIM	He'll kill us if we go back. Jamal! He was going to take your eyes out- with a bloody spoon!
+M	SALIM (CONT'D)	She'll be alright. She always is.
+M	PREM	The question was, for two hundred and fifty thousand rupees: who wrote the famous song Chalo Ri Murali. I should warn you, Jamal: from this question on, if you get the answer wrong you lose everything. So. Are you sure? The life-lines are there....
+F	JAMAL	Surdas.
+M	PREM	Surdas. Apka final jawab? CONTINUED: 69
+F	JAMAL	Yes.
+M	PREM	Computer-ji, A lock kiya-jaye.
+M	PREM (CONT'D)	Guess what? You're right.
+F	JAMAL	Blind singers earn double. You know that.
+M	INSPECTOR	And what happened to the girl? They blinded her too?
+F	JAMAL	They had other plans. Though it took me a long, long time to find out.
+M	SALIM	Aré, Jamal... Come.
+F	JAMAL	Where you going?
+M	SALIM	First class, bhai. Where else?
+M	JAMAL V/O	We criss-crossed the country from Rajasthan to Calcutta. Every time we were thrown off we got back on again. This was our home for years. A home with wheels and a whistle.
+F	JAMAL	Salim? Is this heaven?
+M	SALIM	You're not dead, Jamal. CONTINUED: 73
+F	JAMAL	So what's that?
+M	SALIM	Wow.
+F	JAMAL	Some hotel, huh?
+M	GUIDE	...there are five main elements to the Taj. The Darwaza, the main gateway, the Bageecha or garden, the Masjid or mosque, the Naqqar Khana, the rest house and the Rauza or mausoleum. If you would like to follow me, I will show you the ninety-nine names of Allah on Mumtaz's tomb. As before, please remove your shoes.
+M	ADA	Please, what time is the next tour?
+F	JAMAL	Err-
+M	PETER	- so much waiting around in this damned country. CONTINUED: 75
+F	JAMAL	No, I-
+M	ADA	- we're on a very tight schedule, you see, young man. Have to see the Red Fort this afternoon. Would it be possible to show us around now? Obviously we understand it would cost more for just the two of us...
+F	JAMAL	But of course, Madam. Please follow me.
+M	JAMAL (CONT'D)	This is....the Taj Mahal.
+M	JAMAL (CONT'D)	The Taj Mahal was built by the Emperor Khurram for his wife Mumtaz who was maximum beautiful woman in the whole world. When she died, the Emperor decided to build this five star hotel for everyone who wanted to visit her tomb...but he died in- in fifteen eighty-seven, before any of the rooms were built. Or the lifts. The swimming pool, however, as you can see was completed on schedule in top class fashion.
+M	ADA	It says nothing of this in the guide book.
+F	JAMAL	With respect, Madam, the guide book is written by a bunch of lazy, good-for-nothing, Indian beggars. CONTINUED: (2) 75
+M	ADA	Oh.
+F	JAMAL	And this, Lady and Gentleman, is burial place of Mumtaz.
+M	ADA	How did she die?
+F	JAMAL	A road traffic accident.
+M	ADA	Really?
+F	JAMAL	Maximum pile-up.
+M	PETER	I thought she died in child- birth.
+F	JAMAL	Exactly, Sir. She was on the way to the hospital when it happened.
+M	ADA	You've seen the way they drive around here...
+M	JAMAL V/O	It was the best-paid job I've ever had.
+F	JAMAL	This is the Princess Diana seat, Madam. Allow me.
+M	SALIM O/S	Tourist police! CONTINUED: 76
+F	JAMAL	Top-class fashion, bottom-class prices! Shoes for all! Shoes for all!
+M	JAMAL V/O	And life was good.
+F	JAMAL	This is the biggest dhobi ghat in the whole of India, Mister David. They say that every man in Uttar Pradesh is wearing a kurta that has been washed here at least one time.
+M	CLARK	Is that so? That's amazing. Let's get a look at this, Adele.
+M	SALIM	Aré, sala! Formula One, Formula One! Pit-stop ka speed, Schumacher ka ishtyle
+M	SALIM (CONT'D)	Go, go!
+M	CLARK	Woah. What happened here?
+M	DRIVER	I give you two tight slaps, mader chod!
+F	JAMAL	I don't know! I didn't do it, did I...? Nothing to do with me...get off!
+F	ADELE	Do something, Clark.
+M	CLARK	Well, I- I dunno, I-
+M	CLARK (CONT'D)	Okay, okay, just cool it. You're insured, aren't you? Jesus Christ...
+M	CLARK (CONT'D)	You okay?
+F	JAMAL	You wanted to see the `real India', Mister David. Here it is.
+F	ADELE	Well, here's a bit of the real America, too, son.
+M	BOY	Oi, Jamal! There's a woman with no panties on over here.
+M	WOMAN	Why don't you put it back and listen to the music? CONTINUED: 83
+M	WOMAN (CONT'D)	It's called Orfeo. Orpheus and Eurydice. Orpheus- that one there- is looking for his lover, Eurydice. She died, but he can't live without her. The pain is so bad that he goes to the underworld- the place we go when we die- to try to get her back.
+F	JAMAL	You can't do that. Can you?
+M	WOMAN	You can in opera.
+F	JAMAL	Does he find her?
+M	WOMAN	Watch and see.
+M	SALIM	Woah! What are you- Jamal?
+F	JAMAL	We have to go, Salim.
+M	SALIM	Go? Go where? CONTINUED: 84
+F	JAMAL	Bombay.
+M	SALIM	Don't be stupid. We're making good money here.
+F	JAMAL	We should have gone a long time ago.
+M	SALIM	Oh, God. Baby brother's in love. With a flat-chested hijra.
+F	JAMAL	Latika was one of us. A musketeer.
+M	SALIM	A musketeer...Grow up, Jamal. Look, how was I to know they'd beat you up. Here, you can have some of the cash. Come on...
+F	JAMAL	I've got cash.
+M	JAMAL (CONT'D)	Dollars.
+M	SALIM	How much?
+F	JAMAL	Enough. I'm getting my stuff.
+M	SALIM	Wait! Jamal! Ah, shit!
+M	PREM	So, my friend: ready for another question. CONTINUED: 85
+F	JAMAL	Yes.
+M	PREM	For a straight one million rupees, Ladies and Gentlemen...On an American One Hundred Dollar Bill there is a portrait of which American statesman? Is it A), George Washington, B) Franklin Roosevelt, C) Benjamin Franklin, D) Abraham Lincoln?
+M	PREM (CONT'D)	Pay or play, Jamal? All you have to do is stop now and you walk away with a cool quarter of a million rupees. Decide to play, get the answer wrong and you walk away with absolutely nothing. But, get the answer right and you win a million rupees. So. You decide. Pay or play?
+M	DIRECTOR	Okay, he hasn't got a clue. This is going to be a walk-away. Stand by.
+M	VISION MIXER	No, he's going to play with him, first.
+M	PREM	Get a lot of hundred dollar bills in your line of work, Jamal?
+F	JAMAL	The minimum tip for my services. CONTINUED: 87
+M	PREM	Now I know why my cell phone bill is so high...they pay the chi-wallah in hundred dollar bills!
+F	JAMAL	It's C. Benjamin Franklin.
+M	PREM	Woah! We haven't locked the computer, man. You're going to play?
+F	JAMAL	I think I just have. Haven't I?
+M	PREM	You certainly have. C. Right?
+F	JAMAL	Right. C.
+M	PREM	Not confusing your Franklins? Benjamin for Roosevelt?
+F	JAMAL	I've never heard of Roosevelt Franklin.
+M	PREM	There's a million rupees at stake and he's never heard of Roosevelt Franklin...I can't bear to look. No, no. Don't you worry, Jamal. You were asked which statesman is depicted on a hundred dollar bill. You said C. Benjamin Franklin. Ladies and Gentlemen... Jamal Malik- you chose to play not pay. I'm afraid you no longer have two hundred and fifty thousand rupees.... CONTINUED: (2) 87
+M	PREM (CONT'D)	...you in fact have one million rupees!
+M	INSPECTOR	Who's on the thousand rupee note?
+F	JAMAL	I don't know.
+M	INSPECTOR	It's Gandhi!
+F	JAMAL	I've heard of him.
+M	INSPECTOR	Don't get clever or I'll get the electricity out again.
+F	JAMAL	They didn't ask me that question. I don't know why. Ask them.
+M	INSPECTOR	Funny, you don't seem that interested in money.
+M	CONSTABLE SRINIVAS	Platform Seventeen- CONTINUED: 88
+M	CONSTABLE SRINIVAS (CONT'D)	A statue of Frederick Stevens, architect and builder of Victoria Terminus in -
+M	INSPECTOR OF POLICE	- yes, yes, Srinivas. The hundred dollar bill.
+M	JAMAL V/O	Bombay had turned into Mumbai.
+M	JAMAL V/O (CONT'D)	The orphanage had gone, the slum had gone, the people.... all gone. And everywhere was building, building, building.
+M	JAMAL V/O	But I knew she was here. Somewhere she was here.
+M	JAMAL V/O	Evenings, I searched. Days, I worked.
+F	JAMAL	Room service, good afternoon?... Yes, sir. Two chicken burgers, two fries, one cocoa-cola and one mango lassi and a large bottle of mineral water...Bisleri or Himalayan Spring, Sir?...Certainly, Sir. That will be with you in fifteen minutes, Sir. Thank you. Have a nice day.
+F	JAMAL	Two chicken burgers, coke, mango lassi and a bottle of Bisleri. CONTINUED: 95
+M	JAMAL (CONT'D)	I'm going to Chowpatti again, okay? Want to come?
+M	SALIM	For God's sake. You got some disease? You force me back to this shit-hole, we leave our friends, a good life, loads of money- for this. Isn't that enough?
+F	JAMAL	We came back to find her.
+M	SALIM	No, you did, Jamal, not me. Me, I don't give a shit about her. Plenty of pussy in Bombay for Salim. Oh, yes, sir! You should come down the Cages on Saturday night instead of searching for your lost love.
+F	JAMAL	I'm going to Chowpatti.
+M	SALIM	"I'm going to Chowpatti". There are nineteen million people in this city, Jamal. Forget her. She's history.
+M	JAMAL V/O	But she wasn't.
+M	ARVIND	Namaste, Sahib. Any kindness you give will be repaid in heaven many times. CONTINUED: 96
+M	ARVIND (CONT'D)	A fifty. And a hundred! Blessings upon you, Sahib.
+F	JAMAL	How do you know?
+M	ARVIND	There are many ways of seeing.
+F	JAMAL	Here.
+M	ARVIND	Dollars. But how many?
+F	JAMAL	One hundred.
+M	ARVIND	Now you are playing with me, Sahib.
+F	JAMAL	No. I swear.
+M	ARVIND	What is on it? The pictures. Tell me.
+F	JAMAL	A building. With a clock on it. Trees behind it.
+M	ARVIND	The other side. Turn it over.
+F	JAMAL	A man- it doesn't say his name. He is sort of bald, but has long hair on the sides.
+M	ARVIND	Benjamin Franklin. My God, my God. Thank you, Sahib. You were generous the first time. But this... CONTINUED: (2) 96
+M	ARVIND (CONT'D)	And without even a song?
+M	ARVIND (CONT'D)	So you are rich, now, are you, Jamal? I am happy for you.
+F	JAMAL	I am so sorry, Arvind.
+M	ARVIND	You got away. I didn't. That is all. No, no tears. Tears mock me all the more.
+F	JAMAL	Arvind, I am looking for-
+M	ARVIND	- how's your voice, Jamal?
+F	JAMAL	I don't know. I haven't sung since- since then. Arvind, I-
+M	ARVIND	- and your eyes?
+F	JAMAL	My eyes? My eyes are fine.
+M	ARVIND	Then stay away, chutiyé, and count your blessings every morning you open them and see the sun rising. You owe Maman. He doesn't forget.
+F	JAMAL	I owe Latika.
+M	JAMAL (CONT'D)	Please. Is she alive? Arvind, is she alive?
+M	ARVIND	Alive? Oh, she's alive alright. It's your life, Jamal. Pila Street. They call her Cherry, now. CONTINUED: (3) 96
+F	JAMAL	Thank you.
+M	ARVIND	I will sing at your funeral, yaar.
+M	SALIM	I'm looking for Cherry.
+M	WOMAN	No, kid. Not available. Plenty of others. Take a look.
+M	SALIM	I'm Latika's brother.
+M	WOMAN	She's still not on the menu. Choose someone else or piss off.
+F	JAMAL	Just two minutes to talk to her. CONTINUED: 98
+M	WOMAN	Two minutes.
+M	SALIM	Is it her or not?
+M	SALIM (CONT'D)	Shit, she's sexy, man....
+M	DANCE TEACHER	Smile! Flow, flow! You entice with the hands not make chapattis, you gawaar. Again.
+M	DANCE TEACHER (CONT'D)	Lift your feet, you lump. Stop, stop!
+F	LATIKA	Jamal? CONTINUED: 100
+M	DANCE TEACHER	What the hell do you want?
+F	JAMAL	Come. Quick.
+M	DANCE TEACHER	You silly little boys. Get out now while you can.
+F	JAMAL	Come with us.
+M	MAMAN	Look who we have here, Punnoose. Hello again, Jamal. Salim. Never forget a face. Especially one that I own.
+M	PUNNOOSE	Shall I take them to the marshes?
+M	MAMAN	Whatever you like. Have fun. Just make sure that you dispose of them properly afterwards. No traces, thank you.
+M	MAMAN (CONT'D)	You really thought you could just walk in and take my prize away? Have you any idea how much this little virgin is worth, bhen chod?
+M	MAMAN (CONT'D)	Get them out of here.
+M	MAMAN (CONT'D)	Please continue, Master-ji. CONTINUED: (2) 100
+M	SALIM	No.
+M	SALIM (CONT'D)	Leave him. Get over there.
+M	MAMAN	Let's not be foolish, Salim. Heavy, aren't they?
+M	SALIM	Money.
+M	MAMAN	You can have money. Here.
+M	MAMAN (CONT'D)	Take it. Go. Disappear with your friend and we'll forget all about this. Okay?
+M	SALIM	Maman never forgets. Isn't that right?
+M	MAMAN	Oh, Maman can make an exception.
+M	SALIM	Can't take that risk, Maman. Sorry.
+M	SALIM (CONT'D)	Safety catch. CONTINUED: (3) 100
+M	SALIM (CONT'D)	Come on.
+F	LATIKA	Shit, there's thousands here.
+M	SALIM	We should be celebrating.
+F	JAMAL	You just killed somebody.
+M	SALIM	He was going to kill us.
+F	JAMAL	Where did you get the gun?
+M	SALIM	Bought it. Now, I'm going to sea.
+F	LATIKA	You didn't need to kill him.
+M	SALIM	What? Typical. I save your life and you're on at me. All you ever do is mess us up. Whenever you're around-
+F	JAMAL	- shut up, can't you? Just shut up.
+M	SALIM	Why can't you just be happy, huh? CONTINUED: 101
+F	JAMAL	Happy?
+M	SALIM	You got what you wanted, didn't you? So, let's celebrate.
+F	LATIKA	Yeah. Let's celebrate.
+M	LATIKA (CONT'D)	While we can.
+F	JAMAL	Service!
+M	SALIM	Reception!
+F	JAMAL	We want a room, boy. Executive Class with smoking. Third floor with balcony.
+F	LATIKA	Sea-facing, yaar.
+M	SALIM	Have the bags brought up. CONTINUED: 102A
+F	JAMAL	Latika? Salim?
+F	LATIKA	Room service!
+F	JAMAL	307 here. I want a bottle of Johnny Walker Red Label, beer, wine-
+F	LATIKA	- chicken.
+F	JAMAL	Ah! Chicken....
+M	JAMAL (CONT'D)	What kind of chicken?
+F	LATIKA	Tikka Masala. With roti-
+M	SALIM	Naan, chutney, dal-
+F	LATIKA	- aloo gobi, rice- CONTINUED: 103
+M	LATIKA (CONT'D)	Pop Tarts!
+F	JAMAL	Hold the line, chutiye. Pop Tarts?
+F	LATIKA	On the tv. The commercial. Everybody's happy when they have Pop Tarts.
+F	JAMAL	Exactly! A bucket of Pop Tarts, chutiye.
+F	JAMAL	Found some lunghi!
+M	LATIKA V/O	Stay there. Look away.
+F	JAMAL	Atcha, atcha.
+M	LATIKA V/O	I'll know if you're looking....
+F	JAMAL	I'm not!
+M	JAMAL (CONT'D)	Where's Salim?
+F	LATIKA	Dunno.
+M	LATIKA (CONT'D)	You're a sweet boy, Jamal. CONTINUED: 104
+M	SALIM	I'm looking for Javed-bhai.
+M	MAN	Ja, mada chod. He's not looking for you. Ja!
+M	SALIM	I need to see him. I killed Maman. I'll kill you too. Easy.
+F	JAVED	You killed him?
+M	JAVED (CONT'D)	My enemy's enemy is my friend, no? So, come in, friend.
+F	LATIKA	Maman's gang will hunt us. You know that?
+F	JAMAL	I don't care.
+F	LATIKA	Me neither. CONTINUED: 106
+F	JAMAL	That dance you were doing. In Pila Street. Show me.
+F	LATIKA	You came back for me.
+F	JAMAL	Of course.
+F	LATIKA	I thought you'd forgotten.
+M	AMIR	I never forgot. Not for one day. I knew I'd find you in the end. It's our destiny.
+F	LATIKA	Destiny. Yes. Thank you.
+M	SALIM	Hey.
+F	JAMAL	Salim?
+M	SALIM	Come.
+F	JAMAL	No. Salim....Bhai, you've had a lot to drink... CONTINUED: 107
+M	SALIM	I am the elder. And I am the boss. For once, you do as I say.
+F	JAMAL	No.
+M	SALIM	I saved your bloody life, didn't I?
+F	LATIKA	Salim, please-
+M	SALIM	- chup, sali.
+M	SALIM	I am Number One now!
+F	JAMAL	Salim, no, no....!
+M	SALIM	Get yourself a room, bhai.
+M	SALIM (CONT'D)	The man with the Colt 45 says chup.
+F	JAMAL	Salim... CONTINUED: 108
+M	SALIM	Now go. Or Gunmaster G-9 will shoot you right between the eyes. Boom. Don't think he won't. You have five seconds. One, two, three, four-
+M	JAMAL O/S	Salim...
+M	CONSTABLE SRINIVAS	Sir, sir!
+M	INSPECTOR	Enlighten us Constable.
+M	CONSTABLE SRINIVAS	Accessory to murder, Sir.
+M	INSPECTOR	Only the finest minds in the Mumbai Police Force.
+M	INSPECTOR (CONT'D)	Go check the files, Constable. You puzzle me, Slumdog. Admitting murder to avoid a charge of fraud is not exactly clever thinking. Now, why would you do that? CONTINUED: 109
+F	JAMAL	When somebody asks me a question, I tell them the answer.
+F	JAMAL	Where are they? Where did they go?
+M	JAMAL (CONT'D)	Please, Sir. Which way?
+M	SECURITY GUARD	I don't know and I don't care.
+M	PREM V/O	Ready for another question.
+M	JAMAL V/O	Yes. I'm ready.
+M	PREM	For two and a half million rupees. Ladies and Gentlemen. Cambridge Circus is in which UK City. Is it A) Oxford, B) Leeds, C) Cambridge, D) London.
+M	PREM (CONT'D)	He's smiling. Why does that worry me?
+M	TEACHER	Okay, guys, it's been a big week in UK. Kat is back.
+M	BARDI	She's already back.
+M	TEACHER	Bardi...Jamal?
+F	JAMAL	Oh. Well. She did come back, then she went away when Alfie split up with her and now she's back again. CONTINUED: 117 But it looks as if Alfie still fancies Mo after all, so-
+M	TEACHER	- thank you, Jamal. Keep up, Bardi. The chi-wallah knows more than you.
+M	TEACHER (CONT'D)	Okay, it's been super-duper hot for UK this week, so there'll be a lot of chat about that- they love their weather- and there's the festival in Edinburgh- Edinburgh?
+F	NASREEN	Scotland. Kilts, castles, err, haggis? Porridge, the Highlands, mountains. Ben- Ben Nevis?
+M	TRAINEE 2	Detective Taggart. Whisky, Sean Connery!
+M	TEACHER	And lochs. Their word for lakes. Good. It's also double bonus time for an upgrade to the `friends and family' package this week, so remember to push for an upgrade...
+M	EVERYONE	...Every Call! lose", "Upgrade for a better, faster life." "Every call CONTINUED: 118
+M	MANAGER	If they want an upgrade, a new tariff or we're stealing them from the other networks, you take the call. Anything else-
+M	MANAGER (CONT'D)	No time-wasters on Team Bradford, kid. Leave that to the homosexuals on Tunbridge Wells.
+M	MANAGER (CONT'D)	Where've you been? Dave on Cornmarket's virtually lost his voice, there's two on Ilkley Moor who've had their hands up for hours. Come on, move it!
+M	DAVE	Two minutes, Jamal. I'm on "Millionaire" duty.
+F	JAMAL	Rajneesh...
+M	DAVE	It's my turn, Jamal. I've had my pee breaks. Please. If he comes just keep your head down and pretend you're doing an upgrade on the-
+F	JAMAL	- `friends and family'. I know. Two minutes. CONTINUED: (2) 118
+M	PREM	...if you want a chance to be a contestant on Who Wants To Be A Millionaire, dial the number now.
+M	OPERATORS	I'd like to be a contestant on Who Wants to be a Millionaire.
+M	OPERATOR	Bloody bastard. I never get it.
+F	JAMAL	You have to dial when Prem says "if". "If you want the chance to be a contestant on Who Wants To Be A Millionaire..." That's when they open the lines.
+M	JAMAL (CONT'D)	That's what Anjum in Technical says. He put the system in.
+M	OPERATOR	So why don't you?
+M	WOMAN V/O	Hello? Hello? Have I been transferred again, for God's sake? CONTINUED: 120
+M	WOMAN V/O (CONT'D)	Hello? Jesus, God, will somebody talk to me?
+F	JAMAL	Hello, Mrs...
+M	JAMAL (CONT'D)	...Mackintosh from King Gussie.
+M	WOMAN V/O	It's Kingussie, love. Pronounced Kinoosie.
+F	JAMAL	Kinoosie?
+M	WOMAN V/O	So where are you from? Abroad, I bet. China or somewhere. What good is-
+F	JAMAL	- just down the road from your house, Mrs Mackintosh. Next to the loch.
+M	WOMAN V/O	Oh aye? Which loch?
+F	JAMAL	Loch Big- Loch Ben. Next door to Detective Taggart's flat.
+M	WOMAN V/O	Loch Ben? Och, no, hen, that's one of the wee ones up in the Highlands. You're all the way up there? But I bet it rains, eh, hen?
+F	JAMAL	Indeed yes, Mrs Mackintosh. I have to wade through a metre of water every morning.
+M	WOMAN V/O	No! CONTINUED: (2) 120
+F	JAMAL	Yes, yes, Mrs Mackintosh. In my kilt.
+M	WOMAN V/O	Och, no, hen.
+F	JAMAL	It's alright once I've had my porridge, my haggis and a few Scotch whiskies- and the monsoon's nearly over, so-
+M	WOMAN V/O	- and what monsoon would that be? I'd like to speak to your supervisor, son.
+F	JAMAL	I don't think that's a good idea. He is a very important man, Mrs Mackintosh-
+M	WOMAN V/O	- get me the supervisor on this line now-
+F	JAMAL	- and he doesn't like bloody time wasters.
+M	MAN V/O	Yeah?
+F	JAMAL	Salim?
+M	MAN V/O	Who wants to know? Do you know what bloody time it is? CONTINUED: (3) 120
+M	MAN V/O (CONT'D)	Huh. Hello?
+M	SALIM V/O	Hello? Hello? Who is this? Hey. Is someone screwing with me? Who is this?
+F	JAMAL	I am calling from XL 5 Communications Sir. As a valued customer, we are offering you a free upgrade with our `friends and-
+M	JAMAL (CONT'D)	Family.
+M	SALIM V/O	Jamal? Is that you? Brother? Where are you, man?...I thought you were dead or something...we had to go, Jamal. Maman's guys. They were searching the hotel...Jamal, say something. Please.
+F	JAMAL	Hello, Salim.
+M	PREM	Ever been to Cambridge?
+F	JAMAL	No.
+M	PREM	Ever been to the circus? CONTINUED: 121
+F	JAMAL	No. And I've never been to UK before. But I'll still have a go.
+M	JAMAL (CONT'D)	Why not?
+M	PREM	Can someone call me an ambulance?
+M	PREM V/O	So, Jamal....
+F	JAMAL	I can't remember.
+M	PREM	You can't remember. Does that mean you did know? Once? CONTINUED: 123
+F	JAMAL	I don't think it's Oxford.
+M	PREM	Based on your extensive travelling, right?
+F	JAMAL	Well, Oxford has Broad Street, Saint Aldates, Turl Street, Queen Street, The High and Magdalene Bridge- which is pronounced Maudlin, so-
+M	PREM	I thought you hadn't been to UK.
+F	JAMAL	Oh, I haven't. And it's not Leeds, because that's Elland Road, Kirkgate Market, Commercial Street, St Peter's-
+M	PREM	- what might it be then, Jamal?
+F	JAMAL	Well, I don't think it's Cambridge.
+M	PREM	Cambridge Circus is not in Cambridge? Dare I ask why?
+F	JAMAL	Too obvious. There's definitely an Oxford Circus in London, and there's a rowing race between Oxford and Cambridge so there's probably a Cambridge Circus too. I'll go for D) London.
+M	PREM	That's the logic that's got him this far, Ladies and Gentlemen. Who are we to argue? So. Jamal. D. Apka final jawab?
+F	JAMAL	If the Gods are with me...Final answer. D. CONTINUED: (2) 123
+M	PREM	Computer-ji, D lock kiya-jaye.
+M	PREM (CONT'D)	It's been a rollercoaster ride all the way, a pleasure to have you on the show, my friend, but I'm sorry to say that you're....incredibly, absolutely right! Ladies and Gentlemen, Jamal Malik, the man with two and a half million rupees!
+M	PREM (CONT'D)	A few hours ago, you were fetching tea for the phone- wallahs. Now you are richer than they ever will ever be. What a player, Ladies and Gentleman! What a player. For five million rupees, my friend: who invented the revolver? Was it A) Samuel Colt, B) Bruce Browning, C Dan Wesson or D) James Revolver?
+F	JAMAL	A). Samuel Colt. CONTINUED: 125
+M	PREM	A). Samuel Colt. Are you sure?
+M	PREM (CONT'D)	Final answer?
+F	JAMAL	Final answer.
+M	PREM	You had two and a half million rupees. If I may-?
+M	PREM (CONT'D)	Ladies and Gentlemen, the chi- wallah has done it again! D. Is right! Incredible!
+M	INSPECTOR	Not that incredible. You'd just murdered somebody with a Colt 45, after all.
+F	JAMAL	It was self-defence.
+M	INSPECTOR	Let's call it manslaughter, then, shall we?
+M	PREM	Getting hot in here, isn't it?
+F	JAMAL	Are you nervous?
+M	PREM	What? Am I nervous? You're the one who's in the hot seat, my friend. CONTINUED: 126
+F	JAMAL	Oh. Yes. Sorry.
+M	DIRECTOR	Bloody hell. He's got Prem on the run...
+M	PREM	What sports do you play?
+F	JAMAL	None.
+M	PREM	None. Oh, dear, oh dear, oh dear. Not to worry, there's only ten million rupees at stake... Which cricketer has scored the most first class centuries in history. Was it A) Sachin Michael Slater, D) Jack Hobbs.
+M	PREM (CONT'D)	You've got a cheque for five million rupees in your hands. You've still got two life-lines, Phone A Friend and 50/50. For ten million rupees: pay, play, or bail out. It's still an option. Remember, if you get the answer wrong, you will lose everything like that.
+M	PREM (CONT'D)	Are you sure you want to do this?
+F	JAMAL	I'll play.
+M	PREM	The dreams of so many. On the floor.
+M	SALIM	Jamal!
+M	SALIM (CONT'D)	God is good, bhai. God is good.
+M	SALIM (CONT'D)	Maman's boys were after us. Had to skip.
+F	JAMAL	Liar. CONTINUED: 131
+M	SALIM	Left a message at reception. Waited weeks for you in Nagpur.
+F	JAMAL	There was no message at reception.
+M	SALIM	Bhai, I left a message.
+F	JAMAL	I will never forgive you.
+M	SALIM	I know.
+M	SALIM	Can you believe it? This was our slum. We lived just there, huh? Now it is business, apartments, call centres...Fuck USA, fuck China. India is at the centre of the world, now, bhai. And I am at the centre of the centre, Jamal. This is all Javed-bhai's.
+F	JAMAL	Javed Mehta? The Gangster from our slum? You work for him? Who else would protect us from Maman's gang, huh?
+F	JAMAL	What do you do for him?
+M	SALIM	Anything he asks. CONTINUED: 131A
+M	SALIM (CONT'D)	He is coming. You must go. My card.
+F	JAMAL	What for?
+M	SALIM	You think I am going to let you out of my sight again, little brother? You stay with me now. Ab phut!
+F	JAMAL	Salim, where's Latika?
+M	SALIM	Still? She's gone, Jamal. Long gone. Now go. Quick.
+M	JAMAL V/O	Slum dogs never sleep, only nap. He would disappear for a couple of days and come back changed. Sometimes elated-
+M	BAR GIRL	He has flipped! I can't do anything with him....
+M	SALIM	Look at it, bhai, look at it!
+M	JAMAL V/O	Sometimes the opposite.
+M	SALIM	Aé khuda mujhé baksh dé mainé bahut gunaah kiyé hain....
+M	JAMAL V/O	But younger brothers don't interfere. Mostly.
+F	JAMAL	Baba, I am the new cook from the agency. A thousand apologies, I am late for the Memsaab.
+M	DOOR-KEEPER	She doesn't know anything about any cook. There's supposed to be a dishwasher being delivered. Know anything about that?
+F	JAMAL	Baba, I am your dishwasher!
+F	LATIKA	Haven't I told you, don't interrupt when I'm watching-
+M	LATIKA (CONT'D)	- come inside. I'll show you the kitchen.
+F	LATIKA	Jamal, Jamal, look at you...!
+M	LATIKA (CONT'D)	Aré wa, Jamal....
+F	JAMAL	You've hurt your eye.
+F	LATIKA	Why are you here?
+F	JAMAL	To see you.
+F	LATIKA	Well. You see me.
+F	JAMAL	Why does everyone love this programme? CONTINUED: 138
+F	LATIKA	It's the chance to escape, isn't it? Walk into another life. Doesn't everyone want that?
+F	JAMAL	You have another life. A rich one.
+F	LATIKA	Who'd have thought it possible? A slum dog, with all this.
+F	JAMAL	Are you happy?
+F	LATIKA	I have five star food, five star clothes. I sleep in a bed, not on the street. From where we come from, Jamal, that is happiness.
+F	JAMAL	You don't look so happy with a black eye.
+F	LATIKA	You turn up here out of nowhere, telling me I'm not happy: how dare you?
+M	LATIKA (CONT'D)	God, Javed will kill you. Here.
+F	JAMAL	Javed? You are with him?
+F	JAVED	First you want a dishwasher, now a bloody cook-
+F	LATIKA	-I just thought-
+F	JAVED	- chup. The cricket's on.
+M	JAVED (CONT'D)	Why do you always watch that shit? Huh? I'm already a millionaire. CONTINUED: (2) 138
+M	JAVED (CONT'D)	Well, come on then, Cook. I'm hungry. Get me a sandwich.
+F	JAMAL	Immediately, Sir.
+F	JAVED	Atcha...
+F	JAMAL	Come away with me.
+F	LATIKA	Chutiyé. Away where? And live on what? What can you provide? What have you got, Jamal?
+F	JAMAL	Love.
+F	JAVED	..yeah. He's on eighty-five. I want four lakh on him making a century. What are you giving?...Okay, make it five lakh.
+M	TV COMMENTATOR	We are watching history unfold today at the Wankhedé Stadium as Sachin Tendulkar carves his way towards another magnificent century and the record books. His thirty-eighth century- the most by any Indian cricketer ever...
+F	LATIKA	Love. That will feed us, will it?
+F	JAMAL	It won't buy you a new dishwasher, but it might make you happy. CONTINUED: (3) 138
+F	LATIKA	Where have you been? Get in the real world, Jamal.
+F	JAMAL	You and me. That is the real world. Come away with me.
+F	LATIKA	You're crazy.
+F	JAMAL	Salim will help us.
+F	LATIKA	Salim? You still believe in Salim? Jamal...I'll be gone soon, anyway. Bombay's got too dangerous for-
+F	JAMAL	Where?
+F	LATIKA	You think he'd tell me?
+F	JAVED	Straight bat, straight bat, dammit.
+M	JAVED (CONT'D)	No! A single!
+M	JAVED (CONT'D)	No, no, no! stupid ben chod idiot... And what is this shit supposed to be, mader chod? Get out. Get out! CONTINUED: (4) 138
+F	LATIKA	Now go, before he kills us both.
+F	JAVED	Latika, where's my bloody shirt? The Armani.
+F	LATIKA	Coming!
+M	LATIKA (CONT'D)	You want to do something for me?
+F	JAMAL	Anything.
+F	LATIKA	Then forget me.
+F	JAMAL	I'll wait at VT station. Five o'clock every day until you come.
+M	JAMAL (CONT'D)	I love you.
+F	LATIKA	So what, Jamal? So what? Now, get out and tell your no- good agency not to send anybody else until they've learnt to cook. You hear?
+M	DOOR-KEEPER	Madam, your dishwasher has arrived.
+M	SALIM	Why can't you let it alone? You want money, I'll give you money. Girls? I can get you girls.
+F	JAMAL	You know what I want.
+M	SALIM	You're like some crazy man- you're obsessed.
+F	JAMAL	She is my destiny, Salim.
+M	SALIM	Know what your destiny is, crazy boy? A bullet between the eyes. And after that, he'll kill her. Is that what you want? Huh?
+F	JAMAL	Me, I don't care. Latika? She's already half dead.
+M	SALIM	Yes. About that, you are right.
+F	JAMAL	You sold her.
+M	SALIM	I didn't sell her. Javed wanted her. He gets what he wants.
+M	SALIM (CONT'D)	She's doing alright. Get it into your thick head, Jamal. She's not yours and she never will be.
+M	PREM	Time for a commercial break, Ladies and Gentlemen. I know, I know, I can't stand the tension either. Don't even think about leaving your seat. We'll be back. CONTINUED: 140
+M	PREM (CONT'D)	You've got the luck of the devil, yaar, I'll give you that.
+F	JAMAL	
+M	PREM	Oh, the toilet. Sure. Naveed, Jamal wants the bog.
+M	PREM	A guy from the slums becomes a millionaire overnight. You know the only other person who's done that? Me. I know what it's like. I know what you've been through.
+M	JAMAL O/S	I'm not going to become a milionaire. I don't know the answer. CONTINUED: 144
+M	PREM	You've said that before, yaar.
+M	JAMAL O/S	No, I really don't.
+M	PREM	What? You can't take the money and run now. You're on the edge of history, kid!
+M	JAMAL O/S	I don't see what else I can do.
+M	PREM	Maybe it is written, my friend. You're going to win this. Trust me, you're going to win.
+M	TALKBACK V/O	Twenty seconds.
+F	JAMAL	Latika! Latika! CONTINUED: 145A
+M	JAMAL (CONT'D)	Latika!
+M	JAMAL (CONT'D)	Latika! Latika!
+M	JAMAL (CONT'D)	Latika! Latika!
+F	JAMAL	Salim!
+M	TALKBACK V/O	Fifteen seconds.
+M	PREM	Do the right thing and in approximately three minutes you will be as famous as me.
+M	TALKBACK V/O	Ten seconds. CONTINUED: 148
+M	PREM	And as rich as me.
+M	TALKBACK V/O	Five seconds.
+M	PREM	Almost.
+M	TALKBACK V/O	Four, three...
+M	PREM	From rags to Raja. It's your destiny.
+M	TALKBACK V/O	...we're on.
+M	PREM	Welcome back to Who Wants to Be A Millionaire? In the chair tonight is Jamal Malik- as if we don't know! In an amazing run, Jamal has already five million rupees but, not content with that, has chosen to gamble for one Crore- that's ten million million rupees. What a player! The question one more time: Which cricketer has scored the most first class centuries in history. Was it A) Sachin Michael Slater, D) Jack Hobbs.
+F	JAMAL	I know it isn't Sachin Tendulkar.
+M	PREM	That's a start. So, it could be Ricky Ponting, Jack Hobbs or Michael Slater.
+F	JAMAL	I'll use a life-line. Fifty- fifty.
+M	PREM	Okay. Computer, take away two wrong answers. CONTINUED: (2) 148
+M	PREM (CONT'D)	Well, you were right about Sachin Tendulkar. The computer has taken away A) Sachin Tendulkar and C) Michael Slater. That leaves you a fifty-fifty choice, Jamal. B) Ricky Ponting or D) Jack Hobbs. What do you think? Decision time. For half a Ricky Ponting or D) Jack Hobbs.
+F	JAMAL	D.
+M	PREM	You sure? Not B) Ricky Ponting? The Australian? Great cricketer.
+F	JAMAL	D. Jack Hobbs.
+M	PREM	Do you know?
+M	PREM (CONT'D)	So it could be B, Ricky Ponting?
+F	JAMAL	Or D. Jack Hobbs.
+M	PREM	Final Answer?
+F	JAMAL	Final Answer. D.
+M	PREM	Computer-ji D lock kiya-jaye.
+M	PREM (CONT'D)	With one hundred and ninety- seven first class centuries, the answer is...D. Jack Hobbs! CONTINUED: (3) 148
+M	PREM (CONT'D)	Jamal Malik, Crorepati! I cannot believe what I am seeing here, tonight, Ladies and Gentlemen....So, are you ready for the final question for two Crore rupees- twenty million rupees?
+F	JAMAL	Not really, but...maybe it is written, no?
+M	PREM	Maybe, indeed. Okay, okay. For twenty million rupees, the final question on Who Wants to be a Millionaire?
+M	PREM (CONT'D)	Ohhhhh! Just when I thought I would need a pacemaker fitted, we're out of time! What a show, Ladies and Gentlemen, what a show. Join us tomorrow night to see if Jamal Malik has made the biggest mistake of his life or has just won the biggest prize in the history of Indian television....Same place, same time. You wouldn't dare miss it. Goodnight!
+F	JAMAL	Latika!
+M	DOOR-KEEPER	Told you.
+F	JAMAL	Where? Where is she?
+M	DOOR-KEEPER	Dunno.
+F	JAMAL	Where?
+M	DOOR-KEEPER	I don't know! Wouldn't say, would they? They had to get out fast. The police. Honestly.
+F	JAMAL	Where are you? Where is she?
+M	SALIM	Where you'll never find her. Or me. You could have joined us, you bloody idiot, been one of us. You've lost everything now. Everything.
+F	JAMAL	Salim...!
+M	PREM O/S	...if you want a chance to play Who Wants to be a Millionaire, call now...!
+M	PREM	This way, Jamal, this way. Great show, my friend. See you tomorrow, huh?
+M	DIRECTOR	What's going on?
+M	PREM	He's a cheat.
+M	DIRECTOR	This was you? You called them?
+M	DIRECTOR (CONT'D)	How d'you know he's cheating? CONTINUED: 153
+M	PREM	Oh, come on! Of course he is. He's a bloody village boy. Even when I fed him the wrong answer the little shit got it right.
+M	DIRECTOR	You gave him an answer?
+M	PREM	Well, I didn't exactly-
+M	PREM (CONT'D)	Nita?
+M	INSPECTOR	It is all bizarrely plausible. And yet...
+F	JAMAL	Because I am a slum dog, chi- wallah, I am a liar, right?
+M	INSPECTOR	Most of you are.
+M	CONSTABLE SRINIVAS	Shooting at Pila Street, October 19th...Maman Hossani....Victim pronounced dead at scene. Suspects absconded: two males, early teens, one female, early teen.
+M	INSPECTOR	But you: you're not a liar, Mister Malik, that is for sure. You are too truthful. CONTINUED: 154
+M	INSPECTOR (CONT'D)	Thank you, Constable. All that remains is to work out whether it was manslaughter or murder. Ten years, or life.
+M	YOUNG CONSTABLE	The Commissioner's here, Sir.
+M	TV REPORTER	....behind the walls of this police station lies the mystery all of India is talking about. Did Jamal Malik, an uneducated, eighteen year-old boy from the slums of Mumbai win one Crore rupees by fair means or foul? And in the crowds all around me there is an even bigger question. Will he be back on the show tonight to play for twenty million rupees...
+M	COMMISSIONER OF POLICE	So? Have you charged him yet?
+M	INSPECTOR	I- progress is being made sir.
+M	COMMISSIONER OF POLICE	Progress? Have you charged him?
+M	INSPECTOR	No, Sir. CONTINUED: 156A Millionaire on the front page.
+M	COMMISSIONER OF POLICE	And if that isn't enough for you...
+M	INSPECTOR	That's-?
+M	COMMISSIONER OF POLICE	- yes, yes! The boy's a bloody hero with every beggar and thief in the city. We're in danger of looking very stupid, here, Inspector.
+M	INSPECTOR	Whilst I'm not convinced he actually cheated, I have got-
+M	COMMISSIONER OF POLICE	- Prem Kumar himself- a man of great standing and integrity- said the kid was a liar and a cheat. What more do you need?
+M	INSPECTOR	A liar.
+M	INSPECTOR (CONT'D)	Indeed, sir.
+M	COMMISIONER OF POLICE	He's in for fraud, so you charge him for fraud. Fast. Or you'll find yourself on traffic duty at the Gateway of India. Understand?
+M	INSPECTOR	Yes, sir.
+M	CONSTABLE SRINIVAS	Sir-?
+M	INSPECTOR	Not a word, Srinivas.
+F	JAVED	What about my bloody whisky, woman?
+M	JAVED (CONT'D)	Hey, Salim.
+M	SALIM	We're out. I'll just get- Syed.
+M	SALIM	Final answer?
+M	SALIM	That boy. He will never give up. Never.
+M	SALIM (CONT'D)	Crazy chutiyé.
+M	SALIM (CONT'D)	Ja. Go.
+F	LATIKA	But-
+M	SALIM	- just drive. There won't be another chance. Go.
+F	LATIKA	He'll kill you.
+M	SALIM	It is not written.
+M	JAVED O/S	Salim!
+F	LATIKA	Salim, I....can't.
+M	SALIM	You have to. It'll take you two hours if you drive fast. Here.
+M	SALIM (CONT'D)	For God's sake, hold on to it.
+M	SALIM (CONT'D)	For what I have done, please forgive me.
+M	SALIM (CONT'D)	Go. Have a good life.
+M	CONSTABLE SRINIVAS	You're back on the show.
+M	INSPECTOR OF POLICE	What happened? To the girl? Latika?
+F	JAMAL	Who knows?
+M	BEGGAR	Crorepati! Crorepati!
+M	MANAGER	Oi! Get back to work. CONTINUED: 170
+M	MANAGER (CONT'D)	The chi-wallah?
+M	NITA	Good luck.
+M	TALKBACK V/O	Two minutes.
+M	PREM	Hey. Sweetheart. What about me? I'm sweating, here.
+M	NITA	You should be.
+M	PREM	So. Tonight. The Calypso Bar.
+M	NITA	Not if you were the only man in the world.
+M	PREM	But I am the only man in the world.
+F	LATIKA	Come on, come on!
+M	COMMISSIONER OF POLICE	Get me the Inspector on the phone now!
+M	PREM	Welcome back to Who Wants to be a Millionaire? I can safely say that tonight is the biggest night of both of our lives, Ladies and Gentlemen. Jamal Malik, the Call Centre worker from Mumbai has already won one Crore rupees, a cool ten million. Tonight, he can walk away with that in his pocket or make the biggest gamble in television history and go for the final question and a staggering twenty million rupees! Jamal, are you ready for that question?
+F	JAMAL	Yes.
+M	PREM	Big reader, are you Jamal? A lover of literature? CONTINUED: 177
+F	JAMAL	I can read.
+M	PREM	Lucky! In Alexandre Dumas' book, The Three Musketeers, two of the musketeers are called Athos and Porthos. What was the name of Aramis, B) Cardinal Richelieu, C) D'Artagnan, D) Planchet.
+M	PREM	The final question, for twenty million rupees: and he's smiling. I guess you know the answer.
+F	JAMAL	Would you believe it? I don't.
+M	PREM	You don't? So, you're going to take the ten million and walk?
+F	JAMAL	No.
+M	PREM	No?
+F	JAMAL	I'll play. CONTINUED: 180
+M	PREM	You just said you don't know the answer. I heard that, right? You do understand that if you get the answer wrong, you lose everything? Ten million rupees. A fortune, Jamal.
+F	JAMAL	I'd like to phone a friend.
+M	PREM	We're going to the wire, Ladies and Gentlemen, we are going to the wire. The final Life-line. Here we go....
+M	PREM	It's ringing.
+M	PREM	Doesn't look as if your friend is in, Jamal. Who is it?
+F	JAMAL	My brother's number, but-
+M	PREM	- the sort of brother who'd go for a walk on the twenty million rupee question?
+F	JAMAL	It's the only number I know.
+M	PREM	You're on your own, Jamal.
+M	LATIKA V/O	Hello?
+M	LATIKA V/O (CONT'D)	Hello? Jamal?
+M	PREM	Wow! That's cutting it fine. I'm guessing this isn't your brother. This is-
+M	LATIKA V/O	My name is Latika.
+M	INSPECTOR	That's why he's on the show.
+F	JAVED	What the bloody-?
+M	JAVED (CONT'D)	Latika! Salim!
+M	PREM	Okay! So, Latika, you want to hear the question one more time? And let's be clear about this. Twenty million rupees ride on your answer. You have thirty seconds. Jamal, please read out the question to Latika.
+F	JAMAL	Is that really you?
+M	LATIKA V/O	Yes.
+M	PREM	The question, Jamal.
+F	JAMAL	In Alexandre Dumas' book, The Three Musketeers, two of the musketeers are called Athos and Porthos. What was the name of Aramis, B) Cardinal Richelieu, C) D'Artagnan, D) Planchet.
+M	PREM	Fifteen seconds.
+F	JAMAL	Where are you?
+M	LATIKA V/O	I'm- I'm safe.
+M	PREM	Ten seconds. So, Latika, what do you think?
+M	Silence.	CONTINUED: 190
+M	PREM (CONT'D)	Five, four, three, two, one. Time's up! Your answer.
+M	LATIKA V/O	I don't know.
+M	PREM	Oh...
+M	LATIKA V/O	I've never known.
+M	PREM	You really are on your own, now, Jamal. Your answer: for twenty million rupees.
+F	JAMAL	A.
+M	PREM	A. Because?
+F	JAMAL	Just...because.
+M	PREM	Apka final jawab?
+F	JAMAL	Yes. Final answer. A. Aramis.
+M	PREM	Computer-ji A lock kiya-jaye. Jamal Malik, Call Centre Assistant from Mumbai, for two Crore, twenty million rupees, you were asked who the Third Musketeer was in the novel by Alexandre Dumas. You used your final life-line to phone a friend. You answered A. Aramis.....which is...I have to tell you...the correct answer! CONTINUED: (2) 190
+M	PREM (CONT'D)	Ladies and Gentlemen, Jamal Malik, Crorepati! What a night! We have all been present at the making of history, Ladies and Gentlemen! Jamal Malik, millionaire!
+F	JAMAL	Latika? Latika?
+M	JAVED O/S	Salim! Teri ma ki chute! Salim!
+M	SALIM	God is good.
+M	INSPECTOR	Just one more thing left, Sir. CONTINUED: 193
+M	PREM	Finally, huh?
+M	INSPECTOR	If you'd like to come with me.
+F	JAMAL	Truth alone triumphs? I should have known better.
+M	INSPECTOR	Thought you might need a lift, Sir.
+F	JAMAL	Latika? CONTINUED: 197
+F	LATIKA	Jamal? I thought we would meet again only in death.
+F	JAMAL	I knew you'd be watching.
+M	JAMAL (CONT'D)	This is our destiny.
+M	JAMAL (CONT'D)	This is our destiny.

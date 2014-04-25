@@ -1,0 +1,533 @@
+M	CHARACTER	DIALOGUE
+M	D'ARTAGNAN	Had enough?
+M	GIRARD	I believe now would be a good time to end your, uhm, formal training. Well done. D'ARTAGNAN Thank you, sir.
+M	GIRARD	And god have mercy on whomever you meet next. She stands at the open window, watches his coltish high Mother...?
+M	D'ARTAGNAN	Did you see us? You heard us, I'll bet. Girard finally surrendered a compliment... though I almost had to kill him to get it... Mother...? D'Artagnan comes upon an open door, a small room beyond. A piece of parchment, on it the words: "All For One, and
+M	MOTHER (HANDSOME WOMAN)	Sit down.
+M	D'ARTAGNAN	Didn't you hear me? Girard --
+M	MOTHER	Sit. D'Artagnan sighs, sits in a large wooden chair. A beat.
+M	MOTHER	Your father was a proud man. And he had a right to be. I never knew one as brave or as kind. He knew that his strength was a gift to be given in the service of honor. That is why he dedicated his life to his country and his King. That is why he gave his life, for both. MOTHER I watched you this morning and saw someone I knew. You have your father's heart, his will to fight, his courage. But these gifts have no value unless they are given. She rises, holds the sword out to him.
+M	MOTHER	It's time for you find your fortune with men as brave and as bold as you are. In Paris. With the King's Musketeers. You'll need this.
+M	D'ARTAGNAN	Father's sword. MOTHER Forged in the Crusades, handed from generation to generation. D'ARTAGNAN And now to me.
+M	MOTHER	Yes, son. And now to you. With that, she holds out the beautiful saber. D'Artagnan MOTHER I'm not your mother now. I'm speaking for your father. And this is what he would have told you. Never forget the code of the d'Artagnans. It is your special heritage. Always seek out adventure...
+M	D'ARTAGNAN	I will.
+M	MOTHER	Never run from a fight... D'ARTAGNAN I won't.
+M	MOTHER	Never submit to insults. Except from the King.
+M	D'ARTAGNAN	Never. MOTHER And be wary of Cardinal Richelieu for he rules France through the King. A bittersweet moment. D'Artagnan posed before his first wishes to leave home. D'ARTAGNAN Mother. Maybe I should wait. Until after harvest. D'Artganan's mother smiles, understands. And speaks
+M	MOTHER	You've heard that every man in the Musketeers is on the run from someone or something? D'ARTAGNAN Yes. But what am I running from?
+M	MOGHER	A shrew of a mother, and a drafty old house. Now go. MOTHER And for heaven's sake, practice your horsemanship. D'ARTAGNAN Horsemanship. Got it. D'Artagnan digs his heels into the horse's flanks, shoots JUSSAC What should I do with this? ROCHEFORT Throw it on the fire with everything else. JUSSAC But this is the emblem of the Musketeers... ROCHEFORT The Musketeers no longer exist. Or haven't you heard? Throw it on the fire. Jussac hastily adds the emblem to the fiery blaze, it is
+M	INCLUDE COURTYARD 14	Grim, funereal silence as a hundred Musketeers remove Treville is the respected leader of the Musketeers. This
+M	ROCHEFORT	Musketeers... A hundred faces turn upward to regard him. And on each ROCHEFORT By joint edict of His Majesty King Louis XIII and His Eminence Cardinal Richelieu, the Musketeers are officially disbanded. In preparation for the coming war with England, your ranks and commissions are hereby transferred to the Infantry. You will be contacted and told where to report. Until that time, you are instructed to return to your homes. DE TREVILLE And who will protect the King?
+M	ROCHEFORT	The Cardinal's Guards are more than capable of assuming that... responsibility.
+M	ROCHEFORT	You are hereby ordered to disperse. Should even one of you resist... the entire corps will be arrested and imprisoned. 'All for one, and one for all.' DE TREVILLE Musketeers!
+M	DE TREVILLE	Go to your homes. Wait. Our day will come again. He returns to the adjoining room where Jussac stands by. ROCHEFORT Your Eminence. Rochefort and Jussac instantly fall to their knees. Richelieu observes a duty roster on one of the walls.
+M	RICHELIEU	Have they all been accounted for?
+M	ROCHEFORT	All but... three.
+M	RICHELIEU	Three? JUSSAC I sent a patrol to find them but it hasn't returned yet.
+M	RICHELIEU	I want those Musketeers, not excuses. Bring them in at once. The tavern door flies open, and two of the Cardinal's
+M	JUSSAC	Release that man!! Happy to comply, Porthos lets go of the Guard who plunges One of them casually cleans his sword with a lace hand- His companion is ATHOS, the Musketeers' deadliest and
+M	JUSSAC	What is this?
+M	ATHOS	A private party. Go away. ARAMIS Athos -- is that any way to greet our guests? ARAMIS Don't be shy, gentlemen. Come in. Your friends have been expecting you. Jussac is not amused.
+M	JUSSAC	Your presence is requested at Musketeer Headquarters by Captain Rochefort. Athos and Aramis exchange looks.
+M	ATHOS	The Cyclops is a Captain? He must've made a pact with the Devil.
+M	ARAMIS	Or the Cardinal. ATHOS What's the difference? ARAMIS The Devil is more ethical than the Cardinal.
+M	JUSSAC	You're instructed to come with me and surrender your tunics.
+M	ATHOS	These gentlemen made a similar request. JUSSAC Are you refusing to come peaceably? Probably. But I'll leave it up to my companions. Aramis? ARAMIS We can't refuse Rochefort's invitation. It would be impolite. Athos tips back in his chair and gazes upward.
+M	ATHOS	And what do you say, Porthos?
+M	PORTHOS	I'll be right down! With the grace of an aerialist, Porthos jumps from the PORTHOS Ready when you are. Athos and Aramis sheathe their swords, put on their hats,
+M	ARAMIS	Congratulations, Porthos. You brought down the house. PORTHOS My aim was off. I was trying to hit Jussac.
+M	ATHOS	Now. About those tunics... Jussac turns to watch Athos, Porthos, and Aramis step to JUSSAC Musketeers. is Paris as it looked in the early part of the Seven- Two women on horseback are riding for all they're worth
+M	ANGLE 20	As the two riders pass underneath, d'Artagnan leaps into D'Artagnan scrambles to his feet as the second rider re- D'Artagnan dodges the horse and the sword. He catches d'Artagnan's feet. Before he can recover, d'Artagnan is Anne regards the two men on the ground, then d'Artagnan.
+F	CONSTANCE	Do you have any idea what you've done?
+M	D'ARTAGNAN	I've saved you and your friend from these bandits.
+F	CONSTANCE	These 'bandits' are the Queen's own bodyguards. D'ARTAGNAN The Queen?
+F	CONSTANCE	If I were you, I'd make myself scarce. These men are going to be very angry when they wake up. D'Artagnan looks at the two bodyguards who are beginning D'ARTAGNAN I didn't know. I thought...
+F	CONSTANCE	Do you have a name?
+M	D'ARTAGNAN	D'Artagnan.
+F	CONSTANCE	You're a very foolish boy, d'Artagnan... but a very handsome one. Good-bye. Constance spurs her horse and rides off to catch up with D'ARTAGNAN Wait! You didn't tell me your name! But Constance is gone. D'Artagnan stands in the middle of the road, feeling
+M	D'ARTAGNAN	The man who attacked you... ... went that way. With a guilty smile, d'Artagnan spurs his horse and rides
+M	D'ARTAGNAN'S POV 22	Paris laid out for him like a jewel, cloaked in mystery,
+M	ROCHEFORT	I'll take those tunics, Musketeers. PORTHOS What did he say?
+M	ARAMIS	He said he'll take those tunics.
+M	PORTHOS	Tunics? Coming right up. Porthos reaches inside his cloak and takes out a crumpled
+M	ATHOS	I was trying to remember the last time I saw you here. I know. It was the day you were kicked out of the Musketeers.
+M	ARAMIS	Conduct Unbecoming a Musketeer. Wasn't that the charge?
+M	ROCHEFORT	You ought to know. Three witnesses stood against me. ATHOS It was the least we could do.
+M	ROCHEFORT	You are hereby ordered to surrender your commissions and make yourselves available for reassignment in the King's Army.
+M	ATHOS	And if we refuse? ROCHEFORT You will become outlaws. Hunted men. It doesn't matter where I go or what I do. Sooner or later somebody's calling me 'outlaw.' Athos cuts him off with a look. He's familiar with ROCHEFORT Are you refusing to serve your King? ARAMIS We are refusing to serve the Cardinal. PORTHOS Same thing, these days. ARAMIS France has one King too many.
+M	ROCHEFORT	I'll tell him you said that.
+M	ATHOS	Do that, Rochefort. Tell his Emminence the Cardinal that we will continue to perform our sworn duty to protect the King. From enemies across the sea. From traitors who sit at his right hand. And tell him that he can take away our tunics, our muskets, even our swords. But he cannot stop us from being what we are. Musketeers.
+M	ROCHEFORT	I'll make sure His Emminence the Cardinal gets the message. But I can't promise he'll be pleased.
+M	PORTHOS	Well, if we're going to be outlaws, I suppose we'll have to get our affairs in order.
+M	ARAMIS	Are you going to visit them alphabetically or in order of preference?
+M	PORTHOS	Alphabetically seems... fair. ARAMIS When it comes to you and women, fairness rarely applies.
+M	ATHOS	We'll meet at the Columbier-Rouge at sundown. To celebrate. And to plan our new lives. PORTHOS Outlaws.
+M	ARAMIS	Citizens of France.
+M	ATHOS	The three Musketeers. And that is all that remains.
+M	ATHOS 25	He crosses the courtyard to a large wooden door. But as D'ARTAGNAN Look out!
+M	ATHOS	Aaarrgghh...
+M	D'ARTAGNAN	Where are they? Where are the Musketeers? I'm in the right place, aren't I?
+M	ATHOS	Not as far as I'm concerned.
+M	D'ARTAGNAN	But this is Musketeer Headquarters... ATHOS No. This was Musketeer Headquarters. D'ARTAGNAN You mean it's been moved?
+M	ATHOS	I mean the Musketeers have been disbanded. Feel free to poke around for souvenirs.
+M	D'ARTAGNAN	What do you mean 'disbanded'?
+M	ATHOS	Some nonsense about being needed in the army. Now if you'll excuse me... D'Artagnan blocks Athos' path. D'ARTAGNAN But I just got here. How can I become a Musketeer if they've been disbanded?
+M	ATHOS	I'd say you've got a problem. D'Artagnan grabs Athos by his injured arm. Athos, stif-
+M	ATHOS	You could use a lesson in manners. D'Artagnan touches his sword, eyes flashing at the pos- D'ARTAGNAN Any time.
+M	ATHOS	I'm in a hurry now -- but I'll meet you at the Carmes-Deshaux monastery at noon. D'ARTAGNAN I'll be there ten minutes early. An hour in Paris, and I already have my first duel! Just then, d'Artangnan spies two familiar figures on But, Catherine, don't you see? As an outlaw I'll be constantly on the run from the Cardinal's guards, a refugee. Think of all the places you can hide me. I'm thinking of them now. Meanwhile, d'Artagnan races around another corner, down a soiled.
+M	PORTHOS	Do you know where this sash comes from?
+M	D'ARTAGNAN	No. PORTHOS It is a gift from the Queen of America. Porthos' righteous indignation is more impressive than
+M	D'ARTAGNAN	There is no Queen of America.
+M	PORTHOS	Madame Augustine, would you excuse me for a moment, I'm going to kill him. Now, where were we? D'ARTAGNAN I rode through a puddle, muddied your sash, the Queen of America except there isn't one, I'm in a hurry, and you were about to challenge me to a duel.
+M	PORTHOS	I was?
+M	D'ARTAGNAN	That seems to be the local custom. Porthos lets out a weary sigh. He shakes his head. PORTHOS Everywhere I go, it's always the same. There's always some kid who thinks he's hot with a sword... some itchy punk who wants to go up against the great Porthos...
+M	D'ARTAGNAN	The great who? PORTHOS The great Porthos. Me, you idiot. PORTHOS Don't you know who I am? D'ARTAGNAN The world's greatest talker?
+M	PORTHOS	All right, you little puke! You want to die? So be it! One o'clock behind the Luxembourg! And bring a coffin! D'ARTAGNAN Bring your own!
+M	D'ARTAGNAN	Let me pass. CARDINAL'S GUARD I'm afraid that's not possible.
+M	D'ARTAGNAN	I must speak to those young women.
+M	CARDINAL'S GUARD	The young women do not wish to be spoken to. D'ARTAGNAN I have something that belongs to the Queen.
+M	GUARD	What? D'ARTAGNAN A bracelet.
+M	GUARD	I'll deliver it for you.
+M	D'ARTAGNAN	No, you've been enough help already. Would you be so kind as to point out the Carmes-Deshaux Monastery? The Guard points to a large building in the distance with The Damsel suddenly grabs Aramis and kisses him on the
+M	ARAMIS	Madam, I'm flattered but I thought you wanted me to tutor you in theology. DAMSEL Excuse me, Monsieur Aramis. But when you started talking about Original Sin, I lost control and became impassioned. It won't happen again.
+M	ARAMIS	There's nothing unholy about expressing one's emotions. On the contrary. Religion should be experienced in a passionate, all- embracing way. We should feel free to express our spirituality.
+M	DAMSEL	Yes, darling! The Damsel attacks him again. Suddenly, a pounding on Open up!
+M	DAMSEL	My husband! ARAMIS Your husband!? DAMSEL Aramis -- run!
+M	ARAMIS	First we must pray to God for forgiveness.
+M	ARAMIS	On second thought, God's often busy. Aramis leaps to his feet and sprints for the open window. As d'Artagnan runs past. Aramis lands on top of him and ARAMIS Thanks. You broke my fall perfectly. But I do apologize for the inconvenience... D'ARTAGNAN Get off me! D'Artagnan pushes Aramis aside. Aramis grabs d'Artagnan
+M	ARAMIS	If there's one thing I can't abide, it's rudeness. D'ARTAGNAN You fell on me! ARAMIS And I apologized for it. D'ARTAGNAN I suppose you'd like to teach me a lesson in manners, too. ARAMIS I'd be honored. D'Artagnan brightens. Another duel! D'ARTAGNAN How's two o'clock behind the Luxembourg? Aramis bows politely.
+M	ARAMIS	If that's where you wish to die, I won't disappoint you. Until then...
+M	D'ARTAGNAN	Three duels in one day. I love this town.
+M	ANNE (V.O.)	Have you seen the King? No, Your Majesty. Your Majesty... ANNE Cardinal Richelieu, you surprised me. Cardinal Richelieu steps out of the darkness. He smiles.
+M	RICHELIEU	How was your ride?
+F	ANNE	My ride...? Well, I... I'm not sure... RICHELIEU Forgive me. But your welfare is more than a matter of personal interest. It is a matter of State. But rest assured, your secret is safe with me.
+F	ANNE	Thank you. Richelieu turns to the great map, speaks gently.
+M	RICHELIEU	You're homesick.
+F	ANNE	Lonely. Is that the same thing? RICHELIEU Sometimes. Richelieu brings his eyes back to Anne, continues:
+M	RICHELIEU	Austria's loss is France's gain.
+F	ANNE	I'm not sure my new husband shares your opinion. RICHELIEU Nonsense. He's young, not blind.
+F	ANNE	Mostly, he is absent. I've barely seen His Majesty since our wedding, and that was three months ago. Whenever he's around me, he has nothing to say.
+M	RICHELIEU	Arranged marriages can be difficult. Your father and I thought yours would bring Austria and France closer together. ANNE Countries align more swiftly than people, I'm afraid. Louis and I remain... far apart.
+M	RICHELIEU	May I advise you?
+M	RICHELIEU	Louis was only nine years old when his father was assassinated. He lost his childhood forever that day. I have watched him grow toward manhood, seen the toll his life demands. A boy who is not allowed to be a boy sometimes has difficulty becoming a man. He is shy, yet boastful. Giving, yet stubborn. But most of all, he is not yet sure exactly who he is. The boy who lost his father. Or the King of France. ANNE But how can I...?
+M	RICHELIEU	Flatter him. Make the boy feel like a King. So that the King may be your husband.
+M	SENESCHAL	His Majesty, the King.
+M	RICHELIEU	Your Majesty.
+M	LOUIS	Cardinal Richelieu, I've been looking for you. When Louis sees Anne, he reacts with an almost imper-
+M	LOUIS	Oh. Anne. Hello. I didn't know you were here.
+F	ANNE	Would you like me to go? Louis suddenly remembers the reason he's here. Determin-
+M	LOUIS	No. Please, stay. Your Eminence, I demand an answer.
+M	RICHELIEU	Perhaps if I knew the question... LOUIS I've just been told that you went ahead and disbanded my Musketeers. RICHELIEU You approved the decision. LOUIS But not the timing of the matter. I intended to address them myself, explain the situation... RICHELIEU Your Majesty, France is on the brink of war. We dare not hesitate.
+M	LOUIS	But these men are my personal guards... RICHELIEU They are the bravest fighters in France. We'll need them in the field if we're to win this war with England. Buckingham plans to invade La Rochelle within the month. I thought it best to act quickly --
+M	LOUIS	I will be the judge of what is best. For me, and for France.
+M	RICHELIEU	Of course. Forgive me. A tense beat. Anne, feeling out of place, steps toward LOUIS Anne? Are you all right? ANNE You two should continue this discussion in private. LOUIS Your thoughts on the matter interest me. They might... help.
+F	ANNE	It seems to me that... you're doing very well on your own.
+M	LOUIS	She's beautiful.
+M	RICHELIEU	Extremely. LOUIS Intelligent.
+M	RICHELIEU	Very. LOUIS Sometimes she scares me half to death.
+M	RICHELIEU	May I advise you?
+M	RICHELIEU	She scares me too. As do all women who join beauty to intelligence. What's a man to do?
+M	LOUIS	I have no idea. RICHELIEU The course of love is full of frightful turns. But, no matter how you feel, no matter how hopelessly afraid... never let her know that you are anything other than the bravest and most confident man in France. Make that your starting point, and everything else will fall... into place.
+M	LOUIS	The bravest man in France...
+M	RICHELIEU	Good advice for a shopkeeper. Let alone a King.
+M	LOUIS	Your Eminence, I'm sorry that I was sharp with you. It's just that the Musketeers... well, they're not just my guards. They're my friends too.
+M	RICHELIEU	I know. But don't worry. From now on, I'll take complete responsibility for your welfare. Indeed he will.
+M	ROCHEFORT	He's a foolish boy. And barely that. RICHELIEU That foolish boy is about to become a man. Which is all the more reason for us to act... quickly. ROCHEFORT And the Queen...?
+M	RICHELIEU	She will receive me in ways she never thought possible. Privately. HOLD ON the Cardinal and Rochefort, watching the King and
+M	COACH DRIVER (O.S.)	Get out of the way, idiot!! COUNT DE WINTER Wait here.
+M	ARMAND	But, Father...
+M	COUNT DE WINTER	Wait. He will not consider otherwise. Armand sighs, stands in
+F	MILADY	Count de Winter.
+M	COUNT DE WINTER	We found you.
+F	MILADY	Yes. Now that you have, what will you do? COUNT DE WINTER Bring you back. To pay for what you did to my son. MILADY And if I resist...? COUNT DE WINTER I will kill you with my bare hands.
+F	MILADY	Well if that's the case, I'd better start packing. But first, my hair... Milady, who has been removing combs throughout, reaches
+M	ARMAND	Father? ATHOS Ten minutes early. D'ARTAGNAN I have another appointment at one. ATHOS You'll miss it, I'm afraid.
+M	D'ARTAGNAN	I'll try my best to be on time.
+M	ATHOS	I asked two of my friends to act as seconds, but they are not as punctual. D'ARTAGNAN But you're wounded.
+M	ATHOS	Don't worry. I fight just as well with my left hand. D'ARTAGNAN If you'd rather kill me another time... ATHOS Thanks, but I see my seconds coming now.
+M	PORTHOS	What're you doing? You can't fight this man.
+M	ATHOS	Why not? PORTHOS Because I'm fighting him. D'ARTAGNAN Excuse me, monsieur. But not until one o'clock. ARAMIS Wait a minute. I've got a duel with him, too. D'ARTAGNAN Yes, sir. But not until two. ATHOS How long have you been in Paris? D'ARTAGNAN I arrived this morning.
+M	ATHOS	You've been... busy.
+M	D'ARTAGNAN	I've also fallen in love. ATHOS Better to die for love than to live for it. Gentlemen?
+M	JUSSAC	There they are!! Athos and d'Artagnan separate as Jussac and his four
+M	ARAMIS	Jussac. Again. Athos steps forward to meet him. ATHOS I told you the next time we met I'd want an answer. But I didn't expect you so soon.
+M	JUSSAC	The three of you are under arrest. The boy's of no interest to me and is free to go. Do you intend to resist? PORTHOS Oh, don't be stupid. Of course we intend to resist. Just give us a second. PORTHOS Interesting odds. Five of them and three of us. ARAMIS It hardly seems fair. Let's give them the chance to surrender.
+M	D'ARTAGNAN	Excuse me, but there are four of us.
+M	They turn and regard d'Artagnan.	ATHOS This is not your fight. You're not a Musketeer. D'ARTAGNAN I may not wear the uniform, but I believe I have the heart of a Musketeer. The three Musketters exchange smiles. D'Artagnan's
+M	PORTHOS	Bold and brave.
+M	ARAMIS	A poet.
+M	ATHOS	Have you got a name, boy? D'ARTAGNAN D'Artagnan.
+M	PORTHOS	D'Artagnan? The name has meaning for all of them. The Musketeers
+M	ARAMIS	Impossible.
+M	PORTHOS	It couldn't be.
+M	ATHOS	Athos... Porthos... Aramis. D'ARTAGNAN Pleased to meet you... How do you do?... Good to see you again... Meanwhile, Jussac and his Guards look on with increasing PORTHOS Well. Now that we're all acquainted... ATHOS The Cardinal's Guards.
+M	FIGHT 42	Suddenly: nine men are locked in mortal combat. Athos The fighting style of the Musketeers is an exuberant mix- And last, and perhaps the most entertaining of all, D'Artagnan's youthful energy is by now familiar. He JUSSAC Stand still! How do you expect me to kill you if you keep jumping around!!
+M	BACK TO SCENE 44	Porthos reacts to the interruption with irritation. He
+M	PORTHOS	Damn monks. Always spoiling everybody's fun.
+M	ARAMIS	They are nearer to God...
+M	PORTHOS	They're about to get a little nearer to the hilt of my sword. ARAMIS Pagan. PORTHOS Papist. Porthos slides over to handle one of Aramis' opponents.
+M	PORTHOS	Excuse me?
+M	ARAMIS	I'm fine, thank you. ARAMIS Take a look at our young friend.
+M	ATHOS	You mean he's still alive? Jussac falls to the ground, lies still. He is dead.
+M	BISCARAT	Now what...? PORTHOS God, I love my work.
+M	AFTERMATH 45	A sudden silence, save for the occasional dull groan. D'ARTAGNAN What's he doing?
+M	ATHOS	Last rites. Aramis takes death very seriously.
+M	PORTHOS	Do you know where this bolo comes from?
+M	D'ARTAGNAN	The Queen of America?
+M	PORTHOS	Spain. Porthos deadpans, then grins acceptance. All for one,
+M	ARAMIS	Don't encourage him. By killing Jussac, the boy's made himself an outlaw too.
+M	ATHOS	Not if he leaves Paris. Which is exactly what he's going to do.
+M	D'ARTAGNAN	I can't leave. I just got here.
+M	PORTHOS	Go home, find a wench, live long and prosper. D'ARTAGNAN Why can't I stay with you? Aramis and Porthos look to Athos. As always, he will
+M	ATHOS	Because I do not want you to. It's hard to say whether he's acting out of concern for
+M	ARAMIS	I know Athos may seem cold and unfriendly, but don't let that fool you. PORTHOS He really is cold and unfriendly.
+M	ARAMIS	But he's also right. This is our fight, not yours. Go on, get out of here.
+M	D'ARTAGNAN	Whatever happened to the motto of the Musketeers? 'All for one, and one for all.'
+M	ATHOS	Wake up, boy. The Musketeers are just a dream.
+M	ROCHEFORT	There they go! After them! D'ARTAGNAN Long live the Musketeers. And d'Artagnan draws his saber.
+M	AT DISTANCE	The three Muskeeters rein their horses, look back to
+M	PORTHOS	Do you believe this kid.
+M	ROCHEFORT	Fall back! I'll take him myself!
+M	PORTHOS	Rochefort's got the boy.
+M	ATHOS	Too bad. ARAMIS You can't just leave him. Athos spurs his horse, rides away. Aramis and Porthos
+M	ARAMIS	He has a plan. PORTHOS Definitely. A plan. And with that, they gallop after. Meanwhile, d'Artagnan is soon outnumbered, and quickly GUARD This boy fights like a wildcat. D'ARTAGNAN Thank you. Lovingly, he fingers the upholstery of his extravagant
+M	D'ARTAGNAN	My sword -- ROCHEFORT It's magnificent. Where did you get it? D'ARTAGNAN It belonged to my father.
+M	ROCHEFORT	Your father...
+M	ROCHEFORT	Well now it belongs to me. I collect swords. I take them from the men I kill.
+M	D'ARTAGNAN	I'm not dead yet. D'Artagnan starts forward. But Rochefort raises the ROCHEFORT Soon enough. Where am I?
+M	ROCHEFORT	I'll give you a hint. It's not the Louvre.
+M	D'ARTAGNAN	The Bastille! I'm in the Bastille!
+M	ROCHEFORT	Well, you're the first person who was ever happy to be here. Unfortunately, your visit will be a short one.
+M	D'ARTAGNAN	What do you mean?
+M	ROCHEFORT	You killed one of the Cardinal's Guards. An offense punishable by death. D'ARTAGNAN He interrupted a duel I was fighting.
+M	ROCHEFORT	Also punishable by death. D'ARTAGNAN It was a long day. ROCHEFORT You know them?
+M	D'ARTAGNAN	Who?
+M	ROCHEFORT	The Musketeers. D'Artagnan says nothing. He will not betray them. Rochefort leans close.
+M	ROCHEFORT	Tell me where they are, and I will be lenient.
+M	D'ARTAGNAN	How? ROCHEFORT I will give you your father's sword. A long beat. D'Artagnan eyes the gleaming saber, forged D'ARTAGNAN Give me my father's sword, and I'll cut out your heart. Bold words, bad timing. Rochefort snarls, slams the hilt
+M	ROCHEFORT	Fool. Like your father. Rochefort storms from the cell. He nods at a grizzled D'Artagnan thinks fast... and joins them. RICHELIEU I have an errand that requires your singular talents. MILADY I was beginning to think you'd forgotten me. RICHELIEU Forget you? Impossible. Richelieu and Milady share a look of intimacy, two vipers Richelieu produces a sealed document from his sleeve,
+M	RICHELIEU	Carry this to the Duke of Buckingham. MILADY You did it. An alliance with Buckingham.
+M	RICHELIEU	The King left me no choice. Now that he's come of age, the boy believes he should rule France. Instead of me. You're going to go through with ... everything?
+M	RICHELIEU	Yes. Everything. You're to leave for Calais at once. A ship called the Persephone will carry you to England. It sails Tuesday, midnight. I want Buckingham's signature next to mine before the King's birthday. Friday. MILADY Consider it done.
+M	RICHELIEU	And doing so, shall earn you the gratitude of... a King. ROCHEFORT On your knees.
+M	ROCHEFORT	This is the boy who killed Jussac. D'ARTAGNAN I can explain that -- ROCHEFORT Silence! Rochefort punches d'Artagnan in the head, knocking him to
+M	RICHELIEU	Rochefort. Violence solves nothing. Leave him to me. D'Artagnan reacts to the Cardinal's reasonable tone.
+M	RICHELIEU	Please. Sit down. D'Artagnan reacts with perceptible awe, as if seeing his RICHELIEU How much did you hear?
+M	D'ARTAGNAN	Not a word, Your Eminence. I stepped from my cell for a breath of air, and became lost in the corridors, it's dark as you know, but then I saw a light up ahead, the light over your door, I... Richelieu smiles, dismisses d'Artagnan's tale with a
+M	RICHELIEU	You may have many talents, my young friend. But guile is not one of them. Do you have a name?
+M	D'ARTAGNAN	D'Artagnan.
+M	RICHELIEU	I've heard that name before. Are you a Gascon?
+M	D'ARTAGNAN	Yes, Your Eminence. RICHELIEU Tell me. What brought you to Paris. And don't say 'a horse.' D'ARTAGNAN I came to join the King's Musketeers.
+M	RICHELIEU	Bad timing.
+M	D'ARTAGNAN	So I've heard. RICHELIEU D'Artagnan, I like you. I could use a capable young man like you in my Guards.
+M	D'ARTAGNAN	I'm honored, Your Eminence, but I don't think I would be very popular with the other men. Not after today. RICHELIEU I suppose not. Your heart is set on being a Musketeer. When I was your age, I too had dreams of joining the Musketeers.
+M	D'ARTAGNAN	You, Your Eminence? RICHELIEU Why not? Becoming a Musketeer is the fantasy of every young Frenchman. Or should I say it was... Like the Knights of the Round Table, the Musketeers have outlived their usefulness. They are a thing of the past. And so have your three friends. Tell me where they are, d'Artagnan, and I will spare your life. D'ARTAGNAN I'm sorry. But I can't tell you what I do not know.
+M	RICHELIEU	In that case, give my regards to the headsman. D'ARTAGNAN What about my trial? RICHELIEU You've just had it.
+M	D'ARTAGNAN	Wait -- RICHELIEU Why? Do you object to losing your head? D'ARTAGNAN Yes. I like it where it is.
+M	RICHELIEU	Then tell me what I want to know, and perhaps you will keep it there a few years longer. Where are the three Musketeers? D'ARTAGNAN I don't know.
+M	RICHELIEU	And if you did?
+M	D'ARTAGNAN	I wouldn't tell you.
+M	RICHELIEU	I admire your courage, young man. You might have made a fine Musketeer after all. RICHELIEU But we'll never know, will we? Rochefort steps into the room, grabs d'Artagnan roughly turns to the Captain, commands: RICHELIEU Find the three Musketeers and kill them.
+M	ROCHEFORT	They'll be dead by dawn. RICHELIEU A comforting thought. Good night, d'Artagnan. Enjoy it. Morning comes quickly. The crowd roars approval. And turns to regard the day's
+M	ROCHEFORT	Milady left at midnight. By private coach. RICHELIEU A remarkable woman. The most beautiful I've ever known. And the deadliest. Which would explain my attraction. How is our young daredevil holding up?
+M	ROCHEFORT	He's wishing he'd never heard of the Musketeers. Down below, the horse cart reaches the scaffold. A man-
+M	PRIEST	Fear not, my son...
+M	PRIEST	For we are with you, always. The Priest raises his face, reveals it... and winks. It
+M	ARAMIS	All for one, and one for all... Prepare the prisoner. Porthos lays his axe aside, approaches d'Artagnan in a PORTHOS Don't worry, boy. You won't feel a thing. The Captain of the Guards gives Aramis a suspicious look. Where is Father Rostand today?
+M	ARAMIS	The good father is... all tied up.
+M	CAPTAIN OF THE GUARDS	Very well. Proceed. Porthos nods.
+M	ANOTHER ANGLE 63	Meanwhile, on the perimeter of the square, two figures ANNE Barbarism.
+F	CONSTANCE	Men call it justice.
+F	ANNE	Are you surprised? She replies with contempt, reins her horse away from the CONSTANCE It's him. The Cardinal's crimson carriage races toward the scaffold, Porthos uses the heavy blunt end of the axe to topple the
+M	ATHOS	Gentlemen, your carriage. Compliments of the Cardinal. D'Artagnan rushes to the edge of the scaffold, springs Constance watches the escape, transfixed, delighted. As CONSTANCE Yes! But the Cardinal looks on with horror. RICHELIEU My carriage.
+M	CARRIAGE 68	Athos produces a dagger, cuts the leather ties that bind ATHOS Hold on!
+M	PORTHOS	Well, what have we here?
+M	PORTHOS	How considerate of the Cardinal to provide us with a snack. ARAMIS Hello. ARAMIS How is it that a man of God becomes a man of gold? PORTHOS Trinkets for the ladies.
+M	ARAMIS	Let's share. ARAMIS Would you be so good as to distribute these? Your generosity will be greatly appreciated. D'ARTAGNAN But...? ARAMIS Throw the coins, boy. The people are hungry.
+M	D'ARTAGNAN	They're firing at us!
+M	PORTHOS	Champagne?
+M	ATHOS	You know I prefer wine. PORTHOS Don't go away.
+M	PORTHOS	May I recommend this find Cabernet? Porthos hands the bottle to Athos. Athos hands the reins
+M	ATHOS	Turn right at the next street. D'ARTAGNAN The next right...? ATHOS Turn. Athos growls, d'Artagnan jerks at the reins. The carriage Porthos looks up from his chest, champagne spilled all
+M	PORTHOS	That's it. Next time, you drive. D'Artagnan sighs with relief. Athos yanks the brake
+M	ATHOS	Gentlemen, this is the end of the line. I hope you had a pleasant ride. Unhitch the horses. D'ARTAGNAN But the Guards. ATHOS Do as I say. D'Artagnan hurries to the horses. Porthos and Aramis
+M	ATHOS	Your pistol and powder, please. Aramis hands Athos a sack of powder, and his pistol.
+M	ATHOS	Stand back.
+M	BOTTOM OF HILL 73	D'Artagnan and the three Musketeers mount the Cardinal's
+M	PORTHOS	I'd give five years of your life just to see the Cardinal's face!
+M	ARAMIS	Ten!
+M	RICHELIEU	One thousand pistoles on each of their heads, dead or alive. The boy knows our plans. D'Artagnan and the three Musketeers rest against tree D'ARTAGNAN I haven't eaten in three days. I guess with all the excitement, I forgot. ARAMIS Your trip from home has been an eventful one.
+M	D'ARTAGNAN	Three days. PORTHOS I heard of a d'Artagnan once. He was a captain in the Musketeers when we were just recruits. D'ARTAGNAN He was my father.
+M	ARAMIS	A good man, I'm told.
+M	PORTHOS	I knew there was something familiar about this boy. D'ARTAGNAN He died when I was nine. The mention of the elder d'Artagnan's death casts a pall.
+M	D'ARTAGNAN	All my mother would tell me is that he died in the service of the King.
+M	ATHOS	D'Artagnan, your father and another Musketeer were ambushed and murdered outside the Louvre. D'Artagnan pales, stunned and silent. He manages a broken whisper: D'ARTAGNAN This other Musketeer -- is he still alive? I'd like to talk to him. Athos shakes his head. Porthos adds:
+M	PORTHOS	You already have. His name is the Count De Rochefort. D'Artagnan isn't listening. He stands suddenly, turns,
+M	ARAMIS	D'Artagnan. D'ARTAGNAN I imagined his death a hundred time. On a battlefield, defending his King. Fighting bravely for France. And now... I will find the man who murdered my father and kill him where he stands.
+M	ARAMIS	A man is better measured by his life than by his death. Your father was bold, and brave.
+M	D'ARTAGNAN	But you never knew him...
+M	ARAMIS	He lives in you. That's all the evidence Aramis requires. D'Artagnan pauses to reflect. Then wonders: D'ARTAGNAN And your father?
+M	ARAMIS	I was orphaned at a young age. The church took me in. D'ARTAGNAN You didn't have one.
+M	ARAMIS	But I did. He was a great man, a leader of the church. And his example inspired me to dedicate my life to God's service. D'ARTAGNAN You were a priest... ARAMIS I was a fool. This great man, this father, betrayed the church, and turned his back on God. To worship power and gold. It broke my heart to see it. D'ARTAGNAN And you became a Musketeer.
+M	ARAMIS	I joined the Musketeers and a strange thing happened. I got my faith back.
+M	D'ARTAGNAN	But who was that man...
+M	ARAMIS	All of France knows him. His Eminence, the Cardinal Richelieu. D'Artagnan nearly jumps from his boots.
+M	ROCHEFORT	Your Eminence. The Musketeers have been sighted riding north on the road to Calais. RICHELIEU Don't worry. Thanks to our winged friends, every mercenary and bounty hunter in France will be waiting for them. Isn't modern communication a wonderful thing? Richelieu releases the bird, and watches it streak sky-
+M	D'ARTAGNAN	... I couldn't hear it clearly, I was standing by the door, the voices were low --
+M	PORTHOS	Go on. D'ARTAGNAN The Cardinal sent someone to England. With a secret treaty. ARAMIS What? D'ARTAGNAN He's made an alliance with a man named, Bucking... Buckingham. The Musketeers look at each other with alarm. PORTHOS The Duke of Buckingham? D'ARTAGNAN Do you know him? ARAMIS He rules England the way Richelieu rules France. D'ARTAGNANj A ship called the Persephone waits for the Cardinal's agent at Calais. To take him to England. Tuesday, midnight.
+M	ARAMIS	Calais is over two hundred leagues from here... PORTHOS This messenger and the treaty will prove the Cardinal a traitor. If we can get our hands on them. D'ARTAGNAN What are we waiting for, let's go.
+M	ATHOS	Wait.
+M	ATHOS	Does the Cardinal know you have this information? D'ARTAGNAN Yes. ATHOS Then he knows we have it too. And he'll do everything in his power to stop us. PORTHOS But with three men trying, one of us might be able to make it. D'ARTAGNAN Four. Bold words. D'Artagnan matures by leaps and bounds. One of them hisses for silence, all conversation ends. MERCENARY Shoot low. We'll need their heads for identification. Cursing, the angry Mercenaries whirl about, FIRE at
+M	FARMER	Thank God for a friendly face. My horse broke loose. Can you help me move these kegs out of the road? D'Artagnan starts to dismount.
+M	ATHOS	Stay on your horse. D'ARTAGNAN He needs our help.
+M	ATHOS	Don't worry. We'll help him. FARMER Won't you step down... Musketeers?
+M	ARAMIS	Gentlemen, I beg you. Please put away your weapons and remove these kegs from the road. We'd prefer to ride on without having to kill you. D'Artagnan and the "Farmers" gape at Aramis in surprise.
+M	FARMER	You're threatening us?
+M	PORTHOS	It's not a threat, it's a fact. If you don't haul those kegs away, you're dead where you stand. The Farmer laughs, contemptuously. He raises his pistol When the smoke clears, d'Artagnan is startled to see the PORTHOS Mine hit the ground first. ATHOS Mine was taller. Aramis swings out of the saddle and begins to perform
+M	PORTHOS	There's only one rule, d'Artagnan -- stay alive.
+M	INNKEEPER	Good evening. ATHOS See to our horses and bring us some food. INNKEEPER I'm sorry but we have little to spare. The Cardinal's Guards were here today. They helped themselves to our food and then refused to pay. ARAMIS In the name of God, I'm sure. Porthos is on the lookout for danger. He reaches inside
+M	BARMAID #1	Musketeers!
+M	INNKEEPER	Musketeers in my house! Gentlemen, put away your swords and come in. Anyone who fights the Cardinal is welcome here. ARAMIS I think we've found a home.
+M	INNKEEPER	We don't have much but what we have is yours.
+M	PORTHOS	Ladies, you're in for a treat tonight. Allow me to introduce myself. I'm the Musketeer they call Porthos. Porthos beams, waiting for a big response but nothing PORTHOS Porthos.
+M	ARAMIS	It's hard to believe they haven't heard of the great Porthos. PORTHOS Oh, shut up, Aramis.
+M	BARMAIDS	Aramis? Did you say Aramis? And with that, the three Barmaids desert Porthos and
+M	PORTHOS	I don't get it. I just don't get it.
+M	PORTHOS	I said, 'A Queen is no different than a barmaid in the dark. Though less... practiced in the arts of pleasure...'
+M	PORTHOS	If you're going to be a proper Musketeer, you'll have to learn the manly art of wenching. Right, ladies? The Barmaids heartily concur. D'Artagnan looks over PORTHOS Ahh, very good. Your first subject. But you'll need instruction. Watch closely. Porthos pulls one of the Barmaids to his chest, brings PORTHOS The secret to wenching is the first kiss. For in that kiss, a lasting impression is made. If it is weak, she will think you are weak. And if it is comical, she will think you are a clown. With me? D'ARTAGNAN Weak... weak. Comical... clown.
+M	PORTHOS	Very good. And as a Musketeer is never weak, and only rarely a clown, your first kiss must be all the things that you are. Like this... Porthos gives the Barmaid a powerful kiss. He breaks it,
+M	PORTHOS	You may speak first if you like, your name, her name, an endearment or two. But words are usually a waste of time.
+M	ARAMIS	Only if you don't know which words to say. All turn to regard Aramis. He'll play along too. Porthos reacts with delight. D'Artagnan with interest. ARAMIS Words may make a more lasting impression than a thousand of Porthos' kisses.
+M	BARMAID	Not likely. ARAMIS I'll demonstrate. Please. Sit beside me. Aramis' courtly behavior is as out of place in these en- ARAMIS 'Shall I compare thee to a summer's day? Thou art more lovely and more temperate: Rough winds do shake the darling buds of May, And summer's leash hath all too short a date; Sometime too hot the eye of heaven shines, And often is his gold complexion dimmed; And every fair from fair sometimes declines, By chance, or nature's changing course untrimmed; But thy eternal summer shall not fade. Nor lose possession of that fair thou owest, Nor shall death brag thou wanderest in his shade, When in eternal lines to time thou growest; So long as men can breathe, or eyes can see. So long lives this, and this gives life to thee.'
+M	ARAMIS	Shakespeare. PORTHOS That's cheating. The Barmaid on his lap disagrees.
+M	BARMAID	It's beautiful. D'Artagnan looks at the dark-haired Barmaid across the
+M	PORTHOS	Come on, d'Artagnan. We haven't got all night. best he can: D'ARTAGNAN 'Shall I compare thee to a summer's day? Thou are move lovely and more tempest, er, more tempered...' Ahh, to hell with it --
+M	PORTHOS	The boy's a natural. ARAMIS So little time, so much to learn.
+M	ARAMIS	In all the years I've know him... I have never seen Athos smile.
+M	D'ARTAGNAN	Why is he sitting by himself? PORTHOS Athos takes his drinking seriously. Ignore him. He'll be his usual warm, charming self by morning. Service! My lap is cold! A Barmaid scurries INTO VIEW. Porthos grabs her by the D'ARTAGNAN Come join us. Athos pulls d'Artagnan down with a dark smile. He fills
+M	ATHOS	You fight like a Musketeer. Let's see if you can drink like one.
+M	D'ARTAGNAN	I'll drink anything you put in front of me.
+M	ATHOS	Famous last words. What shall we drink to? D'ARTAGNAN Love?
+M	ATHOS	Love. Would you like to hear a story, d'Artagnan? A love story? Athos' voice reveals unexpected vulnerability, the pain
+M	D'ARTAGNAN	Yes. Athos takes a long pull from the bottle of burgundy, ATHOS I once knew a man... one of the Counts of Berry. My native province. When the good Count was about your age, he fell in love with a visitor from Paris. A breathtaking girl of seventeen. She was more than beautiful, d'Artagnan. She was... intoxicating. And this man, the poor idiot, he married her. D'ARTAGNAN Isn't that what people do when they fall in love? ATHOS Be quiet and listen. The Count took her to his castle and made her the first lady of the province. They were happy for a time, as happy as a man and a woman can be. Then one day, while riding in the woods, the girl was thrown from her horse, and knocked unconscious. The Count hurried to help her. Her dress was torn. On her her arm, the woman wore a gold band in the shape of a serpent. It was the only article of clothing she refused to remove. The Count's curiosity got the best of him. He reached over and slid down the gold band. He saw something on her arm... something she'd kept hidden 'til then...
+M	D'ARTAGNAN	What?
+M	ATHOS	The fleur d'lis. She'd been branded... D'Artagnan reacts with shock. ATHOS The Count's angel turned out to be a murderess who escaped the Executioner's blade. She swore that she loved him. Swore that she had changed. And if he would just keep her secret, they would live a long life together. Athos pauses, imagines that life. The Count and his ATHOS But the Count was young and he was stupid. He was tormented by the ridicule of his social class. And so he rejected her. For her lies and for her past. And turned her over to the authorities to be executed for the crime. But you see... his heart did not agree. The Count soon realized what she had meant to him. And what he had done. That his... betrayal was far greater than her own. Soon after he foreswore the society that shaped him. Gave up his title. And was never seen again. D'ARTAGNAN He loved her.
+M	ATHOS	He killed her. It seemed like the same thing after a while. Athos SMASHES open another BOTTLE. But the story has ATHOS Good. More for me. PORTHOS Aramis -- play something with some blood in it! I feel like dancing! Aramis launches into something appropriate. Porthos and
+M	PORTHOS	Care to dance, Athos? ATHOS Only if I can lead. PORTHOS Aramis! Athos made a joke!
+M	ANGLE 86	The Innkeeper comes down the stairs wearing a nightshirt
+M	INNKEEPER	Excuse me, gentlemen.
+M	D'ARTAGNAN	Were we making too much noise? INNKEEPER You told me to wake you at dawn.
+M	ATHOS	Well?
+M	INNKEEPER	It's dawn. They turn in disbelief to the shuttered windows. Sure
+M	PORTHOS	Beautiful morning, eh, d'Artagnan?
+M	PORTHOS	You know, d'Artagnan, it's not a good idea to travel on an empty stomach. You really should have had a big portion of those sheep's brains... D'ARTAGNAN My head feels like it's filled with the King's marching band. Would you please stop whistling? PORTHOS Whistling? I'm not whistling.
+M	D'ARTAGNAN	Well someone is.
+M	PORTHOS	The Barmaid's kiss left him dizzy. ARAMIS I hear it too. It sounds like...
+M	ATHOS	A connon ball.
+M	PORTHOS	I hate cannon balls. A group of men operate two rusted cannons, left over from The Musketeers barely calm their horses, when another
+M	ARAMIS	How's your head now?
+M	D'ARTAGNAN	I'm beginning to wish the Cardinal had chopped if off.
+M	ATHOS	Stay with us, and you just might get your wish. Athos spurs his horse across the field, d'Artagnan and They ride as fast their mounts will carry them. A cross-
+M	ATHOS	Split in half! D'Artagnan rides with me!
+M	ARAMIS	We'll see you in Calais! ATHOS Or hell! CONSTANCE But how, your Majesty? How can you tell if you're really in love? ANNE Do you think about him all the time? CONSTANCE Yes. And when he's around, do your knees feel as weak as water?
+F	CONSTANCE	Yes.
+F	ANNE	And when he looks at you, do you suddenly forget how to breathe? CONSTANCE Yes.
+F	ANNE	Then you're in love.
+F	CONSTANCE	I am.
+F	ANNE	Who is he? CONSTANCE You'll never believe it.
+F	ANNE	Of course I will.
+F	CONSTANCE	You won't. ANNE Who? CONSTANCE The young man who rescued us from the bandit.
+F	ANNE	The young man on the scaffold?
+F	CONSTANCE	Yes. ANNE You're right. I don't believe it. CONSTANCE Are you in love, Your Majesty?
+F	ANNE	What an impertinent question. CONSTANCE Are you?
+F	ANNE	My love... is a matter of state. It's complicated. A sad beat. Constance teases:
+F	CONSTANCE	Do you think about him all the time?
+F	ANNE	As Queen, my mind touches on many subjects. CONSTANCE Do your knees feel as weak as water? ANNE Never. CONSTANCE When he looks at you, do you forget how to breathe? A beat. And Anne is a girl of eighteen again, not Queen.
+F	ANNE	I hope he will someday. I hope I will too. HOLD ON Anne for a beat.
+F	ANNE	Constance, have you seen my...? RICHELIEU Your Majesty, forgive me.
+F	ANNE	Cardinal.
+M	RICHELIEU	I need your help. And could not in good conscience wait another minute.
+F	ANNE	You want my help? RICHELIEU Yes.
+F	ANNE	On what matter? RICHELIEU Your... husband. ANNE Your King. ANNE Of course. As Your Eminence has been kind enough to advise me... It's the least I can do.
+M	RICHELIEU	I am worried about the King's... happiness.
+F	ANNE	What do you mean?
+M	RICHELIEU	The Huguenot rebellion, occupation in the Antilles and Cayenne. The coming war with France. These are not the usual hobbies of youth. ANNE No. RICHELIEU And now he wishes to postpone his birthday celebration. ANNE Why?
+M	RICHELIEU	He feels it is not... appropriate. ANNE It sounds as though he is concerned with more important matters.
+M	RICHELIEU	Which is exactly why we must celebrate. To show the world that the King of France is strong enough to face any enemy on any field. To show France... that he is King. He will listen to you. If you will speak. Richelieu makes his case with forceful eloquence, seeming ANNE I will speak to him. Anne senses hidden agenda, intrigues below the surface.
+F	ANNE	Now, if you'll excuse me, I... RICHELIEU Of course. Anne nods, turns back toward the chambers. Richelieu
+M	RICHELIEU	Your Majesty? Please understand that I do not underestimate the value of your assistance. And that I wish for you to consider -- in fact, to know -- all that you and I might accomplish. Together. For France. Richelieu steps away, his red cape swirling behind him. RICHELIEU I'm sorry to be late, Your Majesty, but I was wrestling with an important matter of state.
+M	LOUIS	Why is it I don't see any of my Musketeers?
+M	RICHELIEU	I'm afraid... that's impossible.
+M	LOUIS	Why? RICHELIEU They have become outlaws. They are terrorizing the countryside, robbing and killing innocent people.
+M	LOUIS	There must be some mistake.
+M	RICHELIEU	No mistake. I have reports from the local constables involved.
+M	LOUIS	Musketeers... RICHELIEU They are better off disbanded. Louis turns back to the balcony, the soldiers marching
+M	LOUIS	Your Eminence, I've been hearing some very troubling rumors about you.
+M	RICHELIEU	There are so many to choose from. Is it the one about my alleged alliance with Buckingham? Let's see if I remember it correctly. While the English attack from without, I'll undermine the throne from within -- depose you -- and become sovereign of France myself. That rumor, Your Majesty?
+M	LOUIS	It does seem rather farfetched. RICHELIEU If there are any doubts of my loyalty, they'll be put to rest when we appear together at your birthday celebration.
+M	LOUIS	I've been thinking about that. A birthday celebration when we're on the brink of war...
+M	RICHELIEU	Your subjects are eager to celebrate the birth of their King at a time like this.
+M	LOUIS	I'm not so eager. RICHELIEU I have an idea. Why don't you discuss the matter with your Queen? Louis looks up, wonders. As Richelieu draws him deeper ARAMIS My horse will not survive another league. PORTHOS And you?
+M	ARAMIS	Ten, twenty at the most. PORTHOS Here's just the thing. A nice, relaxing boat ride. At the bottom of the hill: a crude ferry lands at the A privilege to carry you on my humble boat... The Ferryman turns a greedy eye on the Woman and child.
+M	FERRYMAN	Two pistoles.
+M	WOMAN	But I only have one. Couldn't my child ride free? She's so small... FERRYMAN Two pistoles. A courtly voice intervenes.
+M	ARAMIS	Put away your money, madame. You and your child will cross the river under our protection. For free. All turn to regard Aramis on horseback, Porthos at his FERRYMAN Nobody rides for free! Under your protection bloody well indeed! I'll teach you a thing or two about protection! Apple- cheeked young fools!! -- Just who do you think you are!! ARAMIS Musketeers. Two two Cavaliers react to the word. The Ferryman does, FERRYMAN Musketeers? Well, why didn't you say so? Of course you'll ride for free. I insist on it. This way, pretty madame. My what a lovely little girl...
+M	ARAMIS	Porthos!
+M	PORTHOS	What? Aramis takes Porthos by the shoulder and turns him so PORTHOS We sail! The pursuers charge down the hill and ride to the end of FLATBOAT 96 Porthos laughs and taunts the angry pursuers. Aramis FIRST CAVALIER You're those Musketeers everyone's been looking for.
+M	PORTHOS	Popularity has its price.
+M	FIRST CAVALIER	I have some excellent brandy here. Would you gentlemen care to drink a toast with us to the Cardinal? PORTHOS We'd be happy to. Porthos produces a bottle from under his cloak. PORTHOS If you'll drink one with us to the King. SECOND CAVALIER But the only King we recognize... is the Cardinal. ARAMIS There are those who would call that treason.
+M	FIRST CAVALIER	Happily, no such objections have been raised... here.
+M	PORTHOS	All right. I'll object.
+M	SECOND CAVALIER	I'm listening.
+M	PORTHOS	Let's see. You are, by your dress and by your manner, members of a bone-lazy class of servile ninnyhammers whose slavish allegiance to His Eminence the Cardinal is as that of a dog who likes nothing better than to sniff today where he has peed the day before. Piss is piss, no matter what robes surround it.
+M	ARAMIS	Well said. I'm impressed. Ninnyhammers.
+M	PORTHOS	I was momentarily inspired.
+M	FIRST CAVALIER	May I reply?
+M	ARAMIS	By all means. FIRST CAVALIER Better to be a dog in the service of a great master, than a beef- witted moron so dazzled by the throne that he does not see the true nature of the foolish boy who wobbles atop it. Which is to say, that most muddy-brained of all men... a Musketeer. The Cavaliers have already pulled out their swords. deadpans: PORTHOS Maybe there's something about us that just pisses people off. At least I'd like to think so. It's too bad we can only kill them once. swordsmen. And, as if that were not enough, the Musketeers have an additional disadvantage -- they must Porthos drives his opponent about the flatboat with a Aramis duels with the expected artistry, gradually re-
+M	PORTHOS	I've been called a lot of things in my time... ARAMIS Porthos... PORTHOS But beef-witted is a little more than I can stand, not to mention unfair... ARAMIS Porthos... PORTHOS What? Aramis indicates the opposite shore as the flatboat
+M	ARAMIS	Can you swim?
+M	PORTHOS	No. My horse can. ARAMIS That'll do.
+M	PORTHOS	But...? ARAMIS You go first and I'll watch your progress.
+M	PORTHOS	No, no. Please. After you.
+M	ARAMIS AND PORTHOS	One, two -- three! And with that, as the Woman and child, the Ferryman look
+M	WOMAN	Thank you. God speed. Porthos manages a wink as he floats into the distance. The Cardinal's Guards react with anger and disbelief. A wild ride down the ROARING RIVER. Porthos clinging to Porthos looks down at his latest sash -- destroyed like
+M	ARAMIS	A nice relaxing boat ride... And with that, Aramis and Porthos charge towards the
+M	D'ARTAGNAN	Do you think we've lost them?
+M	ATHOS	They'll catch up eventually. D'ARTAGNAN My father used to hunt in a forest like this. He promised to take me on my tenth birthday. I don't know why he picked that year. Something about a boy becoming a man. I'd lay in bed at night and imagine it, just the two of us. But he died before I could go with him. Athos is unmoved, or so it would seem. He replies with
+M	ATHOS	Well. You have your boyhood wish at last. The dark forest. The thrill of the hunt. The nearness of death. Only d'Artagnan is the hunted, not the hunter.
+M	D'ARTAGNAN	I'd be proud to die for my King. ATHOS I just wanted to save you from the life of a Musketeer. You don't have to go looking for experience, d'Artagnan. It'll find you soon enough. And when it does -- it will mark you forever. Athos and d'Artagnan GALLOP through the dense forest. Stalemate, but not for long. They are badly outnumbered. ATHOS I'll hold them off for as long as I can. Go on without me. D'ARTAGNAN I can't leave you here. Not like this.
+M	ATHOS	Ride to Calais and stop the Cardinal's agent.
+M	D'ARTAGNAN	Athos... I can't.
+M	ATHOS	Go, or I'll kill you myself.
+M	D'ARTAGNAN	A duel then. ATHOS You're insane.
+M	D'ARTAGNAN	We never finished the first.
+M	ATHOS	All right. I'll toss a coin. Tails I stay, heads you remain. Agreed? ATHOS Tails. I stay. D'ARTAGNAN But...? Athos reloads, FIRES below. D'Artagnan recognizes the
+M	D'ARTAGNAN	At least take my pistol.
+M	ATHOS	Don't let us down... Musketeer. There are tears in d'Artagnan's eyes. He knows Athos
+M	D'ARTAGNAN	I'll never forget you.
+M	ATHOS	Go! Athos turns away, SHOOTS at another horseman. D'Artagnan
+M	D'ARTAGNAN 104	D'Artagnan swallows his heart, and rides. We hear HORSES, and the CREAK of a CARRIAGE APPROACHING. What is it, Henri? There's a body in the road, Milady. Be careful. Pistols are cocked. Henri's shadow falls across HENRI It's a young man. He appears to be injured. We hear the CARRIAGE DOOR OPEN. FOOTSTEPS to d'Artagnan's
+M	MILADY (O.S.)	My, what a handsome boy. Put him inside with me.
+F	MILADY	Welcome back. Did you dream? D'ARTAGNAN You.
+F	MILADY	Have we met?
+M	D'ARTAGNAN	I... saw you in Paris. D'Artagnan notices that his shoulder has been bandaged. D'ARTAGNAN Where am I...? MILADY This is Calais.
+M	D'ARTAGNAN	Calais! The ship... Tuesday at midnight... D'Artagnan leaps out of bed. Then realizes he is stark around him. D'ARTAGNAN Where are my clothes? MILADY Filthy. I'm having them cleaned. Is something wrong? D'ARTAGNAN What day is it? What time?! MILADY It's Tuesday, near nine. D'ARTAGNAN Nine? Are you sure?
+F	MILADY	Quite sure. D'Artagnan relaxes slightly. Milady rises from the bed. MILADY Are you in a hurry? D'ARTAGNAN How did I... get here? MILADY I found you in the road. Discarded. Like an unwanted kitten. Do you have a name or shall I make one up for you?
+M	D'ARTAGNAN	My name is d'Artagnan.
+F	MILADY	D'Artagnan. I like that. I am the Countess de Winter. Milady. D'ARTAGNAN Countess?
+F	MILADY	My husband's dead. D'ARTAGNAN I'm sorry.
+F	MILADY	I have learned to live with death. D'ARTAGNAN Countess, I'm very grateful for what you've done, but I can't stay here. I've got...
+F	MILADY	What...? D'ARTAGNAN Important business. MILADY How mysterious. A handsome young man with 'important business' in the still of night. Does it involve a young lady? D'ARTAGNAN No. MILADY Does it require clothes? D'ARTAGNAN Yes. I need my clothes. MILADY They won't be ready for at least an hour. D'ARTAGNAN An hour? MILADY I told the innkeeper to bring them when they are dry. Until then, I'm afraid you are my prisoner. Would the prisoner care for a drink? D'ARTAGNAN I am... thirsty. Milady pours wine into glasses, turns to face him. And
+F	MILADY	Good. Then we will sit by the fire, and eat and drink, and you may impress, perhaps even move me, with the story of how you came to lie unconscious, in the middle of the night, on the road to Calais. I love a good adventure. D'Artagnan hesitates, then steps to her.
+M	RICHELIEU	The wonderful thing about an imaginary opponent is that he is always greatly skilled, and always easily defeated. The pride of victory, without the risk of loss. If only life were like that. RICHELIEU Milady has reached Calais.
+M	ROCHEFORT	I told you not to worry about the Musketeers. They are dead by now.
+M	RICHELIEU	Buckingham's signature will be on the treaty by morning.
+M	ROCHEFORT	The King's birthday celebration...? RICHELIEU Will proceed as planned. Thanks to the kind intercession of Queen Anne. Rochefort steps closer, speaks quietly. ROCHEFORT And our plans...?
+M	RICHELIEU	Will proceed as well. Richelieu pours two glasses of port, offers one to
+F	MILADY	You are sad.
+M	D'ARTAGNAN	I was thinking about my friends. Milady knows when to speak, and when to listen. She D'ARTAGNAN The three best friends a man could have. We were separated on our way to Calais. I'm afraid I'll never see them again.
+F	MILADY	What brings you here? D'ARTAGNAN I'd like to tell you. But I can't.
+F	MILADY	'Important business.'
+F	MILADY	I understand. Men make bold plans in secret. And women wait... to mourn, or to celebrate the outcome. I know from experience, it's a lonely vigil. D'ARTAGNAN All I can tell you is... I'm on a mission for the King. MILADY I've heard that one before. D'ARTAGNAN I'm serious. MILADY You are a young man. And young men are given to exaggeration. However, if you would like to entertain me with a story, I'm eager to hear it. And please, make it very brave, filled with handsome knights and beautiful ladies. I know, a dragon -- There is nothing a man is more loathe to experience than D'ARTAGNAN I came to Calais to stop a spy from sailing to England. MILADY A spy...? D'ARTAGNAN Yes. MILADY I believe you... Aren't you afraid? D'ARTAGNAN Musketeers are not afraid of anything. MILADY I knew it. I knew you were a Musketeer the moment I saw you. D'ARTAGNAN You did?
+F	MILADY	Of course. But, d'Artagnan, if this spy was to find out you are here, your life could be in grave danger. D'ARTAGNAN A Musketeer is not afriad of danger. MILADY I'm dangerous. You're not afraid of me? Her tone heralds a sudden shift. D'Artagnan sees the D'ARTAGNAN You're not dangerous.
+F	MILADY	Then what am I? D'ARTAGNAN You're... beautiful.
+F	MILADY	Beauty, danger. They are the same. And with that, she reaches up to her hair, an ivory He cannot continue. Constance, the hour, a confusion he cannot deny. D'ARTAGNAN I'm sorry -- D'Artagnan pulls back -- just as Milady's arm arcs down
+M	D'ARTAGNAN	What're you doing?! Have you lost your mind?!
+F	MILADY	You came to Calais to stop a spy from sailing to England.
+M	D'ARTAGNAN	My God... MILADY Parker!! The chamber door flies open. Henri and Parker, the Indo- MILADY Kill him. Parker holds him fast. Henri steps forward. And D'ARTAGNAN You can kill me. But a surprise waits for you in England. That even Buckingham can't prevent.
+F	MILADY	What... surprise? D'ARTAGNAN That's one thing I'll never tell you.
+F	MILADY	D'Artagnan. You are young, vain, and foolish. But I do not know if you are clever.
+F	MILADY	We'll take him with us. Parker will devise ways to convince you to share your final secret with me. It is a long voyage. Milady's eyes show nothing but cold cruelty.
+M	HENRI	The bodyguards are waiting outside. MILADY The back stairs. Hurry! They change directions. As he is pulled away, d'Artagnan
+M	D'ARTAGNAN	The man at the inn... what did he want?
+F	MILADY	Justice. Honor. Revenge. D'ARTAGNAN Why?
+F	MILADY	He is the brother of my late husband, Lord de Winter. He blames me for de Winter's death. He thinks I murdered him. D'ARTAGNAN Did you murder your husband, Milady?
+F	MILADY	What do you think? D'ARTAGNAN I think he's not the first husband you killed. I once knew a man, one of the Counts of Berry. He told me a story... of beauty and danger. He was the bravest man I've ever known. And the saddest.
+F	MILADY	I know... reminded her of the one thing in the world that still D'Artagnan takes in his surroundings. There is a mel- MILADY What's the matter, d'Artagnan? Still hoping for your friends to ride to the rescue? D'ARTAGNAN My friends are dead.
+F	MILADY	Well. If it's any consolation, you'll soon be joining them. Milady's return to form does not surprise. Parker shoves
+M	HENRI	We are the Countess de Winter's party, arrived from Paris. Permission to come aboard. Permission granted.
+M	HENRI	Take us to your captain. The tall figure does not reply, nor does he move. Henri HENRI What are you, deaf? Henri goes to shake the man. He grabs his arm, and the
+M	BODYGUARD	What is this? Milady's Bodyguards rush around the deck, confront the
+M	BODYGUARDS	Dead! They're all dead!
+M	PORTHOS (O.S.)	Well I certainly hope so. After all that hard work.
+M	ARAMIS	You look like you've seen a ghost. Two of them.
+M	PORTHOS	Remind me to tell you the story of horses that could fly above raging waters. A heroic tale of love, death, and Musketeers. Suitable for the general public. Porthos wades into the Bodyguards, at play, shouting as
+M	PORTHOS	All right then. All those who wish to die, raise your hands! Don't by shy, there's plenty to go around! D'Artagnan grabs a sword from the deck, turns to join
+M	ATHOS	Sorry I'm late. Did I miss anything? D'Artagnan almost cries with happiness. He leaps to his D'ARTAGNAN I thought you were dead.
+M	ATHOS	Keep your mind on the mission, d'Artagnan.
+M	ATHOS	Boy, it's a miracle you're still alive fighting like that.
+M	D'ARTAGNAN	What do you mean?
+M	ATHOS	First, always find your enemy's weakness. Second, take advantage of it. Watch me. D'ARTAGNAN Find the weakness. Take advantage. Got it. Aramis kneels at a dying man, delivers muttered last
+M	SAILOR	That's our ship... The two Sailors pull out daggers, and bound up the Porthos hears them coming, spins. The two Sailors stop
+M	BOTH SAILORS	Porthos the Pirate!!
+M	PORTHOS	I told you I was famous. D'ARTAGNAN Porthos the Pirate?
+M	PORTHOS	Privateer. There's a difference. Every Musketeer is running from something or someone. D'ARTAGNAN I love a good sea story. Do tell me sometime. Porthos reacts to d'Artagnan's jest. But before he can The battle raging aboard the Persephone, sabers flash, Athos drives several Bodyguards back with his sword,
+M	ATHOS	Did you find the Cardinal's spy?
+M	D'ARTAGNAN	Yes. ATHOS Did you kill him?
+M	D'ARTAGNAN	Athos. The spy... is a woman. ATHOS What?
+M	ATHOS	No. With the speed and grace of a panther, Milady runs down ATHOS Stop!! Milady takes a halting step, then turns to face him. MILADY Athos.
+M	ATHOS	How did you do it, Sabine? How did you come back from the dead?
+F	MILADY	A kind gentleman took pity on me.
+M	ATHOS	I did not.
+F	MILADY	No, Count. You were too proud to listen to the truth. I learned the value of lies soon after.
+M	ATHOS	Give me the Cardinal's treaty.
+F	MILADY	No. ATHOS Then I will shoot. Athos cocks the trigger. Milady whispers: MILADY Be kind. And aim for my heart. Athos' face is a mask of contradiction. He tries to pull
+F	MILADY	I remember... everything.
+M	ARMAND	Countess de Winter... As d'Artagnan, Porthos, and Aramis arrive on the scene... ARAMIS The treaty outlines Richelieu's plan to forge an alliance with Buckingham.
+M	PORTHOS	What about the King?
+M	ARAMIS	He is not mentioned directly. But the agreement is contingent on a 'demonstration' of the Cardinal's power. D'ARTAGNAN A demonstration? What does that mean? ARAMIS I don't know. Athos' face grows dark. He has been silent throughout.
+M	ATHOS	I know someone who does. D'Artagnan, Aramis, and Porthos watch in grim silence as
+M	ATHOS	I'd like a word with your prisoner.
+M	ARMAND	She dies at dawn. MILADY Did you come to offer me consolation? ATHOS No.
+F	MILADY	There was a time when I would've given my life for a kind word. ATHOS I could not give it, Sabine. I was... a fool. Milady hears the regret in his voice, holds his gaze. ATHOS Did you kill his brother and his father as he says?
+F	MILADY	I have become... the nightmare you once thought me to be. ATHOS But not before. Not us. MILADY No. The memory will keep me company. Athos kneels at her side, near to pleading:
+M	ATHOS	Do you know the Cardinal's plans? MILADY Yes.
+M	ATHOS	Tell me.
+F	MILADY	Will you spare my life? ATHOS I can't. MILADY Society demands swift justice. I'll take the secret to my grave.
+M	ATHOS	Sabine. You'll die for your crimes. Nothing can stop that. But how you leave this world is up to you. Milady offers a half-smile, takes his hand in hers.
+F	MILADY	What did the world ever do for me? HOLD ON Athos. Milady's hand in his. All that he is Porthos leads Milady. She wears a simple white shift, Aramis reaches inside his cloak, removes the sacred The Executioner delivers the formal litany:
+M	EXECUTIONER	I forgive you for your crimes. Die in peace.
+M	ATHOS	Die in peace. ARAMIS I am the resurrection and the life, sayeth the Lord. He that believeth in me, though he were dead, yet shall he live; and whosoever liveth and believeth in me shall never die... The Executioner's sharp blade shines in the light of
+M	EXECUTIONER	On your knees. Milady kneels, the Executioner steps closer. The tableau
+M	ATHOS	No. EXECUTIONER What's this...? Porthos leaps forward, locks his great arms around Athos.
+M	PORTHOS	Athos -- But Athos breaks free. Milady rises to her feet. Athos
+M	ATHOS	Forgive me, Sabine. Please forgive. MILADY I do.
+F	MILADY	The Cardinal intends to assassinate the King at his birthday celebration on Friday. And with that, Milady reaches forward, offers a gentle
+M	EXECUTIONER	God's justice be done. ARAMIS Amen. ATHOS Musketeers.
+M	ATHOS	The King's life in danger. We have work to do. RICHELIEU Impressive.
+M	ROCHEFORT	He can do it every time. Rochefort signals approval to a solitary marksman
+M	RICHELIEU	And he has no qualms about... ROCHEFORT None. He believes that man should honor no Kings before God.
+M	RICHELIEU	A man of faith. How delightful. Whatever you're paying him, double it. I want the King's birthday to be a memorable event. And rehang this painting in my chamber. Just as it is. HOLD ON Richelieu for a beat. Framed by a sky filled breaks. MUSIC UP, and... d'Artagnan's father's study. It reads: All For One, And One For All. Townspeople are gathered around.
+M	CAPTAIN	... the aforenamed Musketeers are declared outlaws and are sentenced to death. Any person sheltering or aiding them will be hanged -- HOOFBEATS interrupt. The Captain turns in irritation. One For All.
+M	ENTRANCE DOORS 138	Louis, Queen Anne, and their retinue enter from a
+M	LOUIS	They look... happy.
+F	ANNE	Hungry, more likely. LOUIS Still, you were right about the celebration. And when the Cardinal told me how much it meant to you... ANNE I said nothing. LOUIS But... ? ANNE The Cardinal expressed in confidence how much the celebration would mean to you... Both pause to consider the manipulation. quietly, to himself: RICHELIEU I'm not sure which is sadder... to die so young. Or to die a King. Richelieu turns from the procession. Speaks to Rochefort
+M	RICHELIEU	France will not go wanting. A new King will sit on the throne. The true King after all... RICHELIEU Is everything ready?
+M	ROCHEFORT	Yes, Your Eminence.
+M	RICHELIEU	Are you sure? ROCHEFORT I'd stake my life on it, Your Eminence.
+M	RICHELIEU	Rest assured, Captain. You have.
+M	ATHOS	Look through the surrounding area. We'll try to reach the King...
+M	D'ARTAGNAN	But...? Go! The bell tower of the Carmes-Deschaux monastery. A
+F	ANNE	I do not trust him.
+M	LOUIS	I'm not sure who to trust. ANNE Then we will discover the truth together. Louis likes the sound of that. They step side by side Bell ropes, hundreds of feet long, dangle down the
+M	IN CROWD BELOW 147	Athos, Porthos, and Aramis push their way through the The marksman takes careful aim. The cheering down below D'Artagnan hears the click of the musket's hammer, and The murmur of the crowd becomes an excited roar. The ATHOS Save the King!! D'Artagnan peers down the shaft. There's a faint CRASH RICHELIEU Your Majesty...
+M	LOUIS	Leave us... alone. That's when a loud BOOM rocks the room. The great door shudders under the impact of a terrific
+M	RICHELIEU	Kill him. Kill her, too. necessary. LOUIS Get behind me. Rochefort takes confident steps toward the King. But
+M	ATHOS	Greetings, Monsieur Cyclops. Are we interrupting?
+M	ROCHEFORT	Not for long. Constance dashes through the fray. She sees a Guard CONSTANCE Look out! Anne looks up. Constance tosses the goblet to her. Anne Athos and Rochefort slash at each other. It is a mighty Rochefort goes sprawling. He loses his sword, it slides D'ARTAGNAN This sword belongs to me. But he shouts: ARAMIS D'Artagnan. Kill him where he stands. These are d'Artagnan's words. A son vowing to avenge the ROCHEFORT By all means. Let's discover if you are as brave a man as your father was. And as foolish. D'ARTAGNAN What...? ROCHEFORT He died for his King and for France. But most of all... he died on the end of my sword. As will you. Rochefort smiles a taunt. D'Artagnan raises his sword,
+M	D'ARTAGNAN	This is for you, Father.
+M	GREAT HALL 160	Athos, Porthos, and Aramis take the fight to the ROCHEFORT One thing's certain. You're no Musketeer. But d'Artagnan remembers Athos' advice. "Always find D'ARTAGNAN Take it back...?
+M	ROCHEFORT	I might... have been... mistaken. D'ARTAGNAN No!! Athos, Porthos, and Aramis enter the room. D'Artagnan
+M	RICHELIEU	Your Majesty, that document is an obvious forgery. I am clearly the victim of a conspiracy designed and perpetuated by these three Musketeers. LOUIS This is a complicated matter, Your Eminence, affecting both France and the crown... A beat. As all wonder if Richelieu will manage to elude LOUIS And so, until such time as I and my advisors -- -- can determine the whole truth of the matter. I invite you to await our decision in the comfort of... the Bastille.
+M	RICHELIEU	You can't do this to me. I'm the Cardinal of France. LOUIS And I am its King. Shouts of "Long live the King! Long live the King!"
+M	LOUIS	And as King... I hereby reinstate the Musketeers. A tremendous cheer is heard from all. Richelieu is led RICHELIEU Congratulations, Monsieur d'Artagnan. I'll be keeping an eye on you. D'ARTAGNAN Thank you, Your Eminence. I'll be watching you, too. Richelieu smiles his crocodile smile. Followed by
+M	LOUIS	Is this the young man who saved my life? Porthos puts a hand on d'Artagnan's shoulder. PORTHOS His name's d'Artagnan, Sire.
+M	LOUIS	Approach, d'Artagnan.
+M	D'ARTAGNAN	I have something that belongs to ... Your Majesty... D'Artagnan produces the bracelet he found on the country ANNE Thank you, d'Artagnan. But the bracelet does not belong to me. It belongs to her. continues:
+M	LOUIS	D'Artagnan, I am in your debt. What can I do to repay the courage you've shown me? Anything, D'Artagnan. Whatever your heart desires... D'Artagnan knows what he wants. But he is tongue-tied, ATHOS Majesty, his heart has only one desire. To become a Musketeer. D'Artagnan looks at Athos, thankful for the intercession. LOUIS Then kneel, d'Artagnan. D'Artagnan drops to his knees. Louis lays the blade of LOUIS The world is an uncertain realm, filled with danger. Truth despoiled by broken promises. Honor undermined by the pursuit of gold. Freedom sacrificed when the weak are oppressed by the strong. But there are those who oppose these powerful forces. Those who dedicate their lives to truth, honor, and freedom. They are a constant reminder to all of us. That such a life is not just possible, but necessary to our continued survival. As a country, as a King. These men are known as the Musketeers...
+M	LOUIS	Rise, d'Artagnan. And join them. Musketeer. Porthos, Aramis, and last... Athos. Who, to the surprise PORTHOS Do my eyes deceive me? ARAMIS I find it hard to believe myself.
+M	PORTHOS	His lips, unused as they are to such a contortion, twisted and stretched... into a smile.
+M	ARAMIS	It was spectacular. And what teeth.
+M	D'ARTAGNAN	I know this is a stupid question. But what exactly does a Musketeer do? PORTHOS Truth... honor...
+M	ARAMIS	And freedom. PORTHOS Weren't you listening? D'ARTAGNAN All for one...
+M	OTHERS	... And one for all!!

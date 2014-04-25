@@ -1,0 +1,903 @@
+M	CHARACTER	DIALOGUE
+M	JOHN	Eh... pardon me for asking but who's that little old man?
+M	PAUL	What little old man?
+M	JOHN	That little old man.
+M	PAUL	Oh, that one. That's me Grandfather.
+M	GEORGE	That's not your Grandfather.
+M	PAUL	It is, y'know.
+M	GEORGE	But your Grandfather lives in your house. I've seen him.
+M	PAUL	Oh, that's me other Grandfather, but this one's me Grandfather and all.
+M	JOHN	How d'you reckon that one out?
+M	PAUL	Well... everyone's entitled to two, aren't they, and this is me other one.
+M	JOHN	Well we know that but what's he doing here?
+M	PAUL	Well, me mother thought the trip 'ud do him good.
+M	RINGO	How's that?
+M	PAUL	Oh... he's nursing a broken heart.
+M	JOHN	Aah... the poor old thing.
+M	JOHN	Eh, Mister... are you nursing a broken heart then?
+M	PAUL	You see, he was going to get married but she threw him over for a butcher.
+M	GEORGE	A butcher?
+M	PAUL	Yeah, she was fickle.
+M	JOHN	Aye and fond of fresh meat and all.
+M	PAUL	No... it was his sweetbreads. She was dead kinky for sweetbreads. Anyroad, me mother thought it'ud give him a change of scenery, like.
+M	JOHN	Oh, I see.
+M	JOHN	Eh, he's a nice old man, isn't he?
+M	PAUL	Oh yeah, he's very clean, y'know.
+M	JOHN	Hello, Grandfather!
+F	GRANDFATHER	Hello.
+M	JOHN	He can talk then?
+M	PAUL	Course he can talk. He's a human being, like. Isn't he?
+M	RINGO	Well... if he's your Grandfather, who knows?
+M	JOHN	And we're looking after him, are we?
+F	GRANDFATHER	I'll look after meself.
+M	PAUL	Aye, that's what I'm afraid of!
+M	JOHN	He's got you worried, then?
+M	PAUL	Him, he costs you a fortune in breach of promise cases. He's a villain and a right mixer as well.
+M	GEORGE	Gerron.
+M	PAUL	No, straight up.
+F	GRANDFATHER	The lad's given you the simple truth. I'm cursed wid irresistible charm, I'm too attractive to be let loose.
+M	SHAKE	You got on all right then?
+M	BOYS	Hi, Shake.
+M	SHAKE	We're here. Norm'll be along in a mo' with the tickets.
+M	SHAKE	Morning! Who's that little old man?
+M	GEORGE	It's Paul's grandfather.
+M	SHAKE	Oh aye, but I thought...
+M	JOHN	No, that's his other one.
+M	SHAKE	That's all right then.
+M	JOHN	Clean though, isn't he?
+M	SHAKE	Oh yes, he's clean all right.
+M	NORM	Morning, lads.
+M	BOYS	Morning... Hi, Norm.
+M	NORM	Well, thank God you're all got here. Now, listen, I've had this marvellous idea... now just for a change, let's all behave like ordinary responsible citizens. Let's not cause any trouble, pull any strokes or do anything I'm going to be sorry for, especially tomorrow at the television theatre, because...
+M	NORM	Are you listening to me, Lennon?
+M	JOHN	You're a swine, isn't he George?
+M	GEORGE	Yeah... a swine.
+M	NORM	Thanks...
+M	NORM	Eh...
+M	BOYS IN CHORUS	...Who's that little old man?
+M	NORM	Well, who is he?
+M	RINGO	He belongs to Paul.
+M	NORM	Ah well, there you go. Look, I'm going down the diner for a cup of coffee, are you coming?
+M	PAUL	We'll follow you down.
+F	GRANDFATHER	I want me coffee.
+M	NORM	He can come with Shake and me if you like.
+M	PAUL	Well, look after him. I don't want to find you've lost him.
+M	NORM	Don't be cheeky, I'll bind him to me with promises. Come on, Grandad.
+M	NORM	He's very clean, isn't he?
+M	JOHNSON	Make up your minds, will you!
+M	PAUL	Do you mind if we have it opened?
+M	JOHNSON	Yes, I do.
+M	JOHN	Yeah, but there are four of us, like, and we'd like it open, if it's all the same to you, that is.
+M	JOHNSON	Well, it isn't. I travel on this train regularly twice a week, so I suppose I've some rights.
+M	RINGO	Aye, well, so have we.
+M	JOHNSON	And we'll have that thing off as well, thank you.
+M	RINGO	But I...
+M	JOHNSON	An elementary knowledge of the Railway Acts would tell you I'm perfectly within my rights.
+M	PAUL	Yeah, but we want to hear it and there's more of us than you. We're a community, like, a majority vote. Up the workers and all that stuff!
+M	JOHNSON	Then I suggest you take that damned thing into the corridor or some other part of the train where you obviously belong.
+M	JOHN	Gie's a kiss!
+M	PAUL	Shurrup! Look, Mister, we've paid for our seats too, you know.
+M	JOHNSON	I travel on this train regularly, twice a week.
+M	JOHN	Knock it off, Paul, y' can't win with his sort. After all, it's his train, isn't it, Mister?
+M	JOHNSON	And don't you take that tone with me, young man!
+M	GEORGE	But...
+M	JOHNSON	I fought the war for your sort.
+M	RINGO	Bet you're sorry you won!
+M	JOHNSON	I'll call the guard!
+M	PAUL	Aye... but what? They don't take kindly to insults you know. Ah, come on, you lot. Let's get a cup of coffee and leave Toby the manger.
+M	PAUL	Eh, Mister... can we have our ball back!
+M	NORM	Yeah, you want to watch it.
+M	SHAKE	It's not my fault.
+M	NORM	Well, you stick to that story, son.
+M	SHAKE	I can't help it, I'm just taller than you.
+F	GRANDFATHER	They always say that.
+M	NORM	Yeah, well I got me eye on you.
+M	SHAKE	I'm sorry Norm, but I can't help being taller than you.
+M	NORM	Well, you don't have to rub me nose in it. I've a good mind to...
+M	JOHN	If you're going to have a barney I'll hold your coats.
+M	NORM	He started it.
+M	SHAKE	No, I didn't you did...
+M	GEORGE	Well, what happened?
+M	SHAKE	The old fella wanted these pictures and Norm said he couldn't have 'em, all I said was 'aw go on, be big about it.'
+M	PAUL	And?
+M	NORM	Your Grandfather pointed out Shake was always being taller than me just to spite me.
+M	PAUL	I knew it, he started it, I should have known.
+M	NORM	Y'what?
+M	PAUL	You two have never had a quarrel in your life and in two minutes flat he's got you at it. He's a king mixer. Adam and Eve, meet the serpent. Anthony and Cleopatra, there's your asp. Divide and Conquer, that's this one's motto. He hates group unity so he gets everyone at it.
+M	PAUL	Aye and we'll have to watch it and all.
+M	GEORGE	I suggest you just give him the photos and have done with it.
+M	NORM	You're right. Here you are, old devil.
+F	GRANDFATHER	Would you ever sign this one for us, Pauly?
+M	JOHN	Come on let's get this coffee.
+F	GRANDFATHER	Before you go, I think it's only fair to warn you about me Grandson... don't let our Paul have his own way all the time, 'cos if you do he won't respect you!
+M	GEORGE	Oh, Paul, you can't have your own way!!!
+M	JOHN	If I let you have your own way, you little rascal, will you respect me?
+M	PAUL	I'll murder you, Grandfather!
+M	GEORGE	Eh, look at that talent.
+M	JOHN	Give 'em a pull.
+M	PAUL	Shall I?
+M	GEORGE	Aye, but don't rush. None of your five bar gate jumps and over sort of stuff.
+M	PAUL	Now what's that supposed to mean?
+M	GEORGE	I don't really know, but it sounded distinguished, like, didn't it?
+M	JOHN	George Harrison, The Scouse of Distinction.
+M	PAUL	Excuse me, but these young men I'm sitting with wondered if two of us could join you; I'd ask you meself only I'm shy.
+F	GRANDFATHER	I'm sorry, miss, but you mustn't fraternise with my prisoners.
+F	JEAN	Prisoners!!
+F	GRANDFATHER	Convicts in transit to Wormwood Scrubs. Typical old lags, the lot of 'em.
+M	THE BOYS	Y'what!!!
+F	GRANDFATHER	Quiet, you lot, or I'll give you a touch of me truncheon. That little one's the worst. If we don't keep him on tablets he has fits.
+M	RINGO	Now look here!!
+F	GRANDFATHER	Get out while you can, ladies, his time's coming round for one of his turns.
+M	NORM	He's been gone a long time.
+M	SHAKE	Who?
+M	NORM	Paul's grandfather.
+M	SHAKE	Oh, I didn't notice, where'd he go?
+M	NORM	Down the... er...
+M	SHAKE	Oh, down the... er...?
+M	NORM	Yeah, down the... er...
+M	SHAKE	Well, give a couple of minutes...
+F	GRANDFATHER	Yes, I'm their manager, I discovered them.
+M	LADY AUDREY	Did you indeed, Mr. McCartney?
+F	GRANDFATHER	Now, Audrey, I told you, the name's John. We show biz people are a friendly lot.
+M	AUDREY	Of course, John.
+F	GRANDFATHER	Yes, they were playing the queues outside the picture palaces of Liverpool. Scruffy young lads, lacking even the price of a jam roll. Orphans, every Paddy's son of 'em. I saw their potential at once although I had me doubts about the little fella, a savage primitive, that Ringo, but it was him what gave in first. He picked up a brick and heaved it at me and I quelled him wid one fierce flash of me eyes. "Mister, can you spare us a copper?" he said. I was disarmed by the grubby little outstretched mauler... So, I took them under me managerial banner.
+M	AUDREY	The usual ten per cent?
+F	GRANDFATHER	Oh, not at all, I let them have twenty- five; sure aren't there four of them?
+M	AUDREY	How fascinating. Do go on... ...John.
+F	GRANDFATHER	...Oh, I'm all heart, Ma'am, all heart... Well, I let...
+M	NORM	Eh, have you got Paul's grandfather?
+M	JOHN	Of course, he's concealed about me person.
+M	NORM	No... he's must have slipped off somewhere.
+M	PAUL	Have you lost him?
+M	NORM	Don't exaggerate.
+M	PAUL	You've lost him.
+M	SHAKE	Put it this way, he's mislaid him.
+M	PAUL	You can't trust you with anything, Norm, if you've lost him, I'll cripple you.
+M	SHAKE	He can't be far.
+M	JOHN	I hope he fell off.
+M	PAUL	Don't be callous.
+M	RINGO	He doesn't like me, honest, I can tell... It's 'cos I'm little.
+M	GEORGE	You've got an inferiority complex, you have.
+M	RINGO	Yeah, I know, that's why I took up the drums. It's me active compensatory factor.
+M	GEORGE	Are you going in?
+M	RINGO	No, she'll only reject me in the end and I'll be frustrated.
+M	GEORGE	You never know, you might be lucky this time.
+M	RINGO	No, I know the psychological pattern and it plays hell with me drum skins.
+M	PAUL	Excuse me but have you seen that little old man we were with?
+M	JOHN	We've broken out, oh, the blessed freedom of it all! Eh, have you got a nail file, these handcuffs are killing me. I was framed. I was innocent.
+M	PAUL	Will you stop it! Sorry to disturb you, miss...
+M	JOHN	I was innocent. I was framed. I won't go back.
+M	JOHN	I bet you can guess what I was in for.
+M	PAUL	How about that one?
+M	PAUL	Did you look in here?
+M	GEORGE	No. I mean, it's probably a honeymoon couple or a company director or something.
+M	PAUL	Well, let's broaden our outlook.
+F	GRANDFATHER	Congratulate me, boys, I'm engaged.
+M	PAUL	Oh no, you're not. You've gone too far this time... and who's paying for all this?
+F	GRANDFATHER	It's all taken care of. It's down on our bill.
+M	PAUL	Oh, well that's all right. What?
+M	AUDREY	Young man, kindly moderate your tone when you address my fiance.
+M	PAUL	I'm sorry, Missus, but the betrothal's off. I'll refuse me consent, he's over- age!
+M	AUDREY	Leave him alone, after all he's done for you is this the way you repay him?
+M	PAUL	Him? he's never done anything for anybody in his life.
+M	AUDREY	You dare to say that when even those ridiculous clothes you are wearing were bought when you forced him to sell out his gilt edged Indomitables!!
+M	JOHN	Come on, Auntie, you're winning.
+M	GEORGE	Get in there, Paul, she's weakening.
+M	RINGO	Look, Missus, this is all a misunderstanding, you see, he's...
+M	AUDREY	Keep away from me, you depraved lout, I know all about your terrible past.
+M	RINGO	Y'what?
+M	RINGO	He's given me a bad character, blackguarding me name to all and sundry. He's got to be stopped. It's not fair.
+M	VOICE OFF	That's one of them... stop thief!
+M	RINGO	Oh Mother!!
+F	GRANDFATHER	And to think me own grandson would have let them put me behind bars!
+M	PAUL	Don't dramatise.
+M	PAUL	Let's face it, you're lucky to be here. If they'd have had their way you'd have been dropped off at Stafford already.
+M	PAUL	Well, you've got to admit you've upset a lot of people. At least I can keep my eye on you while you're stuck in here.
+M	PAUL	All right, how about Ringo? I mean... he's very upset, you know... and as far as your girlfriend, little Audrey's concerned, she's finished with men for the rest of her natural, and another thing...
+F	GRANDFATHER	A harmless bit of fun, aah, none of you have any sense of humour left these days.
+M	PAUL	Oh, it's all right for you but those two girls were scared to death! Honest, Grandad, why? I mean, why do you do these things?
+F	GRANDFATHER	You're left-handed, aren't you, Paul?
+M	PAUL	Yeah... so what?
+F	GRANDFATHER	Why do you always use your left hand?
+M	PAUL	Well, don't be daft, I've got to.
+F	GRANDFATHER	And I take a left-handed view of life, I've got to.
+M	PAUL	Shove up!
+F	GRANDFATHER	Odds or evens?
+M	PAUL	Odds.
+M	JOHN	Don't worry, son, we'll get you the best lawyer trading stamps can buy.
+M	PAUL	Oh, it's a laugh a line with Lennon. Anyroad up... It's all your fault.
+M	RINGO	Me? Why?
+M	GEORGE	Bag-snatcher.
+F	GRANDFATHER	That's right; convict without trial... Habeas corpus.
+M	JOHN	Every morning.
+M	JOHN	Gaw, it's depressing in here, isn't it? Funny... 'cos they usually reckon dogs more than people in England, don't they? You'd expect something a little more palatial. Come on. Let's have a little action. Let's do something, then.
+M	PAUL	Like what?
+M	JOHN	Well, I've got me gob stopper. Look, a genuine Stradivarius, hand tooled at Dagenham.
+M	NORM	Don't move, any of you. They've gone potty out there. The whole place is surging with girls.
+M	JOHN	Please, can I have one to surge with?
+M	NORM	No.
+M	JOHN	Ah, go on, you swine.
+M	NORM	No, you can't. Look, as soon as I tell you, run through this door here and into the big car that's waiting.
+M	NORM	Oh no!
+F	GRANDFATHER	All right, lads, follow me.
+M	JOHN	Vive l'amour!
+M	NORM	Go like the clappers, son!
+M	FRANK	That was my entire intention, sir.
+M	RINGO	I don't snore.
+M	GEORGE	You do -- repeatedly.
+M	RINGO	Do I snore?
+M	JOHN	You're a window rattler, son.
+M	RINGO	Well, that's just your opinion. Do I snore, Paul?
+M	PAUL	With a trombone hooter like yours it'd be unnatural if you didn't.
+F	GRANDFATHER	Don't mock the afflicted, Pauly.
+M	PAUL	Oh for Pete's sake, It's only a joke.
+F	GRANDFATHER	Well, it may be a joke, but it's his nose. He can't help having a horrible great nose, it's the only one he's got. And his poor little head's trembling under the weight of it.
+M	NORM	Paul, John, George -- get at it.
+M	JOHN	Hello the income tax have caught up with us at last.
+M	RINGO	None for me, then?
+M	NORM	Sorry.
+M	JOHN	That'll keep you busy.
+F	GRANDFATHER	It's your nose, y'see. Fans are funny that way. Take a dislike to things. They'll pick on a nose...
+M	RINGO	You go and pick on your own.
+M	JOHN	Is that yours?
+M	SHAKE	For Ringo.
+M	JOHN	That must have cost you a fortune in stamps, Ringo.
+M	GEORGE	He comes from a large family.
+M	RINGO	Well.
+M	RINGO	Eh, what's Boyd's Club?
+M	PAUL	"The Management of Boyd's takes pleasure in requesting the company of Mr. Richard Starkey, that's you, in their recently refinished gaming rooms. Chemin de Fer. Baccarat, Roulette, and Champagne Buffet." Blimey!
+M	RINGO	And they want me?
+M	JOHN	Oh, it's got round that you're a heavy punter.
+M	NORM	Well you're not going.
+M	RINGO	Ah.
+F	GRANDFATHER	Quite right, invites to gambling dens full of easy money and fast women, chicken sandwiches and cornets of caviar, disgusting!
+M	RINGO	That's mine.
+M	NORM	Have done, and you lot get your pens out.
+M	BOYS	Why?
+M	NORM	It's homework time for all you college puddings. I want this lot all answered tonight.
+M	NORM	I'll brook no denial!
+M	JOHN	It's all right for you, you couldn't get a pen in your foot, you swine.
+M	NORM	Come on, Shake, we'll leave 'em to their penmanship.
+M	JOHN	While the swine's away the piglets can play. Well, come on, what are we waiting for?
+F	GRANDFATHER	What about all these letters?
+M	BOYS	Read 'em!
+F	GRANDFATHER	And a free champagne buffet.
+M	DEALER	Alors, M'sieur?
+F	GRANDFATHER	Souflée.
+F	GRANDFATHER	I bet you're a great swimmer. My turn? Bingo!
+M	CROUPIER	Pas "Bingo," M'sieur... Banco.
+F	GRANDFATHER	I'll take the little darlings anyway.
+F	GRANDFATHER	Two and one is three, carry one is four.
+M	BLONDE	Lay them down.
+F	GRANDFATHER	Eh?
+M	BLONDE	Lay them down.
+F	GRANDFATHER	We'd be thrown out.
+M	BLONDE	Your cards... lay them down... face up.
+M	CROUPIER	Huit à la pointe... et sept.
+M	BLONDE	You had a lovely little pair, y'see.
+F	GRANDFATHER	I did?
+M	BLONDE	They're yours.
+F	GRANDFATHER	They are?
+M	BLONDE	The cards... you're bank.
+F	GRANDFATHER	Bingo!
+M	CROUPIER	M'lord dit "Bingo."
+M	WAITER	A little light refreshment.
+F	GRANDFATHER	A glass of the old chablis to wash down a gesture of giblets wouldn't go amiss. Souflée, chop chop.
+M	NORM	Now get on with it.
+M	JOHN	We were going to do it.
+M	NORM	Aye, well, now!
+M	RINGO	Any of you lot put a man in that cupboard?
+M	ALL	A man? No.
+M	RINGO	Well somebody did.
+M	GEORGE	He's right, y'know.
+M	BOYS	Ah well, there you go.
+M	SHAKE	Eh, what's all this?
+M	PAUL	Oh, him... He's been lurking.
+M	JOHN	Aye, he looks a right lurker.
+M	SHAKE	You're undressed. Where are your clothes?
+M	WAITER	The old gentlemen borrowed them to go gambling at Boyd's.
+M	PAUL	No!
+M	RINGO	Oh, he's gone to my club, has he?
+M	PAUL	Yeah, It's all your fault, getting invites to gambling clubs. He's probably in the middle of an orgy by now.
+M	JOHN	Well, what are we waiting for?
+M	SHAKE	Aye, come on, honest, that grandfather of yours is worse than any of you lot.
+M	WAITER	Encore de champagne, Monsieur?
+F	GRANDFATHER	Yes, and I'll have some more champagne as well.
+M	MANAGER	Lord John McCartney, he's the millionaire Irish Peer, filthy rich of course.
+M	CUSTOMER	Oh I don't know, looks rather clean to me.
+M	MANAGER	Play is about to resume, m'lord.
+F	GRANDFATHER	Lead me to it, I've a winning itch that only success can pacify.
+M	ATTENDANT	I'm sorry sir, members and invited guests only.
+M	PAUL, GEORGE, RINGO, JOHN	I've got to get in. It's urgent and important. I've had an invite. Take me to your leader.
+M	NORM	Shurrup.
+M	NORM	All we want to know is have you got a little old man in there?
+M	MANAGER	Do you mean Lord McCartney?
+M	PAUL	He's at it again. Look, I'm his grandfather... I mean...
+M	BLONDE	Oh, it must be the dolly floor show.
+M	JOHN	Stay where you are everybody this is a raid and we want him.
+F	GRANDFATHER	Who are these ruffians?... I've never seen them before in my life!...
+M	MANAGER	Before you go, gentlemen, there's the small matter of the bill.
+M	NORM	I'll settle that.
+M	NORM	A hundred and eighty pounds!
+M	MANAGER	I beg your pardon, guineas.
+M	WAITER	Your winnings, my lord, one hundred and ninety pounds.
+F	GRANDFATHER	How about me change?
+M	MANAGER	Cloak room charge.
+M	RINGO	Ah well, easy come, easy go.
+M	RINGO	Well.
+M	JOHN	Should I say it?
+M	GEORGE	Follow your impulse.
+M	RINGO	It'll only get you into trouble.
+M	JOHN	Aah, shurrup, misery!
+M	JOHN	O.K. Driver, follow that car!!
+M	FRANK	Would you like to be a little more precise, sir?
+M	JOHN	Well, that's the wrong line for a start.
+M	FRANK	Sorry?
+M	GEORGE	Oh, don't pay any attention to him, he was just fulfilling a lifelong ambition.
+M	FRANK	I see.
+M	JOHN	Yeah, you know, "O.K. Buster, follow that car, there's a sawbuck in it for you if you get real close!"
+M	FRANK	Oh, yes, now I'm with you. But, gee, Mister, I've got my license to think of... we're doing a hundred now...
+M	JOHN	Ever seen one of these before?
+M	FRANK	Ah... a shamus, eh?
+M	JOHN	I see you go to the night court.
+M	FRANK	I've made the scene.
+M	JOHN	Well, remember, its Leathery Magee up ahead in that convertible, so cover me in the stake-out.
+M	GEORGE	I don't think that bit's right.
+M	JOHN	What do you expect from an ad lib... Raymond Chandler?
+M	NORM	Will you all stop it, you're like a gang of school kids. I knew this was going to happen one day.
+M	JOHN	Well, you shouldn't have had bacon for your breakfast, you cannibal.
+M	FRANK	We're nearly there, sir.
+M	JOHN	Eh... don't call him sir, he's got enough delusions of power as it is.
+M	NORM	And I was happy in the bakery. I'll never know why I left.
+M	NORM	Get ready John, open the door and as it draws up, out you go and straight in.
+M	FIRST P.R.O. MAN	Press conference, they're waiting for you.
+M	NORM	Give us a couple of shakes to get our breath.
+M	FIRST P.R.O. MAN	They're waiting now!
+M	PAUL	Eh this lot means it. They're even taking hostages.
+M	SOUND REPORTER	What's your philosophy of life?
+M	JOHN	I'm torn between Zen and I'm all right, Jack.
+M	REPORTER	Has success changed your life?
+M	RINGO	Yes.
+M	REPORTER	Do you like playing the guitar?
+M	GEORGE	Next to kissing girls it's favourites.
+M	PAUL	No, actually, we're just good friends.
+M	PAUL	Anything to spare?
+F	GRANDFATHER	We've just finished, Pauly. Hey George, write us your John Henry on this picture.
+M	GEORGE	Sure.
+M	PAUL	Ah well. Eh, look!
+M	PAUL	Let's go and muck in.
+M	JOHN	Aye, before anyone stops us.
+M	VOICE	Here, what about these electric guitars?
+M	SHAKE	Where are they?
+M	VOICE	Back here, mate.
+M	SHAKE	I'm coming.
+M	RINGO	Leave them drums alone.
+M	FLOOR MANAGER	Oh, surely one can have a tiny touch.
+M	RINGO	If you so much as breathe heavy on them, I'm out on strike.
+M	FLOOR MANAGER	Aren't you being rather arbitrary?
+M	RINGO	That's right retreat behind a smoke screen of bourgeois cliches. I don't go round messing about with your ear- phones, do I?
+M	FLOOR MANAGER	Spoil sport!
+M	RINGO	Well!
+M	GEORGE	He's very touchy about those his drums, they loom large in his legend.
+M	PAUL	What's up?
+M	GEORGE	He's sulking again.
+M	JOHN	I'll show him.
+M	DIRECTOR	All right I'm sorry and let's hear no more about it. If that's your opinion, you're probably right. Look, if you think I'm unsuitable let's have it out in the open, I can't stand these back-stage politics.
+M	JOHN	Aren't you tending to black and white this whole situation?
+M	DIRECTOR	Well, quite honestly I wasn't expecting "a musical arranger" who would question my ability... picture- wise.
+M	JOHN	I could listen to him for hours.
+M	PAUL	Heave to, what's all this about a musical arranger?
+M	DIRECTOR	Mr. McCartney Senior!
+F	GRANDFATHER	Hey Pauly, they're trying to fob you off wid this musical charlatan but I've given him the test.
+M	DIRECTOR	I'm quite happy to be replaced.
+F	GRANDFATHER	He's a typical buck-passer.
+M	DIRECTOR	I won an award.
+M	JOHN	A likely story.
+M	DIRECTOR	It's on the wall in my office.
+M	NORM	Hello our lot, everyone happy?
+M	NORM	All right, all right. If you don't need this lot, I'll lock 'em up in the dressing room till you do.
+M	DIRECTOR	Please do, I'll not need them for fifteen minutes. Thank you.
+M	DIRECTOR	Give me a bottle of milk and a packet of Oblivion. Oh, it's a plot, I see it now, it's all a plot.
+M	NORM	Now, come on, I've got the key.
+M	NORM	Let's have you.
+M	JOHN	Come on speedy!
+M	PAUL	Ringo!
+M	GEORGE	Wake up!
+F	GRANDFATHER	I can't tell you how much I've enjoyed your act.
+M	JOHN	Gear costume!
+M	ACTOR	Swap?
+M	NORM	Right, first floor and no messing about.
+M	NORM	Lennon, leave them girls alone or I'll report you.
+M	MAN'S VOICE	I suppose you know this is private property.
+M	JOHN	Sorry if we hurt your field, Mister.
+M	NORM (VOICE OFF)	There's no one here.
+M	SHAKE (VOICE OFF)	This is the only way they could have gone.
+F	MILLIE	Hello.
+M	JOHN	Hello.
+F	MILLIE	Oh, wait a minute, don't tell me you're...
+M	JOHN	No, not me.
+F	MILLIE	Oh you are, I know you are.
+M	JOHN	No, I'm not.
+F	MILLIE	You are.
+M	JOHN	I'm not, no.
+F	MILLIE	Well, you look like him.
+M	JOHN	Oh do I? You're the first one who ever said that.
+F	MILLIE	Oh you do, look.
+M	JOHN	My eyes are lighter.
+F	MILLIE	Oh yes.
+M	JOHN	And my nose...
+F	MILLIE	Well, yes your nose is. Very.
+M	JOHN	Is it?
+F	MILLIE	I would have said so.
+M	JOHN	Aye, but you know him well.
+F	MILLIE	No I don't, he's only a casual acquaintance.
+M	JOHN	That's what you tell me.
+F	MILLIE	What have you heard?
+M	JOHN	It's all over the place, everyone knows.
+F	MILLIE	Is it? Is it really?
+M	JOHN	Mind you, I stood up for you, I mean I wouldn't have it.
+F	MILLIE	I knew I could rely on you.
+M	JOHN	Thanks.
+F	MILLIE	You don't look like him at all.
+M	SHAKE	Oh they've probably gone to the canteen, cup of tea, like.
+M	NORM	That's too easy for Lennon.
+M	NORM	He's out there somewhere, causing trouble just to upset me.
+M	SHAKE	You're imagining it. You're letting things prey on your mind.
+M	NORM	Oh no... this is a battle of nerves between John and me.
+M	SHAKE	But John hasn't got any.
+M	NORM	What?
+M	SHAKE	Nerves.
+M	NORM	I know, that's the trouble.
+M	NORM	Oh, I've toyed with the idea of a ball and chain but he'd only rattle them at me... and in public and all. Sometimes I think he enjoys seeing me suffer.
+M	NORM	Get behind that door, they're coming. Someone's coming. Quick, hide!
+M	JOHN	What are you doing there?
+M	SHAKE	Hiding.
+M	JOHN	I think you're soft or something.
+M	NORM	We weren't hiding.
+M	TAILOR	Now?
+M	NORM	Now. We were trying to catch you redhanded. I thought I told you lot to stay here?
+M	RINGO	Well...
+M	NORM	When I tell you to stay put, stay put.
+M	JOHN	Don't cane me, sir, I was led astray.
+M	NORM	Oh shurrup and come on John. They're waiting for you in the studio.
+M	RINGO	Oh dear, I feel like doing a bit of work.
+M	NORM	Good lad, Ringo.
+M	PAUL	Oh, listen to teacher's pet.
+M	GEORGE	You crawler.
+M	JOHN	He's betrayed the class.
+M	RINGO	Oh, leave off!!!
+M	JOHN	Temper! Temper!
+M	RINGO	Well...
+M	NORM	Will you all get a move on! They're waiting for you!
+M	JOHN	I now declare this bridge open.
+M	DIRECTOR (V.O.)	All right, hold it, hold it... O.K. John, wipe him down and we'll carry on with the next act.
+M	DIRECTOR	Where are they? I said, where are they? Where are they?
+M	FLOOR MANAGER	They're coming, I promise you.
+M	DIRECTOR	Now look, if they're not here on this floor in thirty seconds there's going to be trouble... understand me... trouble!!!
+M	1ST STAGE HAND	What's he on about, Taff?
+M	WELSH STAGE HAND	Well... he's being the director. Of course, he lives in a world of his own, mind.
+M	JOHN	Standing about, eh? Some people have it dead easy, don't they?
+M	DIRECTOR	Of course, once you're over thirty, you're finished. It's a young man's medium and I just can't take the pace.
+M	RINGO	Are you as young as that, then?
+M	BOYS	Shurrup!
+F	GRANDFATHER	Isn't it always the way? Picking on us little fellas.
+M	PAUL	Shove the gentleman jockey in the make-up room or something and keep your eye on him, will you?
+M	SHAKE	I'm an electrician, not a wet nurse, y'know.
+M	PAUL	I'll set John on you!
+M	SHAKE	Oh, anything you say, Paul.
+M	DIRECTOR'S VOICE	Run through the number and try not to jiggle out of your positions.
+M	DIRECTOR	That was more or less all right for me. I'll give them one more run through then leave them alone until the dress... Oh how about make-up?
+M	MAKE-UP WOMAN	Not really, they don't need it any. We'll just powder them off for shine.
+M	DIRECTOR	Good. Norm, get them along to make- up will you?
+M	NORM	Sure.
+M	DIRECTOR	And hurry, they're not looking too happy.
+M	PAUL	What's the matter with you? You were bashing away like a madman.
+M	RINGO	You were twanging too loud.
+M	JOHN	How'd you like a dirty great drum roll giving you a clout right in the middle of your solo?
+M	GEORGE	You're getting out of hand. I don't know what's come over you today.
+M	RINGO	That's right. It's always me, isn't it?
+M	JOHN	Since you ask, yes. Aah, come on, Ring, we love you.
+M	RINGO	Well!
+M	JOHN	He'll get over it.
+M	NORM	All right, our lot, make-up.
+M	SHAKE	You blinked!
+F	GRANDFATHER	I never did, you did.
+M	SHAKE	Hello, he's not talking to me. He's having a sulk.
+M	GEORGE	Well, it must be catching. He's given it to the champ here.
+M	NORM	Stop picking on him.
+M	RINGO	I don't need you to defend me, y'know, Norm.
+M	JOHN	Leave him alone, he's got swine fever.
+M	NORM	Sit down, the lot of you.
+M	HEAD MAKE UP GIRL	Oh, this is impossible! We'll never get you all done in time.
+M	ACTOR	Well, you'll just have to do us first... It makes no difference to them whether they're made up or not. And who's me, then?
+M	JOHN	My name's Betty... Do you want a punch up your frogged tunic?
+M	NORM	Now listen, John, behave yourself or I'll murder you and, Shake, take that wig off, it suits you.
+M	NORM	What do you think are you're up to?
+M	RINGO	Someone put it on me.
+M	JOHN	Excuses, that's all we get and you know you fancy yourself in the Coldstreams.
+M	JOHN	You won't interfere with the basic rugged concept of my personality, will you, girl?
+M	PAUL	Eh, don't take out me lines.
+M	GEORGE	Yeah, they give him that "Je ne sais quoi" rakish air.
+M	RINGO	Short back and sides, please.
+M	PAUL	Behave...
+M	JOHN	Foreign devil ...
+M	GEORGE	Control yourself...
+F	GRANDFATHER	In my considered opinion you're a bunch of sissies.
+M	JOHN	You know you're only jealous!
+M	NORM	Leave him alone, Lennon, or I'll tell them all the truth about you.
+M	JOHN	You wouldn't!
+M	NORM	I would though.
+M	PAUL	What's he know?
+M	JOHN	Nothing, he's trying to brainwash me and give me personality doubts... oh, he's a swine but a clever swine, mind.
+F	GRANDFATHER	Lookit, I thought I was supposed to be getting a change of scenery and so far I've seen a train and a room, a car and a room and a room and a room. Well, that's maybe all right for a bunch of powdered gee-gaws like you lot but I'm feeling decidedly strait-jacketed. This is no life for a free-booting agent of my stamp. I'm a frustrated man and that class of McCartney is a dangerous McCartney.
+M	GIRL	What a clean old man.
+F	GRANDFATHER	You're too young for a fella of my cosmopolitan tastes, so don't press your luck.
+M	JOHN	He's sex-obsessed, the older generation are leading this country to galloping ruin.
+M	NORM	They're nearly ready for you. They're just finishing the band call.
+M	JOHN	Gear! Come on, girls, let's have a bit of a dance.
+M	JOHN'S GIRL	I don't think its allowed.
+M	JOHN	Well... it wouldn't be any fun if it was!
+M	JOHN	Never.
+M	NORM	That was great, you've got about an hour but don't leave the theatre.
+M	JOHN	She's going to show me her stamp collection.
+M	PAUL	So's mine.
+M	NORM	John, I'm talking to you. This final run through is important. Understand? Important.
+M	JOHN	Oink! Oink!
+F	GRANDFATHER	I want me cup of tea.
+M	NORM	Shake.
+M	SHAKE	I'm adjusting the decibels on the inbalance.
+M	NORM	Clever. George.
+M	NORM	Look after him.
+M	RINGO	But...
+M	NORM	Do I have to raise me voice?
+M	RINGO	Oh, all right. Come here, Grandad.
+F	GRANDFATHER	Will you ever look at him, sitting there wid his hooter scraping away at that book!
+M	RINGO	Well... what's the matter with that?
+F	GRANDFATHER	Have you no natural resources of your own? Have they even robbed you of that?
+M	RINGO	You can learn from books.
+F	GRANDFATHER	Can you now? Aah... sheeps' heads! You learn more by getting out there and living.
+M	RINGO	Out where?
+F	GRANDFATHER	Any old where... but not our little Richard... oh no! When you're not thumping them pagan skins, you're tormenting your eyes wid that rubbish!
+M	RINGO	Books are good!
+F	GRANDFATHER	Parading's better!
+M	RINGO	Parading?
+F	GRANDFATHER	That's it, parading the streets... trailing your coat... bowling along... living!
+M	RINGO	Well, I am living, aren't I?
+F	GRANDFATHER	You're living, are you? When was the last time you gave a girl a pink- edged daisy? When did you last embarrass a sheila wid your cool appraising stare?
+M	RINGO	Eh... you're a bit old for that sort of chat, aren't you?
+F	GRANDFATHER	At least I've a backlog of memories, but all you've got is that book!
+M	RINGO	Aaah... stop picking on me... you're as bad as the rest of them.
+F	GRANDFATHER	So you are a man after all.
+M	RINGO	What's that mean?
+F	GRANDFATHER	Do you think I haven't noticed... do you think I wasn't aware of the drift? Oh... you poor unfortunate scuff, they've driven you into books by their cruel, unnatural treatment, exploiting your good nature.
+M	RINGO	Oh... I dunno.
+F	GRANDFATHER	And that lot's never happier than when they're jeering at you... and where would they be without the steady support of your drum beat, I'd like to know.
+M	RINGO	Yeah... that's right.
+F	GRANDFATHER	And what's it all come to in the end?
+M	RINGO	Yeah... what's in it for me?
+F	GRANDFATHER	A book!
+M	RINGO	Yeah... a bloomin' book!
+F	GRANDFATHER	When you could be out there betraying a rich American widow or sipping palm wine in Tahiti before you're too old like me. A fine neat and trim lad the class of you should be helping himself to life's goodies before the sands run out. Being an old age pensioner's a terrible drag on a man and every second you waste is bringing you nearer the Friday queue at the Post Office.
+M	RINGO	Yeah... funny really, 'cos I'd never thought of it but being middle-aged and old takes up most of your time, doesn't it?
+F	GRANDFATHER	You're only right.
+M	RINGO	I'm not wrong.
+F	GRANDFATHER	Where are you off to?
+M	RINGO	I'm going parading before it's too late!
+M	GEORGE	Eh, Ringo, do you know what happened to me?
+M	RINGO	No. I don't.
+M	RINGO	You want to stop being so scornful, it's twisting your face.
+M	JOHN	Here he is, the middle-aged boy wonder.
+M	PAUL	Eh. I thought you were looking after the old man.
+M	RINGO	Get knotted!
+M	PAUL	We've got only half an hour till the final run-through. He can't walk out on us.
+M	JOHN	Can't he? He's done it, son!
+M	GEORGE	Eh, I don't know if you realise it, but...
+M	PAUL	We do.
+M	GEORGE	Yes. Your grandfather's stirred him up.
+M	PAUL	He hasn't.
+M	GEORGE	Yes, he's filled his head with notions seemingly.
+M	PAUL	The old mixer, come on we'll have to put him right.
+M	PAUL	We'll split up and search for him, he can't be far.
+M	JOHN	It's happened at last, we've become a limited company.
+M	GEORGE	I'll look in here again.
+M	RINGO	Hello.
+M	GIRL	Get out of it, short house!
+M	POLICEMAN	Ain't you got no more bleeding sense than to go round chucking bricks about.
+M	RINGO	Southerner!
+M	BOY	Here, mate, that's my hoop, stop playing with it.
+M	RINGO	Hoop, this isn't a hoop, it's a lethal weapon. Have you got a licence for it?
+M	BOY	Oh don't be so stroppy!
+M	RINGO	Well! A boy of your age bowling "hoop" at people. How old are you anyway?
+M	BOY	Nine.
+M	RINGO	Bet you're only eight and a half.
+M	BOY	Eight and two thirds.
+M	RINGO	Well, there you are and watch it with that hoop.
+M	BOY	Gerron out of it, you're only jealous 'cause you're old.
+M	RINGO	Shurrup!
+M	BOY	I bet you're -- sixteen!
+M	RINGO	Fifteen and two thirds, actually.
+M	BOY	Well --
+M	RINGO	All right, take your hoop and bowl.
+M	BOY	Oh you can have it, I'm packing it in -- it depresses me.
+M	RINGO	Y'what?
+M	BOY	You heard, it gets on my wick.
+M	RINGO	Well that's lovely talk, that is. And another thing, why aren't you at school?
+M	BOY	I'm a deserter.
+M	RINGO	Are you now?
+M	BOY	Yeah, I've blown school out.
+M	RINGO	Just you?
+M	BOY	No, Ginger, Eddy Fallon and Ding Dong.
+M	RINGO	Ding Dong? Oh Ding Dong Bell, eh?
+M	BOY	Yeah, that's right, they was supposed to come with us but they chickened.
+M	RINGO	Yeah? And they're your mates are they?
+M	BOY	Yeah.
+M	RINGO	Not much cop without 'em, is it?
+M	BOY	Oh, it's all right.
+M	RINGO	Yeah?
+M	BOY	Yeah.
+M	RINGO	What they like?
+M	BOY	Ginger's mad, he says things all the time and Eddy's good at punching and spitting.
+M	RINGO	How about Ding Dong?
+M	BOY	He's a big head and he fancies himself with it but you know it's all right 'cos he's one of the gang.
+M	BOY	Why aren't you at work?
+M	RINGO	I'm a deserter, too.
+M	BOY	Oh.
+M	BOY	See you.
+M	SECRETARY	Oh, there you are!
+M	GEORGE	Oh, I'm sorry, I must have made a mistake.
+M	SECRETARY	You haven't, you're just late. Oh, yes, he's going to be very pleased with you.
+M	GEORGE	Is he?
+M	SECRETARY	Yes, you're quite a feather in the cap. desk and picks up Hello, I've got one... oh, I think so... yes, he can talk... Well... I think you ought to see him. Of course, right away.
+M	SECRETARY	Well... come on.
+M	GEORGE	Sorry.
+M	SECRETARY	Will this do, Simon?
+M	SIMON	Not bad, dolly, not really bad. Turn around, chicky baby.
+M	SIMON	Oh yes, a definite poss. He'll look good alongside Susan. All right, Sunny Jim, this is all going to be quite painless. Don't breathe on me, Adrian.
+M	GEORGE	Look, I'm terribly sorry but I'm afraid there's been some sort of a misunderstanding.
+M	SIMON	Oh, you can come off it with us. You don't have to do the old adenoidal glottal stop and carry on for our benefit.
+M	GEORGE	I'm afraid I don't understand.
+M	SIMON	Oh, my God, he's a natural.
+M	SECRETARY	Well, I did tell them not to send us any more real ones.
+M	SIMON	They ought to know by now the phonies are much easier to handle. Still he's a good type.
+M	SIMON	We want you to give us your opinion on some clothes for teenagers.
+M	GEORGE	Oh, by all means, I'd be quite prepared for that eventuality.
+M	SIMON	Well, not your real opinion, naturally. It'll be written out and you'll learn it. Can he read?
+M	GEORGE	Of course I can.
+M	SIMON	I mean lines, ducky, can you handle lines?
+M	GEORGE	I'll have a bash.
+M	SIMON	Good. Hart, get him whatever it is they drink, a cokearama?
+M	GEORGE	Ta.
+M	SIMON	Well, at least he's polite. Tony Show him the shirts, Adrian.
+M	SIMON	Now, you'll like these. You really "dig" them. They're "fab" and all the other pimply hyperboles.
+M	GEORGE	I wouldn't be seen dead in them. They're dead grotty.
+M	SIMON	Grotty?
+M	GEORGE	Yeah, grotesque.
+M	SIMON	Make a note of that word and give it to Susan. I think it's rather touching really. Here's this kid trying to give me his utterly valueless opinion when I know for a fact within four weeks he'll be suffering from a violent inferiority complex and loss of status if he isn't wearing one of these nasty things. Of course they're grotty, you wretched nit, that's why they were designed, but that's what you'll want.
+M	GEORGE	But I won't.
+M	SIMON	You can be replaced you know, chicky baby.
+M	GEORGE	I don't care.
+M	SIMON	And that pose is out too, Sunny Jim. The new thing is to care passionately, and be right wing. Anyway, you won't meet Susan if you don't cooperate.
+M	GEORGE	And who's this Susan when she's at home?
+M	SIMON	Only Susan Campey, our resident teenager. You'll have to love her. She's your symbol.
+M	GEORGE	Oh, you mean that posh bird who gets everything wrong?
+M	SIMON	I beg your pardon?
+M	GEORGE	Oh, yes, the lads frequently gather round the T.V. set to watch her for a giggle. Once we even all sat down and wrote these letters saying how gear she was and all that rubbish.
+M	SIMON	She's a trend setter. It's her profession!
+M	GEORGE	She's a drag. A well-known drag. We turn the sound down on her and say rude things.
+M	SIMON	Get him out of here!!
+M	GEORGE	Have I said something amiss?
+M	SIMON	Get him out of here. He's knocking the programme's image!!
+M	GEORGE	Sorry about the shirts.
+M	SIMON	Get him out. You don't think he's a new phenomenon, do you?
+M	SECRETARY	You mean an early clue to the new direction?
+M	SIMON	Where's the calendar? No, he's just a trouble maker. The change isn't due for three weeks. All the same, make a note not to extend Susan's contract. Let's not take any unnecessary chances!
+F	GRANDFATHER	I'm sorry lads, I didn't mean it, honest.
+M	DIRECTOR	If he says that again, I'll strike him.
+M	SHAKE	They'll be back, they're good lads, they'll be back.
+M	DIRECTOR	Yes? Well they've got only ten minutes to the final run-through.
+F	GRANDFATHER	I meant no harm. I was only trying to encourage little Ringo to enjoy himself.
+M	NORM	God knows what you've unleashed on the unsuspecting South. It'll be wine, women and song all the way with Ringo once he's got the taste for it.
+M	BARMAID	That was fresh this morning.
+M	BARMAID	That'll be two and nine...
+M	BARMAID	Right... On your way!
+M	RINGO	Y'what?
+M	BARMAID	You heard, on your way, troublemaker!
+M	GIRL	If I believed you, sir, I might do those things and walk those ways only to find myself on Problem's Path. But I cannot believe you, and all those urgings serve only as a proof that you will lie and lie again to gain your purpose with me.
+M	GIRL	Oh!
+M	PAUL	Well... go 'head, do the next bit.
+M	GIRL	Go away! You've spoilt it.
+M	PAUL	Oh, sorry I spoke.
+M	GIRL	Are you supposed to be here?
+M	PAUL	I've got you worried, haven't I?
+M	GIRL	I'm warning you, they'll be back in a minute.
+M	PAUL	D'you know something, "They" don't worry me at all. Anyroad, I only fancy listening to you... that's all but if it worries you... well...
+M	GIRL	You're from Liverpool, aren't you?
+M	PAUL	How'd you guess?
+M	GIRL	Oh, it's the way you talk.
+M	PAUL	Is it... is it, really?
+M	GIRL	Are you pulling my leg?
+M	PAUL	Something like that.
+M	GIRL	I see. Do you like the play?
+M	PAUL	Yeah... I mean, sure, well, I took it at school but I only ever heard boys and masters saying those lines, like, sounds different on a girl. Yeah, it's gear on a girl.
+M	GIRL	Gear?
+M	PAUL	Aye, the big hammer, smashing!
+M	GIRL	Thank you.
+M	PAUL	Don't mench... well, why don't you give us a few more lines, like?
+M	PAUL	You don't half slam the door in people's faces, do you? I mean, what about when you're playing the part, like, hundreds of people'll see you and ...
+M	GIRL	I'm not...
+M	PAUL	Oh, you're the understudy, sort of thing?
+M	GIRL	No. I'm a walk-on in a fancy dress scene. I just felt like doing those lines.
+M	PAUL	Oh, I see. You are an actress though, aren't you?
+M	GIRL	Yes.
+M	PAUL	Aye, I knew you were.
+M	GIRL	What's that mean?
+M	PAUL	Well, the way you were spouting, like.... "I don't believe you, sir..." and all that. Yeah, it was gear.
+M	GIRL	The big hammer?
+M	PAUL	Oh aye, a sledge.
+M	GIRL	But the way you did it then sounded so phony.
+M	PAUL	No... I wouldn't say that... just like an actress... you know.
+M	GIRL	But that's not like a real person at all.
+M	PAUL	Aye well, actresses aren't like real people, are they?
+M	GIRL	They ought to be.
+M	PAUL	Oh, I don't know, anyroad up, they never are, are they?
+M	GIRL	What are you?
+M	PAUL	I'm in a group... well... there are four of us, we play and sing.
+M	GIRL	I bet you don't sound like real people.
+M	PAUL	We do, you know. We sound like us having a ball. It's fab.
+M	GIRL	Is it really fab or are you just saying that to convince yourself?
+M	PAUL	What of? Look, I wouldn't do it unless I was. I'm dead lucky 'cos I get paid for doing something I love doing.
+M	PAUL	...all this and a jam butty too!!
+M	GIRL	I only enjoy acting for myself. I hate it when other people are let in.
+M	PAUL	Why? I mean, which are you, scared or selfish?
+M	GIRL	Why selfish?
+M	PAUL	Well, you've got to have people to taste your treacle toffee.
+M	PAUL	No, hang on, I've not gone daft. You see, when I was little me mother let me make some treacle toffee one time in our back scullery. When I'd done she said to me, "Go and give some to the other kids." So, I said I would but I thought to meself, "She must think I'm soft." Anyroad, I was eating away there but I wanted somebody else to know how good it was so in the end I wound up giving it all away... but I didn't mind, mind, 'cos I'd made the stuff in the first place. Well... that's why you need other people... an audience... to taste your treacle toffee, like. Eh... does that sound as thickheaded to you as it does to me?
+M	GIRL	Not really but I'm probably not a toffee maker. How would you do those lines of mine?
+M	PAUL	Well, look at it this way, I mean, when you come right down to it, that girl, she's a bit of a scrubber, isn't she?
+M	GIRL	Is she?
+M	PAUL	Of course... Look, if she was a Liverpool scrubber... Liverpool girl, he minces about then Eh, fella, you want to try pulling the other one, it's got a full set of bells hanging off it... Y'what?... I know your sort, two cokes and a packet of cheese and onion crisps and suddenly it's love and we're stopping in an empty shop doorway. You're just after me body and y'can't have it... so there!!
+M	GIRL	And you honestly think that's what she meant?
+M	PAUL	Oh, definitely, it sticks out a mile, she's trying to get him to marry her but he doesn't want... well... I don't reckon any fella's ever wanted to get married. But girls are like that, clever and cunning. You've got to laugh.
+M	GIRL	Well, it's nice to know you think we're clever.
+M	PAUL	And cunning.
+M	GIRL	And what do you do about it?
+M	PAUL	Me? Oh, I don't have the time, I'm always running about with the lads... no, we don't have the time.
+M	GIRL	Pity.
+M	PAUL	Aye, it is but as long as you get by, it's all right, you know... bash on, happy valley's when they let you stop. Anyroad, I'd better get back.
+M	GIRL	Yes.
+M	PAUL	See you.
+M	GIRL	Of course.
+M	NORM	Worry, will you!
+M	DIRECTOR	Well, that's it, two minutes to the final run-through... they're bound to miss it...
+M	NORM	I'll murder that Lennon.
+M	DIRECTOR	But I suppose we can survive a missed run-through as long...
+M	SHAKE	...as they head up for the show. Oh yes, well I mean it'ud be a pity to miss the show, wouldn't it like.
+M	NORM	Shurrup, cheerful.
+M	DIRECTOR	You don't think...
+M	NORM	They'll be here.
+M	DIRECTOR	Oh now, they can't do that to me. It's all your fault. Oh yes it is and if they don't turn up I wouldn't be in your shoes for all the...
+M	SHAKE	...tea in China. Oh you're right, neither would I.
+M	NORM	Traitor!
+M	SHAKE	Of course.
+M	JOHN	Hi Norm!
+M	NORM	Hi, our lot!
+M	NORM	Our lot!
+M	GEORGE	Did you want something.
+M	NORM	I could eat the lot of you.
+M	JOHN	You'd look gear with an apple in your gob.
+M	DIRECTOR	Do you realise you could have missed the final run-through?
+M	GEORGE	Sorry.
+M	SHAKE	Eh, there's only three of them.
+M	PAUL	Aye, we were looking for Ringo. But we realised he must have come back.
+M	DIRECTOR	Do you realise we are on the air, live, in front of an audience, in forty-five minutes and you're one short.
+M	JOHN	Control yourself or you'll spurt. He's bound to be somewhere.
+M	NORM	Aye, let's try the dressing room.
+M	PAUL	Eh, where's my grandfather?
+M	NORM	Don't worry about him. He can look after himself.
+M	PAUL	Aye, I suppose so.
+F	GRANDFATHER	Here they are, personally signed and handwritten by your own sweet boys. The chance of a lifetime. Be the envy of your less fortunate sisters!
+M	RINGO	Look, I'm Ringo Starr... I've got a show to do in a few minutes you've got to let me go... I'm Ringo...
+M	POLICEMAN	Sure, they all say that these days... Anyway... I don't care who you are... you can save that for the stipendary. Here you are, Sarge.
+M	SERGEANT	What is he?
+M	POLICEMAN	I've got a little list here. Wandering abroad. Malicious intent. Acting in a suspicious manner. Conduct liable to cause a breach of the peace. You name it, he's done it.
+M	SERGEANT	Oh, a little savage, is he?
+M	POLICEMAN	A proper Aborigine.
+M	RINGO	I demand to see me solicitor.
+M	SERGEANT	What's his name?
+M	RINGO	Oh, well if you're going to get technical --
+M	SERGEANT	Hello, it's going to be one of those nights, is it? Sit Charley Peace down over there.
+F	GRANDFATHER	Well, you got me here so do your worst but I'll take one of you with me. Oh, I know your game, get me in the tiled room and out come the rubber hoses but I'll defy you still.
+M	SERGEANT	Is there a fire, then?
+F	GRANDFATHER	You ugly, great brute you, you have sadism stamped all over your bloated British kisser.
+M	SERGEANT	Eh?
+F	GRANDFATHER	I'll go on a hunger strike. I know your caper.
+M	SERGEANT	What's he on about?
+F	GRANDFATHER	I'm soldier of the Republic, you'll need the mahogany truncheon for this boyo. A nation once again.
+M	SERGEANT	Get Lloyd George over there with that mechanic in the cloth cap while I sort this lot out.
+F	GRANDFATHER	Ringo, me old scout, they grabbed yer leg for the iron too, did they?
+M	RINGO	Well I'm not exactly a voluntary patient.
+F	GRANDFATHER	Shush! Have they roughed you up yet?
+M	RINGO	What?
+F	GRANDFATHER	Keep your voice down, this lot'll paste you, just for the exercise. Oh they're a desperate crew of drippings and they've fists like matured hams for pounding defenceless lads like you.
+M	RINGO	Have they?
+F	GRANDFATHER	That sergeant's a body-blow veteran if ever I measured one. One of us has got to escape. I'll get the boys. Hold on son, I'll be back for you.
+M	RINGO	Me!
+F	GRANDFATHER	And if they get you on the floor watch out for your brisket.
+M	RINGO	Oh, they seem all right to me.
+F	GRANDFATHER	That's what they want you to think. All coppers are villains.
+M	SERGEANT	Would you two like a cup of tea?
+F	GRANDFATHER	You see, sly villains.
+M	RINGO	No thanks, Mr. Sergeant, sir.
+M	SERGEANT	So you just brought the old chap out of the crowd for his own good.
+M	POLICEMAN	Yeah, but he insisted on us bringing him to the station.
+M	SERGEANT	Well, he can't stop here.
+M	RINGO	What are you doing?
+F	GRANDFATHER	Lip reading.
+M	RINGO	What are they saying?
+F	GRANDFATHER	Nothing good.
+F	GRANDFATHER	Well son, it's now or never.
+F	GRANDFATHER	All right, you paid assassins. Johnny McCartney'll give you a run for your threepence ha'penny.
+M	SERGEANT	Now, what's he up to?
+M	RINGO	He's allergic to Bobbies, especially English Bobbies.
+M	POLICEMAN	Your man disappeared like a leveret over a hill.
+M	RINGO	Turncoat!
+M	RINGO	Mother!
+F	GRANDFATHER	Be God, they've called up reinforcements, the dragnet's out!
+M	DIRECTOR	Only half an hour and you're on!
+M	GEORGE	Can I say something?
+M	DIRECTOR	Yes, anything.
+M	GEORGE	It's highly unlikely we'll be on... I mean the law of averages are against you and it seems that, etc., etc....
+M	GUARD	I'll have the hides off of you lot.
+M	GUARD	You ought to be ashamed of yourself. Go home!
+F	GRANDFATHER	I must see Pauly.
+M	GUARD	Go home then and see him on the telly.
+F	GRANDFATHER	Can you fix him for me?
+M	BOYS	Yeah.
+F	GRANDFATHER	Sixpence.
+M	BOY	Each?
+F	GRANDFATHER	Oh, all right.
+M	BOY	And in advance.
+F	GRANDFATHER	Mercenary!
+M	DIRECTOR	It's all right, leave him alone.
+M	PAUL	Grandad, where's Ringo?
+F	GRANDFATHER	The police have the poor unfortunate lad in the Bridewell.
+M	BOYS	The police station.
+F	GRANDFATHER	He'll be pulp by now.
+M	JOHN	What are we waiting for?
+M	GEORGE	Come here.
+M	DIRECTOR	We've only got twenty minutes.
+M	SERGEANT	What is all this?
+M	JOHN	Hold on until we get our breath.
+M	SERGEANT	All right now?
+M	JOHN	Sure. Ready?
+M	JOHN	Ah well, it was worth a try.
+M	INSPECTOR	What do you think you're up to?
+M	SERGEANT	Arrest those boys, sir.
+M	INSPECTOR	That's all we need to start a real riot! Come on lads, they're waiting for you.
+M	DIRECTOR	Boys, you don't know what this means to me. If you hadn't come back it would have been the epilogue or the news in Welsh for life.
+M	NORM	Aren't you supposed to be in that box?
+M	PAUL	And another thing, where's that old mixer?
+F	GRANDFATHER	Here, Pauly.
+M	PAUL	Well, I got a few things to say to you, two-faced John McCartney.
+M	JOHN	Aw, leave him alone Paul, he's back, isn't he? And it's not his fault he's old.
+M	PAUL	What's old got to do with it?
+M	JOHN	You needn't bother.
+M	PAUL	Y'what?
+M	JOHN	Practising to be thick-headed, you're there already.
+M	PAUL	Look he's a mixer and a trouble maker!
+M	JOHN	That's right, but he's only asking us to pay attention to him, aren't you?
+M	JOHN	You see. You know your trouble -- you should have gone West to America. You'd have wound up a Senior Citizen of Boston. As it is you took the wrong turning and what happened, you're a lonely old man from Liverpool.
+F	GRANDFATHER	But I'm clean.
+M	NORM	I've got the stuff. Come here.
+M	PAUL	Aren't we...
+M	NORM	No, we're not!
+M	NORM	The office was on the phone, they think it'd be better if we pushed straight to Wolverhampton.
+M	JOHN	Tonight? We can't make it...
+M	NORM	You've got a midnight matinee.
+M	JOHN	Now, look here, Norm...
+M	NORM	No, you look here, John. I've only one thing to say to you.
+M	JOHN	What?
+M	NORM	You're a swine. So hurry up... we're travelling!
+M	PAUL	Where's my grandfather?
+M	NORM	Don't start. Look.
+F	GRANDFATHER	Come on, you're hanging up the parade.

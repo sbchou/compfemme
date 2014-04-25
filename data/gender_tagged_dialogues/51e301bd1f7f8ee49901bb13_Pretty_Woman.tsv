@@ -1,0 +1,942 @@
+M	CHARACTER	DIALOGUE
+M	EDWARD	Left pocket.
+M	INVESTMENT BANKER 1	Our banks certainly doesn't want to discourage Harris Enterprises from investing in California. We think this is a great new venue for you but you've got to understand the mergers and acquisitions market is changing. With the upswing in inflation we have to make these offerings tempting to offset the risk.
+M	VANCE	Look, we're talking about hard assets and a straight liquidation. We have over a thousand man hours in this deal.
+F	STUCKEY	This is a "no brainer". There's no risk for you. No one has ever lost money backing Mr. Harris.
+M	INVESTMENT BANKER 2	Not yet. But ship building is a new endeavor for you...
+F	STUCKEY	Come on. You know we're not going to go into ship building. Besides, you're the ones with the troubled track record, not us!
+M	INVESTMENT BANKER 3	Bill, be reasonable. If you're really going to digest Kross Industries that quickly eighteen should not be such a problem. Besides, I don't think there's anywhere else you can go for the money in the time you have.
+M	EDWARD	It's unacceptable.
+M	EDWARD	Draymen Heux has offered me seventy-five in the pool at sixteen and a half. I can secure the other half personally. You have until tomorrow morning to make me a better offer.
+M	EDWARD	The meeting is over, gentlemen.
+F	STUCKEY	Hah! Did you see the look on their faces?
+M	VANCE	You don't think we pushed too hard?
+F	STUCKEY	NO way! They'll come back. They can't afford not to. Edward, that bluff was beautiful.
+M	EDWARD	Maybe I should have made it rhyme.
+M	EDWARD	Well! It's late. We've been at this long enough.
+M	EDWARD	Gentlemen, enjoy the party. The magician's wonderful.
+M	EDWARD	Watch your left pocket.
+M	BUTLER	Phone call, Mr. Harris. It's Miss Charles.
+F	STUCKEY	Cynthia? Is she coming out?
+M	EDWARD	We're about to find out. Go on. Take care of your guests.
+M	EDWARD	Where are you, Cynthia? I see. No, I don't expect you to be at my beck-and-call. Are you coming or not?
+M	EDWARD	Prepare the filing papers. Have them ready by the middle of the week. I'll tell you when to submit them.
+M	A MAN	Edward!
+M	EDWARD	Yes!
+M	THE MAN	Will we see you at the polo matches Wednesday?
+M	EDWARD	Wouldn't miss it. I want this done fast and easy. No slip-ups. I want to be back in New York by Saturday. Got it?
+F	ELIZABETH	Bill?
+F	STUCKEY	Oh... Hi, honey... Millicent, uh, uh, Millicent.
+M	MILLICENT	Lowell.
+F	STUCKEY	Lowell, right. My wife, Elizabeth.
+F	ELIZABETH	Is Edward leaving?
+F	STUCKEY	What's up, where you going?
+M	EDWARD	Give me your car keys, will you, I'm going back to my hotel.
+F	STUCKEY	At least stay for a drink. This party's for you.
+M	EDWARD	Apologize to Elizabeth for me.
+F	STUCKEY	Listen, there're some major local talent inside just dying to meet you...
+M	EDWARD	Really? Some high class gold digger who speaks French better than I do? No, thank you. I just got off the phone with one.
+F	STUCKEY	Cynthia's not coming?
+M	EDWARD	No.
+F	STUCKEY	Let your driver take you. We'll move the cars...
+F	STUCKEY	Can you drive a stick?
+F	STUCKEY	Edward, give me a break!
+M	EDWARD	Love this car! Is it new?
+F	STUCKEY	Yes! And you don't even know where you're going!
+F	STUCKEY	That's the wrong way!
+M	LANDLORD	Vivian.
+F	VIVIAN	Yeah, what?
+M	LANDLORD	Rent. You're late.
+F	VIVIAN	Don't give me that. Kit gave it to you yesterday, cash.
+M	LANDLORD	Kit give me nothin'.
+F	VIVIAN	You bullshittin' me?
+M	LANDLORD	Of rent I do not bullshit.
+M	LANDLORD	By the end of the week or you're otta here. By the way, you look very nice tonight!
+M	PROSTITUTE	Hey, baby, you lookin' for a date?
+F	VIVIAN	Chan, you seen Kit tonight?
+M	COOK 1	Hi, hi! No see nothing.
+F	VIVIAN	You do, tell her I'm looking for her.
+M	COOK 2	Looking good, bay-bee.
+F	VIVIAN	Yeah, you too, D'Nai. If Kit comes in here, tell her stay.
+M	COP	They just pulled her out of a dumpster in the back. Now talk to me.
+M	MAN	I tell you, man, I don't know who she hang with.
+M	COP	She have a pimp?
+M	MAN	Cocaine her pimp, man. She a strawberry. She be out on these streets, day in, day out, tradin' her sorry ass for crack. And now she dead from it.
+F	VIVIAN	You spent it on drugs, didn't you?
+F	KIT	Hi, Viv. Carlos, you know my roommate, Viv.
+M	CARLOS	Lookin' good, baby.
+F	VIVIAN	Did you blow it all, Kit? Is it all gone?
+F	KIT	Carlos had some great rock.
+F	VIVIAN	I bet. That was our rent!
+M	CARLOS	Calm down, Chica.
+M	CARLOS	Ey! What is it you wan', baby? I can fix you up.
+F	VIVIAN	Beat it, scum bucket!
+M	CARLOS	You kiss your mother with that mouth? Your frien' still owes me 200.
+F	VIVIAN	Let's go.
+F	VIVIAN	Get out of my face or I'll have those cops on your ass in two seconds.
+M	CARLOS	Don't take no dates tonight, chica, you got one with me.
+F	VIVIAN	We worked for that money. We were gonna put together enough to get out of that dump we live in, get off this street.
+F	KIT	Viv... don't be stupid. We're whores.
+M	KIT (cont'd)	So I blew our stash. We could make it all back with one good night on the streets.
+F	VIVIAN	I just saw somebody pulled out of a dumpster. I wonder how much she made tonight?
+F	KIT	Don't be mad at me. I'll pay you back. I promise.
+F	VIVIAN	I thought you were giving up that drug shit.
+F	KIT	I will. I'm trying. Meanwhile I got some crack left, you wanna get high?
+F	VIVIAN	No, let's go to work. Okay?
+F	KIT	Okay. I'm sorry I said your dream was stupid.
+F	KIT	No no, honey. You see these stars on the sidewalk. Me and Vivian work from Don Ameche all the way up to Roy Rogers. This is our office. We got seniority. Get off our corner.
+F	RACHEL	I was just taking a rest here. Besides, she's new.
+F	KIT	But I'm old. Go rest up by Monty Hall or Debra Paget where you belong.
+F	VIVIAN	Looks slow tonight.
+F	KIT	Maybe we should get a pimp. Carlos likes you and --
+F	VIVIAN	Forget it. We work for it. We keep it.
+F	KIT	I can't handle this tonight. I'm going home.
+F	VIVIAN	That crack is burning a hole in your pocket. There isn't even milk in the fridge. The rent's due. Now come on --
+M	KIT (O.S.)	Hey, hey -- There's a rent.
+F	VIVIAN	He's not gonna want us.
+M	EDWARD	Excuse me.
+F	KIT	Don't take less than a hundred. You look hot tonight. And remember, don't mouth off. They don't like that.
+F	VIVIAN	Okay. Go home. But take it easy on that shit.
+F	KIT	You're the greatest. I'll wait up for you.
+F	VIVIAN	Hey Sugar, you lookin' for a date?
+M	EDWARD	What's that?
+F	VIVIAN	You looking' for some company?
+M	EDWARD	Uh, no. How do I get to Beverly Hills?
+F	VIVIAN	What? You gonna tell me you're lost?
+M	EDWARD	Yes.
+F	VIVIAN	Great. What do I look like a tourguide?
+M	EDWARD	No, you look like a hooker.
+F	VIVIAN	Actually, I'm a movie star out for a walk.
+M	EDWARD	Good. Can you tell me how to get to Beverly Hills?
+F	VIVIAN	Sure. For five bucks.
+M	EDWARD	That's ridiculous.
+F	VIVIAN	The price just went up to ten.
+M	EDWARD	Why don't you just do it out of the kindness of your heart?
+F	VIVIAN	Sit... and spin.
+M	EDWARD	Sit-and-spin. Alright... why not?
+M	EDWARD	You have change for a twenty.
+F	VIVIAN	For twenty, Ill show you personal. Drive.
+M	VIVIAN (cont'd)	Make a "U-ee". Beverly Hills is the other way.
+F	VIVIAN	Nice car. Yours?
+M	EDWARD	No.
+F	VIVIAN	Stolen?
+M	EDWARD	Not exactly.
+F	VIVIAN	Mind if I turn on some heat?
+M	EDWARD	If you can figure it out, be my guest.
+M	EDWARD	Very good. You're obviously mechanical.
+F	VIVIAN	You're not from L.A., huh?
+M	EDWARD	New York.
+F	VIVIAN	What motel you staying at?
+M	EDWARD	Hotel.
+F	VIVIAN	Okay, what hotel?
+M	EDWARD	Regent Beverly Wilshire. I bet you know it.
+F	VIVIAN	Yeah, I peed in the fountain there once. Give me a break.
+M	EDWARD	What's your name?
+F	VIVIAN	What do you want it to be? Vivian, my name's Vivian.
+M	EDWARD	You like being a hooker, Vivian?
+F	VIVIAN	It pays.
+M	EDWARD	So do day jobs.
+F	VIVIAN	Day jobs, yeah. I've tried them. Turn right.
+M	EDWARD	Must be dangerous. Hooking.
+F	VIVIAN	Tell me about it. L.A. is suffering from a wacko epidemic. And who knows where half the guys I pick up have been. I mean, I use condoms. Always. And I get checked out once a month at the free clinic. Not only am I better in the sack than an amateur, I'm probably safer.
+M	EDWARD	Very good. You ought to have that printed up on your business card.
+F	VIVIAN	If you're making fun of me, I don't like it.
+M	EDWARD	Sorry. If I did, I didn't mean to.
+M	EDWARD	Ugly habit, biting your nails.
+F	VIVIAN	You don't know habits, you think this is ugly.
+F	VIVIAN	Okay, pull over. Let me out. I've got to get back to work. Stay on this street and you'll hit Beverly Hills.
+M	EDWARD	What do you charge for company, Vivian?
+F	VIVIAN	Company would cost you... a hundred dollars.
+M	EDWARD	For the whole night?
+F	VIVIAN	For an hour.
+M	EDWARD	You're joking.
+F	VIVIAN	I never joke about money.
+M	EDWARD	Neither do I. A hundred bucks an hour though. That's pretty stiff.
+F	VIVIAN	No, but it's getting there.
+M	EDWARD	Vivian, how much to put up with me for the entire night?
+F	VIVIAN	You couldn't afford it.
+M	EDWARD	Try me.
+F	VIVIAN	Three hundred.
+M	EDWARD	Fine.
+F	VIVIAN	What's your name, lover.
+M	EDWARD	Edward. My name is Edward.
+F	VIVIAN	Edward... you got it!
+M	EDWARD	Get in. This side.
+F	VIVIAN	What?
+M	EDWARD	You know how to drive a stick?
+F	VIVIAN	Better believe it.
+M	EDWARD	Then let's go. It's worth 300 just so I don't have to drive.
+F	VIVIAN	Here we go Edward.
+M	EDWARD	My raincoat's in the back. Put it on.
+F	VIVIAN	Why?
+M	EDWARD	You may feel more comfortable. This is not the kind of place that rents rooms by the hour.
+F	VIVIAN	You mean they don't have hookers.
+M	EDWARD	Every place has hookers, but if this hotel has hookers, they don't look like they're...
+F	VIVIAN	Off the boulevard.
+M	EDWARD	Exactly.
+F	VIVIAN	Great. Now I took like a hooker in a trenchcoat.
+F	VIVIAN	So let's go.
+M	OPERATOR	Evening, sir.
+M	EDWARD	Good evening. Penthouse.
+F	VIVIAN	Penthouse. My, my.
+F	VIVIAN	The penthouse. And step on it.
+M	EDWARD	Room service. What do you drink?
+F	VIVIAN	Diet coke.
+M	EDWARD	Send up a bottle of Crystal champagne.
+F	VIVIAN	Can I have some chips?
+M	EDWARD	-- and a bowl of strawberries. Thank you.
+M	EDWARD	Impressed?
+F	VIVIAN	You kidding? I come here all the time. As a matter of fact they do rent this room by the hour.
+M	VIVIAN (cont'd)	Well, now that you have me for the night, what are you going to do with me?
+M	EDWARD	Want to know something? I don't quite know. I hadn't planned this.
+F	VIVIAN	Do you plan everything?
+M	EDWARD	Always.
+F	VIVIAN	Well, the meter's running, it's your money. Speaking of which, cash'll do. In advance.
+M	EDWARD	Fair enough.
+M	EDWARD	Let's talk some more first.
+F	VIVIAN	Right. So! In town on business?
+M	EDWARD	Uh-huh.
+F	VIVIAN	Let me guess, you're a... lawyer.
+M	EDWARD	And why do you say that?
+F	VIVIAN	I dunno... you have that sharp, useless look.
+M	EDWARD	Sounds like you've known a lot of lawyers.
+F	VIVIAN	I've known a lot of everybody.
+M	EDWARD	Champagne.
+F	VIVIAN	Hey. I might as well make myself useful.
+M	WAITER	Where would you like it?
+F	VIVIAN	Where would we like it?
+M	EDWARD	Where would we like it? Here'll be fine.
+F	VIVIAN	What are you looking at?
+M	EDWARD	I think he wanted you to tip him.
+F	VIVIAN	Tsk. Excuse me, I didn't think he had change for a hundred.
+M	VIVIAN (cont'd)	You have a wife? Girlfriend?
+M	EDWARD	I have both.
+F	VIVIAN	Where are they? Shopping together?
+M	EDWARD	They should be. They're both good at it. My ex-wife lives in London in what My girlfriend is in New York moving out of my apartment even as we speak. Cheers.
+M	EDWARD	It's a very good year.
+F	VIVIAN	Oooh, thank god.
+M	EDWARD	Try a strawberry.
+F	VIVIAN	Why?
+M	EDWARD	Because they bring out the flavor of the champagne.
+F	VIVIAN	Jesus, you act like you're seducing some Valley girl you picked up in a dance club.
+M	EDWARD	Vivian... the meter's running... cooperate.
+M	EDWARD	You really are a very beautiful girl.
+F	VIVIAN	Just a romantic, that's you.
+M	EDWARD	Yes...
+F	VIVIAN	Me too.
+M	VIVIAN (cont'd)	Not on the lips.
+M	EDWARD	What do you like?
+F	VIVIAN	If I want you to turn me on I'll pay you three hundred. Just lay back and let me drive. It's open.
+M	EDWARD	Sorry. Go ahead.
+F	STUCKEY	Kross knows we're after his company. He wants to talk with you. I don't think you should.
+M	EDWARD	I want to.
+F	STUCKEY	Edward, if the three of us sit down together we might as well announce our plans in the Wall Street Journal.
+M	EDWARD	I'll see him alone. Everyone knows you're my muscle. We'll make it social. Tell Kross I'll meet him for dinner. Tonight if you can arrange it.
+F	STUCKEY	You shouldn't go alone. He might claim that you tried to black mail him.
+M	EDWARD	Bill, we're businessmen, not the damn mafia. I'll see you in the office. By the way, about your car...
+F	STUCKEY	Oh, god, what?
+M	EDWARD	I'll bring it back.
+M	EDWARD	Good morning.
+F	VIVIAN	You didn't wake me. I'll be out of here in a minute.
+M	EDWARD	No hurry. Would you like some breakfast?
+F	VIVIAN	Only if you do.
+M	EDWARD	Did you sleep well?
+F	VIVIAN	Yeah. Too good. I forgot where I was.
+M	EDWARD	Occupational hazard?
+F	VIVIAN	Where'd you go?
+M	EDWARD	I took the couch. I had some work to do. About last night...
+F	VIVIAN	Oooh, Baby, you were the best. I was beside myself.
+M	EDWARD	Mmm, I could tell.
+F	VIVIAN	I just hope it was worth three hundred bucks.
+M	EDWARD	I'd say you give a good dollar value.
+M	EDWARD	Do you ever... enjoy it?
+F	VIVIAN	I like guys if that's what you're asking. Not that I trust'm.
+M	EDWARD	No? Why's that?
+F	VIVIAN	"Occupational hazard". what do you do anyway?
+M	EDWARD	I buy companies.
+F	VIVIAN	No shit. They expensive?
+M	EDWARD	The one I'm buying this week will cost around 150 million.
+F	VIVIAN	... dollars?
+M	VIVIAN (cont'd)	You are major league, baby. Your mother must be very proud.
+F	VIVIAN	So what a ya do with the companies once you buy'm?
+M	EDWARD	I sell them.
+F	VIVIAN	What? Why?
+M	VIVIAN (cont'd)	At ease, let me do that. Part of the all night services.
+M	EDWARD	By breaking up a company's assets
+F	VIVIAN	What are assets?
+M	EDWARD	Vivian --
+F	VIVIAN	C'mon, I might buy a company some day.
+M	EDWARD	Assets are anything of value a company owns. Sometimes the pieces are worth more than the whole. By selling them off, I make a profit.
+F	VIVIAN	Sorta like stealing cars and selling'm for parts, huh?
+M	EDWARD	Not... quite.
+F	VIVIAN	There, see? Now the emblem is right in the middle of the knot.
+M	EDWARD	Where'd you learn to do this?
+F	VIVIAN	I fucked the debate team in high school. Tsk. I had a grampa. He liked ties on Sundays. You mind if I take a swim in your bathtub before I hit it?
+M	EDWARD	Don't drown.
+F	VIVIAN	You could hold a pep rally in here!
+M	EDWARD	Yes.
+F	STUCKEY	Edward, it's me. Kross is all set for tonight.
+F	STUCKEY	Listen, I gotta say this again, I don't like you going alone.
+M	EDWARD	I'm a big boy.
+F	STUCKEY	Let me at least get you a date. Keep it social.
+F	STUCKEY	Edward, did you hear me?
+M	EDWARD	I'm here.
+F	STUCKEY	I know a lot of nice girls.
+M	EDWARD	I have one.
+M	EDWARD	All right. How much for the week?
+F	VIVIAN	What?
+M	EDWARD	I'm in town until Saturday.
+M	EDWARD	Do-you-want-to-stay-here- for-the-week?
+F	VIVIAN	It'd cost you.
+M	EDWARD	Of course. How much?
+F	VIVIAN	Five full nights... days too?
+F	VIVIAN	Four thousand.
+M	EDWARD	Vivian, may I point out five more nights at three hundred a night is only 1,500.
+F	VIVIAN	But you want days too.
+M	EDWARD	All right, two thousand.
+F	VIVIAN	Three.
+M	EDWARD	Done.
+F	VIVIAN	Holy shit. Sugar, you got it. I will treat you like a prince. Anything, anyway you want.
+M	EDWARD	I'm not just talking about sex.
+F	VIVIAN	Look butthead, I'll treat you so nice you'll never want to let me go, okay?
+M	EDWARD	Three thousand for five days. And Vivian, I will let you go.
+M	EDWARD	I'll be out most of the day.
+M	EDWARD	I want you to go out and buy some decent clothes.
+M	EDWARD	Nothing too flashy, not too sexy. Conservative. Understand?
+F	VIVIAN	Yeah, you want me to dress like your high class girlfriend. You're wasting your money though. All I'm gonna do is hang around the hotel. As a matter of fact, I may never get out of that bathtub.
+M	EDWARD	Think again. I'm taking you out to an important dinner with me tonight.
+M	VIVIAN (O.S.)	What? Are you crazy?
+M	EDWARD	Probably.
+F	VIVIAN	Three thousand...
+F	VIVIAN	Three thousand!
+M	KIT (O.S.)	'Lo.
+F	VIVIAN	Kit! Where've you been? I was asleep. You woke me. You okay?
+F	VIVIAN	Kit, listen, the guy last night, the one in the Ferrari, I'm at this hotel, the Regent Beverly Wilshire, it's this absolutely unbelievable place and he's hired me for a whole week and Kit, listen, he's paying me three thousand bucks! We can get out of the apartment. We can get out of this town. We can do anything! Kit? Hey, you there? Why'd he want you?
+F	VIVIAN	He... he just does.
+M	KIT (O.S.)	I'm sorry, Viv'. Carlos has been on my back. Did you get the money up front like I taught ya'?
+F	VIVIAN	Three hundred for last night and he gave me extra to buy some clothes. Now listen, I'm gonna leave an envelope for you at the front desk. Give me two hundred to the scum bucket and the other hundred to that asshole landlord for part of the rent. Spend it on drugs and I'll pull your hair out.
+F	KIT	I'm getting dressed now. I'll be over. Bye.
+F	VIVIAN	Hey Kit, where do I go for the clothes? Good stuff on him.
+M	KIT (O.S.)	In Beverly Hills?
+F	VIVIAN	Yeah. Baby! Rodeo Drive.
+M	SALESWOMAN	May I help you?
+F	VIVIAN	I'm just looking, thanks.
+M	SALESWOMAN	Are you looking for something in particular?
+F	VIVIAN	Yes. Something... conservative.
+M	SALESWOMAN	Yes...
+F	VIVIAN	You have beautiful things. How much is this?
+M	SALESWOMAN	I don't think it would fit you.
+F	VIVIAN	I didn't ask if it would fit. I asked how much it was.
+M	SALESWOMAN	It's very expensive.
+F	VIVIAN	What is with you?
+M	SALESWOMAN	Excuse me?
+F	VIVIAN	I'm going to spend money.
+M	SALESWOMAN	I don't think we have anything for you here. You're obviously in the wrong place.
+M	MR. THOMAS	May I help you Miss?
+F	VIVIAN	I'm just going to my room.
+M	MR. THOMAS	You're a guest here?
+F	VIVIAN	I'm -- I'm with a friend.
+M	MR. THOMAS	And who is that?
+F	VIVIAN	I... Edward...
+F	VIVIAN	He knows me.
+M	MR. THOMAS	Do you know this young lady?
+M	OPERATOR	She's with Mr. Harris.
+M	MR. THOMAS	Mr. Harris?
+M	OPERATOR	She apparently joined him last night.
+M	MR. THOMAS	Why don't you come with me. We'll chat for just a moment.
+M	MR. THOMAS	What's your name?
+F	VIVIAN	Vivian.
+M	MR. THOMAS	Miss Vivian... things that go on in other hotels don't happen at the Regent Beverly Wilshire. Mr. Harris, however, is a very special customer. And we like to think of our special customers as friends. As a customer, we would expect Mr. Harris to sign in any additional guests. But as a friend, we're willing to overlook it, I'm assuming you're a... relative? I thought so. You must be his...?
+F	VIVIAN	Niece?
+M	MR. THOMAS	Of course. Naturally when Mr. Harris leaves, I won't see you in this hotel again.
+M	MR. THOMAS (cont'd)	Good. We understand one another. I would also encourage you to dress in a more appropriate manner.
+F	VIVIAN	That's what I was trying to do. I was trying to get some other clothes... but... they wouldn't... they made me feel like shit...
+M	MR. THOMAS	Women's clothing. Bridget, please. Bridget, hello, this is Barnard Thomas over at the Regent Beverly Wilshire. Well, thank you, that's flattering. I'd like to ask a favor of you. I'm going to send someone over. Her name is Vivian. She's a guest of ours. A very special guest. She's from out of town and she needs a little help in dressing. Perhaps you could help her out. Thank you very much. She'll be right over.
+M	MR. THOMAS (cont'd)	There you are. If you have any other problems, come ask for me personally. I'm Mr. Thomas.
+F	VIVIAN	Barney.
+M	VANCE	Okay... this is the jewel in Kross's crown. We can strip out all the heavy equipment. Some of the cranes are very valuable overseas. The Japanese are salivating for them.
+F	STUCKEY	Prime industrial property straddling the Port of Long Beach and Los Angeles. It gives me a hard-on.
+M	EDWARD	What's that long building over there?
+M	JAKE	Storage, I think.
+M	EDWARD	Not with those smokestacks it's not.
+M	VANCE	Let me check.
+M	JAKE	The real estate possibilities are endless. Most of the yard we'll just level. I talked to a couple of developers, under the table, of course, and they said
+M	EDWARD	You what?
+M	JAKE	I talked to some developers about the land.
+F	STUCKEY	What kind of an idiot are you? You don't talk about this to anyone.
+M	JAKE	They're close friends, they'd never breathe a word --
+F	STUCKEY	Where did you dig this moron up?
+M	VANCE	He's right, Jake, that was an incredibly stupid thing to do. It won't happen again, Edward. I'll pull him off the project immediately.
+M	EDWARD	Don't bother.
+F	STUCKEY	What!?
+M	EDWARD	We don't have the time to bring someone new up to speed. Besides... You've already impressed everyone you need to, haven't you?
+M	JAKE	It won't happen again, Mr. Harris.
+M	VANCE	This is interesting. That building is storage now, but it used to be a smelting plant. They closed it down after World War II.
+M	EDWARD	I want our lawyers to check into the toxic waste licences on them right away. I want to know if the permits are still valid and what kind of limits are on them.
+F	STUCKEY	Jesus, yes. It's a long shot but if the permits are still in effect, they're worth a fortune.
+M	EDWARD	What time's diner tonight?
+F	STUCKEY	Eight o'clock. Kross is bringing his son. Very bright kid, watch yourself with him. Who's this girl you're taking?
+M	EDWARD	No one you know.
+F	BRIDGET	You must be Vivian. Let's look at you...
+M	BRIDGET (cont'd)	Where are you from, dear?
+F	VIVIAN	Georgia.
+F	BRIDGET	No wonder. For starts, you should know that hot pants are horrid, even when you do have the legs to carry them off. What are your plans while you're in town?
+F	VIVIAN	Well... I might be going out to dinner.
+F	BRIDGET	You'll want a cocktail dress then. Turn. You have a beautiful figure. A little too out in the open but simply lovely. Size six? Do you need shoes?
+F	VIVIAN	I dunno. Do thigh high, leather boots go with a cocktail dress?
+F	BRIDGET	Philip! We'll need shoes!
+F	BRIDGET	Your uncle will like this.
+F	VIVIAN	He's not really my uncle.
+F	BRIDGET	They never are, dear.
+F	VIVIAN	I got a dress.
+M	MR. THOMAS	I rather hoped you'd be wearing it.
+F	VIVIAN	I didn't want to get it messed. I got shoes too. Wanna see?
+M	MR. THOMAS	That's all right. I'm sure they're quite lovely.
+F	VIVIAN	They were real nice to me there. They treated me, y'know... nice. Thanks, Barney.
+M	MR. THOMAS	You're very welcome, Miss Vivian.
+F	VIVIAN	Hello? Hello? What? Hello?
+M	EDWARD	Never answer the phone. Ever.
+F	VIVIAN	Tsk, believe me, this will be the last time.
+M	EDWARD	Did you buy some clothes?
+F	VIVIAN	I got a dress, yeah.
+M	EDWARD	Just one? Christ... I hope it's appropriate.
+F	VIVIAN	It's very tasteful. I think you'll especially like the zipper in the crotch. I'm -- joking.
+M	EDWARD	Let's hope so. You'll get some more clothes tomorrow. I'll be pushed for time so meet me in the hotel lobby at seven forty-five sharp. Got it?
+F	VIVIAN	No, I don't "got it". Even the farmboys back in Georgia come to the door when they're taking you on a date.
+M	EDWARD	This isn't a date.
+F	VIVIAN	Go by yourself then. Where you taking me anyway?
+M	EDWARD	The Rex.
+F	VIVIAN	Any good?
+M	EDWARD	I think you'll approve.
+F	VIVIAN	... all right. I'll meet you in the lobby. But only cause you're paying me to.
+M	EDWARD	Thank you very much.
+F	VIVIAN	Hello?
+M	EDWARD	I thought I told you not to answer the phone.
+F	VIVIAN	Oooh!
+M	MAID	Housekeeping. I come to turn down the bed. 5:00, I turn down the bed.
+F	VIVIAN	What?
+M	MAID	Housekeeping. I come to turn down the bed.
+F	VIVIAN	Okay.
+F	VIVIAN	Is there a trick to it?
+F	VIVIAN	Is that all? You just fold back the bedspread?
+M	MAID	I also place las chocolates on the pillow.
+F	VIVIAN	Oooh, I love those.
+M	MAID	I leave extras, miss.
+F	VIVIAN	Thanks! Consuelo, are all rich people so lazy they can't do this on their own?
+F	VIVIAN	Barney.
+M	MR. THOMAS	What is it, Miss Vivian?
+F	VIVIAN	Edward is taking me to some fancy place for dinner. The Rex. Ever been there?
+M	MR. THOMAS	It's a bit beyond my... range, shall we say.
+F	VIVIAN	Yeah, mine too. Is it like, y'know, normal?
+M	MR. THOMAS	I think you'll find it normal enough.
+F	VIVIAN	Will I like it?
+M	MR. THOMAS	You'll like it fine.
+F	VIVIAN	Okay. Thanks, Barney. You're the best.
+M	MR. THOMAS	Just mind which fork you use.
+F	VIVIAN	Fork?
+M	MR. THOMAS	In fifteen minutes I can teach you everything you need to know to dine with the Queen. First, as you pick up the knife you shift your fork to the left hand.
+F	VIVIAN	But I always eat like this.
+M	MR. THOMAS	Either you're European or badly brought up.
+F	VIVIAN	Hmmm... I vonder vich.
+M	MR. THOMAS	Actually, some of the richest people I know have the worst manners. Of course, Mr. Harris, being of old money, knows his way around a table. All right now, pay attention please. Salad fork.
+F	VIVIAN	What if they serve soup?
+M	MR. THOMAS	They will serve salad.
+F	VIVIAN	But what if they serve soup?
+M	MR. THOMAS	Then you use your soup spoon.
+F	VIVIAN	I like steak.
+M	MR. THOMAS	Then you would use your--
+F	VIVIAN	Steak spoon!
+M	MR. THOMAS	Miss Vivian --
+F	VIVIAN	Maybe I'll just order a burger, Barney, that way I can eat with my hands.
+M	MR. THOMAS	Miss Vivian... there's a salon here in the hotel. Instead of worrying unnecessarily about table manners, why don't you just have your hair done instead?
+F	VIVIAN	Professionally?
+F	VIVIAN	I have a friend who has a friend who does Cher's wigs.
+M	THANE	I hate him already. All set?
+F	VIVIAN	Yeah... what a ya say we chop it all off and bleach the tips.
+M	THANE	Darling? Trust me.
+M	MR. THOMAS	Good evening, Mr. Harris.
+M	MR. THOMAS	Barnard Thomas, manager of the hotel.
+M	EDWARD	Of course, yes. If you'll excuse me just a moment --
+M	MR. THOMAS	I have a message for you from your "niece", sir.
+M	EDWARD	My what?
+M	MR. THOMAS	The young lady staying in your room?
+M	EDWARD	I think we both know she's not my niece. Does this hotel have any problem with that?
+M	MR. THOMAS	Mr. Harris, a guest of yours, is a guest of ours and shall be treated accordingly. The young lady asked me to tell you that she is waiting for you in the lounge.
+M	EDWARD	Thank you.
+M	MR. THOMAS	Very intriguing young woman, Miss Vivian.
+M	MR. THOMAS (cont'd)	Have a good evening, sir.
+F	VIVIAN	You're late.
+M	EDWARD	I'm sorry.
+F	VIVIAN	You're forgiven.
+M	KROSS	So young man, I understand you are trying to take over my company.
+M	EDWARD	Please don't patronize me, Mr. Kross. Our ages mean nothing here.
+M	DAVID	Mr. Harris, we know you've purchased at least twenty percent of our stock. We also know you plan to file a formal bid for a majority share.
+M	EDWARD	Twenty-five percent.
+M	KROSS	Mr. Harris, I built Kross Enterprises myself. I know every man who ever worked there by his first name. I know their wives... and their children. If your intention is to take over my company and turn it into a glorified real estate deal, think again.
+M	EDWARD	What do you suggest, Mr. Kross? What would it take to buy our stock back? Name your price.
+M	EDWARD	To get me in a mood to sell -- double what I paid. But your company doesn't have enough capital right now to buy anything.
+M	DAVID	We're on the verge of closing a large navy contract. Double is ridiculous but we can assure you a healthy profit on your shares. We would give you a promissory note...
+M	EDWARD	You're not getting any navy contracts.
+M	DAVID	There's no way you could know that.
+M	EDWARD	But I do know. I also know your lines of credit are over-extended. If I don't buy your company, someone else will... Ah, the escargot.
+F	VIVIAN	Scume me, what are these things?
+M	WAITER	Escargot, mademoiselle.
+M	EDWARD	Snails.
+M	EDWARD	Mr. Kross, I'm not here to sell you my stock. On the contrary, I'm here to buy yours.
+M	KROSS	You've got a lot of nerve.
+M	EDWARD	No. What I have is a lot of money.
+M	KROSS	I know all about you, Mr. Harris. When you buy companies, they have a way of disappearing. Even the pension funds are stripped clean. The last three companies you took over were cut up in so many pieces, widows were left without their retirement checks.
+M	EDWARD	What I did with those companies was perfectly legal.
+M	KROSS	I don't question the legality of what you do. It's your morality that makes me sick. I will not allow my company to be raped by a man like you.
+M	EDWARD	It is not your company. It's a public company. And I am going to acquire it. Either I buy from the other stock holders, or I buy from you. I would suggest that you and your board cooperate with me, rather than fight a battle you don't have the ammunition to win.
+F	VIVIAN	Slippery little suckers...
+M	KROSS	If you'll excuse me young lady, Mr. Harris... Deal with this, David, you know where we stand. I need to go someplace and puke.
+M	DAVID	Men like my father built this country. He was no saint. He screwed people. But for every guy he stepped on, he gave a hundred a good job.
+F	VIVIAN	He seems like a nice man.
+M	EDWARD	We can reach an understanding on this.
+M	DAVID	I don't think so. You should know we're going to fight you with every resource we have.
+M	EDWARD	Do what you have to do. I don't take it personally.
+M	DAVID	I do. I take it all very personally. Very nice meeting you, Vivian.
+M	EDWARD	And that's the way the game is played.
+F	VIVIAN	Some game. Screwin' some poor slob out of his retirement.
+F	VIVIAN	Snails for dinner. No wonder everybody is in such a bad mood.
+M	WAITER	Are we ready for the next course, sir?
+M	EDWARD	No. Bring a check, please.
+M	EDWARD	Thank you.
+F	VIVIAN	You're upset, huh?
+M	EDWARD	Upset. No. I never get upset about business.
+F	VIVIAN	You liked the guy, though.
+M	EDWARD	Whether I liked him or not is irrelevant. It's business. There's no emotion involved in business... if you want to survive.
+F	VIVIAN	We're the exactly the same! Kit keeps telling me don't get emotional when you turn tricks -- that's why no kissing -- it's too personal. The key is like you're saying, stay numb, don't get involved -- when I'm with a guy, I'm a robot, I just do it. Except with you. At your price I give my all... Let's not talks about this heavy stuff. Come on, relax.
+M	EDWARD	That... is very good.
+F	VIVIAN	Know what we're gonna do in a little while then? We're gonna call Domino's and have'm deliver a bigass pizza. We're gonna eat it in bed. We're gonna veg' out and watch television.
+M	EDWARD	Television?
+F	VIVIAN	Yeah, it's this box, it has pictures, sound. You don't have to use your brain at all.
+M	EDWARD	I have work to do.
+F	VIVIAN	Uh-uh. No work. See... what you haven't figured out yet...
+M	VIVIAN (cont'd)	Is that while you're the boss everyplace else... I'm the one in charge here. You... just think you are.
+M	EDWARD (O.S.)	Wake up, Vivian. Time to shop.
+M	EDWARD	I still don't understand why you only bought one dress.
+F	VIVIAN	I wasn't as much fun as I thought it was going to be.
+M	EDWARD	Why not?
+F	VIVIAN	Well, you know those cold bitches that work in those stores and try to intimidate you? It works.
+M	EDWARD	Was someone rude to you?
+F	VIVIAN	I had a little problem in one store. I wasn't dressed right. I don't know what to say. I don't belong there. Maybe I'll just go back to Bridget. She was cool.
+M	EDWARD	Vivian, you belong wherever you are. I don't care how you were dressed, they were the ones who were wrong, not you.
+M	EDWARD (cont'd)	People aren't going to respect you unless you respect yourself. The next time someone is rude to you, you stare at them right here.
+M	EDWARD (cont'd)	It's an old trick I use, especially with bankers. Works every time. Will you try it?
+F	VIVIAN	Okay.
+M	EDWARD	Good.
+F	VIVIAN	Come with me?
+F	VIVIAN	Please.
+F	VIVIAN	Hello. Can you help me?
+F	VIVIAN	I'm looking for a dress, nothing too flashy, not too sexy, conservative. In a size six.
+M	SALESGIRL	Do... do you have a charge account with us?
+F	VIVIAN	I look like fucking Nancy Reagan.
+M	VANCE	Kross came out of his corner swinging. He started buying up all available stock as soon as the market opened.
+M	EDWARD	He's a tough old son of a bitch...
+M	VANCE	It's up to ten and a quarter.
+M	EDWARD	Offer nine and a half. Bring them back down to earth.
+F	STUCKEY	Goddamit! Where is he getting the money to fight?
+M	EDWARD	Someone's loaning it to him. Get on it right away.
+F	STUCKEY	Our contract guys are working on the Kross pension funds. There's another forty million there. We can bleed'm dry.
+M	EDWARD	Put the pension funds on hold until I say otherwise.
+F	STUCKEY	We're letting them slide?
+M	EDWARD	I want the treatment plant licenses to be top priority right now.
+F	STUCKEY	But, Edward...
+M	EDWARD	Do it.
+M	EDWARD	You're on your own now, Vivian. I've got to get to work. Be sensible and you can keep everything. Spend too much and it all goes back.
+F	VIVIAN	Not me!
+F	VIVIAN	Horrid!
+F	VIVIAN	Where'd you get your tie?
+M	SALESWOMAN	Isn't this lovely? I think it would look wonderful on you.
+M	SALESWOMAN	Would you like to try it on?
+F	VIVIAN	'Scume me.
+M	SALESWOMAN	Yes?
+F	VIVIAN	Do you remember me?
+M	SALESWOMAN	No, I'm sorry, I don't.
+F	VIVIAN	I was in here yesterday.
+F	VIVIAN	Yeah. That's right. It's me. I want you to know something. You made me feel terrible. I wasn't dressed right and you said I didn't belong here. Well, I do. You're the one that was wrong, not me. And I want to tell you something else. I'm never gonna shop here again as long as I live.
+F	VIVIAN	Wheee!!!
+F	STUCKEY	You were right. Kross mortgaged everything he has down to his grandson's college tuition to secure loans from a bank. Not just any bank. One we do business with. It goes without saying that your business means a great deal more to them than our friend Kross's. All you have to do is make a call.
+F	STUCKEY	Excuse me for saying this but what is wrong with you this week? First, you go soft on the pension funds. Now, you're giving him the chance to get away? As of two minutes ago, you are committed to the tune of over fifty million dollars --
+M	EDWARD	Come on, Bill, don't talk to me about how much money's involved. It's my money.
+F	STUCKEY	And some of it's mine. Edward, his jugular's exposed.
+M	EDWARD	Get the bank on the phone for me.
+M	VIVIAN (O.S.)	Hi.
+F	VIVIAN	I thought maybe you'd like dinner.
+M	EDWARD	Thank you. I would. Nice.
+F	VIVIAN	Wait till you see what I have on underneath.
+M	EDWARD	Please.
+F	VIVIAN	What about dinner?
+M	EDWARD	Dinner can wait.
+F	VIVIAN	You always been rich?
+M	EDWARD	No.
+F	VIVIAN	Seems like it. I guess it's easy to get used to, huh?
+M	EDWARD	Easier than learning how to be poor. My father's family was wealthy. When I was young there were cars and houses, private schools, nannies. But then my father divorced my mother to marry another woman. And he took his money with him.
+F	VIVIAN	Keep talkin'. I like hearin'.
+M	EDWARD	Not much to tell. I went to public school. Went to university on scholarship. Went to work for an investment firm. In eight years I owned it. My father was chairman of the board of the third company I ever went after. I swallowed that company and shit out the pieces. One of the pieces was him.
+F	VIVIAN	You still mad at'm?
+M	EDWARD	He died a long time ago.
+M	WAITER (O.S.)	Miss Vivian?
+M	WAITER	You have a call. Mr. Harris.
+F	VIVIAN	Hi, baby. I'll be ready. Bye.
+F	VIVIAN	What do you wear to polo?
+F	VIVIAN	You're really pushing it, bringing me here.
+M	EDWARD	I think it's exciting.
+F	VIVIAN	What id we run into someone I know?
+M	EDWARD	I really doubt anyone here frequents Hollywood Boulevard.
+F	VIVIAN	You did.
+M	STUCKEY (O.S.)	Edward! Come on! Over here!
+F	STUCKEY	Well, well, well...
+M	EDWARD	Bill, I'd like you to meet Vivian.
+F	STUCKEY	Bill Stuckey, Vivian. My wife, Elizabeth.
+F	VIVIAN	Hi.
+F	STUCKEY	Lots of fun people here. Let me get you two some champagne.
+M	ELIZABETH STUCKEY	Excuse me.
+F	VIVIAN	Real genuine guy.
+M	EDWARD	He's good at what he does.
+F	VIVIAN	You could freeze ice on his wife's ass. She anything like your ex?
+M	EDWARD	Shall we mingle?
+M	WOMAN	I simply love your dress, Vivian.
+F	VIVIAN	This old thing?
+M	WOMAN	Of course, a figure like yours can wear anything. You must work out constantly.
+F	VIVIAN	I lead a very physical life.
+M	OLDER MAN	Are you into running, Vivian?
+F	VIVIAN	I'm into walking. I walk a lot.
+M	ANOTHER MAN	You look awfully familiar, Vivian. Haven't we run into one another at the spa in La Costa?
+F	VIVIAN	Well, I do often spa there.
+M	ELIZABETH STUCKEY	Edward, she's marvelous. Warm and witty and down to earth.
+M	EDWARD	She is, isn't she.
+M	ELIZABETH STUCKEY	So unlike your usuals. Where on earth did you find her?
+M	A WOMAN	We're good together. He has to admit it. I've been just what he wants me to be. I say the right things, I know the right people, I give wonderful parties. No question, no arguments, no embarrassments. It works for both of us.
+F	VIVIAN	Edward, these women here, I don't think any of'm like the guys they're with. They're just into it for the money.
+M	EDWARD	I'm sure that's true for some of them.
+F	VIVIAN	I thought I was the pro. These women make me feel like an amateur.
+M	EDWARD	Ready to stomp sod?
+M	DAVID KROSS	Hi.
+F	VIVIAN	Hi. I never thought stomping in grass could be so much fun.
+M	DAVID	I like your hat.
+F	VIVIAN	Huh? Oh... yeah. S'okay? Uhm... how're... business things going.
+M	DAVID	Let's not talk about it, it's too depressing. Come on, I'll show you Thunder.
+F	VIVIAN	Please, we hardly know each other.
+M	DAVID	Thunder's a horse. Come on.
+M	DAVID	Hey, big guy, you getting tired, yet? I am. This is Vivian. You two been together long? You and Edward?
+F	VIVIAN	No.
+M	DAVID	Hope to be?
+F	VIVIAN	It's... it's not like that.
+M	DAVID	I see. Well. Maybe that means you'd have lunch with me sometime then.
+M	DAVID (cont'd)	I'm sorry, am I being too forward?
+F	VIVIAN	You don't know anything about me.
+M	DAVID	I'd like to find out. You don't know anything about me either. That's why people have lunch.
+F	STUCKEY	Fill me in on this. How'd you and Vivian meet?
+M	EDWARD	We just did.
+F	STUCKEY	Come on, you can tell me. I sure would like to know where a guy runs into a girl as attractive as this.
+M	EDWARD	The night I left your house, I was lost. I was looking for directions.
+F	STUCKEY	And you just happened to run into her. Great. What's she do? She work?
+M	EDWARD	Yes...
+F	STUCKEY	Doing what?
+M	EDWARD	Vivian's in sales.
+F	STUCKEY	Sales, really? That's great. What does she sell?
+M	EDWARD	Why do you want to know?
+F	STUCKEY	Hear me out. I've known you a long time. I see a difference in you this week. Like that tie. I'm suddenly wondering if this girl's not the difference. Especially when I see her talking with David Kross.
+M	EDWARD	She met him at dinner last night... I like this tie.
+F	STUCKEY	So now they're best friends? Edward, this girl appears out of nowhere and now I see her talking to a guy whose company we're trying to buy. It's too convenient.
+M	EDWARD	You're being ridiculous.
+F	STUCKEY	Industrial espionage is not ridiculous. Edward, how do you know she hasn't attached herself to you so she can bring Kross back information?
+M	EDWARD	Christ, Bill, she's not a spy, she's a hooker. I picked her up off Hollywood Boulevard.
+F	STUCKEY	I swear to God, you are the only millionaire I ever heard of who'd go looking for a goddam bargain streetwalker!
+M	EDWARD	Let's drop it, shall we?
+M	MAN	Edward! May we have your opinion on something?
+M	EDWARD	Excuse me a moment.
+F	STUCKEY	Having a good time, Vivian?
+F	VIVIAN	Yeah. Thanks.
+F	STUCKEY	All this must be quite a change from Hollywood Boulevard.
+F	VIVIAN	What?
+F	STUCKEY	It's okay. Edward told me. Your secret's safe with me. What do you charge, Vivian? Maybe you and I could get together after Edward leaves.
+F	VIVIAN	Yeah. Sure. Why not. Call me at the Regent Beverly Wilshire.
+F	STUCKEY	I just might do that.
+M	EDWARD	You're awfully quiet. You haven't said a word since the party.
+F	VIVIAN	You asshole! I can't believe what a --!
+M	EDWARD	Vivian, what the --
+F	VIVIAN	Clean the slut up, take her out, huh?! What are you trying to prove!? I'm not a piece of meat for you to offer to your friends!
+M	EDWARD	I don't know what you're talking about.
+F	VIVIAN	I've been with stinking old men who've made me want to puke but I've never had anyone make me feel as dirty as you did tonight.
+M	EDWARD	Would you please calm down. Tell me what happened.
+F	VIVIAN	Stuckey! He wants an "appointment" with me after you leave. You my pimp now or did he think that up on his own?
+M	EDWARD	What was I supposed to do? I told the truth. Why should the truth upset you? It's not as if you're from a convent.
+F	VIVIAN	I want my fucking money. I'm getting out of here. I don't want anything more to do with you.
+M	EDWARD	Can we talk about this? Can you just try to calm down?
+F	VIVIAN	Your goddamned friend, he thinks the only reason I'm with you is for the money.
+F	VIVIAN	Well, it's true. Just pay me what you owe me and I'm gone.
+M	EDWARD	Vivian...
+F	VIVIAN	Pay me! Before I pick up this chair and smash your face in.
+M	EDWARD	Fine. I'm only here a couple of more days and I'm not going to spend them fighting with you.
+F	VIVIAN	Fuck off.
+M	EDWARD	I'll call you a cab. If you want the clothes, pack them up.
+M	EDWARD	Vivian... I'm sorry. I wasn't prepared for questions about us. It was an idiotic and insensitive thing I did. I should have known that it would hurt you.
+F	VIVIAN	I'm not hurt. It doesn't hurt you when somebody pisses on you, it just pissed you off.
+M	EDWARD	I really am sorry.
+F	VIVIAN	You hurt me.
+M	EDWARD	I'll make it up to you.
+F	STUCKEY	This is no time to disappear. We're in too far.
+M	EDWARD	Bill? Stop panicking. Kross isn't going anywhere and I don't need to spend the rest of the day watching his stock go down. I'll be in the office tomorrow.
+F	STUCKEY	Promise me you'll read those contracts by then.
+M	EDWARD	Goodbye, Bill.
+F	STUCKEY	Shit... By tomorrow, Edward!
+M	MR. THOMAS	Good afternoon, Mr. Harris.
+M	EDWARD	Afternoon.
+F	VIVIAN	C'mon, Kit...
+F	VIVIAN	Do I look okay?
+M	EDWARD	Hmm... let's see... no, there's something missing.
+F	VIVIAN	What's that?
+M	EDWARD	I don't want you to get too excited... these are on loan... however...
+M	EDWARD	This is made for a princess. I think she'd approve of you wearing it tonight. There. Come look.
+F	VIVIAN	Edward, I can't.
+M	EDWARD	Shush. Of course you can.
+F	VIVIAN	What if I lose it?
+M	EDWARD	You won't.
+F	VIVIAN	What if someone tries to steal it?
+M	EDWARD	I'll guard them and you with my life.
+M	PILOT	Your plane is ready to go, Mr. Harris.
+M	EDWARD	Very good.
+F	VIVIAN	Plane?
+M	EDWARD	You don't want to go all the way to San Francisco in a limousine, do you? I don't.
+F	VIVIAN	Where are you taking me!?
+M	EDWARD	To meet some friends. Rudolpho, a poet... Benoit, a landlord... Mimi, a flower maker...
+F	VIVIAN	Huh?
+M	EDWARD	The opera.
+F	VIVIAN	I've never been on a plane before.
+M	EDWARD	I'm glad you like it. Now be quiet, I've really got to read these.
+M	EDWARD	Vivian, what do you think you're doing?
+F	VIVIAN	Being quiet.
+M	VIVIAN (O.S.)	You ever been in love with anyone?
+F	VIVIAN	Sorry. You're not paying me to ask you question like that.
+M	EDWARD	Vivian. I'm paying you to be you. Be you. Have you? Ever been in love with anyone?
+F	VIVIAN	You mean, besides Elvis? I'm a human being. Sure. Once. First time I ever ran away from home, I got as far as Atlanta. I met this boy. He'd been with his parents on their way to Chicago. They stopped at a gas station. He went to the john. When he came back they'd split. We sorta started looking out for each other. Aw, he was sweet. And boy, was he good looking, y'know, dark hair and eyes. The chicken hawks were on him all the time. He hated that. Sometimes we'd find a safe place to crash nights and we'd curl up together and we'd talk about all these crazy things. The two of us getting married someday. Having kids. Stupid stuff.
+M	EDWARD	What happened to him?
+F	VIVIAN	My father found me. Dragged me home. I don't know why, he never seemed to like me much when I was there. 'Cept when he was drunk, then he liked me a whole lot. I made it back to Atlanta a year later. Andy was gone.
+F	VIVIAN	Aw, but things sure look fine when you're sitting way up high.
+M	EDWARD	Some people say that opera is an acquired taste, but I don't believe it. You can always tell when someone goes to the opera for the first time. They either love it or hate it. Those who love it will always love it; those who hate it might come to appreciate it, but they'll never truly love it.
+M	EDWARD	Viv? I really doubt if anyone here is going to try and grab it.
+M	EDWARD	They all think you look very beautiful, Vivian.
+F	VIVIAN	If it's in Italian, how will I know what they're saying?
+M	EDWARD	I'll whisper some of the main parts of the story to you. But you'll be surprised how much you understand. The music conveys the story more powerfully than any words.
+F	VIVIAN	But don't they have it in English?
+M	EDWARD	Vivian, don't be afraid of what you don't know. That's the fun of it.
+F	VIVIAN	Okay. Even if I hate it, I'm glad you brought me.
+M	EDWARD	What am I? I am a poet. Not a man of wealth but one rich in dreams. You have come to replace my vanished dreams. I dwell now only in your eyes.
+M	EDWARD	And now she asks Rudolpho if he still thinks her beautiful --
+M	OLDER WOMAN	Did you enjoy the opera, dear?
+F	VIVIAN	It was so beautiful I just about pissed my pants.
+M	EDWARD	If you'd gone on about how much you liked it, I'm not sure I'd have believed you.
+F	VIVIAN	I more than liked it.
+M	EDWARD	I know. I'm glad.
+F	VIVIAN	Did you?
+M	EDWARD	Yes. I've never enjoyed it more. Thank you.
+F	VIVIAN	Love you...
+M	EDWARD	Yes?
+F	STUCKEY	Did I wake you?
+M	EDWARD	I'm up.
+F	STUCKEY	I had to call. I jus got off the phone with James Kross. Get this. He wants to see you. Today.
+M	EDWARD	Why?
+F	STUCKEY	He wouldn't say. Edward... I think we got him. His nuts are on the block and we got him. You there?
+M	EDWARD	Give me twenty minutes.
+F	STUCKEY	We'll be there. Listen, if he's really caving in, we'll go from there down to the office. I want him to commit his stock to us this morning.
+F	VIVIAN	Mmm. Hi.
+M	EDWARD	Better get dressed. We're having guests.
+F	VIVIAN	Here. Let me.
+M	EDWARD	One more night and you're finally rid of me.
+F	VIVIAN	Yeah, you've been pretty tough to take.
+M	EDWARD	I have to go to New York tomorrow. But I'll be back in Los Angeles. Soon. I'd like to see you again. I thought we could work out something... An arrangement. I'll get you an apartment, buy you a car -- What is it?
+F	VIVIAN	What else? You gonna leave some cash by the bed when you pass through town?
+M	EDWARD	It wouldn't be like that. I want to get you off the street. You'll have a different kind of life. What's wrong with that?
+F	VIVIAN	I'm sorry. That's very sweet, Edward, and I know you mean it...
+M	EDWARD	Vivian, I've thought about this a lot. This is the best solution.
+F	VIVIAN	When I was a little girl, my mother locked me in the attic when I was bad, which was pretty often. I'd stare out the window up there and make believe I was a princess trapped in the tower by the wicked queen. Then suddenly a knight on a white horse with his bright colors flying would ride up. Rescue me from the tower, and then we'd ride off... but never, ever in all the times I had that dream did the knight say, "Come on baby, I'll put you up in a great condo."
+M	EDWARD	Vivian, life's not a fairy tale.
+F	VIVIAN	I know. Hey, don't mind me. I'm being stupid. I'll think about it, okay? It's a real good offer for a whore.
+M	EDWARD	I've never treated you like a whore.
+F	VIVIAN	You just did.
+M	KROSS	Mr. Harris.
+M	EDWARD	How are you, Mr. Kross.
+M	KROSS	Not bad for a man who hasn't slept in four nights. I'll get used to it.
+M	KROSS	Young lady.
+F	VIVIAN	Hello. Hi.
+M	DAVID	Hello, Vivian.
+F	STUCKEY	Let's not waste time here, shall we? Mr. Kross, you said this morning, you wished to speak with Mr. Harris. Mr. Harris is now listening.
+M	KROSS	Yes. I'm here to tell you that I've reconsidered my position on your acquisition offer.
+M	EDWARD	Expected... offer.
+M	KROSS	Of course, yes. After the expected filing period is over, I'm going to recommend to the board that we accept your bid.
+M	EDWARD	You're making the right decision, sir.
+M	KROSS	I'll see you on one condition. I'm not so concerned for me but the people who have worked for me...
+F	STUCKEY	They'll be taken care of. Won't they, Edward?
+M	KROSS	I'll sign anything you want then.
+F	STUCKEY	Today.
+M	KROSS	Today.
+M	EDWARD	Excuse me, please?
+F	VIVIAN	Hello. Is Kit DeLuca there? When she comes in will you have her call Vivian Wells at 560-30000. Yes. Okay.
+F	VIVIAN	What did you do to him?
+M	EDWARD	What do you mean?
+F	VIVIAN	Last time I saw him he was this strong guy. Now he's beaten. And you liked him.
+M	EDWARD	Vivian, I want you to listen to me. The man realized that it would be better for his future and his son's future, if he cooperated.
+F	VIVIAN	Right.
+M	EDWARD	It's not your concern. It's... business, that's all.
+F	VIVIAN	Business.
+M	EDWARD	Yes. The man made a business decision.
+F	VIVIAN	It's all just business to you. Him. Me. Your life. Everything's business.
+M	EDWARD	It's what I do for a living. It's how I make money.
+M	EDWARD	I'll be back in a few hours. We'll talk about this later.
+M	EDWARD	We'll continue this down at the office.
+F	VIVIAN	Lo?
+M	MR. THOMAS	Barnard Thomas here. Miss Vivian, I wonder if you might come down to the front desk. There's someone here to see you.
+F	VIVIAN	Me?
+M	MR. THOMAS	I'd send them up, but sadly, I don't trust the young lady to find you on her own.
+F	KIT	Viv? Where are you, babe? The sphincter-police won't let me through.
+F	VIVIAN	Yes, I'm glad you're clean but I've been calling and calling.
+F	KIT	Was that you?
+F	VIVIAN	Who did you think?
+F	KIT	Carlos. I still owe him two hundred bucks...
+F	VIVIAN	Kit, I left that money for you days ago.
+F	KIT	Yeah. I just got it.
+F	KIT	Fifty bucks, grampa. For seventy-five, the wife can watch.
+F	VIVIAN	Kit...
+F	KIT	Everybody keeps starin' at me.
+F	VIVIAN	Yeah... I know what you mean.
+F	KIT	What do you know? You look good. All dressed up. You clean up real nice. You sure don't fit in down on the Boulevard, lookin' like you do. Not that you ever did anyway.
+F	VIVIAN	You think I fit here where they just about chew your food for you?
+F	KIT	Where do you fit?
+F	VIVIAN	I kissed him, Kit. On the mouth.
+F	KIT	Honey, you're not supposed to do that.
+F	VIVIAN	I know. I stopped pretending and started liking it with him for real.
+F	KIT	Oh, my god, you mean it was good?
+F	VIVIAN	It was great.
+F	KIT	Dummy.
+F	VIVIAN	He wants to set me up in a place, give me some money.
+F	KIT	I pray for that.
+F	VIVIAN	All I'm doing is feeling lousy about it. I don't know what to do. What do I do, Kit?
+F	KIT	Go for the bucks.
+F	VIVIAN	I don't care about bucks. I might love this guy.
+F	KIT	Wow, are you in deep shit. You know he'll break your heart. I blame myself here. First time I laid eyes on ya', I knew you were too complicated to be a whore.
+M	JAKE	Congratulations, sir.
+M	EDWARD	What?
+M	JAKE	Mr. Kross is just getting off the phone with his stock broker. It's finished. You've won.
+M	JAKE	Who are you going after next, sir?
+M	EDWARD	Who indeed...
+F	STUCKEY	If we can get these letters of intent out of the way now... Mr. Harris and I would like to ask you some questions about your company.
+M	DAVID	Dad, excuse me, but that's inappropriate. You're under no obligation to answer any questions at all.
+M	KROSS	Could we at least wait till after the filing period?
+F	STUCKEY	Mr. Harris is preparing a bid based on our speculation of the corporation's net worth. The price he ultimately pays for your father's stock will be based on that bid. The more we know, the higher our bid can be. It's in my best interest to cooperate, David.
+M	DAVID	If he throws himself on your sword, you promise to take care of him and his family, huh?
+F	STUCKEY	That's unfair!
+M	DAVID	You bed it is. You're everything he said you were. Do what you have to do, Dad. Just don't expect me to watch it.
+M	KROSS	He's young. He hasn't learned how to lose gracefully yet. I'll sign your papers. And I'll answer your questions. Whatever you want.
+M	EDWARD	Stop. For just a moment. Mr. Kross, I'd like to ask you a few questions before you sign. You realize that you're a target. If you weren't mine, you'd be someone elses, correct?
+M	KROSS	Yes.
+M	EDWARD	If you had a... reprieve, what would do?
+F	STUCKEY	I don't think there's any sense in --
+M	EDWARD	Let him answer.
+M	KROSS	I... I would take advantage of it.
+M	EDWARD	How?
+M	KROSS	I... I don't know. There... there wasn't time...
+M	EDWARD	I suppose you'd find out soon enough that you have assets you presently don't seem aware of, wouldn't you? The waste processing licenses at that abandoned shipyard of yours, you'd certainly find out about that.
+F	STUCKEY	Oh, my god... Edward, no!
+M	EDWARD	I suppose you'd use them as collateral on new loans, wouldn't you?
+F	STUCKEY	Have you lost your mind?
+M	KROSS	Quiet. Would I get the loans?
+M	EDWARD	This time I imagine you would, yes. Hmm... With all this in mind, Mr. Kross, I can't logically make a formal bid on your company, can I?
+M	KROSS	You'd be initiating a financial battle you'd ultimately lose, Mr. Harris.
+M	EDWARD	You're very right. I think the best thing we could all do is go home.
+F	STUCKEY	What!?
+M	EDWARD	Have a good day, gentlemen.
+F	STUCKEY	Edward, what happened? What kind of move was that?
+F	STUCKEY	Dammit Edward, speak to me.
+M	EDWARD	No... take the car back to the hotel. I need to walk.
+F	STUCKEY	Well, well... Hello again. I'm looking for Edward.
+F	VIVIAN	Edward's not back. I thought he was with you.
+F	STUCKEY	No, I'll just have to wait then, won't I? Mind if I have a drink?
+F	VIVIAN	No.
+F	STUCKEY	Do you want to know what he did? Do you want to know what the crazy son of a bitch did? He handed the whole thing back to Kross! On a silver platter. For no reason! What was he thinking, I mean, what was going through his goddam head? Why? What was all that benevolent crap? What are we going to become, a philanthropic foundation? I'll probably be the director of several worthwhile charities.
+F	VIVIAN	I think it's great.
+F	STUCKEY	I bet. A lousy whore and you're the gum in a hundred million dollar deal.
+F	VIVIAN	Aw, come on, Bill. It's just business.
+F	STUCKEY	But what do I know, maybe you're worth it. Come on, show me. Let's see your act.
+F	VIVIAN	Get out!
+F	STUCKEY	Don't worry. I'll pay for it. What a you charge? Huh? Twenty, thirty, fifty bucks, maybe? Are you a fifty dollar whore?
+F	VIVIAN	Are you crazy?
+F	STUCKEY	You got a mean streak in you, don't you. Is that what he likes about you? Huh? Answer me!
+F	STUCKEY	You broke my nose.
+M	EDWARD	I think I broke my hand. You're fired.
+F	STUCKEY	Edward, we've been together ten years.
+M	EDWARD	And I don't like what we've become. I'll cover any losses you have on this one. Now get out, you asshole!
+F	STUCKEY	All this because of that whore!
+M	EDWARD	Yes.
+F	STUCKEY	Edward, think about what you're Edward slams the door in his face. Edward stands there,
+M	EDWARD	Well, I didn't plan that!
+F	VIVIAN	Why do guys always know how to hit a woman? Right across the cheek, wham, so it feels like your eye is gonna explode. What do they do, take you all aside in high school and show you how? It pisses me off!
+M	EDWARD	Not all men hit. And no one is going to hit you anymore.
+F	VIVIAN	Right. You're quite the Sir Galahad today, aren't ya'? I heard what you did with Kross.
+M	EDWARD	It was a business decision.
+M	EDWARD	I got tired of hating my father.
+F	VIVIAN	It was good.
+M	EDWARD	It felt good.
+M	EDWARD	You're packing.
+F	VIVIAN	I'm leaving. Don't ya see? If I stay with you like you want me to, there'll always be some guy, your friends eve, treatin' me like that... thinkin' they're allowed to. What are you gonna do, fight'm all? No. I'll take my money now, please.
+F	VIVIAN	Aw, don't... no...
+M	EDWARD	Stay with me tonight. Not because you're being paid to. Stay with me because you want to.
+F	VIVIAN	I do. I do want to. That's why I'm leaving. That's what you given me, see? I know what I want now. I want a guy like you for real. Not because you buy me things and give me money. The nicest thing you ever done for me is hold my hand. You gonna give me that?
+F	VIVIAN	I didn't think so.
+M	EDWARD	Vivian...
+F	VIVIAN	It's not your fault. You're right. Kit's right. But I want the fairy tale.
+M	BELLMAN	Let me take those, miss.
+F	VIVIAN	Thanks.
+F	VIVIAN	I'll be out front in a minute. I got a cab comin'.
+F	VIVIAN	Hi, Barney!
+M	MR. THOMAS	Miss Vivian.
+F	VIVIAN	Look I just wanted to say goodbye.
+M	MR. THOMAS	Mr. Harris doesn't check out until tomorrow.
+F	VIVIAN	Yeah, well, I check out today.
+M	MR. THOMAS	You're not accompanying him to New York?
+F	VIVIAN	Come on, Barney, you and me live in the real world. You don't know how to treat a girl like anything but a lady, Mr. Thomas.
+M	MR. THOMAS	Certain ladies make that very easy... Vivian. John, call a limousine for our guest, please. Have it take her anywhere she wishes to go. Bill the hotel. See you again sometime soon.
+M	DRIVER	You're sure this is the right street, ma'am?
+F	VIVIAN	Yes. 1312. It's a big apartment building.
+M	LIMO DRIVER	Maybe I should go with you. This doesn't look like a good place for a lady to be alone.
+F	VIVIAN	I'll be okay. I'm home. Thank you.
+M	LANDLORD	Hey, we announce guests here. You a relative of somebody? Viv -- is that you?
+F	VIVIAN	Yeah, it's me.
+M	LANDLORD	You lookin' good, Viv'. Nice threads. I gotta find time to shop.
+M	BELLMAN	Is that everything, sir?
+M	EDWARD	That's everything.
+M	MAID	The lady, she go?
+M	EDWARD	Yes. She go.
+M	BELLHOP	Do you have a car taking you to the airport, sir?
+M	EDWARD	Yes.
+F	KIT	So whatta' you going to do in San Francisco?
+F	VIVIAN	Get a job and probably go back to school. Figure out what I'm gonna be.
+F	KIT	What kind of school?
+F	VIVIAN	School, school. Regular. I used to get pretty good grades in school, you know.
+F	KIT	So did I. I made it with the principal. Study hard And get a "B." Lift your dress and an "A" you'll see.
+F	VIVIAN	Want a pair of boots?
+F	KIT	Do I!? Momma!
+F	VIVIAN	You sure you won't come with me?
+F	KIT	And leave all this? Not in a million. What time's your bus?
+F	VIVIAN	Couple a hours.
+F	KIT	Yeah. Well... I gotta split. Goodbye's make me crazy.
+F	VIVIAN	Cool your jets a second. Here's some money.
+F	KIT	No. You took care of rent, that's enough.
+F	VIVIAN	I want to. For food, got it? Eat something before the wind blows you away.
+F	KIT	I'm gonna pay you back next time I see ya, babe. Just wait, I'm gonna do something real nice for you some day. Shit, I'm gettin' all weepy now. Take care of you, okay? Take care of you. Love ya...
+F	KIT	Coffee, Chan. And maybe a grilled cheese on white, okay?
+F	KIT	Hey, how you doin'. You new, huh?
+M	GIRL	Yeah. Got a cigarette?
+F	KIT	Sure.
+M	GIRL	Jeez, did the wacko in the suit.
+F	KIT	Chan? Keep the sandwich warm, I'll be back.
+M	EDWARD	I'm looking for a girl, Vivian, young, dark hair, big eyes...?
+M	EDWARD	She's mouthy. Sort of difficult...?
+M	PROSTITUTE 1	Ain't seen her, wouldn't know her.
+M	PROSTITUTE 2	What's wrong with us, man? Two for the price a one, what ya say?
+M	EDWARD	Thank you. No.
+M	KIT (O.S.)	Edward Harris, as I live and breathe! Yeah. Boy, you're just like she said. You comin' or not? I don't got all day, I got a grilled cheese waitin'.
+F	VIVIAN	You are really lost this time.

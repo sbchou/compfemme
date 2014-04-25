@@ -1,0 +1,606 @@
+M	CHARACTER	DIALOGUE
+M	SHUTTLE CAPTAIN	Command station, this is ST 321. Code Clearance Blue. We're starting our approach. Deactivate the security shield.
+M	DEATH STAR CONTROLLER	The security deflector shield will be deactivated when we have confirmation of your code transmission. Stand by... You are clear to proceed.
+M	SHUTTLE CAPTAIN	We're starting our approach.
+M	OFFICER	Inform the commander that Lord Vader's shuttle has arrived.
+M	OPERATOR	Yes, sir.
+M	JERJERROD	Lord Vader, this is an unexpected pleasure. We're honored by your presence.
+M	VADER	You may dispense with the pleasantries, Commander. I'm here to put you back on schedule.
+M	JERJERROD	I assure you, Lord Vader, my men are working as fast as they can.
+M	VADER	Perhaps I can find new ways to motivate them.
+M	JERJERROD	I tell you, this station will be operational as planned.
+M	VADER	The Emperor does not share your optimistic appraisal of the situation.
+M	JERJERROD	But he asks the impossible. I need more men.
+M	VADER	Then perhaps you can tell him when he arrives. The Emperor's coming here?
+M	VADER	That is correct, Commander. And he is most displeased with your apparent lack of progress.
+M	JERJERROD	We shall double our efforts.
+M	VADER	I hope so, Commander, for your sake. The Emperor is not as forgiving as I am.
+M	THREEPIO	Of course I'm worried. And you should be, too. Lando Calrissian and poor Chewbacca never returned from this awful place.
+M	THREEPIO	Don't be so sure. If I told you half the things I've heard about this Jabba the Hutt, You'd probably short-circuit.
+M	THREEPIO	Artoo, are you sure this is the right place? I better knock, I suppose. There doesn't seem to be anyone there. Let's go back and tell Master Luke.
+M	STRANGE VOICE	Tee chuta hhat yudd!
+M	THREEPIO	Goodness gracious me!
+M	THREEPIO	Artoo Detoowha bo Seethreepiowha ey toota odd mischka Jabba du Hutt.
+M	THREEPIO	I don't think they're going to let us in, Artoo. We'd better go.
+M	THREEPIO	Artoo, wait. Oh, dear! Artoo. Artoo, I really don't think we should rush into all this.
+M	THREEPIO	Oh, Artoo! Artoo, wait for me!
+M	THREEPIO	Just you deliver Master Luke's message and get us out of here. Oh my! Oh! Oh, no.
+M	BIB	Die Wanna Wanga!
+M	THREEPIO	Oh, my! Die Wanna Wauaga. We -- we bring a message to your master, Jabba the Hutt. ... and a gift. Gift, what gift?
+M	BIB	Nee Jabba no badda. Me chaade su goodie.
+M	THREEPIO	He says that our instructions are to give it only to Jabba himself.
+M	THREEPIO	I'm terribly sorry. I'm afraid he's ever so stubborn about these sort of things.
+M	BIB	Nudd Chaa.
+M	THREEPIO	Artoo, I have a bad feeling about this.
+M	THREEPIO	Good morning.
+M	JABBA	Bo Shuda!
+M	THREEPIO	The message, Artoo, the message.
+M	LUKE	Greetings, Exalted One. Allow me to introduce myself. I am Luke Skywalker, Jedi Knight and friend to Captain Solo. I know that you are powerful, mighty Jabba, and that your anger with Solo must be equally powerful. I seek an audience with Your Greatness to bargain for Solo's life. (Jabba's crowd laughs) With your wisdom, I'm sure that we can work out an arrangement which will be mutually beneficial and enable us to avoid any unpleasant confrontation. As a token of my goodwill, I present to you a gift: these two droids.
+M	THREEPIO	What did he say? ... Both are hardworking and will serve you well.
+M	THREEPIO	This can't be! Artoo, you're playing the wrong message. There will be no bargain.
+M	THREEPIO	We're doomed. I will not give up my favorite decoration. I like Captain Solo where he is.
+M	THREEPIO	Artoo, look! Captain Solo. And he's still frozen in carbonite.
+M	THREEPIO	What could possibly have come over Master Luke. Is it something I did? He never expressed any unhappiness with my work. Oh! Oh! Hold it! Ohh!
+M	NINEDENINE	Ah, good. New acquisitions. You are a protocol droid, are you not?
+M	THREEPIO	I am See-Threepio, human-cy...
+M	NINEDENINE	Yes or no will do.
+M	THREEPIO	Oh. Well, yes.
+M	NINEDENINE	How many languages do you speak?
+M	THREEPIO	I am fluent in over six million forms of communication, and can readily...
+M	NINEDENINE	Splendid! We have been without an interpreter since our master got angry with our last protocol droid and disintegrated him.
+M	THREEPIO	Disintegrated?
+M	NINEDENINE (to a Gamorrean guard)	Guard! This protocol droid might be useful. Fit him with a restraining bolt and take him back to His Excellency's main audience chamber. Artoo, don't leave me! Ohhh!
+M	NINEDENINE	You're a feisty little one, but you'll soon learn some respect. I have need for you on the master's Sail Barge. And I think you'll fit in nicely.
+M	JABBA	Da Eitha!
+F	OOLA	Na Chuba negatorie Na! Na! Natoota...
+M	JABBA	Boscka!
+M	BOUSHH (in Ubese subtitled)	I have come for the bounty on this Wookiee.
+M	THREEPIO	Oh, no! Chewbacca! At last we have the mighty Chewbacca.
+M	THREEPIO	Oh, uh, yes, uh, I am here, Your Worshipfulness. Uh... yes!
+M	THREEPIO	Oh. The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty- five thousand.
+M	BOUSHH (in Ubese subtitled)	I want fifty thousand. No less.
+M	THREEPIO	Uh, oh... but what, what did I say? Uh, the mighty Jabba asks why he must pay fifty thousand.
+M	THREEPIO	Because he's holding a thermal detonator. This bounty hunter is my kind of scum. Fearless and inventive.
+M	THREEPIO	Jabba offers the sum of thirty-five. And I suggest you take it.
+M	BOUSHH	Zeebuss.
+M	THREEPIO	He agrees!
+M	BOUSHH	Just relax for a moment. You're free of the carbonite.
+M	BOUSHH	Shhh. You have hibernation sickness.
+M	HAN	I can't see.
+M	BOUSHH	You eyesight will return in time.
+M	HAN	Where am I?
+M	BOUSHH	Jabba's palace.
+M	HAN	Who are you?
+F	LEIA	Someone who loves you.
+M	HAN	Leia!
+F	LEIA	I gotta get you out of here.
+M	HAN	What's that? I know that laugh.
+M	HAN	Hey, Jabba. Look, Jabba, I was just on my way to pay you back, but I got a little sidetracked. It's not my fault. It's too late for that, Solo. You may have been a good smuggler, but now you're Bantha fodder.
+M	HAN	Look... Take him away!
+M	HAN	Jabba... I'll pay you triple! You're throwing away a fortune here. Don't be a fool! Bring her to me.
+F	LEIA	We have powerful friends. You're gonna regret this... I'm sure.
+F	LEIA	Ugh!
+M	THREEPIO	Ohhh, I can't bear to watch.
+M	HAN	Chewie? Chewie, is that you?
+M	HAN	Ah! Chew--Chewie!
+M	HAN	Wait. I can't see, pal. What's goin' on?
+M	HAN	Luke? Luke's crazy. He can't even take care of himself, much less rescue anybody.
+M	HAN	A...Jedi Knight? I--I'm out of it for a little while, everybody gets delusions of grandeur.
+M	HAN	I'm all right, pal. I'm all right.
+M	LUKE	I must speak with Jabba.
+M	LUKE	You will take me to Jabba now!
+M	LUKE	You serve your master well.
+M	LUKE	And you will be rewarded.
+M	THREEPIO	At last! Master Luke's come to rescue me.
+M	BIB	Master.
+M	BIB	...Luke Skywalker, Jedi Knight.
+M	JABBA (in Huttese subtitled)	I told you not to admit him.
+M	LUKE	I must be allowed to speak. He must be allowed to speak.
+M	JABBA (in Huttese subtitled)	You weak-minded fool! He's using an old Jedi mind trick.
+M	LUKE	You will bring Captain Solo and the Wookiee to me. Your mind powers will not work on me, boy.
+M	LUKE	Nevertheless, I'm taking Captain Solo and his friends. You can either profit by this... or be destroyed! It's your choice. But I warn you not to underestimate my powers.
+M	THREEPIO	Master Luke, you're standing on...
+M	JABBA (in Huttese subtitled)	There will be no bargain, young Jedi. I shall enjoy watching you die.
+M	JABBA	Bascka!
+M	THREEPIO	Oh, no! The Rancor!
+M	JABBA (in Huttese subtitled)	Bring me Solo and the Wookiee. They will all suffer for this outrage.
+M	LUKE	Han!
+M	HAN	Luke!
+M	LUKE	Are you all right?
+M	HAN	Fine. Together again, huh?
+M	LUKE	Wouldn't miss it.
+M	HAN	How are we doing?
+M	LUKE	The same as always.
+M	HAN	That bad, huh? Where's Leia?
+F	LEIA	I'm here.
+M	THREEPIO	Oh, dear. His High Exaltedness, the great Jabba the Hutt, has decreed that you are to be terminated immediately.
+M	HAN	Good, I hate long waits.
+M	THREEPIO	You will therefore be taken to the Dune Sea and cast into the pit of Carkoon, the nesting place of the all-powerful Sarlacc. Doesn't sound so bad.
+M	THREEPIO	In his belly, you will find a new definition of pain and suffering, as you are slowly digested over a thousand years.
+M	HAN	On second thought, let's pass on that, huh?
+M	LUKE	You should have bargained, Jabba. That's the last mistake you'll ever make.
+M	HAN	I think my eyes are getting better. Instead of a big dark blur, I see a big light blur.
+M	LUKE	There's nothing to see. I used to live here, you know.
+M	HAN	You're gonna die here, you know. Convenient.
+M	LUKE	Just stick close to Chewie and Lando. I've taken care of everything.
+M	HAN	Oh... great!
+M	JABBA (in Huttese subtitled)	Soon you will learn to appreciate me.
+M	THREEPIO	Oh, I'm terribly sor... Artoo! What are you doing here?
+M	THREEPIO	Well, I can see you're serving drinks, but this place is dangerous. They're going to execute Master Luke and, if we're not careful, us too!
+M	THREEPIO	Hmm. I wish I had your confidence.
+M	THREEPIO	Victims of the almighty Sarlacc: His Excellency hopes that you will die honorably. But should any of you wish to beg for mercy, the great Jabba the Hutt will now listen to your pleas.
+M	HAN	Threepio, you tell that slimy piece of... worm-ridden filth he'll get no such pleasure from us. Right?
+M	LUKE	Jabba! This is your last chance. Free us or die. Move him into position.
+M	JABBA (in Huttese subtitled)	Put him in.
+M	LUKE	Easy, Chewie.
+M	LANDO	Whoa! Whoa! Help!
+M	HAN	Chewie, you okay? Where is he?
+M	HAN	I'm okay, pal.
+M	LANDO	Han! Chewie?
+M	HAN	Lando!
+M	HAN	Boba Fett?! Boba Fett?! Where?
+M	HAN	Lando, grab it!
+M	LANDO	Lower it!
+M	HAN	I'm trying!
+M	HAN	Whoa! Whoa! Grab me, Chewie! I'm slipping.
+M	HAN	Grab it! L--Lando. Grab!
+M	HAN	Grab it! Almost... You almost got it!
+M	LANDO	Hold it! Whoa!
+M	HAN	Gently now. All... all right. Now easy, easy. Hold me, Chewie.
+M	HAN	Chewie! Chewie, give me the gun. Don't move, Lando.
+M	LANDO	No, wait! I thought you were blind!
+M	HAN	It's all right. Trust me. Don't move.
+M	LANDO	All right! A little higher! Just a little higher!
+M	HAN	Chewie, Pull us up! Come on! Okay... up, Chewie, up!
+F	LEIA	Come on. We gotta get out of here quick.
+M	THREEPIO	Not my eyes! Artoo, help! Quickly, Artoo. Oh! Ohhh! You beast! Get the gun! Point it at the deck!
+M	LUKE	Point it at the deck!
+M	THREEPIO	Artoo, where are we going? I couldn't possibly jump.
+M	LUKE	Come on!
+M	LUKE	Let's go! And don't forget the droids.
+M	LANDO	We're on our way.
+M	HAN	I don't know. All I can see is a lot of blowing sand!
+F	LEIA	That's all any of us can see.
+M	HAN (blinking)	Then I guess I'm getting better. I've got to hand it to you, kid, you were pretty good out there. I had a lot of help. Think nothing of it.
+M	HAN	No, I'm thinking a lot about it. That carbon freeze was the closest thing to dead there is. And it wasn't just sleepin'. It was a big wide awake nothing! I'll see you back at the fleet.
+M	HAN	Why don't you leave that crate and come with us?
+M	LUKE	I have a promise I have to keep first... to an old friend.
+M	HAN	Guess I owe you some thanks, too, Lando.
+M	LANDO	Figured if I left you frozen like that you'd just give me bad luck the rest of my life, so I might as well get you unfrozen sooner or later.
+F	LEIA	He means "You're welcome."
+M	LANDO	Come on, let's get off this miserable dust ball.
+M	LUKE	I'll meet you back at the fleet.
+M	LEIA (over comlink)	Hurry. The Alliance should be assembled by now.
+M	LUKE	I will.
+M	HAN (over comlink)	Hey, Luke, thanks. Thanks for comin' after me. Now I owe you one.
+M	LUKE	That's right, Artoo. We're going to the Dagobah system. I have a Rise, my friend.
+M	VADER	The Death Star will be completed on schedule.
+M	EMPEROR	You have done well, Lord Vader. And now I sense you wish to continue your search for young Skywalker.
+M	VADER	Yes, my Master.
+M	EMPEROR	Patience, my friend. In time he will seek you out. And when he does, you must bring him before me. He has grown strong. Only together can we turn him to the dark side of the Force.
+M	VADER	As you wish.
+M	EMPEROR	Everything is proceeding as I have foreseen.
+M	YODA	Hmm. That face you make. Look I so old to young eyes?
+M	LUKE	No... of course not. I do, yes, I do! Sick have I become. Old and weak. (Points a crooked finger) When nine hundred years old you reach, look as good you will not. Hmm?
+M	YODA	Soon will I rest. Yes, forever sleep. Earned it, I have.
+M	LUKE	Master Yoda, you can't die.
+M	YODA	Strong am I with the Force... but not that strong! Twilight is upon me and soon night must fall. That is the way of things ... the way of the Force.
+M	LUKE	But I need your help. I've come back to complete the training.
+M	YODA	No more training do you require. Already know you that which you need.
+M	LUKE	Then I am a Jedi? Ohhh. Not yet. One thing remains: Vader. You must confront Vader. Then, only then, a Jedi will you be. And confront him you will.
+M	LUKE	Master Yoda... is Darth Vader my father?
+M	YODA	Mmm... rest I need. Yes... rest.
+M	LUKE	Yoda, I must know.
+M	YODA	Your father he is.
+M	YODA	Told you, did he?
+M	LUKE	Yes.
+M	YODA	Unexpected this is, and unfortunate...
+M	LUKE	Unfortunate that I know the truth? No. Unfortunate that you rushed to face him... that incomplete was your training. Not ready for the burden were you.
+M	LUKE	Well, I'm sorry.
+M	YODA	Remember, a Jedi's strength flows from the Force. But beware. Anger, fear, aggression. The dark side are they. Once you start down the dark path, forever will it dominate your destiny.
+M	YODA	Luke...Luke...Do not...Do not underestimate the powers of the Emperor, or suffer your father's fate, you will. Luke, when gone am I (cough), the last of the Jedi will you be. Luke, the Force runs strong in your family. Pass on what you have learned, Luke... (with great effort) There is... another...Sky...Sky...walker.
+M	LUKE	I can't do it, Artoo. I can't go on alone.
+M	BEN (OS)	Yoda will always be with you.
+M	LUKE	Obi-Wan! Why didn't you tell me?
+M	LUKE	You told me Vader betrayed and murdered my father.
+M	BEN	You father was seduced by the dark side of the Force. He ceased to be Anakin Skywalker and became Darth Vader. When that happened, the good man who was your father was destroyed. So what I have told you was true... from a certain point of view. A certain point of view!
+M	BEN	Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view.
+M	BEN	I don't blame you for being angry. If I was wrong in what I did, it certainly wouldn't have been for the first time. You see, what happened to your father was my fault.
+M	BEN	Anakin was a good friend.
+M	BEN	When I first knew him, your father was already a great pilot. But I was amazed how strongly the Force was with him. I took it upon myself to train him as a Jedi. I thought that I could instruct him just as well as Yoda. I was wrong. My pride has had terrible consequences for the galaxy.
+M	LUKE	There's still good in him.
+M	BEN	I also thought he could be turned back to the good side. It couldn't be done. He is more machine now than man. Twisted and evil.
+M	LUKE	I can't do it, Ben.
+M	BEN	You cannot escape your destiny.
+M	LUKE	I tried to stop him once. I couldn't do it.
+M	BEN	Vader humbled you when first you met him, Luke...but that experience was part of your training. It taught you, among other things, the value of patience. Had you not been so impatient to defeat Vader then, you could have finished your training here with Yoda. You would have been prepared.
+M	LUKE	But I had to help my friends. And did you help them? It was they who had to save you. You achieved little by rushing back prematurely, I fear. I found out Darth Vader was my father.
+M	BEN	To be a Jedi, Luke, you must confront and then go beyond the dark side - the side your father couldn't get past. Impatience is the easiest door - for you, like your father. Only, your father was seduced by what he found on the other side of the door, and you have held firm. You're no longer so reckless now, Luke. You are strong and patient. And now, you must face Darth Vader again!
+M	LUKE	I can't kill my own father.
+M	BEN	Then the Emperor has already won. You were our only hope.
+M	LUKE	Yoda spoke of another.
+M	BEN	The other he spoke of is your twin sister.
+M	LUKE	But I have no sister.
+M	BEN	Hmm. To protect you both from the Emperor, you were hidden from your father when you were born. The Emperor knew, as I did, if Anakin were to have any offspring, they would be a threat to him. That is the reason why your sister remains safely anonymous.
+M	LUKE	Leia! Leia's my sister.
+M	BEN	Your insight serves you well. Bury your feelings deep down, Luke. They do you credit. But they could be made to serve the Emperor. When your father left, he didn't know your mother was pregnant. Your mother and I knew he would find out eventually, but we wanted to keep you both as safe as possible, for as long as possible. So I took you to live with my brother Owen on Tatooine... and your mother took Leia to live as the daughter of Senator Organa, on Alderaan. politically quite powerful in that system. Leia became a princess by virtue of lineage... no one knew she'd been adopted, of course. But it was a title without real power, since Alderaan had long been a democracy. Even so, the family continued to be politically powerful, and Leia, following in her foster father's path, became a senator as well. That's not all she became, of course... she became the leader of her cell in the Alliance against the corrupt Empire. And because she had diplomatic immunity, she was a vital link for getting information to the Rebel cause. That's what she was doing when her path crossed yours... for her foster parents had always told her to contact me on Tatooine, if her troubles became desperate.
+M	LUKE	But you can't let her get involved now, Ben. Vader will destroy her.
+M	BEN	She hasn't been trained in the ways of the Jedi the way you have, Luke ... but the Force is strong with her, as it is with all of your family. There is no avoiding the battle. You must face and destroy Vader!
+M	HAN	Well, look at you, a general, huh?
+M	LANDO	Oh, well, someone must have told them about my little maneuver at the battle of Taanab. Well, don't look at me, pal. I just said you were a fair pilot. I didn't know they were lookin' for somebody to lead this crazy attack. I'm surprised they didn't ask you to do it.
+M	HAN	Well, who says they didn't. But I ain't crazy. You're the respectable one, remember?
+M	MON MOTHMA	The Emperor has made a critical error and the time for our attack has come.
+M	MON MOTHMA	The data brought to us by the Bothan spies pinpoints the exact location of the Emperor's new battle station. We also know that the weapon systems of this Death Star are not yet operational. With the Imperial Fleet spread throughout the galaxy in a vain effort to engage us, it is relatively unprotected. But most important of all, we've learned that the Emperor himself is personally overseeing the final stages of the construction of this Death Star. Many Bothans died to bring us this information. Admiral Ackbar, please.
+M	ACKBAR	You can see here the Death Star orbiting the forest Moon of Endor. Although the weapon systems on this Death Star are not yet operational, the Death Star does have a strong defense mechanism. It is protected by an energy shield, which is generated from the nearby forest Moon of Endor. The shield must be deactivated if any attack is to be attempted. Once the shield is down, our cruisers will create a perimeter, while the fighters fly into the superstructure and attempt to knock out the main reactor. General Calrissian has volunteered to lead the fighter attack
+M	HAN	Good luck. You're gonna need it.
+M	ACKBAR	General Madine.
+M	GENERAL MADINE	We have stolen a small Imperial shuttle. Disguised as a cargo ship, and using a secret Imperial code, a strike team will land on the moon and deactivate the shield generator.
+M	THREEPIO	Sounds dangerous. I wonder who they found to pull that off.
+M	GENERAL MADINE	General Solo, is your strike team assembled?
+M	HAN	Uh, my team's ready. I don't have a command crew for the shuttle.
+M	HAN	Well, it's gonna be rough, pal. I didn't want to speak for you.
+M	HAN (smiles)	That's one.
+F	LEIA	Uh, General... count me in. I'm with you, too!
+F	LEIA	What is it? Ask me again sometime.
+M	HAN	Luke.
+M	LUKE	Hi, Han... Chewie.
+M	THREEPIO	"Exciting" is hardly the word I would use.
+M	HAN	Look. I want you to take her. I mean it. Take her. You need all the help you can get. She's the fastest ship in the fleet.
+M	LANDO	All right, old buddy. You know, I know what she means to you. I'll take good care of her. She-she won't get a scratch. All right? Right. I got your promise now. Not a scratch.
+M	LANDO	Look, would you get going, you pirate.
+M	LANDO	Good luck.
+M	HAN	You, too.
+M	HAN	You got her warmed?
+M	LUKE	Yeah, she's comin' up.
+M	HAN	No. I don't think the Empire had Wookiees in mind when they designed her, Chewie.
+F	LEIA	Hey, are you awake?
+M	HAN	Yeah, I just got a funny feeling. Like I'm not gonna see her again.
+M	LEIA (softly)	Come on, General, let's move.
+M	HAN	Right. Chewie, let's see what this piece of junk can do. Ready, everybody?
+M	LUKE	All set.
+M	THREEPIO	Here we go again.
+M	HAN	All right, hang on.
+M	VADER	What is thy bidding, my Master?
+M	EMPEROR	Send the fleet to the far side of Endor. There it will stay until called for.
+M	VADER	What of the reports of the Rebel fleet massing near Sullust?
+M	EMPEROR	It is of no concern. Soon the Rebellion will be crushed and young Skywalker will be one of us! Your work here is finished, my friend. Go out to the command ship and await my orders.
+M	VADER	Yes, my Master.
+M	HAN	If they don't go for this, we're gonna have to get outta here pretty quick, Chewie. We have you on our screen now. Please identify.
+M	HAN	Shuttle Tydirium requesting deactivation of the deflector shield. Shuttle Tydirium, transmit the clearance code for shield passage.
+M	HAN	Transmission commencing.
+F	LEIA	Now we find out if that code is worth the price we paid.
+M	HAN	It'll work. It'll work.
+M	LUKE	Vader's on that ship.
+M	HAN	Now don't get jittery, Luke. There are a lot of command ships. Keep your distance though, Chewie, but don't look like you're trying to keep your distance.
+M	HAN	I don't know. Fly casual.
+M	LUKE	I'm endangering the mission. I shouldn't have come.
+M	HAN	It's your imagination, kid. Come on. Let's keep a little optimism here.
+M	VADER	Where is that shuttle going? Shuttle Tydirium, what is your cargo and destination? Parts and technical crew for the forest moon.
+M	VADER	Do they have a code clearance?
+M	PIETT	It's an older code, sir, but it checks out. I was about to clear them.
+M	PIETT	Shall I hold them?
+M	VADER	No. Leave them to me. I will deal with them myself. As you wish, my lord. (to controller) Carry on.
+M	HAN	They're not goin' for it, Chewie. Shuttle Tydirium, deactivation of the shield will commence immediately. Follow your present course.
+M	HAN	Okay! I told you it was gonna work. No problem.
+M	THREEPIO	Oh, I told you it was dangerous here.
+F	LEIA	Shall we try and go around?
+M	HAN	It'll take time. This whole party'll be for nothing if they see us.
+M	HAN	Chewie and I will take care of this. You stay here.
+M	LUKE	Quietly, there might be more of them out there. Hey... it's me.
+M	SCOUT #1	Go for help! Go! Great. Come on.
+F	LEIA	Over there! Two more of them!
+M	LUKE	I see them. Wait, Leia! Quick! Jam their comlink. Center switch!
+M	HAN	Hey, wait! Ahhh!
+M	LUKE	Move closer!
+M	LUKE	Get alongside that one!
+M	LUKE	Get him! Keep on that one! I'll take these two!
+M	THREEPIO	Oh, General Solo, somebody's coming. Oh!
+M	HAN	Luke! Where's Leia? What? She didn't come back?
+M	HAN	I thought she was with you.
+M	LUKE	We got separated.
+M	LUKE	Hey, we better go look for her.
+M	HAN	Take the squad ahead. We'll meet at the shield generator at 0300.
+M	LUKE	Come on, Artoo. We'll need your scanners.
+M	THREEPIO	Don't worry, Master Luke. We know what to do. And you said it was pretty here. Ugh!
+F	LEIA	Cut it out!
+F	LEIA	I'm not gonna hurt you.
+F	LEIA	Well, looks like I'm stuck here. Trouble is, I don't know where here is.
+F	LEIA	Well, maybe you can help me. Come on, sit down.
+F	LEIA	I promise I won't hurt you. Now come here.
+F	LEIA	All right. You want something to eat?
+F	LEIA	That's right. Come on. Hmmm?
+F	LEIA	Look, it's a hat. It's not gonna hurt you. Look. You're a jittery little thing, aren't you?
+F	LEIA	What is it?
+M	SCOUT #l	Freeze! Come on, get up!
+M	SCOUT #1	Go get your ride and take her back to base.
+M	SCOUT #2	Yes, sir.
+F	LEIA	Come on, let's get outta here.
+M	GUARD	Halt! The Emperor does not wish to be disturbed at the moment.
+M	VADER	The Emperor will see me, now!
+M	GUARD	The Emperor will see you, now.
+M	EMPEROR	I told you to remain on the command ship.
+M	VADER	A small Rebel force has penetrated the shield and landed on Endor. Yes, I know. My son is with them. Are you sure?
+M	VADER	I have felt him, my Master.
+M	EMPEROR	Strange, that I have not. I wonder if your feelings on this matter are clear, Lord Vader.
+M	VADER	They are clear, my Master.
+M	EMPEROR	Then you must go to the Sanctuary Moon and wait for them. He will come to me?
+M	EMPEROR	I have foreseen it. His compassion for you will be his undoing. He will come to you and then you will bring him before me. As you wish.
+M	HAN (OS)	Luke! Luke!
+M	THREEPIO	Oh, Master Luke.
+M	LUKE	There's two more wrecked speeders back there. And I found this.
+M	THREEPIO	I'm afraid that Artoo's sensors can find no trace of Princess Leia. I hope she's alright.
+M	HAN	What, Chewie? What? Chewie!
+M	HAN	Hey, I don't get it.
+M	HAN (cont)	Nah, it's just a dead animal, Chewie.
+M	LUKE	Chewie, wa-wait! Don't!
+M	HAN	Nice work. Great, Chewie! Great! Always thinking with your stomach.
+M	LUKE	Will you take it easy? Let's just figure out a way to get out of this thing. (trying to free an arm) Han, can you reach my lightsaber?
+M	HAN	Yeah, sure.
+M	THREEPIO	Artoo, I'm not sure that's such a good idea. It's a very long dro-o-op!!
+M	HAN	Wha--? Hey! Point that thing someplace else.
+M	HAN	Hey!
+M	LUKE	Han, don't. It'll be all right.
+M	LUKE	Chewie, give 'em your crossbow.
+M	THREEPIO	Oh, my head. Oh, my goodness!
+M	LUKE	Do you understand anything they're saying?
+M	THREEPIO	Oh, yes, Master Luke! Remember that I am fluent in over six million forms of communication.
+M	HAN	What are you telling them?
+M	THREEPIO	Hello, I think... I could be mistaken. They're using a very primitive dialect. But I do believe they think I am some sort of god.
+M	HAN	Well, why don't you use your divine influence and get us out of this?
+M	THREEPIO	I beg your pardon, General Solo, but that just wouldn't be proper.
+M	HAN	Proper?!
+M	THREEPIO	It's against my programming to impersonate a deity.
+M	HAN	Why, you--
+M	HAN	My mistake. He's an old friend of mine.
+M	HAN	I have a really bad feeling about this.
+M	HAN	What did he say?
+M	THREEPIO	I'm rather embarrassed, General Solo, but it appears you are to be the main course at a banquet in my honor.
+M	HAN and LUKE	Leia!
+F	LEIA	Oh!
+M	THREEPIO	Your Royal Highness.
+F	LEIA	But these are my friends. Threepio, tell them they must be set free.
+M	HAN	Somehow, I got the feeling that didn't help us very much.
+M	LUKE	Threepio, tell them if they don't do as you wish, you'll become angry and use your magic.
+M	THREEPIO	But Master Luke, what magic? couldn't possibly --
+M	LUKE	Just tell them.
+M	THREEPIO	You see, Master Luke; they didn't believe me. Just...
+M	THREEPIO	... as I said they wouldn't. Wha-wha-what's happening! Oh! Oh, dear! Oh!
+M	THREEPIO	Put me down! He-e-elp! Master Luke! Artoo! Somebody, somebody, help! Master Luke, Artoo! Artoo, quickly! Do something, somebody! Oh! Ohhh!
+M	THREEPIO	Oh, oh, oh, oh! Thank goodness.
+M	LUKE	Thanks, Threepio. I...I never knew I had it in me.
+M	THREEPIO	Yes, Artoo. I was just coming to that. present time.
+M	HAN	What's going on?
+F	LEIA	I don't know.
+M	THREEPIO	Wonderful! We are now a part of the tribe.
+M	HAN	Just what I always wanted. Well, short help is better than no help at all, Chewie. (to Wicket) Thank you. Okay.
+M	THREEPIO	He says the scouts are going to show us the quickest way to the shield generator.
+M	HAN	Good. How far is it? Ask him. We need some fresh supplies, too. And try and get our weapons back.
+M	HAN (cont)	And hurry up, will ya? I haven't got all day.
+M	LUKE	Luke, what's wrong?
+M	LUKE	Leia... do you remember your mother? Your real mother?
+F	LEIA	Just a little bit. She died when I was very young.
+M	LUKE	What do you remember?
+F	LEIA	Just...images, really. Feelings.
+M	LUKE	Tell me.
+F	LEIA	She was very beautiful. Kind, but...sad. (looks up) Why are you asking me all this?
+M	LUKE	I have no memory of my mother. I never knew her.
+F	LEIA	Luke, tell me. What's troubling you?
+M	LUKE	Vader is here...now, on this moon. How do you know?
+M	LUKE	I felt his presence. He's come for me. He can feel when I'm near. That's why I have to go. (facing her) As long as I stay, I'm endangering the group and our mission here. (beat) I have to face him.
+F	LEIA	Why?
+M	LUKE	He's my father.
+F	LEIA	Your father?
+M	LUKE	There's more. It won't be easy for you to hear it, but you must. If I don't make it back, you're the only hope for the Alliance.
+F	LEIA	Luke, don't talk that way. You have a power I--I don't understand and could never have.
+M	LUKE	You're wrong, Leia. You have that power too. In time you'll learn to use it as I have. The Force is strong in my family. My father has it...I have it...and...my sister has it.
+M	LUKE	Yes. It's you Leia.
+F	LEIA	I know. Somehow...I've always known.
+M	LUKE	Then you know why I have to face him.
+F	LEIA	No! Luke, run away, far away. If he can feel your presence, then leave this place. I wish I could go with you.
+M	LUKE	No, you don't. You've always been strong.
+F	LEIA	But, why must you confront him?
+M	LUKE	Because...there is good in him. I've felt it. He won't turn me over to the Emperor. I can save him. I can turn him back to the good side. I have to try.
+M	HAN	Hey, what's goin' on?
+F	LEIA	Nothing. I - just want to be alone for a little while. Nothing? Come on, tell me. What's goin' on?
+F	LEIA	I...I can't tell you. Did you tell Luke? Is that who you could tell?
+F	LEIA	I...
+M	HAN	Ahhh...
+M	HAN	I'm sorry.
+F	LEIA	Hold me.
+M	COMMANDER	This is a Rebel that surrendered to us. Although he denies it, I believe there may be more of them, and I request permission to conduct a further search of the area.
+M	COMMANDER	He was armed only with this.
+M	VADER	Good work, Commander. Leave us. Conduct your search and bring his companions to me.
+M	COMMANDER	Yes, my Lord.
+M	VADER	The Emperor has been expecting you.
+M	LUKE	I know, father.
+M	VADER	So, you have accepted the truth.
+M	LURE	I've accepted the truth that you were once Anakin Skywalker, my father. That name no longer has any meaning for me.
+M	LUKE	It is the name of your true self. You've only forgotten. I know there is good in you. The Emperor hasn't driven it from you fully. That is why you couldn't destroy me. That's why you won't bring me to your Emperor now.
+M	VADER (indicating lightsaber)	I see you have constructed a new lightsaber.
+M	VADER	Your skills are complete. Indeed, you are powerful, as the Emperor has foreseen.
+M	LUKE	Come with me.
+M	VADER	Obi-Wan once thought as you do.
+M	VADER	You don't know the power of the dark side. I must obey my master.
+M	LUKE	I will not turn...and you'll be forced to kill me.
+M	VADER	If that is your destiny.
+M	LUKE	Search your feelings, father. You can't do this. I feel the conflict within you. Let go of your hate.
+M	VADER	It is too late for me, son. The Emperor will show you the true nature of the Force. He is your master now.
+M	LUKE	Then my father is truly dead.
+F	LEIA	The main entrance to the control bunker's on the far side of that landing platform. This isn't gonna be easy.
+M	HAN	Hey, don't worry. Chewie and me got into a lot of places more heavily guarded than this.
+F	LEIA	What's he saying?
+M	THREEPIO	He says there's a secret entrance on the other side of the ridge.
+M	LANDO	Admiral, we're in position. All fighters accounted for.
+M	ACKBAR (VO)	Proceed with the countdown. All groups assume attack coordinates.
+M	LANDO	Don't worry, my friends are down there. They'll have that shield down on time...(to himself) or this'll be the shortest offensive of all time.
+M	ACKBAR (VO)	All craft, prepare to jump to hyperspace on my mark.
+M	LANDO	All right. Stand by.
+M	HAN	Back door, huh? Good idea. It's only a few guards. This shouldn't be too much trouble.
+F	LEIA	Well, it only takes one to sound the alarm. Then we'll do it real quiet-like.
+M	THREEPIO	Oh! Oh, my. Uh, Princess Leia!
+F	LEIA	Quiet.
+M	THREEPIO	I'm afraid our furry companion has gone and done something rather rash.
+F	LEIA	Oh, no. There goes our surprise attack.
+M	SCOUT	Look! Over there! Stop him!
+M	HAN	Not bad for a little furball. There's only one left. You stay here. We'll take care of this.
+M	THREEPIO	I have decided that we shall stay here.
+M	EMPEROR	Welcome, young Skywalker. I have been expecting you.
+M	EMPEROR	You no longer need those.
+M	EMPEROR	Guards, leave us. I'm looking forward to completing your training. In time you will call me Master.
+M	LUKE	You're gravely mistaken. You won't convert me as you did my father.
+M	EMPEROR	Oh, no, my young Jedi. You will find that it is you who are mistaken...about a great many things.
+M	VADER	His lightsaber.
+M	EMPEROR	Ah, yes, a Jedi's weapon. Much like your father's. By now you must know your father can never be turned from the dark side. So will it be with you.
+M	LUKE	You're wrong. Soon I'll be dead...and you with me.
+M	EMPEROR	Perhaps you refer to the imminent attack of your Rebel fleet.
+M	EMPEROR	Yes...I assure you we are quite safe from your friends here.
+M	LUKE	Your overconfidence is your weakness.
+M	EMPEROR	Your faith in your friends is yours.
+M	VADER	It is pointless to resist, my son.
+M	EMPEROR (angry)	Everything that has transpired has done so according to my design. (indicates Endor) Your friends up there on the Sanctuary Moon... ...are walking into a trap. As is your Rebel fleet! It was I who allowed the Alliance to know the location of the shield generator. It is quite safe from your pitiful little band. An entire legion of my best troops awaits them.
+M	EMPEROR	Oh...I'm afraid the deflector shield will be quite operational when your friends arrive.
+M	HAN	All right! Up! Move! Come on! Quickly! Quickly, Chewie.
+F	LEIA	Han! Hurry! The fleet will be here any moment.
+M	HAN	Charges! Come on, come on! Oh, my! They'll be captured!
+M	THREEPIO	Wa-wait! Wait, come back! Artoo, stay with me.
+M	COMMANDER	Freeze! You Rebel scum.
+M	LANDO	All wings report in.
+M	WEDGE	Red Leader standing by.
+M	GRAY LEADER	Gray Leader standing by.
+M	GREEN LEADER	Green Leader standing by.
+M	WEDGE	Lock S-foils in attack positions.
+M	ACKBAR	May the Force be with us.
+M	LANDO	We've got to be able to get some kind of a reading on that shield, up or down. Well, how could they be jamming us if they don't know if we're coming.
+M	LANDO	Break off the attack! The shield is still up.
+M	RED LEADER (VO)	I get no reading. Are you sure?
+M	LANDO	Pull up! All craft pull up!
+M	ACKBAR	Take evasive action! Green Group, stick close to holding sector MV-7.
+M	CONTROLLER	Admiral, we have enemy ships in sector 47.
+M	ACKBAR	It's a trap! Fighters coming in.
+M	REBEL PILOT	There's too many of them!
+M	LANDO	Accelerate to attack speed! Draw their fire away from the cruisers.
+M	WEDGE	Copy, Gold Leader.
+M	EMPEROR	Come, boy. See for yourself.
+M	EMPEROR	From here you will witness the final destruction of the Alliance, and the end of your insignificant Rebellion.
+M	EMPEROR	You want this, don't you? The hate is swelling in you now. Take your Jedi weapon. Use it. I am unarmed. Strike me down with it. Give in to your anger. With each passing moment, you make yourself more my servant.
+M	LUKE	No!
+M	EMPEROR	It is unavoidable. It is your destiny. You, like your father, are now mine!
+M	STORMTROOPER	All right, move it! I said move it! Go on!
+M	THREEPIO	Hello! I say, over there! Were you looking for me?
+M	BUNKER COMMANDER	Bring those two down here!
+M	STORMTROOPER	Let's go!
+M	THREEPIO	Well, they're on their way. Artoo, are you sure this was a good idea?
+M	STORMTROOPER	Freeze! Don't move!
+M	THREEPIO	We surrender.
+M	THREEPIO	Ohhh! Stand back, Artoo.
+F	LEIA	The code's changed. We need Artoo!
+M	HAN	Here's the terminal. Artoo, where are you? We need you at the bunker right away.
+M	THREEPIO	Going? What do you mean, you're going. But-- but going where, Artoo? No, what! Artoo! Oh, this is no time for heroics. Come back!
+M	LANDO	Watch yourself, Wedge! Three from above!
+M	WEDGE	Red Three, Red Two, pull in!
+M	RED TWO	Got it!
+M	RED THREE	Three of them coming in, twenty degrees!
+M	NAVIGATOR	Pressure's steady.
+M	LANDO	Only the fighters are attacking. I wonder what those Star Destroyers are waiting for.
+M	COMMANDER	We're in attack position now, sir.
+M	PIETT	Hold here.
+M	COMMANDER	We're not going to attack?
+M	PIETT	I have my orders from the Emperor himself. He has something special planned for them. We only need to keep them from escaping.
+M	EMPEROR	As you can see, my young apprentice, your friends have failed. Now witness the firepower of this fully armed and operational battle station. (into comlink) Fire at will, Commander.
+M	JERJERROD	Fire!
+M	LANDO	That blast came from the Death Star! That thing's operational! (into comlink) Home One, this is Gold Leader.
+M	ACKBAR	We saw it. All craft prepare to retreat.
+M	LANDO	You won't get another chance at this, Admiral.
+M	ACKBAR	We have no choice, General Calrissian. Our cruisers can't repel firepower of that magnitude.
+M	LANDO	Han will have that shield down. We've got to give him more time.
+M	THREEPIO	We're coming!
+M	HAN	Come on! Come on!
+M	THREEPIO	Oh, Artoo, hurry!
+M	THREEPIO	My goodness! Artoo, why did you have to be so brave?
+M	HAN	Well, I suppose I could hotwire this thing.
+F	LEIA	I'll cover you.
+M	LANDO (desperately)	Yes! I said closer! Move as close as you can and engage those Star Destroyers at point- blank range.
+M	ACKBAR	At that close range, we won't last long against those Star Destroyers.
+M	LANDO	We'll last longer then we will against that Death Star...and we might just take a few of them with us.
+M	REBEL PILOT	She's gonna blow!
+M	Y-WING PILOT	I'm hit!
+M	EMPEROR	Your fleet has lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice. The Alliance will die...as will your friends.
+M	EMPEROR	Good. I can feel your anger. I am defenseless. Take your weapon! Strike me down with all your hatred, and your journey towards the dark side will be complete.
+M	WALKER PILOT #1	Look!
+M	PILOT #2	Get him off of there!
+M	HAN	I think I got it. I got it!
+M	THREEPIO	Oh, Princess Leia, are you all right?
+M	HAN	Let's see.
+F	LEIA	It's not bad.
+M	STORMTROOPER (OS)	Freeze!
+M	THREEPIO	Oh, dear.
+M	STORMTROOPER	Don't move!
+M	HAN	I love you.
+F	LEIA	I know.
+M	STORMTROOPER	Hands up! Stand up! Stay back.
+M	HAN	Chewie! Get down here! She's wounded! No, wait.... I got an idea.
+M	EMPEROR (laughing)	Good. Use your aggressive feelings, boy! Let the hate flow through you.
+M	VADER	Obi-Wan has taught you well.
+M	LUKE	I will not fight you, father.
+M	VADER	You are unwise to lower your defenses.
+M	LUKE	Your thoughts betray you, father. I feel the good in you...the conflict.
+M	VADER	There is no conflict.
+M	LUKE	You couldn't bring yourself to kill me before, and I don't believe you'll destroy me now.
+M	VADER	You underestimate the power of the dark side. If you will not fight, then you will meet your destiny.
+M	EMPEROR (laughs)	Good. Good.
+M	LANDO	Watch out. Squad at .06.
+M	REBEL PILOT	I'm on it, Gold Leader.
+M	WEDGE	Good shot, Red Two.
+M	LANDO	Now...come on, Han, old buddy. Don't let me down.
+M	HAN/PILOT (VO)	It's over, Commander. The Rebels have been routed. They're fleeing into the woods. We need reinforcements to continue the pursuit.
+M	CONTROL ROOM COMMANDER	Send three squads to help. Open the back door.
+M	SECOND COMMANDER	Yes, sir.
+M	HAN	Throw me another charge.
+M	VADER	You cannot hide forever, Luke.
+M	LUKE	I will not fight you.
+M	VADER	Give yourself to the dark side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong. Especially for...
+M	VADER	Sister! So...you have a twin sister. Your feelings have now betrayed her, too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the dark side, then perhaps she will.
+M	LUKE	Never-r-r!
+M	EMPEROR	Good! Your hate has made you powerful. Now, fulfill your destiny and take your father's place at my side!
+M	LUKE	Never! I'll never turn to the dark side. You've failed, Your Highness. I am a Jedi, like my father before me.
+M	EMPEROR	So be it...Jedi.
+M	HAN	Move! Move!
+M	ACKBAR	The shield is down! Commence attack on the Death Star's main reactor.
+M	LANDO	We're on our way. Red Group, Gold Group, all fighters follow me. (laughs) Told you they'd do it!
+M	EMPEROR	If you will not be turned, you will be destroyed.
+M	EMPEROR	Young fool...only now, at the end, do you understand.
+M	EMPEROR	Your feeble skills are no match for the power of the dark side. You have paid the price for your lack of vision.
+M	LUKE (groans)	Father, please. Help me.
+M	EMPEROR	Now, young Skywalker...you will die.
+M	WEDGE	I'm going in.
+M	LANDO	Here goes nothing.
+M	LANDO	Now lock onto the strongest power source. It should be the power generator.
+M	WEDGE	Form up. And stay alert. We could run out of space real fast.
+M	LANDO	Split up and head back to the surface. See if you can get a few of those TIE fighters to follow you.
+M	PILOT	Copy, Gold Leader.
+M	LANDO	That was too close.
+M	ACKBAR	We've got to give those fighters more time. Concentrate all fire on that Super Star Destroyer.
+M	CONTROLLER	Sir, we've lost our bridge deflector shield.
+M	PIETT	Intensify the forward batteries. I don't want anything to get through.
+M	PIETT	Intensify forward firepower!
+M	COMMANDER	It's too late!
+M	VADER (a whisper)	Luke, help me take this mask off.
+M	LURE	But you'll die.
+M	VADER	Nothing can stop that now. Just for once... let me look on you with my own eyes. Now...go, my son. Leave me.
+M	LUKE	No. You're coming with me. I can't leave you here. I've got to save you.
+M	ANAKIN	You already have, Luke. You were right about me. Tell your sister...you were right.
+M	LUKE	Father... I won't leave you.
+M	WEDGE	There it is!
+M	LANDO	All right, Wedge. Go for the power regulator on the north tower.
+M	WEDGE	Copy, Gold Leader. I'm already on my way out.
+M	ACKBAR	Move the fleet away from the Death Star.
+M	LANDO (into comlink)	Wedge, I don't think we're going to make it. You'll make it. Just follow me Gold Leader. I promised to return his ship without a scratch...I sure hope that old pirate forgives me. Lando...
+M	THREEPIO	They did it! RICHARD MARQUAND Produced by HOWARD KAZANJIAN Screenplay by LAWRENCE KASDAN and GEORGE LUCAS Story by GEORGE LUCAS Executive Producer GEORGE LUCAS Co-Producers ROBERT WATTS, JIM BLOOM Production Designer NORMAN REYNOLDS Director of Photography ALAN HUME, B.S.C Edited by SEAN BARTON, MARCIA LUCAS, DUWAYNE DUNHAM Visual Effects RICHARD EDLUND, A.S.C, DENNIS MUREN, KEN RALSTON Costume Designers AGGIE GUERARD RODGERS, NILO RODIS-JAMERO Mechanical Effects Supervision KIT WEST Make-Up and Creature Design PHIL TIPPETT, STUART FREEBORN Sound Design BEN BURTT Music by JOHN WILLIAMS Leia CARRIE FISHER Calrissian BILLY DEE WILLIAMS PETER MAYHEW Skywalker SEBASTIAN SHAW IAN McDIARMID FRANK OZ of Darth Vader JAMES EARL JONES Piett KENNETH COLLEY Fortuna MICHAEL CARTER DENIS LAWSON Ackbar TIM ROSE Madine DERMOT CROWLEY Mothma CAROLINE BLAKISTON WARWICK DAVIS KENNY BAKER Fett JEREMY BULLOCH FEMI TAYLOR Snootles ANNIE ARBOGAST Dancer CLAIRE DAVENPORT JACK PURVIS MIKE EDMONDS Chirpa JANE BUSBY Warrior MALCOM DIXON Warrior MIKE COTTRELL NICKI READE Controller No. 1 ADAM BAREHAM Captain No. 2 TOM MANNION DAVID BARCLAY MICHAEL McCORMICK, DEEP ROY, SIMON WILLIAMSON, HUGH SPIRIT, SWIM LEE, MICHAEL QUINN, RICHARD ROBINSON
+M	Set Decorators	MICHAEL FORD, HARRY LANGE Conceptual Artist RALPH McQUARRIE Art Directors FRED HOLE, JAMES SCHOPPE Assistant Art Directors MICHAEL LAMONT, JOHN FENNER, RICHARD DAWKING Assistant Art Decorator SHARON CARTWRIGHT Set Dresser DOUG VON KOSS Assistant Set Dresser CHUCK RAY Constuction Manager BILL WELCH Assistant Construction Manager ALAN BOOTH Construction Supervisor ROGER IRVIN General Foreman BILL IIAMS Construction Foreman GREG CALLAS, GUY CLAUSE, DOUG ELLIOT, STAN WAKASHIGE Laborer Foremen GENE FUKUZAWA, DON JOHNSON Paint Foreman GARY CLARK Standby Painter GIOVANNI FERRARA Sketch Artist ROY CARNON Scenic Artist TED MICHELL Assistant Scenic Artist STEVEN SALLYBANKS Decor and Lettering Artist BOB WALKER, BRIAN SMITH Electronic Graphic Consultant ROB DICKINSON Set Draftsmen REG BREAM, MARK BILLERMAN, CHRIS CAMPELL GEORGE DJURKOVIC, GAVIN BOCQUET, KEVIN PHIPPS Production Buyers DAVID LUSBY, IAN GILADJIAN Constuction Storeman DAVID MIDDLETON Art Department Secretary CAROL REGAN JIM GLENNON Additional Photography JACK LOWIN Operating Cameramen ALEC MILLS, TOM LAUGHRIDGE, MIKE BENSON Focus Puller MICHAEL FRIFT, CHRIS TANNER Assistant Cameramen Leo NAPOLITANO, BOB LA BONGE Second Assistant Cameramen SIMON HUME, STEVE TATE, MARTIN KENZIE, MICHAEL GLENNON Gaffers MIKE PANTAGES, BOB BREMNER Aerial Photography RON GOODMAN, MARGARET HERRON Helicopter Pilot MARK WOLFE Key Grip DICK DOVA SPAH Best Boy JOE CROWLEY Dolly Grip CHUNKY HUSE, REG HALL Matte Photography Consultant STANLEY SAYER, B.S.C. Rigging Gaffers CLARK GARLAND, TOMMY BROWN Electrician Bill DREYFUSS Craft Service GEORGE MAURICIO TOM SMITH, GRAHAM FREEBORN Make-Up Artists PETER ROBB KING, DICKIE MILLS KAY FREEBORN, NICK DUDMAN, ALAN BROWNIE Make-Up Assistants BOB KEEN, SUE OAKS, CHRISTINE ALLSOPP, DANIEL PARKER JEREMY HARRIS, TERRI ANDERSON Make-Up Effects Engineer BOB BROMLEY Modellers MICHAEL OSBORN, JAN STEVENS, CHRISTINE OVERS, RICHARD PADBURY Chief Hairdresser PATRICIA McDERMONT Hairdressers MIKE LOCKEY, PAUL LE BLANC Chief Articulation Engineer STUART ZIFF Assistant Articulation Engineer EBEN STROMQUIST Armature Design PETER RONZANI Plastic Designer RICHARD DAVIS Sculptural Designers CHUCK WILEY, JAMES HOWARD Key Sculptors DAVE CARSON, TONY McVEY, DAVE SOSALLA, JUDY ELKINS, DEREK HOWARTH Cheif Moldmaker WESLEY SEEDS Moldmaker RON YOUNG Creature Technicians RANDY DUTRA, KIRK THATCHER, DAN HOWARD, JAMES ISAAC, BRIAN TURNER, JEANNE LAUREN, RICHARD SPAH JR., ETHAN WILEY, RAY HANSON, RODGER SHAW Creature Consultants JON BERG, CHRIS WALAS Production/Creature Co-Ordinator PATTY BLAU Latex Foam Lab Supervisor TOM McLAUGHLIN Animatronics Engineers JOHN COPPINGER RON BECK Costume Supervisor MARY ELIZABETH STILL Wardrobe Mistress JANET TEBROOKE Shop Manager JENNY GREEN Jeweler RICHARD MILLER Wardrode Assistants PATRICK WHEATLEY, COLIN WILCON, JANET LUCAS, DIANE MURPHY,
+M	Property Master	PETER HANCOCK Assistant Property Master CHARLES TORBETT Property Supervisors DAN COANGELO, BRIAN LOFTHOUSE Property HOLLY WALKER, IVAN VAN PERRE Propmakers BILL HARGREAVES, RICHARD PETERS Master Carpenter BERT LONG Master Plasterer KENNY CLARKE Master Painter ERIC SHIRTCLIFFE Supervising Rigger RED LAWRENCE Supervising Stagehabd EDDIE BURKE Sail Co-Ordinators BILL KREYSLER, WARWICK TOMPKINS Sails Engineering DERRICK BAYLIS, PEGGY KASHUBA
+M	Production Sound	TONY DAWE, RANDY THOM Boom Operators DAVID BATCHELOR, DAVID PARKER Sound Assistants SHEP DAWE, JIM MANSON Audio Engineers T.M. CHRISTOPHER, KRIS HANDWERK, TOM JOHNSON, BRIAN KELLY, Post-Production Assistants CATHERINE COOMBS, K.C. HODENFIELD, JAMES KESSLER, SUSAN LEAHY English Lyrics JOSEPH WILLIAMS Huttesse Lyrics ANNIE ARBOGAST Ewokese Lyrics BEN BURTT Re-Recording Mixers GARY SUMMER, ROGER SAVAGE, BEN BURTT, RANDY THOM Music Recording ERIC TOMLINSON Orchestrations HERBERT W. SPENCER Supervising Music Editor KENNETH WANNBERG Re-Recording Engineer TOMLINSON HOLMAN Assistant Film Editors STEVE STARKEY, CONRAD BUFF, PHIL SANDERSON, NICK HOSKER, DEBRA McDERMOTT, CLIVE HARTLEY Sound Effects Editors RICHARD BURROW, TERESA ECKTON, KEN FISHER Dialogue Editors LAUREL LADEVICH, CURT SCHULKEY, BONNIE KOEHLER, VICKIE ROSE SAMPSON Assistant Sound Editors CHRIS WEIR, BILL MANN, GLORIA BORDERS, SUZANNE FOX, KATHY RYAN, DOUGLAS TWIDDY Production Executive ROBERT LATHAM BROWN Unit Production Manager MIKI HERMAN Assistant Production Manager PATRICA CARR Associate to Producer LOUIS G. FRIEDMAN DAVID TOMBLIN Second Assistant Directors ROY BUTTON, MICHEAL STEELE, CHRIS NEWMAN, RUSSELL LODGE Production Assistant IAN BRYCE Production Co-Ordinator LATA RYAN Co-Ordination Assistants SUNNI KERWIN, GAIL SAMUELSON Script Supervisor PAMELA MANN FRANCIS Location Script Supervisor BOB FOREST Stunt Co-Ordinator GLENN RANDALL Stunt Arranger PETER DIAMOND Casting MARY SELWAY BUCKLEY Location Casting DAVE EMAN, BILL LYTLE Assistants to Mr. Kazanjian KATHLEEN HARTNEY ROSS, BETTY SHARP Assistant to Mr. Bloom JOHN SYRJAMAKI Assistant to Mr. Lucas JANE BAY Assistant to Mr. Marquand LEILA KIRKPATRICK Choreographer GILLIAN GREGORY Location Choreographer WENDY ROGERS ARTHUR CARROLL Production Accountant MARGARET MITCHELL Production Accountant COLIN HURREN Assistant Accountants SHEALA DANIELL, BARBARA HARLEY, SIAN WILLIAMS, ALEX MATCHAM Location Accountants DIANE DANKWARDT, PINKI RAGAN, DICK WRIGHT, SUSAN ROYAL GENE SCHWARTZ Transportation Captains JOHN FEINBLATT, H. LEE NOBLITT Studio Transportation Managers VIC MINAY, MARK LA BONGE Location Contact LENNIE FIKE Still Photographers ALBERT CLARKE, RALPH NELSON JR. Unit Publicist GORDON ARNELL Assistant Publicist JUNE BROOM Marketing SIDNEY GANIS, SUSAN TREMBLY Photographic Co-Ordinators BARB LAKIN, KATHY WIPPERT Research DEBORAH FINE ROY ARBOGAST Special Effect Foreman WILLIAM DAVID LEE Special Effects Floor Controller IAN WINGROVE Senior Effects Technicians PETER DAWSON, RODNEY FULLER, NEIL SWAN, TREVOR NEIGHBOUR, DAVID WATSON Chief Electronics Technician RON HONE Special Effects Technicians KEN GITTENS, BARRY WHITROD, JOHN HATT, TERRY GLASS, YVES DE BONO, STEVE LLOYD, ROGER NICHOLS, PAUL KNOWLES Wire Specialists BOB HARMAN, STEVE CRAWLEY Location Special Effects KEVIN PIKE, MIKE WOOD, DAVID SIMMONS, GARY ZINK, EDDIE SURKIN, WILLIAM KLINGER JR. DONALD CHADLER Electrical Engineer TERRY COX Effects Co-Ordinator JOHN BAKER Effects Secretary REBECCA WEST INDUSTRIAL LIGHT AND MAGIC BRUCE NICHOLSON Effects Cameramen DON DOW, MICHAEL J. McALISTER, BILL NEIL, SCOTT FARRAR, Assistant Cameramen PAT SWEENEY, KIM MARKS, ROBERT HILL, RAY GILBERTI, RANDY JOHNSON, Optical Printer Operators JOHN ELIS, DAVID BERRY, KENNETH SMITH, DONALD CLARK, MARK VARGO, JAMES LIM Optical Line-Up TOM ROSSETER, ED L. JONES, RALPH GORDON, PHILIP BARBERIO,
+M	Supervising Visual Effects Editor	ARTHUR REPOLA Visual Effects Editors HOWARD STEIN, PETER AMUNDSON, BILL KIMBERLIN Assistant Visual Effects Editors ROBERT CHRISOULIS, MICHAEL GLEASON, JAY IGNASZEWSKI, JOE CLASS, TOM SMITH Production Supervisor PATRICIA ROSE DUIGNAN Production Co-Ordinators WARREN FRANKLIN, LAURIE VERMONT Administrative Staff CHRISSE ENGLAND, LAURA KAYSEN, PAULA KARSH, KAREN AYERS, Production Assistants SUSAN FRITZ-MONAHAN, KATHY SHINE, GEOFFREY DeVALOIS Supervisor-Still Photography TERRY CHOSTNER Still Photographers ROBERTO McGRATH, KERRY MORDQUIST Electronic System Designers JERRY JEFFRESS, KRIS BROWN Electronic Engineers MIKE MacKENZIE, MARTY BRENNEIS Computer Graphics WILLIAM REEVES, TOM DUFF Equipment Engineering Supervisor GENE WHITEMAN Machinists UDO PAMPEL, CONRAD BONDERSON Apprentice Machinists DAVID HANKS, CHRIS RAND Design Engineer MIKE BOLLES Equipment Support Staff WADE CHILDRESS, MICHAEL J. SMITH, CRISTI McCARTHY, ED TENNLER TED MOEHNKE Stage Foreman PATRICK FITZSIMMONS Stage Technicians BOB FINLEY III, ED HIRSH, JOHN McLEOD, PETER STOLZ, DAVE CHILDERS, Pyrotechnicians THAINE MORRIS, DAVE PIER Steadicam Plate Photography GARRET BROWN Ultra High Speed Photography BRUCE HILL PRODUCTIONS Color Timers JIM SCHURMANN, BOB HAGANS Negative Cutter SUNRISE FILM INC. Additional Optical Effects LOOKOUT MOUNTAIN FILMS, PACIFIC TITLE, MONACO FILM LABS,
+M	APOSTOCOS LINDA BOWLEY	ARMSTRONG PETER BURROUGHS BAKER DEBBIE CARRINGTON H. BALHAM MAUREEN CHARLTON BELL SADIE CORRIE BENNETT TONY COX BENNETT JOHN CUMMING BETTS JEAN D'AGOSTINO
+M	BLACKNER LUIS DE JESUS	DIXON JOHN LUMMISS FERNANDEZ NANCY MACLEAN FONDACARO CAROLE MORRIS FRIEL STACY NICHOLS FRISHMAN CHRIS NUNN GAVAM BARBARA O'LAUGHLIN GILDEN BRIAN ORENSTIEN GRANT HARRELL PARKER JR. GREEN APRIL PERKINS GRIZZ RONNIE PHILLIPS HERD KATIE PERVIS J. JACKSON CAROL READ JONES NICHOLAS READ JONES DIANA REYNOLDS JONES DANIEL RODGERS SHACKENFORD JOSEPHINE STADDON SHAH KEVIN THOMPSON SILLA KENDRA WALL SPRIGGS BRIAN WHEELER STADDON BUTCH WILHELM
+M	Mime Artists	FRANK ANDERSON, AILSA BERK, SEAN CRAWFORD, ANDY CUNNINGHAM, TIM DRY,
+M	Stunt Performers	ANDERSON, DIRK YOHAN BEER, MORC BOYLE, MIKE CASSIDY, TRACY EDDON, Photographed in Buttercup Valley, Death Valley, and Smith River, California and EMI-Elstree Studios, Borehamwood, England Cameras and Lenses by Joe Dunton Cameras Ltd. Aerial Camera System by Wesscam Camera Systems (Europe) Color by Rank Film Laboratories Prints by Deluxe TM & Lucasfilm Ltd (LFL) 1983 All Rights Reserved CODE NO. 26991 MPAA RATING: PG Running Time: 2 hours 13 minutes

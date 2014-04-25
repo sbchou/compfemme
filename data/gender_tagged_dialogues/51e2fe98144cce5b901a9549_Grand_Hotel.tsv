@@ -1,0 +1,1128 @@
+M	CHARACTER	DIALOGUE
+F	SUZETTE	Madam Grusinskaya will not want her car.
+M	VOICE	Cancel Madam Grusinskaya's car.
+M	MAITRE D'HOTEL	Where is that gentleman's soup?
+M	WAITER	Where's that soup?
+M	BOY	Quick -- come on -- come on...
+M	WAITER	Yes.
+M	PREYSING	Cold.
+M	VOICE	Mr. Preysing...
+M	PREYSING	Yes...
+M	BELLBOY	Telephone -- from Fredersdorf --
+M	BELLBOY	Mr. Preysing from Fredersdorf -- his call.
+F	GIRL	Yes, Mr. Preysing --
+F	GIRL	They've gone -- Just a moment, sir...
+M	PREYSING	You told me it was on -- you said the call was through.
+M	SECOND GIRL	Who's in number three?
+M	FIRST GIRL	Senf -- the hall porter.
+M	SENF	Yes, it's Senf, the head porter, Grand Hotel... Are you at the Clinic?,... How's my wife?,... Is she in pain?,... Isn't the child coming soon?,... Patience! It's easy for you to talk... Get away?,... No, I can't -- I'd lose my job. It's like being in jail. Oh, I hope the child comes along all right.
+M	PREYSING	Hello! Long Distance?,... Get off the wire... No... I was talking to Fredersdorf... What?,... Oh... Hello!... Is that you dear?... How is everything at home?... What do you hear from the factory?... No... How are the children?... I left my shaving set at home... Yes, is your father there?... Hello, father?... Our stock has gone down twenty-three points. If our merger with the Saxonia doesn't go through -- I don't know what we can do... Hello, hello... yes, papa. Rely on me -- everything depends on Manchester... If they refuse to come in -- well, we will be in bad shape... no... Rely on me, I'll make it go through -- I'll make it go through... Waiting?... Yes, I'm still speaking...
+F	SUZETTE	Hello, Mr. Meierheim?... Is that, Mr. Meierheim?... This is Suzette... Suzette, Madam Grusinskaya's maid... No... Madam Grusinskaya will not go to the rehearsal... No... Madam is in a terrible state, she didn't sleep all night -- She's very tired... No, I'm speaking from a booth -- I didn't want to speak in front of her... I gave her a tablet of veronal... She's sleeping now... You had better come to the hotel, I'm afraid...
+M	BARON	Baron Gaigern speaking. Yes, Baron Gaigern himself. Where are you?,... Good... No -- first, I need money. I need it right now. I have to make a showing... That's my business. I hope to do it tonight... at the theatre or after the show... But money -- for the hotel bill, for tips... I don't need advice, I need money!... Now, listen...
+M	KRINGELEIN	Who is that, This is... Hello, hello!... Who is that... Heinrich? This is Kringelein. Hello, Heinrich. This is Otto Kringelein. Hello! Can you hear me?... I've got to speak very quickly. Every minute costs two marks ninety... What?... Otto Kringelein! Yes, I'm in Berlin, staying at the best hotel, the Grand Hotel... No, don't you understand? I want to explain, but I must do so quickly, it costs so much. Please don't interrupt me -- hello? Hello! Listen! You know that will I made before my operation? I gave it to you. I want you to tear it up. Destroy it. Because, listen, I came to Berlin to see a great specialist about that old trouble of mine... It's pretty bad, Heinrich. The specialist says I can't live much longer. I haven't long to live! That's what's the matter! Hello, hello. Are you on the line? No, it isn't nice to be told a thing like that. All sorts of things run through your head. I am going to stay here in Berlin. I am never coming back to Fredersdorf. Never! I want to get something out of life, too. You plague, and bother, and save -- and all of a sudden you are dead. Heinrich... You don't say anything. I am in the Grand Hotel, do you understand, the most expensive hotel in Berlin? I'm going to get a room here. The very best people stay here. Our big boss, Preysing, too. I saw him -- not five minutes after I was here. Sometime, I'd like to tell him exactly what I think of him. Listen, Heinrich -- I have taken all my savings; my life insurance, too; I cashed in all my policies, the sick benefit fund, the old age pension, the unemployment insurance, the burial fund and everything... What's that, miss?... Hello, Heinrich. I have to hang up now. I have to pay three times overcharge. Just think, Heinrich! There's music here all day long. And in the evening, they go around in full dress... Yes, sometimes I have pain, but I can stand it. Everything is frightfully expensive here. You can imagine, the Grand Hotel... What? Time's up...
+M	KRINGELEIN	I'm a sick man -- Heinrich -- Hello - hello -- Operator -- every minute two marks ninety.
+M	BARON	Dangerous?... That's my business... I'll do it tonight -- ...I'll do it alone.
+F	SUZETTE	Madam is afraid -- she will never dance again -- there was no applause last night --
+M	PREYSING	Yes -- the merger -- Manchester -- it is my business as much as yours -- we've already lost eighty-five thousand --
+M	SENF	I'm on duty -- I can't leave the Grand Hotel -- it's like being in prison -- the baby --
+M	DOCTOR	Any calls?
+F	GIRL	No, Doctor.
+M	DOCTOR	Grand Hotel -- people -- coming -- going... Who cares... nothing ever happens.
+M	BARON	Good little girl -- nice ones?
+F	GIRL	Yes, Baron.
+M	SENF	Is that for me?
+M	CLERK	No -- Madam Grusinskaya's car is to be brought.
+M	SENF	Madam Grusinskaya's car is to be brought.
+M	BELLBOY'S VOICE	Madam Grusinskaya's car... to be brought.
+M	SENF	Good evening, Baron.
+M	BARON	Good evening. Will you send these up to Madam Grusinskaya?
+M	SENF	Yes, Baron. Madam Grusinskaya.
+M	CLERK	Room one-seventy -- Madam Grusinskaya.
+M	BARON	Have you my tickets for the theatre?
+M	SENF	Oh yes, Baron -- Baron von Gaigern's seats for Madam Grusinskaya.
+M	SENF	For me?
+M	CLERK	No -- Madam Grusinskaya's car is not to be brought.
+M	SENF	Madam Grusinskaya's car is not to be brought.
+M	BARON	Charge them...
+M	PIMENOV	Good evening -- my key -- one sixty- eight.
+M	BARON	Good evening, Mr. Pimenov.
+M	PIMENOV	Oh -- good evening, Baron.
+M	BARON	How's the beautiful lady?
+M	PIMENOV	Grusinskaya -- well, to tell the truth, Baron -- tonight we are a little bit nervous. Were you at the theatre last night?
+M	BARON	Certainly -- always when Grusinskaya dances.
+M	PIMENOV	Well -- last night was not so good.
+M	BARON	I thought she was splendid!
+M	PIMENOV	Yes -- but the audience.
+M	CLERK	The parquot loges are behind the parquet chairs.
+M	JAPANESE	Then they've put me back and I want to be up in front. How is that, chairs in front of loges?
+M	SENF	The train leaves at seven-thirty, Madam. That is the only through train --
+M	BARON	It's always so quiet here.
+M	PIMENOV	If you occupied the room next to Madam Grusinskaya, you would appreciate the quiet of a hotel lobby.
+M	BARON	My dear sir, I would gladly change rooms with you.
+M	PIMENOV	No doubt you would, Baron. But do you know, I'm quite indispensable to her. I'm her ballet master and her nurse. I hardly belong to myself anymore. But, there you are, it's Grusinskaya -- you can't help adoring her.
+M	ZINNOWITZ	Pardon me. Is Mr. Preysing in -- I am Doctor Zinnowitz.
+M	SENF	Mr. Preysing -- from Fredersdorf --
+M	BELLBOY	Mr. Preysing --
+M	PREYSING	Ach! Here you are, Doctor Zinnowitz.
+M	ZINNOWITZ	Have I kept you waiting?
+M	PREYSING	Waiting -- I'm waiting for news from Manchester.
+M	ZINNOWITZ	No news yet?
+M	PREYSING	No. No word.
+M	ZINNOWITZ	Everything depends on the Manchester merger.
+M	PREYSING	I know -- I know.
+M	ZINNOWITZ	I saw Gerstenkorn at lunch -- and as your lawyer I made it my business to broach the matter ---
+M	ZINNOWITZ	I'm expecting a young woman -- a stenographer -- she will ask for Mr. Preysing. Ask her to wait.
+M	SENF	Yes, Doctor Zinnowitz.
+M	SENF	For me?
+M	CLERK	No -- letters to two-eighty.
+M	SENF	If a young woman, a stenographer, -- etc.
+M	DOCTOR	Any letters?
+M	SENF	No, Doctor.
+M	DOCTOR	Telegrams?
+M	SENF	No, Doctor.
+M	DOCTOR	Anyone asked for me?
+M	SENF	Nobody, Doctor.
+M	BARON	The war.
+M	PIMENOV	That is Doctor Otternschlag -- You know him?
+M	BARON	Yes -- He always seems to be waiting for something -- and nothing ever comes.
+M	PIMENOV	The war dropped him here and forgot him.
+M	BARON	Yes, I was in the war.
+M	KRINGELEIN'S VOICE	Please -- please pay some attention to me -- I have no time.
+M	ROHNA	If you will wait one moment, sir.
+M	KRINGELEIN	I won't wait -- I can't wait -- I waited three days before I got a room at all and what a room that is.
+M	ROHNA	It's a very nice room and inexpensive, sir.
+M	KRINGELEIN	Did I say I wanted a cheap room to live in -- when I came here did I ask for a cheap room? Did I?
+M	ROHNA	Just one moment, sir.
+M	KRINGELEIN	No, I won't wait -- I can't -- Every day is precious -- every hour -- Every minute.
+M	KRINGELEIN	I came here because I wanted to live here, two weeks, maybe three -- God only knows -- I've told you I'll pay -- I'll pay anything you ask. I'm tired -- I'm ill -- I can't wait.
+M	ASSISTANT MANAGER	Has the gentleman a complaint?
+M	ROHNA	The gentleman is dissatisfied with room number five fifty-nine.
+M	KRINGELEIN	I certainly have a complaint -- and a fair one.
+M	KRINGELEIN	I came here from a long distance to stay at the Grand Hotel. I want a room -- a big room -- like you would give General Director Preysing -- I'm as good as Mr. Preysing -- I can pay like Mr. Preysing -- would you give him a little room, way up in the corner with the hot water pipes going -- bang -- bang -- bang...
+M	DOCTOR	This gentleman can have my room.
+M	KRINGELEIN	Oh!
+M	DOCTOR	Send his bags up to my room.
+M	KRINGELEIN	Oh -- but -- I --
+M	DOCTOR	You're tired. I can see that.
+M	KRINGELEIN	Yes -- yes -- I am tired. I have been ill...
+M	DOCTOR	You are ill.
+M	MANAGER	Mr. Kringelein will take room number one-seventy-six, one of our most expensive rooms. It is large and on the front with bath.
+M	KRINGELEIN	Does that mean that the bath is my own? --- Private?
+M	MANAGER	Certainly, sir.
+M	KRINGELEIN	Well, now, that's very kind -- thanks. That's what I want -- a large room on the front with a private bath -- Yes, that's what I want. I can pay now if you like.
+M	DOCTOR	That will not be necessary.
+M	KRINGELEIN	Thank you, sir.
+M	BARON	Not at all, sir.
+M	KRINGELEIN	Permit me -- my name is Kringelein -- from Fredersdorf.
+M	BARON	I'm Baron von Gaigern.
+M	KRINGELEIN	Oh, a Baron!
+M	BARON	And this is Doctor Otternschlag.
+M	KRINGELEIN	Oh -- Doctor -- you are a Doctor -- I am --
+M	DOCTOR	I know -- I know -- when a man's collar is an inch too big for him -- I know he is ill.
+M	KRINGELEIN	Yes -- Oh -- oh -- yes, --
+M	PIMENOV	Well, Baron -- I must go and dress.
+M	KRINGELEIN	Is this gentleman a Baron, too?
+M	PIMENOV	Unfortunately no.
+M	MANAGER	Will Mr. Kringelein kindly register.
+M	KRINGELEIN	Again?
+M	MANAGER	Please.
+M	CHAUFFEUR	Have you a minute now?
+M	BARON	No -- I told you not to come in this lobby.
+M	CHAUFFEUR	Time's getting short.
+M	BARON	I've told you a hundred times not to speak to me with a cigarette in your mouth.
+M	CHAUFFEUR	I want to speak --
+M	BARON	Not now.
+M	CHAUFFEUR	Yes, sir.
+F	FLAEMMCHEN	Mr. Preysing.
+M	SENF	Will you wait please.
+M	CLERK	The stenographer is to go up -- Mr. Preysing telephoned.
+M	SENF	Mr. Preysing -- one sixty-four.
+F	FLAEMMCHEN	Thanks -- Heigh! -- Wait!
+M	PIMENOV	Poor Grusinskaya -- how can she receive anyone. She can't -- theatre, trains, hotels -- hotels, trains theatre.
+M	PIMENOV	I must go and dress -- she'll be waking up and calling for me.
+M	PREYSING'S VOICE	Come in.
+M	PREYSING	What...! --
+F	FLAEMMCHEN	I'm the stenographer.
+M	PREYSING	Then you will please wait outside.
+F	FLAEMMCHEN	Don't hurry -- take your time.
+M	BARON	Like dancing?
+F	FLAEMMCHEN	Not with strangers.
+M	BARON	Never?
+F	FLAEMMCHEN	You're a fool!
+M	BARON	Yes, I am rather.
+M	BARON	He must be very nice.
+F	FLAEMMCHEN	Who?
+M	BARON	Whoever is keeping you waiting.
+F	FLAEMMCHEN	Have you seen it?
+M	BARON	Oh, my large and noisy neighbor -- really? That?
+F	FLAEMMCHEN	That.
+M	BARON	You?
+F	FLAEMMCHEN	Oh -- work!!
+M	BARON	Oh!
+F	FLAEMMCHEN	Dictation. You know...
+M	BARON	Oh... poor child. If you were free, I'd ask you to come and have some tea -- but --
+F	FLAEMMCHEN	Tea would spoil my dinner. One meal a day, I'd hate to spoil it.
+M	BARON	Reducing?
+F	FLAEMMCHEN	No -- why? -- should I?
+M	BARON	Lord no -- charming -- but why one meal a day?
+F	FLAEMMCHEN	Money -- Ever heard of it?
+M	BARON	Yes -- yes indeed -- but you are a... ...a stenographer. Don't little stenographers earn little pennies?
+F	FLAEMMCHEN	Very little.
+M	BARON	Too bad.
+F	FLAEMMCHEN	Did you ever see a stenographer with a decent frock on? -- One that she'd bought herself?
+M	BARON	Poor child -- I wish I were free tonight -- we could --
+F	FLAEMMCHEN	Aren't you?
+M	BARON	What?
+F	FLAEMMCHEN	Free --
+M	BARON	Unfortunately no -- to bad -- tomorrow though.
+F	FLAEMMCHEN	Tomorrow? What time tomorrow?
+M	BARON	Shall we say five o'clock -- downstairs?
+F	FLAEMMCHEN	Where downstairs?
+M	BARON	Yellow Room where they dance --
+F	FLAEMMCHEN	You're very funny --
+M	BARON	Yes? -- Tomorrow?
+F	FLAEMMCHEN	Of course.
+M	BARON	Really?
+M	BARON	We'll dance.
+F	FLAEMMCHEN	All right. We'll dance.
+M	KRINGELEIN'S VOICE	Baron -- Oh, Baron!
+M	KRINGELEIN	If I could trouble the Baron to come and see this beautiful room. I have ordered champagne. Perhaps the Baroness could join us.
+M	KRINGELEIN	Waiter, oh waiter! Wait a minute! We are having caviar -- it's expensive but that makes no difference -- I see the Baroness is laughing.
+F	FLAEMMCHEN	Have caviar if you like, but it tastes like herring to me.
+F	SUZETTE	Ssshh! Please! Madam is asleep.
+M	KRINGELEIN	Oh!
+M	BARON	Asleep? -- Ssshhh -- sorry!
+M	SUZETTE'S VOICE	Madam has slept well.
+F	GRUSINSKAYA	No, I have been awake -- thinking -- thinking.
+M	SUZETTE'S VOICE	It is time for the performance.
+F	GRUSINSKAYA	The performance?
+F	SUZETTE	It is time.
+F	GRUSINSKAYA	Always the performance -- every day the performance -- time for the performance. I think, Suzette, I have never been so tired in my life. Veronal didn't even help me to sleep.
+F	SUZETTE	Madam Grusinskaya's car is to be brought.
+F	GRUSINSKAYA	I can't dance tonight --
+F	SUZETTE	It will pass -- it will pass -- come.
+F	GRUSINSKAYA	Let us cancel the engagement.
+F	SUZETTE	But, Madam. cannot do that.
+F	GRUSINSKAYA	Now is the time to cancel to stop entirely. I feel it -- everything tells me -- enough -- enough.
+F	GRUSINSKAYA	The peals are cold -- everything is cold -- finished -- it seems so far away -- so threadbare -- the Russians -- St. Petersburg -- the Imperial Court -- the Grand Duke Sergei -- she were reliving incidents of the -- Sergei -- dead -- Grusinskaya -- it's all gone.
+F	SUZETTE	Mon Dieu -- the pearls -- if they were to break --
+F	GRUSINSKAYA	The pearls won't break -- they hold together and bring me bad luck ---- I hate them!
+F	SUZETTE	Orchids come again, Madam -- no card -- I think perhaps they are from the same young man -- he is at the end of the corridor -- tall -- he walks like a soldier -- Madam must have noticed how often he is in the elevator with us. Last night for instance --
+F	GRUSINSKAYA	Oh, Suzette -- Suzette -- Sshh -- quiet.
+F	SUZETTE	Ah, oui -- the car is here for Madam. Send it away -- I shan't need it.
+F	GRUSINSKAYA	Come in.
+F	GRUSINSKAYA	Madam Grusinskaya will not require her car -- no -- she will not be going to the theatre.
+M	PIMENOV	It is time for the performance.
+F	GRUSINSKAYA	The performance -- the performance -- the performance.
+M	PIMENOV	Poor little Lisevata -- she still has her stage frights -- it will pass.
+F	GRUSINSKAYA	It is not stage fright -- it's something more --
+M	PIMENOV	What -- what is it? Last night...
+F	GRUSINSKAYA	Last night?... There was no applause.
+M	PIMENOV	There was -- there was.
+F	GRUSINSKAYA	That theatre -- half empty -- dancing for those few -- I was frantic -- I finished -- the last beat and... ...I waited -- I listened -- but the applause didn't come -- nothing. A man in the box -- and just the claques behind -- it is passed, Pimenov. We are dead -- it's finished.
+M	PIMENOV	Meierheim --
+M	MEIERHEIM	What is this that you have cancelled your car? Who am I that I should wait like a fool at the door? And here on a whim, you cancel your car. Have you forgotten there is a performance? Do you know the time? Or, are we all mad? Am I your manager?... Have we a contract? Have we obligations? Am I blind? ...Or is that the time?
+F	GRUSINSKAYA	I'm cancelling the engagement.
+M	MEIERHEIM	Oh!
+M	MEIERHEIM	Oh! Madam is cancelling the engagement. Madam has chosen a funny time for such a funny joke. Ha, ha, ha -- hurry, come on. Tonight -- there's a line in front of the theatre since six o'clock. The house is jammed to the roof.
+F	GRUSINSKAYA	The house is not full -- Is it really full?
+M	MEIERHEIM	Packed to the ceiling. Hurry -- get dressed. And what an audience -- the French Ambassador -- American Millionaires -- Princess Ratzville -- er -- er --
+F	GRUSINSKAYA	Oh -- but it can't be.
+F	SUZETTE	Oh, come, Madam -- please come.
+F	GRUSINSKAYA	All right, Suzette -- quickly -- hurry.
+M	PIMENOV	We will wait.
+M	MEIERHEIM	You are late. Hurry.
+M	MEIERHEIM	Tell Madam Grusinskaya's chauffeur to bring the car.
+M	PIMENOV	How is the house?
+M	MEIERHEIM	Terrible. After this, no more ballets for me. Jazz -- Just jazz.
+M	PIMENOV	If the house is empty again, I don't know --
+M	MEIERHEIM	When she gets her paint on and hears the music -- she'll be all right. I know these people.
+M	KRINGELEIN	You may laugh. Caviar and champagne may mean nothing to you, but to me -- they mean a great deal. You see, I'm ill and all of a sudden I got a fear of missing life. I don't want to miss life -- do you understand?
+F	FLAEMMCHEN	You are funny. You speak of life as if it were a train you wanted to catch.
+M	KRINGELEIN	Yes -- and for me, it's going to leave at any minute. Let's drink.
+M	KRINGELEIN	I'm sure this beautiful room must appeal to your taste -- distinctive, don't you think? Velvet upholstery -- 'A-number one'. I'm in the textile trade and I know. of hiccups from the champagne. He touches And these are real silk drapes.
+F	FLAEMMCHEN	Silk -- think of that -- silk -- they are, too.
+M	KRINGELEIN	Have you seen the bathroom? -- Hot and cold running water -- You see, I can get a bath whenever I like.
+M	PREYSING	The stenographer!
+F	FLAEMMCHEN	Her master's voice! I must go now -- goodbye -- thanks.
+M	KRINGELEIN	Oh, don't go.
+F	FLAEMMCHEN	I'm engaged for the evening.
+M	KRINGELEIN	Oh, can anyone engage you for the evening?
+F	FLAEMMCHEN	To take dictation -- a Mr. Preysing -- Goodbye, you -- tomorrow at five o'clock.
+M	BARON	What's the matter, Mr. Kringelein?
+M	KRINGELEIN	General Director Preysing! Baron, when I was sixteen years old, I started as an office boy in that man's factory --
+M	BARON	Then you know him?
+M	KRINGELEIN	Do I know him -- I know him through and through.
+M	BARON	I must -- I hope to see you again, Mr. Kringelein.
+M	KRINGELEIN	You will stay, Doctor -- if you have nothing better to do?
+M	DOCTOR	I have nothing better to do, Mr. Kringelein.
+M	BARON	Perhaps you could present me now, Mr. Pimenov.
+M	PIMENOV	Please, Baron -- forgive me -- not now -- here she is.
+F	GRUSINSKAYA	My coat.
+F	GRUSINSKAYA	Suzette -- I told you not to bring the pearls. I will not wear them tonight.
+M	MEIERHEIM	Why not?
+F	GRUSINSKAYA	Take them back, Suzette.
+M	MEIERHEIM	You haven't time.
+F	GRUSINSKAYA	Hurry, Suzette.
+M	MEIERHEIM	Such nonsense.
+M	MEIERHEIM	The car for Madam Grusinskaya.
+M	PREYSING	No news from Manchester yet -- Do you think we ought to postpone the conference?
+M	ZINNOWITZ	Good heavens no. That'd create the very worst impression. You must be optimistic. You must convince them. You know as well as I do that the merger must go through.
+M	PREYSING	Yes -- the merger must go through -- But I am used to making my deals on a solid basis. I am not a liar. I am an honest business man -- a good husband and father -- I have a sense of honor -- I have nothing to conceal. I couldn't live happily otherwise.
+M	ZINNOWITZ	Well, don't get excited about it. We agreed that the merger with the Saxonia people must go through.
+M	PREYSING	I want to dictate my statement for tomorrow. I can't speak without notes. I like to have things down before me in black and white.
+M	ZINNOWITZ	I'll see you in the morning then, at the conference. Everything'll be all right, Preysing... Don't worry. Goodnight.
+M	PREYSING	Good night.
+M	PREYSING'S VOICE	Both parties have fully agreed that this merger can result only in mutual advantages.
+M	PREYSING	Moreover --
+F	FLAEMMCHEN	Moreover --
+M	PREYSING	Moreover -- Picks up telephone Is there a telegram for me yet?... Oh -- when it does, send it up.
+M	PREYSING	Now, where was I? typewriter -- Oh -- sorry. his mouth and walks away. As he walks Where was I?
+F	FLAEMMCHEN	Moreover...
+M	PREYSING	Moreover...
+M	PREYSING	Do you work in Justice Zinnowitz' office?
+F	FLAEMMCHEN	No -- only occasional jobs.
+M	PREYSING	Tired?
+F	FLAEMMCHEN	You pay me.
+M	PREYSING	You're a very unusual stenographer --
+F	FLAEMMCHEN	Moreover...
+M	PREYSING	Moreover...
+F	FLAEMMCHEN	I don't see why it's unusual for a stenographer to be pretty -- if she does her work well, -- seems so silly. I don't know why they don't like girls like me in offices. Personally, I hate offices -- I'd much rather be in the movies.
+M	PREYSING	Movies?
+F	FLAEMMCHEN	Yes, I photograph very well. Look --
+M	PREYSING	What is this?
+F	FLAEMMCHEN	I got ten marks for that.
+M	PREYSING	You...
+F	FLAEMMCHEN	Me.
+M	PREYSING	You...
+F	FLAEMMCHEN	Moreover...
+M	PREYSING	What?
+F	FLAEMMCHEN	Only in mutual advantages -- moreover.
+M	PREYSING	What brown hands you have.
+F	FLAEMMCHEN	That's from skiing.
+M	PREYSING	Skiing?
+F	FLAEMMCHEN	Yes... A man I know took me to Switzerland last month...
+M	PREYSING	A man? -- To Switzerland? -- That must have been nice -- for him.
+F	FLAEMMCHEN	Only in mutual advantages -- moreover...
+M	PREYSING	Moreover... He was a lucky man -- that man.
+F	FLAEMMCHEN	Perhaps.
+M	PREYSING	Don't misunderstand me. I'm a married man -- with grownup daughters. Uh --
+F	FLAEMMCHEN	Moreover -- Do you mind if I smoke? I went to Florence once, too.
+M	PREYSING	With the same friend?
+F	FLAEMMCHEN	No.
+M	PREYSING	Moreover, the possibility of the successful termination of negotiations now pending with the Manchester Cotton Company...
+F	FLAEMMCHEN	Not too quickly.
+M	PREYSING	What?
+F	FLAEMMCHEN	You're a little too fast.
+M	PREYSING	Can't you understand me?
+F	FLAEMMCHEN	I understand you perfectly.
+M	PREYSING	Have you got it now?
+F	FLAEMMCHEN	Cotton Company --
+M	PREYSING	Should throw a great weight into the balance...
+F	FLAEMMCHEN	...weight into the balance...
+M	PREYSING	Come in.
+M	BOY	Telegram for Mr. Preysing.
+M	PREYSING	Oh -- oh. her desk. Paces the
+F	FLAEMMCHEN	Deal with Manchester Cotton Company definitely off.
+F	FLAEMMCHEN	Sorry.
+F	FLAEMMCHEN	How nice -- your daughters?
+M	PREYSING	My daughters -- yes, my daughters.
+F	FLAEMMCHEN	Is that Mrs. Preysing.
+M	PREYSING	Definitely off.
+F	FLAEMMCHEN	Oh -- too bad. Did you quarrel?
+M	PREYSING	That'll be all -- be here tomorrow at nine o'clock.
+M	BARON'S VOICE	Come in!
+M	CHAUFFEUR	You are late -- the dancer's gone to the theatre.
+M	BARON	Well?
+M	CHAUFFEUR	She's gone to the theatre -- don't you know?
+M	BARON	Yes.
+M	CHAUFFEUR	And what are you going to do?
+M	BARON	The pearls are in her room.
+M	CHAUFFEUR	Now listen to me. The others are getting suspicious of you. I was on the telephone to Amsterdam today, they think you're scared.
+M	BARON	I've been careful, I've been waiting my chance.
+M	CHAUFFEUR	You've been waiting your chance. You're too much of a gentleman -- that's the trouble with you.
+M	BARON	I told you I'll get the pearls tonight.
+M	CHAUFFEUR	Need any help?
+M	BARON	No.
+M	CHAUFFEUR	Have you got that skeleton key?
+M	BARON	No --
+M	CHAUFFEUR	Why?
+M	BARON	The floor clerk is out there in the corridor -- she sees everything ---
+M	CHAUFFEUR	I could take care of her.
+M	BARON	How?
+M	CHAUFFEUR	Chloroform on a handkerchief from behind -- while you...
+M	BARON	No -- no -- no -- no...
+M	CHAUFFEUR	Why?
+M	BARON	Poor girl -- chloroform would give her a rotten headache... I know -- I had it in the war. Besides, she's very pretty -- not young but --
+M	CHAUFFEUR	You're no good for this business. It's just a joke to you...
+M	BARON	I don't like your tone.
+M	CHAUFFEUR	No --
+M	BARON	Get out and leave it to me... be ready to leave on the night train for Amsterdam...
+M	CHAUFFEUR	With the pearls?
+M	BARON	With the pearls --
+M	LOUD SPEAKER	'You are listening to the music of the Eastman Jazz Band, in the famous Yellow Room of the Grand Hotel.'
+F	CHAMBERMAID	No -- no -- there is no one here.
+M	INSPECTRESS	You're late... What have you been doing?
+F	CHAMBERMAID	Everyone -- all the time says, 'Come back - come back.' They won't get out of their rooms.
+M	INSPECTRESS	No, Madame Grusinskaya is not here... The Western Theater?... No...
+M	SUZETTE'S VOICE	Have you seen Madame?
+M	CLERK'S VOICE	Isn't she at the theatre?
+F	SUZETTE	Hello, hello, Mr. Pimenov? Yes... Mr. Pimenov, have they found her?... No, she is not here... Yes, I'm at the hotel.
+M	MEIERHEIM	Pimenov?... What's happening?... No, I haven't found her. Is Desprez dancing?... How is it?... Oh, all right. Keep the show going. Wait till I see her, she'll pay for this -- this little trick is going to cost Grusinskaya a suit for breach of contract.
+F	SUZETTE	Madame is ill -- her nerves...
+M	MEIERHEIM	Her nerves... What about my nerves?... Who is she anyway? Where does she think she is -- Russia? Those days have passed.
+F	SUZETTE	Madame --
+M	MEIERHEIM	Well?
+F	GRUSINSKAYA	I want to be alone.
+M	MEIERHEIM	Where have you been?
+F	SUZETTE	Should I -- Does madame wish...
+F	GRUSINSKAYA	Suzette, please go, I want to be alone.
+M	MEIERHEIM	I suppose I can cancel the Vienna engagement.
+F	GRUSINSKAYA	I wish to be alone.
+M	MEIERHEIM	You'll be very much alone, my dear madame. This is the end.
+F	GRUSINSKAYA	The end -- over -- finished --
+F	GRUSINSKAYA	The Western Theatre --
+F	GRUSINSKAYA	Western Theatre?
+F	GRUSINSKAYA	The stage -- Mr. Pimonov -- the ballet master... Grusinskaya -- hurry -- hurry.
+F	GRUSINSKAYA	Yes -- yes, I'm waiting.
+F	GRUSINSKAYA	Hello, Pimenov? -- I'm at the hotel. I couldn't go on -- I couldn't... No, no don't -- ...Just alone... Good night, good night, my dear -- goodbye... Pimenov, how is it going, badly?... Uh?... Who's dancing?... Desprez?... Oh -- and how is it?... Oh, -- oh, I see -- they didn't miss me?... They didn't miss me. drop with the receiver and goes on talking They didn't miss me -- good night, Pimenov...
+F	GRUSINSKAYA	Oh -- I'm sorry, yes... I have finished.
+M	BARON	Please, do not be alarmed, Madam.
+M	BARON	Careful -- there's broken glass on the floor.
+M	BARON	There. upon the floor over
+M	BARON	Please do not be frightened, Madam.
+F	GRUSINSKAYA	What do you want here?
+M	BARON	Nothing -- only to be here.
+F	GRUSINSKAYA	Why do you hide in my room?
+M	BARON	But surely you must know -- because I love you.
+F	GRUSINSKAYA	Because you love me -- you love me?
+M	BARON	Poor little Grusinskaya! Does it do you good to cry? Are you afraid? Shall I go?
+F	GRUSINSKAYA	I was so alone -- always alone -- and suddenly you were there and said that. No. I am not afraid. It is strange.
+M	BARON	Don't cry -- it tears my heart to see you sob like that.
+F	GRUSINSKAYA	Nerves -- just nerves. You must forgive me. I have had a bad evening. I am very tired. Do you know what it is to be tired -- tired of a routine existence?
+M	BARON	I'm afraid not -- I usually do just what I feel like doing at the moment.
+F	GRUSINSKAYA	So you feel like coming into a lady's room -- and you come... What now?
+M	BARON	I'd like to smoke a cigarette.
+F	GRUSINSKAYA	Certainly.
+F	GRUSINSKAYA	Why do you look at me like that?
+M	BARON	I did not know you were so beautiful... and --
+F	GRUSINSKAYA	And then --?
+M	BARON	No irony. You're so appealing -- so soft -- so tired. I feel like taking you in my arms and not letting anything more happen to you -- ever.
+F	GRUSINSKAYA	And -- and --
+M	BARON	How tired you are!
+F	GRUSINSKAYA	Yes -- tired...
+M	BARON	So alone.
+F	GRUSINSKAYA	Alone. All alone. Oh, you strange -- strange creature.
+M	BARON	You mustn't talk Russian to me.
+F	GRUSINSKAYA	Strange man...
+M	BARON	Am I quite strange to you?
+F	GRUSINSKAYA	Not quite strange now. It is as if I had been expecting you. You know, once when the Grand Duke was alive, I found a man hiding in my room -- a young officer --
+M	BARON	And...?
+F	GRUSINSKAYA	He disappeared. Later he was found dead.
+M	BARON	I never knew it was so dangerous to hide in a woman's room when she's alone.
+F	GRUSINSKAYA	Go away. Who are you --?
+M	BARON	A man who could love -- that is all, who has forgotten everything else for you.
+F	GRUSINSKAYA	You could love me. It is so long since I have heard that word. Nobody has loved me for a long time. It is so icy-cold to be famous. One is so cruelly alone. How is it that you -- Let me look at you. Your hands. Your eyes. Why could you love me?
+M	BARON	I saw you just now -- then I saw you cry -- and now I see you in the mirror -- Grusinskaya...
+F	GRUSINSKAYA	Grusinskaya... Oh -- oh if you knew how I slaved and slaved for Grusinskaya -- for the success of Grusinskaya -- for the triumph of Grusinskaya... and what is she now? Just someone who has found that on the day success ceases life ceases -- Are you listening to me -- Do you understand? -- I want you to understand.
+M	BARON	Yes -- I do understand.
+F	GRUSINSKAYA	I think you must go now -- the key is on the floor.
+M	BARON	I'm not going -- You know I'm not going -- Let me stay here?
+F	GRUSINSKAYA	I want to be alone.
+M	BARON	That is not so -- you don't want to be alone.
+F	GRUSINSKAYA	I want to be alone --
+M	BARON	No -- You don't want to be alone at all -- You were in despair before -- If I left you, you'd feel worse than you did before, You must not be alone -- You mustn't cry -- you must forget... Tell me that I can stay with you -- tell me.
+F	GRUSINSKAYA	Just for a minute then.
+M	BARON	What? Say it again -- I didn't hear.
+F	GRUSINSKAYA	You -- man...
+F	GRUSINSKAYA	Thank you -- you are gallant. What a sentimental scene. Grusinskaya weeping is a sight worth seeing. It is many years since she did such a thing... You frightened me -- badly. You're responsible for this -- painful scene.
+F	GRUSINSKAYA	The stage frays one's nerves... the discipline -- it's so exacting. Discipline means doing what you don't want to do and take no pleasure in doing. Do you know what I mean? Have you ever experienced the weariness that comes from discipline?
+M	BARON	I? -- Oh, no. I do only what I take pleasure in doing.
+F	GRUSINSKAYA	I see -- you do only what you take pleasure in doing. You take pleasure in coming into a woman's bedroom and you come. You take pleasure in a dangerous climb onto a balcony, so you do it... And what is your pleasure now?
+M	BARON	I should like to smoke.
+F	GRUSINSKAYA	Why do you smile?
+M	BARON	Because I can see something in the mirror that you cannot. My dear --
+F	GRUSINSKAYA	What can you see?
+M	BARON	You are beautiful!
+F	GRUSINSKAYA	No.
+M	BARON	Beautiful but so sad. I did not know it was so dangerous to look into a woman's bedroom.
+F	GRUSINSKAYA	I think you had better go now. The key is on the floor.
+M	BARON	I'm not going... You know that I'm not going... Do you think I could leave you alone here? After that --?
+F	GRUSINSKAYA	What?
+M	BARON	The veronal -- you. I'm going to stay here with you.
+F	GRUSINSKAYA	I want to be alone.
+M	BARON	That is not the truth. You do not want to be alone -- you're afraid of being alone -- I know you're afraid. I know you. You were desperate, just now, if I go away you'll be more desperate than ever. Say I am to stay with you... say it.
+F	GRUSINSKAYA	For just a minute then. crosses the room, quickly to the door, with almost a cry. She looks around for No -- oh, no!
+M	BARON	Just for a minute, Grusinskaya --
+M	KRINGELEIN	Oh, but Doctor. Isn't this wonderful. To live -- to live -- in the Grand Hotel.
+M	DOCTOR	The Grand Hotel.
+M	KRINGELEIN	Oh, but Doctor. The music -- the champagne -- girls when they dance -- all the shining ice in those big silver things -- That's life --
+M	DOCTOR	Life! -- Mr. Kringelein, you are drunk -- good night.
+M	KRINGELEIN	But Doctor --
+M	KRINGELEIN	Mr. Kringelein -- you are drunk -- good night.
+M	BARON'S VOICE	I've never been as happy.
+M	GRU'S VOICE	What did you say?
+M	BARON'S VOICE	I've never been as happy!
+M	GRUSINSKAYA'S VOICE	Say it again -- say it!
+M	BARON'S VOICE	I have never been so happy!
+M	GIRL ONE	Grand Hotel -- good morning -- no, Baron von Gaigern's room does not answer... Yes,... all right... Baron von Gaigern's chauffeur calling.
+M	GIRL THREE	Good morning, nine-thirty Doctor Otternschlag... No, Doctor, no messages... No, Doctor.
+M	GIRL FIVE	Grand Hotel -- good morning... who is calling Madam Grusinskaya?... Oh, Mr. Pimenov. Madam Grusinskaya is not to be disturbed, sir... no, sir... yes, sir --
+M	VOICE	Mr. Preysing's calls to one sixty two for today.
+M	GIRL EIGHT	-- good morning... Mr. Preysing --
+M	GERSTENKORN	Nine-thirty, Mr. Preysing keeps us waiting.
+M	SCHWEIMANN	He likes to play the great man.
+M	WAITZ	The Preysing stock is holding its own today on the market.
+M	SCHWEIMANN	Ask Preysing what it's costing him to keep it up. And ask me what it's costing us to hammer it down.
+M	WAITZ	Exactly.
+M	GERSTENKORN	If the Preysing people get the Manchester contract, we shall certainly merge with the Preysing company -- but if they haven't they're ruined -- Preysing will have to declare himself.
+M	WAITZ	Shhh -- here he is now.
+F	FLAEMMCHEN	Good morning, gentlemen -- Mr. Preysing will be here in a minute.
+M	PREYSING	Good morning, gentlemen.
+M	MEN	Good morning.
+M	PREYSING	Sorry I'm late, I've been waiting for Justice Zinnowitz, my legal advisor.
+M	WAITZ	Oh -- ho -- you want legal aid against us? -- The whole thing seems to me to be very simple.
+M	GERSTENKORN	Very simple -- I've always liked the way you dressed, Preysing -- English, isn't it?
+M	PREYSING	What?
+M	GERSTENKORN	They turn out marvelous material in Manchester.
+M	PREYSING	Manchester -- yes. Yes, yes, they do. Yes -- Now gentlemen shall we begin at the beginning? -- Have we cigars -- water and everything?
+M	SCHWEIMANN	Manchester is a very interesting city, don't you think so, Preysing?
+M	PREYSING	Manchester -- yes -- yes. A man in the textile industry naturally has to know Manchester.
+M	GERSTENKORN	There's a lot of business to be done with the Manchester Cotton Company. They've the whole English market right in their hands. Have you any connections with -- Manchester?
+M	PREYSING	We have a good many connections in England, naturally.
+M	GERSTENKORN	I mean with the Manchester people?
+M	PREYSING	We are here to discuss our merger. Naturally I can make no statement at this time. We must begin at the beginning.
+M	GERSTENKORN	All right.
+M	PREYSING	Since, on the eleventh of June, this year -- when the first negotiations for a merger between our respective firms was entered into -- both parties have fully agreed that this merger can result only in mutual advantages.
+M	GERSTENKORN	Oh -- yes -- I beg your pardon!
+M	PREYSING	I'm laying before you the last general statement of our concern. Active capital, plant and machinery, raw material and finished product -- for instance -- mop rags --
+M	GERSTENKORN	Mop rags --!
+M	GERSTENKORN	What we want to know about is Manchester.
+M	WAITZ	Yes, Mr. Preysing -- that's what we want to know.
+M	PREYSING	I'd like to wait for Justice Zinnowitz, before I commit myself.
+M	GERSTENKORN	Oh -- Preysing, Preysing --
+M	PREYSING	No water -- What a place!
+M	GERSTENKORN	All you have to do is phone for it.
+F	FLAEMMCHEN	Water -- seltzer, three or four bottles and cigars -- good ones.
+M	WAITZ	I can see this session is going to be exhaustive.
+M	PREYSING	Now to proceed with the projected merger, the advantages for the Saxonia are so obvious...
+M	GERSTENKORN	Oh -- now let's talk like adults. You want to tell us now a along story of what your factory can do. We know all that you could tell us and if you tell the truth it wouldn't sound so good. When you first approached us...
+M	PREYSING	We did not approach you.
+M	WAITZ	Letter on file September fourteenth would show that you approached...
+M	PREYSING	It isn't so -- this was a response to a tentative feeler of your own.
+M	GERSTENKORN	Tentative my foot -- a month before this your old father-in-law came very privately and scratched at my door.
+M	PREYSING	Scratched -- We did not take the initiative.
+M	GERSTENKORN	Of course you took the initiative.
+M	ZINNOWITZ	Good morning, gentlemen -- I see the conference is already underway.
+M	PREYSING	Oh, here you are, Justice Zinnowitz -- I'm at cross-purposes with these gentlemen -- will you clear up the situation?
+M	ZINNOWITZ	But the situation is perfectly clear, If you will allow me --
+M	GERSTENKORN	How clear is Manchester?
+M	ZINNOWITZ	Foggy -- frightfully foggy, always, I'm told. Have you said anything about Manchester, Mr. Preysing?
+M	PREYSING	I can make no statement about Manchester at this time.
+M	ZINNOWITZ	Well -- gentlemen.
+M	ZINNOWITZ	Since, on the eleventh of June of this year -- when the first negotiations for a merger...
+M	GERSTENKORN	Thank God we're beginning at the beginning.
+M	ZINNOWITZ	As you remember it -- when you approached us...
+M	GERSTENKORN	We did not approach you.
+M	PREYSING	I know you did -- I said you did --
+M	GERSTENKORN	And I said we didn't.
+M	WAITZ	And I know we didn't.
+F	GRUSINSKAYA	Oh -- I was ambitious then -- ambition was in my blood -- no rest, no stopping. We were drilled like little soldiers -- We danced in the school of the Imperial Ballet, in St. Petersburg. I was little and slim but hard as diamond -- a duty machine -- No rest, no stopping. And then -- I became famous and whoever is famous is alone... But why should I be telling you this? Last night I did not know you at all -- who are you, really? -- I do not even know your name.
+M	BARON	I am Felix Benvenuto von Gaigern. My mother called me Flix.
+F	GRUSINSKAYA	Flix. -- And how do you live? What kind of a person are you?
+M	BARON	I'm a prodigal son, the black sheep of a white flock -- I shall die on the gallows.
+F	GRUSINSKAYA	Really?
+M	BARON	Really, I haven't a bit of character. None at all.
+F	GRUSINSKAYA	No?
+M	BARON	When I was a little boy I was taught to ride and be a gentleman -- at school, it was a monastery, I learned to pray and lie -- and ---
+F	GRUSINSKAYA	And?
+M	BARON	And then, in the war, to kill and hide. That's all.
+F	GRUSINSKAYA	And what do you do -- now?
+M	BARON	I'm a gambler -- I'm running at large like a happy pig, devouring anything of life that pleases me, I really belong in jail
+F	GRUSINSKAYA	Oh! What a picture -- and what else?
+M	BARON	I'm also a criminal and a hotel thief.
+F	GRUSINSKAYA	That's a silly joke.
+M	BARON	Please look at me. You must believe me -- you must believe that I love you -- that I have never known what love is -- until last night.
+F	GRUSINSKAYA	What is the matter?
+F	GRUSINSKAYA	Flix!
+M	BARON	There.
+F	GRUSINSKAYA	Oh --
+F	GRUSINSKAYA	Did you come here just -- just for that? Oh -- it's horrible.
+F	GRUSINSKAYA	You may keep the pearls -- I don't want them any more -- I'll make you a present of them.
+M	BARON	I don't want them now.
+F	GRUSINSKAYA	I'll not denounce you.
+M	BARON	I know.
+F	GRUSINSKAYA	So --
+M	BARON	Yesterday I was a thief -- but now, --
+F	GRUSINSKAYA	But now, you must go... I give you the pearls. But now you must go ---
+M	BARON	I wanted money desperately -- Can you understand? -- That's why I wanted the pearls. I was threatened -- I was desperately in need of a certain big sum of money. I've been following you -- I've admired you. But I have forced myself not to think about you -- Last night, at last, I managed to came into your room and -- and now.
+F	GRUSINSKAYA	And now?
+M	BARON	I couldn't go through with it. Remarkable.
+M	BARON	Do you understand?
+F	GRUSINSKAYA	Yes -- yes -- yes.
+F	GRUSINSKAYA	Quickly -- here.
+F	GRUSINSKAYA	Good morning, Suzette.
+F	SUZETTE	Good morning, Madam.
+F	SUZETTE	Madam has slept well?
+F	GRUSINSKAYA	Oh, yes, Suzette.
+F	SUZETTE	Madam will dress now, it is late.
+F	GRUSINSKAYA	Five minutes, Suzette, come back in five minutes. I'll ring.
+F	SUZETTE	Yes, madam Suzette knows all about it.
+F	SUZETTE	Madam is beautiful this morning.
+F	GRUSINSKAYA	Yes, Suzette.
+F	GRUSINSKAYA	You must go now.
+F	GRUSINSKAYA	There -- it begins.
+F	GRUSINSKAYA	Hello -- hello -- Meierheim? Yes...
+F	GRUSINSKAYA	No --
+F	GRUSINSKAYA	What?... Cancel Vienna?... Are you mad? We always have great success in Vienna... Certainly not. Come here and see me... yes... good-bye.
+F	GRUSINSKAYA	There -- the day begins... I must go to rehearsal.
+M	BARON	Grusinskaya --
+F	GRUSINSKAYA	Yes.
+M	BARON	You do believe that I really love you?
+F	GRUSINSKAYA	Yes -- If I didn't believe that, I'd die after last night.
+M	BARON	I want to be good to you -- madly good.
+F	GRUSINSKAYA	Suzette will be back here in a minute.
+M	BARON	I'll go -- good-bye.
+F	GRUSINSKAYA	Shall I see you again?
+M	BARON	I --
+F	GRUSINSKAYA	Suzette will be back here any minute.
+M	BARON	When are you leaving Berlin?
+F	GRUSINSKAYA	Very early in the morning.
+M	BARON	For Vienna?
+F	GRUSINSKAYA	Can't -- can't you -- Couldn't you come too -- I think it would be better -- for us -- for us both.
+M	BARON	Oh -- yes but -- later.
+F	GRUSINSKAYA	Why later?
+M	BARON	I have no money now -- I must get some first -- I must get some. I'll give you what you need -- I have money.
+M	BARON	Oh no -- that would spoil everything. I'll -- I will manage somehow -- I'll manage myself. I will go with you. When does the train leave?
+F	GRUSINSKAYA	Six twenty-seven in the morning... But the money?
+M	BARON	Never mind -- I'll get it. I have a whole day. I'll be on that train.
+F	GRUSINSKAYA	I shall dance and you'll be with me and then -- listen -- After that you will come with me to Lake Como, I have a villa there. The sun will be shining. I will take a vacation -- six weeks -- eight weeks. We'll be happy and lazy. And then you will go with me to South America -- oh!
+F	GRUSINSKAYA	You must go now. Be careful on your way to your room.
+M	BARON	I'll go. -- I love you. I'll be on that train. I'll get the money.
+F	GRUSINSKAYA	Don't do anything foolish -- I'm alarmed about you.
+M	BARON	Don't worry. I'll be on the train. He leaves.
+F	GRUSINSKAYA	Yes, Pimenov... Yes... where are you, in your room? Come, I will see you now... hurry.
+F	GRUSINSKAYA	Not that dark dress -- something light -- bright -- it's a sunny morning, Suzette.
+F	GRUSINSKAYA	Come in.
+F	GRUSINSKAYA	Good morning, Pimenov.
+M	PIMENOV	Good morning, Gru -- your --
+F	GRUSINSKAYA	Pimenov, I have an idea -- a new ballet -- it must have mad music -- I'll explain it to you later. But now, hurry to the theatre -- I want full rehearsal -- properties -- full ballet and some musicians. Hurry -- Quickly. I will be there --
+M	PIMENOV	Gru -- you are positively radiant.
+F	GRUSINSKAYA	Yes, Pimenov. One minute, Suzette, I will call you.
+F	GRUSINSKAYA	Hello -- will you -- will you get me Baron von Gaigern, please... yes... Baron von Gaigern -- yes...
+F	GRUSINSKAYA	Will you get me Baron von Gaigern, please... Cherie... yes... it is you... nothing... good morning, good morning, cherie... nothing... no... just to tell you I'm happy.
+M	SENF	Step back please.
+M	SENF	I've told you three times -- Baron von Gaigern is out.
+M	CHAUFFEUR	Did he leave any message for me?
+M	SENF	No, he did not -- there is no message.
+M	DOCTOR	Any letters?
+M	SENF	No, doctor.
+M	KRINGELEIN	Oh, Doctor, such a day -- such a day!
+M	BARON	Madam Grusinskaya.
+M	SENF	For Madam Grusinskaya.
+M	CLERK	Madam Grusinskaya -- at once --
+M	SENF	Your chauffeur's been waiting, Baron.
+M	BARON	All right.
+M	KRINGELEIN	Baron, we must have gone a hundred miles an hour, at least...
+M	BARON	Yes, quite.
+M	KRINGELEIN	We've been together all day... and in an aeroplane.
+M	DOCTOR	Life is changing you, Mr. Kringelein.
+M	KRINGELEIN	Yes, thanks to the Baron. The best shops, the very best. Look, Doctor, silk -- feels so nice on the skin... a London hat, see -- made in England, that's silk, too -- fifty marks... Look, the price is on it. That was half my salary before. The Baron is a very fine gentleman -- no one in my life has been so nice to me as the Baron.
+M	BARON	I'm going to change and we'll meet for a drink in the Yellow Room.
+M	KRINGELEIN	In the Yellow Room, where the music's playing and the ladies are?
+M	BARON	Where the music's playing and the ladies are...
+M	DOCTOR	No pain, Mr. Kringelein?
+M	KRINGELEIN	Pain? Oh, no, Doctor. I think if I had pain I'd be too happy to notice it...
+M	ZINNOWITZ	...and let me say again for the tenth time... ...you people were quite ready for the merger. You declared yourselves... fully agreed on all the terms -- Why should the signing of these articles be suddenly held up?
+M	GERSTENKORN	I've admitted that at one time we had reason for desiring ther merger -- What reason have we now? The Preysing Company has fallon upon evil days, very evil days.
+M	PREYSING	Evil days -- I've shown you here -- -- my company exports to the Balkans alone, sixty-five thousand marks worth of mop rags a year.
+M	GERSTENKORN	Mop rags -- mop rags -- we're interested in something quite different!
+M	PREYSING	What?
+M	SCHWEIMANN	Shall I tell them again?
+M	GERSTENKORN	Why waste time -- it's getting late.
+M	SCHWEIMANN	You see -- what we are interested in --
+M	GERSTENKORN	Ah, come on -- we're going home.
+M	ZINNOWITZ	Mr. Preysing has too scrupulous a regard for certainties...
+M	GERSTENKORN	You've talked enough today, you're hoarse now.
+M	GERSTENKORN	Sorry, Preysing.
+M	PREYSING	You've decided against the merger?
+M	GERSTENKORN	Yes --
+M	PREYSING	Then, it's all over?
+M	GERSTENKORN	Yes --
+M	WAITZ	Well -- well -- You could call my office.
+M	GERSTENKORN	Goodbye, Preysing, I hope you pull through. This is a very bad time to be in such a crisis. We've...
+M	PREYSING	Why talk -- it's over -- it's over -- it's finished. You've broken off negotiations. You did it. You're calling them off. You had nothing on your mind all day, but Manchester, -- Manchester -- Manchester. You don't suppose for one moment that I'm such a fool as not to have something that I could say definitely about Manchester.
+M	GERSTENKORN	What?
+M	PREYSING	Oh no -- no -- the session is over. Let's go, it's off. Thank you, gentlemen.
+M	GERSTENKORN	If you actually have news from Manchester then...
+M	PREYSING	Gentlemen, I am now free to announce... ...that the deal between my firm and the Manchester Cotton Company has been successfully negotiated.
+M	GERSTENKORN	Preysing, you're joking with us.
+M	SCHWEIMANN	You're a deep one.
+M	GERSTENKORN	In that case give us the articles. We'll sign at once. We know all the details...
+M	PREYSING	I thought we'd suspended negotiations, gentlemen.
+M	GERSTENKORN	Under these circumstances it's quite a different matter.
+M	PREYSING	Under these circumstances we might refuse to sign.
+M	GERSTENKORN	Come on -- business is business -- Come on --
+M	GERSTENKORN	Here's my signature -- here Preysing, sign here.
+M	ZINNOWITZ	What a session this has been.
+M	SCHWEIMANN	It's twenty-five to six.
+M	WAITZ	We should celebrate this with a bottle of wine.
+M	GERSTENKORN	See you soon, Preysing. Next week we'll meet and discuss further details.
+M	PREYSING	Next week.
+M	PREYSING	Next week.
+M	ZINNOWITZ	You let me talk till I'm hoarse and you had Manchester sewed-up all the time. Why?
+M	ZINNOWITZ	Well -- the deal has been put through.
+M	PREYSING	Yes, it has been put through -- it has been put through.
+M	ZINNOWITZ	What's the matter with you?
+M	PREYSING	Bluff -- Bluff -- all bluff.
+M	ZINNOWITZ	What's bluff?
+M	PREYSING	That.
+M	ZINNOWITZ	'Deal with Manchester definitely off! "Preysing, oh -- I'd never have thought it of you.
+M	PREYSING	No one would have thought it of me. I've been getting rusty in Fredersdorf. Well, if bluff is what the world wants I guess I can put up as big a bluff as anyone. From now on...
+M	ZINNOWITZ	You must go to Manchester at once yourself and really see it through.
+M	PREYSING	Yes -- I must go to England -- I was desperate -- Now I don't care -- This sort of thing goes to a man's head.
+M	ZINNOWITZ	What you need is some relaxation.
+M	PREYSING	Yes -- that's what I want -- I'd like to tear loose -- I'd like a drink. I'd like to go down to that dancing place. I'd like to start something.
+M	ZINNOWITZ	I can understand that -- after your -- uh --
+M	PREYSING	Say it -- say it -- my lie -- it's the first time in thirty years that I've ever... Where's that stenographer? Miss Flaemm...
+M	ZINNOWITZ	What do you want with her?
+M	PREYSING	I want to see her, I want to do some dictating -- report of the conference for my father-in-law.
+M	ZINNOWITZ	She had an engagement in the Yellow Room at five o'clock -- she was in a hurry.
+M	PREYSING	Zinnowitz, would you say she was pretty?
+M	ZINNOWITZ	Pretty as a picture.
+M	PREYSING	Let's go down and find her -- I need a drink -- Come along Zinnowitz. I don't know anything about women -- been married for twenty-six years.
+M	ZINNOWITZ	Bluff does it, Preysing, bluff does it. Goodnight.
+M	PREYSING	Aeh!
+M	PREYSING	Hello... Father-in-law?... Is that you?... The agreement is signed -- I did it... yes, father-in-law... but now I must go to Manchester.
+M	DOCTOR	Barman -- whiskey -- For you, Mr. Kringelein?
+M	KRINGELEIN	For me? -- Oh, please, something sweet and cold.
+M	BARMAN	A Louisiana flip, sir?
+M	KRINGELEIN	A Louisiana flip, that sounds very nice -- sweet, eh? --
+M	DOCTOR	What do you do in the Grand Hotel? Eat -- sleep -- loaf around -- do business -- flirt a little -- dance a little. A hundred doors to one hall and nobody knows anything about the person next to him. When you leave another takes your room and lies in your bed -- the end.
+F	FLAEMMCHEN	Good evening, Mr. Kringelein -- Where's the Baron?
+M	KRINGELEIN	I'm waiting for him here. The Baron and I have been together all day. A hundred miles an hour -- in a motor car -- and in an aeroplane -- It was marvelous --
+F	FLAEMMCHEN	Mr. Kringelein -- How you have changed, you look so nice.
+M	KRINGELEIN	Oh, thank you, Miss Flaemm. Oh, please, Miss Flaemm -- Permit me, Miss Flaemm, won't you have something sweet -- a Louisiana flip. A Louisiana flip.
+F	FLAEMMCHEN	No - absinthe.
+M	KRINGELEIN	Yes -- that --
+F	FLAEMMCHEN	You like music?
+M	KRINGELEIN	Yes -- it's stimulating -- a man might --
+F	FLAEMMCHEN	A man might what?
+M	KRINGELEIN	I don't know -- I'd like to do anything --
+F	FLAEMMCHEN	Oh -- you would!
+M	BARON	Hello -- sorry I'm late.
+M	KRINGELEIN	Oh -- here you are, Baron. A drink -- A Louisiana flip?
+M	BARON	Hello, Mr. Kringelein. How do you feel now?
+M	KRINGELEIN	A little strange, Baron.
+F	FLAEMMCHEN	I'd given you up.
+M	BARON	Sorry.
+M	KRINGELEIN	A drink, Baron -- A Louisiana flip?
+M	BARON	No thanks -- keeping my head clear.
+F	FLAEMMCHEN	Dance then?
+M	KRINGELEIN	She's beautiful -- isn't she?
+M	DOCTOR	Oh -- there are plenty of women.
+F	FLAEMMCHEN	What have you been doing all day?
+M	BARON	Chasing around.
+F	FLAEMMCHEN	Chasing what?
+M	BARON	Money.
+F	FLAEMMCHEN	You were very different yesterday.
+M	BARON	Yesterday -- yes -- that was yesterday.
+M	DOCTOR	Well, Mr. Kringelein, are you getting what you're looking for?
+M	KRINGELEIN	What, Doctor?
+M	DOCTOR	A masculine paradise -- drink, the ladies, dancing...
+M	KRINGELEIN	I had a very good opportunity, a young lady asked me to dance -- I ought to be able to dance, it seems to be very important.
+M	DOCTOR	You must learn as quickly as your time allows -- Believe me Mr. Kringelein, a man who isn't with a woman is a dead man.
+M	KRINGELEIN	Haven't you anyone -- Haven't you anybody -- you -- I mean -- Are you all alone in the world.
+M	DOCTOR	I'm always alone -- I have been everything.
+M	KRINGELEIN	Everything?
+M	DOCTOR	I was sent as a military surgeon to South Africa. Stinking climate. Taken prisoner. Home on parole not to fight. I was a surgeon in the Great War till the end. Grenade in the face. Carried diphtheria bacilli in the wound until 1920. Isolated two years. I've been everything.
+F	FLAEMMCHEN	That was lovely.
+M	BARON	Will you do me a big favor?
+F	FLAEMMCHEN	I'll do anything for you.
+M	BARON	Would you like to make a man happy?
+F	FLAEMMCHEN	Yes -- I'd love to.
+M	BARON	Then dance the next number with Kringelein.
+F	FLAEMMCHEN	Why?
+M	BARON	I feel sorry for him.
+F	FLAEMMCHEN	You're not a bit like you were yesterday.
+M	BARON	I fell in love last night -- the real thing.
+F	FLAEMMCHEN	Oh -- there's no real thing -- it doesn't exist.
+M	BARON	I thought that, too -- but I found that it does. Come along, dance with Kringelein.
+F	FLAEMMCHEN	Anything for you.
+M	PREYSING	Miss Flaemm.
+F	FLAEMMCHEN	Hello!
+M	PREYSING	I must speak with you, Miss Flaemm.
+F	FLAEMMCHEN	Presently, Mr. Preysing.
+M	PREYSING	It's urgent.
+M	BARON	Pardon me, the lady has urgent business here with me.
+M	PREYSING	Insolent -- Berlin manners.
+M	KRINGELEIN	I wish you a very good evening, Mr. Preysing. You are staying here, too, Mr. Preysing?
+M	PREYSING	I don't know you.
+M	KRINGELEIN	Oh -- you must know me -- Kringelein at the plant. Assistant bookkeeper, building C, room twenty-three -- third floor.
+F	FLAEMMCHEN	Come and dance with me, Mr. Kringelein.
+M	PREYSING	I must speak to you, Miss Flaemm -- business.
+F	FLAEMMCHEN	Tomorrow morning.
+M	PREYSING	No -- now.
+F	FLAEMMCHEN	Do you gentlemen know each other, Mr. Kringelein -- Mr. Preysing -- Baron von Gaigern.
+M	PREYSING	Mr. Kringelein will be a good friend and not accept your invitation to dance.
+M	KRINGELEIN	I could not think of not accepting.
+M	PREYSING	You say that you are employed by us in Fredersdorf, and here you are in Berlin, indulging in diversions which ill befit your position and which are very much beyond your means -- Quite extraordinary, Mr. Kringelein, I think we will look into your books.
+F	FLAEMMCHEN	Now, children, no fighting -- save that for the office. Let's have our dance.
+M	PREYSING	I'll remember you, Mr. Kringelein.
+M	BARON	Oh, let the poor devil alone.
+M	PREYSING	I did not ask your advice.
+M	BARON	I think it would be much better if you went away.
+M	PREYSING	We shall see who remains here the longer.
+M	BARON	As you will.
+F	FLAEMMCHEN	You must look at my face and not at the floor.
+M	KRINGELEIN	Yes.
+F	FLAEMMCHEN	You're trembling.
+M	KRINGELEIN	I never danced before -- in public.
+F	FLAEMMCHEN	You dance splendidly.
+M	KRINGELEIN	I'm happy, Miss Flaemm.
+F	FLAEMMCHEN	Really?
+M	KRINGELEIN	For the first time in my life, I'm happy.
+F	FLAEMMCHEN	Let's stop -- I'm tired.
+M	KRINGELEIN	Thank you, Miss Flaemm.
+M	PREYSING	Well now, Miss Flaemm, we can talk.
+M	KRINGELEIN	Some champagne, Miss Flaemm?
+M	PREYSING	You may go, Mr. Kringelein.
+M	KRINGELEIN	Does the world belong to you, Mr. Preysing?
+M	PREYSING	What is this insolence?
+M	KRINGELEIN	Do you think you have free license to be insulting? Believe me you have not. You think you're superior, but you're quite an ordinary man.
+M	PREYSING	Go away -- go away.
+F	FLAEMMCHEN	Please -- please!
+M	KRINGELEIN	You don't like to see me enjoying myself.
+M	PREYSING	Who are you? -- An embezzler most likely.
+M	KRINGELEIN	An embezzler -- you're going to take that back, right here in the presence of this young lady -- who do you think you're talking to? You think I'm dirt, if I'm dirt, you're a lot dirtier, Mr. Industrial Magnate Preysing.
+M	PREYSING	You're discharged.
+M	KRINGELEIN	Me?
+M	PREYSING	Yes you -- shut your mouth -- get out -- you're discharged.
+M	KRINGELEIN	You can't discharge me -- I'm my own master now -- at last. I'm ill, I'm going to die -- do you understand? I'm going to die very soon. Nothing can happen to me now. Nobody can do anything any more to me. By the time you can have discharged me I shall have been dead already.
+M	DOCTOR	Come, Mr. Kringelein.
+M	PREYSING	The man's insane -- he acts as if he is glad he is going to die... I shall see you in the lobby in half an hour.
+M	HOUSE DETECTIVE	Better let him stay -- I've sent for the Baron... How's your wife coming along?
+M	SENF	I was at the hospital all night walking up and down the corridor. They wouldn't let me in to see her. She has the pains, but the child doesn't come and I have to stay here chained to this desk.
+M	HOUSE DETECTIVE	It will be all right.
+M	SENF	I hope so.
+M	PREYSING	Did you send that page?
+M	SENF	The young lady's there, sir.
+F	FLAEMMCHEN	Oh, yes, Mr. Preysing?
+M	PREYSING	Sit here. Cognac -- for you?
+F	FLAEMMCHEN	Nothing.
+M	PREYSING	I'm going to keep an eye on that Kringelein fellow. I'll find out where he gets the money to hang around the Grand Hotel.
+F	FLAEMMCHEN	Well -- you want me?
+M	PREYSING	Yes.
+F	FLAEMMCHEN	Well?
+M	PREYSING	I must go to England -- at once.
+F	FLAEMMCHEN	Well?
+M	PREYSING	You see, I'd like to take a secretary with me for my correspondence and -- humm -- humm -- for company on the trip -- I'm nervous -- I need somebody -- I don't know if you quite understand me. You said you have travelled with gentlemen -- and I mean --
+F	FLAEMMCHEN	I understand perfectly.
+M	PREYSING	What do you think your salary would be -- for such a trip?
+F	FLAEMMCHEN	Wait -- I must figure it up. First, I'll need -- clothes -- shoes -- it's cold in England in March, I'll need a suit... You'd want me to look nice?
+M	PREYSING	Of course -- of course.
+F	FLAEMMCHEN	A thousand marks --
+M	PREYSING	It's agreed -- I will get a room here for you.
+M	PREYSING	I can get a room here in the Grand Hotel for you.
+M	PREYSING	Can you pay some attention to me?
+F	FLAEMMCHEN	Oh, yes.
+M	PREYSING	Insolent young cub!
+F	FLAEMMCHEN	You mean Baron von Gaigern?
+M	PREYSING	Baron!
+F	FLAEMMCHEN	Well, he's a gentleman!
+M	KRINGELEIN	The Baron is tired?
+M	BARON	No, Kringelein, not tired, -- just -- Well -- well --
+M	KRINGELEIN	Perhaps this evening, Baron, we could go to the Casino -- the place we passed with the marvelous bright lights?
+M	BARON	I'd like to Kringelein, but I can't -- I am broke!
+M	KRINGELEIN	Broke -- A Baron? But, Baron --
+M	BARON	Excuse me, Mr. Kringelein.
+M	BARON	I've quit.
+M	CHAUFFEUR	You can't.
+M	BARON	I'm not going to get those pearls and neither are you.
+M	CHAUFFEUR	What about the money?
+M	BARON	I'll pay you back.
+M	CHAUFFEUR	How?
+M	BARON	I have an idea working in my head...
+M	CHAUFFEUR	You might find a bullet through that head...
+M	BARON	If you did that, you'd get nothing except the police after you. If you wait -- I'll give you your six thousand back --
+M	VOICE	Madam Grusinskaya's car -- Madam Grusinskaya's car.
+M	INSIDE PORTER	Madam Grusinskaya's car --
+M	MEGAPHONE	Madam Grusinskaya's car --
+M	BARON	Later.
+F	GRUSINSKAYA	Go on please -- go on, Suzette.
+M	BARON	Bless you...
+F	GRUSINSKAYA	Are you coming to the theatre? Oh -- I shall dance tonight -- How I shall dance -- I want to feel that you are in the theatre.
+M	BARON	I can't.
+F	GRUSINSKAYA	No?
+M	BARON	No! I can't explain now. Oh, look -- the pearls. You wear them now...
+F	GRUSINSKAYA	Why do you think --
+M	BARON	Why?
+F	GRUSINSKAYA	They've brought me such good luck -- you --
+F	GRUSINSKAYA	I'm worried about you.
+M	BARON	Don't.
+F	GRUSINSKAYA	On the train?
+M	BARON	Yes -- I will be on the train.
+F	GRUSINSKAYA	Till then.
+M	BARON	Bless you --
+M	KRINGELEIN	Was the Baron joking, or is it really true that the Baron is -- in financial straits.
+M	BARON	Absolutely true, Kringelein and I have to raise some money immediately.
+M	KRINGELEIN	If the Baron -- if you would permit me --
+M	BARON	What?
+M	KRINGELEIN	I would be awfully glad to oblige, you've been so decent to me. Three hundred?
+M	BARON	If I could get into a game I might win some.
+M	KRINGELEIN	Gambling! I'd like that. I have over six thousand eight hundred marks with me.
+M	BARON	If we could scare up some men to play.
+M	KRINGELEIN	We could come to my room.
+M	BARON	Good!
+M	BARON	Going?
+F	FLAEMMCHEN	Yes --
+M	BARON	Ready, Kringelein?
+M	KRINGELEIN	Ready, Baron.
+M	BARON'S VOICE	All right, gentlemen.
+M	VOICES	I play -- I play -- Here -- Up -- Playing --
+M	KRINGELEIN'S VOICE	Yes -- me.
+M	KRINGELEIN	Is that too much, Baron?
+M	BARON	No -- not at all.
+M	KRINGELEIN	All right then.
+M	BARON	All right then.
+M	A MAN	Don't show them.
+M	KRINGELEIN	What do I do now?
+M	A MAN	Turn 'em up.
+M	KRINGELEIN	Oh yes -- that's right -- look! I win, don't I --
+M	BARON	There you are gentlemen.
+M	A MAN	Will you take the bank, sir?
+M	KRINGELEIN	Yes -- I'll take everything gentlemen -- please, let us drink -- champagne --- champagne is expensive and good. I'm winning more than I used to earn in a year -- double what I used to earn.
+M	KRINGELEIN	Where is the Baron -- where are you, Baron?
+M	KRINGELEIN	Excuse me, gentlemen.
+M	DOCTOR	I'll take the bank -- All right, gentlemen.
+M	BARON	That was my last.
+M	KRINGELEIN	You've lost everything?
+M	BARON	I've no luck.
+M	KRINGELEIN	Pardon me, Baron. Permit me again...
+M	BARON	Drink to me, Kringelein -- it's my last chance.
+M	KRINGELEIN	I do drink, Baron -- I drink to you, Baron and to win. It's good, -- come along, Baron.
+M	BARON	I take five hundred.
+M	KRINGELEIN	All of that at once, Baron?
+M	BARON	Eight.
+M	DOCTOR'S VOICE	Nine.
+M	BARON	That's it. The luck's with you.
+M	VOICES	Come along, Mr. Kringelein. Sit here.
+M	KRINGELEIN	I'm having luck for the first time in my life.
+M	A MAN	Your bank, Mr. Kringelein.
+M	DOCTOR	Out, Baron?
+M	BARON	For a while -- I'll recover -- in ten or twenty years. Look at that.
+M	KRINGELEIN'S VOICE	I've won again, Baron -- I've won again.
+M	KRINGELEIN	Baron, I drink and win -- I drink and win -- I win and drink! towards him, counting it, eagerly, frantically, not the movement of a miser, not a greedy movement, but the movement of an excited child liberated. Money has
+M	A MAN	There are complaints in the hotel about the noise.
+M	VOICES	What time is it? Getting late? Let's break it up! You've been very lucky... Where's my coat? Let's go. He's drunk anyway!... Goodnight, Baron. Let's wind up the game, I'm broke and tired; you can't play against him. I put my hat down here, somewhere. I think I'll have a drink before I go. By the way, I've got to see you tomorrow morning. How've you been, Doctor?
+M	KRINGELEIN	Oh, don't go, gentlemen! -- Stay a while. Be my guests!
+M	KRINGELEIN	I oughtn't to presume, but I -- I'm so grateful to you -- it's been so marvelous. The first time in my life I have gambled -- I've danced! Oh, you can laugh, gentlemen, but it's the first time in my life I've ever tasted life!
+M	A MAN	Splendid!
+M	KRINGELEIN	Life, gentlemen, is wonderful, but very dangerous. You must have courage for it, then it's wonderful. You gentlemen don't know that because you are all healthy and happy, but I -- believe me -- a man must know death and not until then does a man know anything about life.
+M	A MAN	Rejoice in life while yet the small lamp burns.
+M	A MAN	It's a short life and a gay one...
+M	KRINGELEIN	Every glass high to life -- the splendid, dangerous, mighty, brief -- brief life -- and the courage to live it. Baron, you know -- I've only lived since last night -- but that little while seems longer than all the time before -- all the --
+M	MAN	Drunk.
+M	ANOTHER MAN	Poor fellow.
+M	VOICES	Drunk? No, he's ill. Looks ill. He's a doctor -- The doctor's here -- He's just drunk!
+M	DOCTOR	Gentlemen, this man is ill -- very ill -- if you will leave.
+M	VOICES	Certainly, Doctor. Goodnight! Goodnight, Baron! Bad luck!
+M	DRUNKEN MAN	He's not used to champagne -- why does he drink it?
+M	MAN	Can I help, doctor?
+M	DOCTOR	No, the Baron will stay.
+M	BARON	Certainly.
+M	DOCTOR	It will be over in a minute.
+M	KRINGELEIN	Over -- over so soon -- it has just begun. Oh, the pain.
+M	DOCTOR	Try and sleep, Kringelein, don't be afraid.
+M	KRINGELEIN	I'd like to live a little longer but -- I'm not afraid to die -- I'm not...
+M	BARON	You'll be all right, Kringelein. cigarette, moves to the table. He seizes
+M	KRINGELEIN'S VOICE	My pocketbook... my money in it... What do you say -- what?
+M	DOCTOR'S VOICE	You what -- Oh, isn't it there?
+M	KRINGELEIN'S VOICE	No -- But no I -- Baron, I've lost my pocketbook.
+M	DOCTOR	There is no pocketbook here... On the floor probably.
+M	KRINGELEIN	More than fourteen thousand marks... were in that pocketbook.
+M	DOCTOR	Fourteen thousand marks... One can travel -- one's happiness might depend on fourteen thousand marks -- don't you think so, Baron?
+M	BARON	Quite possibly.
+M	KRINGELEIN	Oh, I've got to find it.
+M	DOCTOR	Stay where you are.
+M	KRINGELEIN	No -- I must find it -- Fourteen thousand two hundred marks.
+M	KRINGELEIN	I'm all right, Doctor. There's no pain now -- only you don't know what that money means to a man like me.
+M	KRINGELEIN	You don't know, because you've never lived like a dog -- in a hole -- and saved and scrimped. My life hangs upon that money, Baron. Nobody gives you anything. You have to buy everything and pay cash for it. I wanted to pay for my last days with that money. Every hour costs money. I've nothing -- nothing but that pocketbook. and knees talking to I must have it back. like an animal along
+M	DOCTOR	He must find his money, Baron. Mr. Kringelein should find his pocketbook, Baron, shouldn't he?
+M	BARON	Here -- here it is. Here's your pocketbook, Kringelein.
+M	KRINGELEIN	Oh -- yes -- that's it -- you found it -- you found it for me, Baron.
+M	BARON	Goodnight, Kringelein.
+M	KRINGELEIN	No -- no please -- oh, don't go -- don't go -- don't leave me alone, Baron.
+M	DOCTOR	You've nothing to fear, Kringelein
+M	KRINGELEIN	No.
+M	BARON	Come, get up -- come let me help you.
+M	BARON	You're all right now -- it's very late -- goodnight, Kringelein.
+M	KRINGELEIN	Oh, no, stay here, Baron -- stay.
+M	DOCTOR'S VOICE	Goodnight, Baron.
+M	BARON	Goodnight.
+M	BARON	Flaemmchen, what are you doing here in the middle of the night.
+F	FLAEMMCHEN	Looking for my room -- one sixty- six.
+M	BARON	You live here?
+F	FLAEMMCHEN	For tonight.
+M	BARON	Oh!
+F	FLAEMMCHEN	Yes -- oh!
+M	BARON	Well -- such is life, Flaemmchen.
+F	FLAEMMCHEN	And Baron, thanks so much for everything.
+M	PREYSING	Flaemmchen!
+M	PREYSING	You are late. I've been waiting for you -- waiting.
+F	FLAEMMCHEN	I had to arrange about the trip.
+M	PREYSING	You're sweet.
+F	FLAEMMCHEN	You think so?
+M	PREYSING	Come here.
+F	FLAEMMCHEN	Here, hold up!
+F	FLAEMMCHEN	Oh -- careful, Mr. Preysing.
+M	PREYSING	Call me -- do you know -- would you -- would you like to call me by my first name?
+F	FLAEMMCHEN	Oh, no.
+M	PREYSING	Why not?
+F	FLAEMMCHEN	I couldn't do that, you're a stranger to me.
+M	PREYSING	You're a funny little creature, Flaemmchen. I can't make you out.
+F	FLAEMMCHEN	It's not funny at all. One can't get intimate just off hand. I could go to England with you and everything like that -- supposing I met you next year and I said: 'How do you do, Mr. Preysing! And you said: 'That was the young lady who was my secretary in Manchester'.
+F	FLAEMMCHEN	That's all quite proper. But supposing I met you when you were with your wife and I called out: "Hello you big baby -- remember Manchester?' And you with your wife, how would you like that?
+M	PREYSING	Please, Flaemmchen -- we'll leave my wife out of this.
+F	FLAEMMCHEN	All right. I'll get undressed -- get out.
+M	PREYSING	Aha! -- The Baron. What do you want here?
+M	BARON	I must have made a mistake.
+M	PREYSING	Made a mistake -- remarkable. We shall soon see if you made a mistake. Stay here... Give me that money.
+M	PREYSING	So that's how we stand, Baron.
+M	BARON	Look here, sir -- I'm completely at your mercy -- I'm desperate -- it's a matter of life or death -- I had to get some money -- tonight.
+M	PREYSING	Indeed you must, Baron -- you must. Humm -- humm, but you must go to jail, Baron, you're a thief.
+M	BARON	Be quiet.
+M	PREYSING	I'm going to call the police. I'm going to watch you play the great Baron with the police. Aristocrat! Aristocrat!
+M	PREYSING	The door is locked, Baron.
+M	PREYSING	Hello! Hello! --
+M	BARON	Don't do that.
+M	PREYSING	Strike me, would you? Attack me would you? Attack me --
+M	PREYSING	I'll strike you -- I'll strike you -- I'll strike you -- Strike me!
+M	PREYSING	I strike you --
+M	NIGHT GIRL	Yes -- yes -- Operator -- Operator -- They are having a nice little game up there with the telephone.
+F	FLAEMMCHEN	Mr. Kringelein -- Mr. Kringelein -- where are you?
+F	FLAEMMCHEN	Quick -- Mr. Kringelein.
+M	KRINGELEIN	Oh -- what -- what --
+M	KRINGELEIN	Oh -- oh, Miss Flaemmchen. It's you --
+F	FLAEMMCHEN	Quick -- something awful -- awful has happened. Go -- go at once, -- Mr. Preysing --
+M	KRINGELEIN	Preysing?
+F	FLAEMMCHEN	Oh, don't wait -- go -- it's awful -- it's awful.
+M	KRINGELEIN	Stay here.
+F	FLAEMMCHEN	Don't wait now -- go -- Preysing.
+M	KRINGELEIN	Mr. Preysing -- Oh, Mr. Preysing --
+M	KRINGELEIN	Oh -- the Baron -- the Baron.
+M	PREYSING	He tried to rob me -- he is dead --
+M	KRINGELEIN	My best friend -- poor, Baron -- dead -- just like that.
+M	PREYSING	-- We must do something...
+M	KRINGELEIN	Yes, the police must be called.
+M	PREYSING	No -- no -- wait -- the man was a burglar -- he was going to steal my money.
+M	KRINGELEIN	Oh, no -- no -- not the Baron.
+M	PREYSING	Where is that girl -- she was working with him -- she enticed me into her room.
+M	KRINGELEIN	Her room -- oh -- I see, Mr. Preysing -- I understand, Mr. General Director Preysing.
+M	PREYSING	I can answer for this, it was self- defense -- I can answer for this -- but that girl -- the scandal -- my wife -- my daughters, you know them?
+M	KRINGELEIN	Yes, I know them --
+M	PREYSING	The scandal -- we are men -- you -- you could take that affair of the young lady upon yourself -- take her and hold your tongue. Then you can travel -- I'll give you anything -- anything -- she was with you.
+M	KRINGELEIN	We must call the police, your excellency.
+M	PREYSING	How much -- how much do you want -- you need money -- you have nothing.
+M	KRINGELEIN	Don't worry about me, Mr. General Director Pryesing -- worry about yourself. There has been a murder -- this is room one sixty-four.
+F	GIRL	Hello -- hurry up... hurry up... someone in one sixty-four says there has been a murder.
+M	PORTER	Here - quick - here -- go to one sixty-four immediately. Give me Mr. Rohna -- Rohna the manager.
+M	ROHNA	Where?... murder?... who?... all right, I'm coming. Wait a minute. Instruct everyone to use the utmost tact -- we must have no scandal in the Grand Hotel. Answer no questions, I'm coming now -- inform the police.
+F	SUZETTE	Madam should sleep.
+F	GRUSINSKAYA	I've done my hair differently -- do you like that?
+F	SUZETTE	When a lady falls in love she does her hair differently.
+F	GRUSINSKAYA	In the middle of the night -- those flowers make me think of a funeral. Laurels and tube-roses. is chilly. She crosses the room turning out Oh, think, Suzette -- the Villa and the sun at Tremezzo -- quiet -- simple -- happy -- we'll have a guest, Suzette.
+F	SUZETTE	Yes, Madam. And now Madam will sleep. It is not long 'till the train.
+F	GRUSINSKAYA	Goodnight, Suzette.
+F	GRUSINSKAYA	Hello -- can you tell me if Baron von Gaigern is in his room -- ring him. Cherie, I must wake you or you'll miss the train. ...yes... are you ringing, he may be asleep. Cherie, you must get up and fetch me from my room -- I'm longing for you, Cherie -- I have not been to sleep -- I kept thinking you would come to me. ...Oh, but he must answer. Ring -- ring -- ring.
+F	GRUSINSKAYA	Cherie, hurry -- hurry -- hurry. Answer the phone -- what is the matter. Ring him -- ring him. Where are you -- where are you, Cherie? Why don't you answer? Well, ring him -- please -- please.
+M	BAKER	Forty-two -- forty-four -- forty-six -- forty-eight -- fifty -- fifty-two --
+M	BAKER	One hundred and eight -- one hundred and ten -- one hundred and twelve...
+M	CLERK	The night clerk has already gone -- you are late.
+M	SENF	Man -- I was at the clinic the whole night -- there are no words to describe what my wife suffered.
+M	CLERK	And the child isn't coming?
+M	SENF	No -- no -- not yet. Well, I mustn't let it interfere with my duty. Any news here?
+M	CLERK	News? Yes -- killing in number one- sixty-four.
+M	SENF	What? -- Who? -- Whom?
+M	CLERK	The big manufacturer killed Baron von Gaigern.
+M	SENF	Good heavens. What for?
+M	CLERK	I don't know.
+M	SENF	Man -- that's terrible. He was a nice fellow -- I am sorry about him.
+M	CLERK	It seems that he was a thief and an imposter.
+M	SENF	I don't believe it -- he was a real gentleman. I know people... I'm so tired I can hardly see out of my eyes. No sleep for two nights and so many duties and now this killing in the hotel -- that means a lot of work. But it's too bad about the Baron, you always felt better when he came along -- always friendly -- such an agreeable fellow.
+M	CLERK	Most imposters are --
+M	SENF	Good morning.
+M	BOYS	Good morning.
+M	SENF	Show your hands.
+M	SENF	You have dirty nails -- you little pig -- you're no good... Caps off! -- Let's see your hair. Good -- caps on! Where is number seven?... Not here? Take his name -- if he comes late again today, he's fired. Dismissed!
+M	KRINGELEIN	Please, officer.
+M	OFFICER	That will be sufficient for the present, sir, you may travel in peace.
+F	SUZETTE	And they've taken him away.
+M	FLOOR CLERK	Yes -- it's terrible.
+F	SUZETTE	Madam must not know -- you understand -- Madam must not know.
+M	FLOOR CLERK	I will tell the maids. I cannot answer for downstairs --
+M	KRINGELEIN	What's the matter?
+F	FLAEMMCHEN	Oh -- I was thinking -- Poor Baron -- Lying there, his eyes so open.
+M	KRINGELEIN	You loved the Baron, didn't you?
+F	FLAEMMCHEN	Yes --
+M	KRINGELEIN	So did I. He was friendly to me as no man ever was.
+F	FLAEMMCHEN	Perhaps he really was a burglar -- But they don't kill a man for that.
+M	KRINGELEIN	He was in desperate straits. He'd been trying to raise money all day. He laughed -- Poor devil! And then a man like Preysing kills him.
+F	FLAEMMCHEN	I didn't like Preysing right off.
+M	KRINGELEIN	Then why did you have anything to do with him?
+F	FLAEMMCHEN	Money!
+M	KRINGELEIN	Yes, of course, -- money!
+F	FLAEMMCHEN	You don't understand that do you?
+M	KRINGELEIN	Of course I do -- I never knew what money really meant till I started spending it. Do you know -- I can hardly believe that anything so beautiful should come to me from Preysing -- I'll take care of you. Will -- will you let me?
+F	FLAEMMCHEN	What?
+M	KRINGELEIN	You'll have a good time with me. Want to? I've got enough money. Ten thousand two hundred in my pocketbook. Three thousand four hundred that I won. It will last a long time. I can win more -- we'll travel.
+F	FLAEMMCHEN	Yes -- to Paris? I wanted to go there always.
+M	KRINGELEIN	Wherever you like. Here I'll give you the money I won, three thousand four hundred. Later you can have more.
+F	FLAEMMCHEN	Later?
+M	KRINGELEIN	When I -- I'm ill, Flaemmchen -- It will not be long -- I'll not last long. Will you stay with me until...
+F	FLAEMMCHEN	Nonsense! We'll find a great doctor, he'll cure you. They can cure anything these days.
+M	KRINGELEIN	Do you believe that you will have a better time with me than you would with Preysing?
+F	FLAEMMCHEN	Oh yes, of course.
+M	KRINGELEIN	Do you like me better?
+F	FLAEMMCHEN	You're a good man, Mr. Kringelein -- a very good man.
+M	KRINGELEIN	When is the next train leaving for Paris? -- Yes... Get two tickets for me... and my bill please... and the lady's -- Miss Flaemm's. We have to hurry let's pack -- we'll have breakfast on the train.
+F	SUZETTE	Madam, it is Mr. Meierheim -- he is waiting downstairs.
+F	GRUSINSKAYA	Where is Pimenov? Where is Pimenov?
+M	PIMENOV	He will be on the train.
+F	GRUSINSKAYA	But when did he go? How do you know?
+F	GRUSINSKAYA	Baron von Gaigern has left?
+F	GRUSINSKAYA	When? How long ago?
+M	VOICE OF FLOOR CLERK	The Baron left about half an hour ago, Madam.
+M	PIMENOV	Oh -- Gru -- come, come -- we'll lose the train.
+M	VOICE	Madam Grusinskaya's car...
+M	MEIERHEIM	Come along, oh, Madam, come along. The train will be going.
+F	GRUSINSKAYA	Wait a minute. I've got to ask myself.
+M	PIMENOV	What's the use of asking, Gru -- he is at the train -- He will be there.
+M	MEIERHEIM	The troupe, the scenery, everything -- all on board, waiting. You have a rehearsal in Vienna tomorrow morning. Come, Madam, are you mad?
+F	GRUSINSKAYA	Have you seen Baron von Gaigern?
+M	ROHNA	The Baron is not here, Madam.
+F	GRUSINSKAYA	He is gone?
+M	ROHNA	Yes, Madam.
+M	MEIERHEIM	Four minutes past. Please come.
+M	PIMENOV	Come, Lisaveta, he will be there -- he will be there.
+M	MEIERHEIM	Madam Grusinskaya's car.
+F	GRUSINSKAYA	Oh, the sun -- it will be sunny in Tremezzo --
+M	MEIERHEIM	Every seat for the opening has been sold at Vienna. Sold out for three days.
+F	GRUSINSKAYA	I know -- I know -- but it will be sunny in Tremezzo. We'll have a guest then.
+F	SUZETTE	Yes, Madam.
+M	VOICE	Madam Grusinskaya's car.
+M	SENF	Grand Hotel, Head Porter. What? There's been -- a child born? A boy! Yes! My child born! It is healthy... and my wife? Doing well -- all well! The child has come. They are both alive. My child...
+F	FLAEMMCHEN	Let him take it.
+M	BELLBOY	Your bag, your Excellency --
+M	KRINGELEIN	Cab please!
+M	BELLBOY	Cab, for his Excellency, Mr. Kringelein!
+M	KRINGELEIN	And now we travel, Flaemmchen... Glad?
+F	FLAEMMCHEN	Am I!
+M	KRINGELEIN	Is the bill ready -- the lady's too?
+M	SENF	At once. Any forwarding address, Mr. Kringelein?
+M	KRINGELEIN	Yes, Paris -- Grand Hotel.
+F	FLAEMMCHEN	How do you know there is a Grand Hotel?
+M	KRINGELEIN	Oh, there must be one in Paris... They have everything in Paris.
+M	SENF	Your bill, Your Excellency.
+M	SENF CLERK BOYS	Come again, your Excellency.
+M	DOCTOR	Was that Mr. Kringelein leaving?

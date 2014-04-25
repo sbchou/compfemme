@@ -1,0 +1,686 @@
+M	CHARACTER	DIALOGUE
+F	INGRID	What are you looking for?
+M	Her Swedish accent is sing-song.	
+M	JACK	Nothing.
+F	INGRID	There are no wolves in the woods so close to the city.
+F	INGRID	Snow-hare.
+F	INGRID	A hunter?
+M	No one.	
+F	INGRID	You have a gun.
+F	INGRID	You have a gun! How do you have a gun? Why should you carry such a weapon?
+M	is he.	
+F	INGRID	Jack?
+F	INGRID	Jack talk to me!
+F	INGRID	Who is he?
+M	JACK	A hunter.
+F	INGRID	He's not dressed like a hunter. Why is he alone? Hunters always go in pairs. For safety.
+M	JACK	Go for help. Call the police.
+M	not to look back.	
+M	JACK	Blending in?
+M	LARRY	Jack. What brings you to Rome?
+M	JACK	I closed the Stockholm account. LARRY might be older than JACK but he doesn't seem it. His
+M	JACK	But there were complications.
+M	JACK	Collateral damage. Two shooters. Unidentified. [A beat] And a girl.
+M	LARRY	There's a bar across the street: the L'Aquila. Freshen up. Sit tight. Give me two hours.
+M	LARRY	You started smoking again?
+M	JACK	Guess so.
+M	LARRY	Since when?
+M	JACK	Since now.
+M	WAITER	Cafe?
+M	LARRY	Due.
+M	LARRY	Stockholm account. Final installment.
+M	LARRY	You can't stay here, Jack. You won't see `em coming, not in a big city. But you can't go far, either. If the gentlemen whose accounts you closed belonged to Brink, Gallazzo, Simenov- any of the first division- you have four or five hours at most before every airport, train station, bus stop, toll booth and ski lift from Stockholm to Skopje is under surveillance.
+M	JACK	So.
+M	LARRY	So. You find a hole- somewhere nearby- and you crawl into it and you stay put until I say it's safe to come out.
+M	LARRY	Turn right outside the bar then second left. Via Spinetti. You'll find a silver Citroen C2 with Chieti plates. Check the glove box and follow the map. Castelvecchio. It's a fucking fortress. Literally. And as dead as a graveyard. Anyone within a three to five mile radius you'll see `em coming.
+M	LARRY	Get there. Stay there.
+M	LARRY	Do nothing `till you get my call. A button of light, expanding... Locals are going about their business, a few scattered
+M	MAN ON DUCATI	Buon giorno!
+M	JACK	Buon giorno.
+M	MAN ON DUCATI	Da dove provenite?
+M	JACK	America.
+M	MAN ON DUCATI	Ah! L'Americano!
+M	JACK	Si. Il Americano.
+M	MAN ON DUCATI	L'Americano ! L'Americano!
+M	VOICE (O.S.)	Can I help you?
+M	JACK	I'm no good with machines.
+M	FATHER BENEDETTO	You are American.
+M	JACK	Si.
+M	FATHER BENEDETTO	You speak Italian?
+M	JACK	Poco.
+M	FATHER BENEDETTO	Va bene! You stay at Pensione Arbruzzo.
+M	JACK	Not for much longer.
+M	FATHER BENEDETTO	On vacation?
+M	JACK	Working vacation.
+M	FATHER BENEDETTO	Lavoro? Che genere de lavoro?
+M	JACK	Photographer.
+M	FATHER BENEDETTO	Va bene. Che genere de fotografia?
+M	JACK	Pictures of the region. Architecture, landscapes...
+M	FATHER BENEDETTO	People? He stands straight and smiles winningly.
+M	JACK	No people. Sights and landmarks. For guidebooks, magazines...
+M	FATHER BENEDETTO	Ah! Magazine! Which magazine?
+M	JACK	Actually it's a syndicate. Lots of different publications. Um... Casa editrice.
+M	FATHER BENEDETTO	Va bene. So you must share a glass of wine with me. Questa sera. This evening.
+M	JACK	You're very kind, but I...
+M	FATHER BENEDETTO	Certo. You want to know the truth about Abruzzo? A priest sees everything.
+M	LARRY (V.O.)	Do you have any idea how long I've been trying to reach you? What happened to the cell I gave you?
+M	JACK	Did I forget to mention my electromagnetic hypersensitivity?
+M	LARRY (V.O.)	Don't get jumpy on me, Jack. That cell was secure. I've got a job. It's a custom fit. You don't even have to pull the trigger.
+M	JACK	Who's the client?
+M	LARRY (V.O.)	Relax. She triple checks out. Plus she comes to you. You don't have to move an inch.
+M	JACK	This is a small town, Larry. I don't like small towns. I grew up in one. Besides, I'm already attracting attention.
+M	LARRY (V.O.)	So will anyone who's trying to kill you.
+M	JACK	I'll think about it.
+M	LARRY (V.O.)	Think about this. I cleaned up your shit and made you disappear. You owe me my usual twenty percent commission plus the first installment. The rest is yours. After this you're free.
+M	FATHER BENEDETTO	Que siamo! The quality of the brandy is good, the liquor is smooth and the glass warmed by the sun.
+M	FATHER BENEDETTO	The only good thing to come from the Francesi, everything else...
+M	FATHER BENEDETTO	The French are... pezzi di merda. This is not an American discovery. Italians have known this for centuries. [In ITALIAN] When Rome called France the province of Gaul, they were just the same. Arrogant sensualists. Their cuisine is fussy and their wine effeminate. Only their brandy is worthy of any attention.
+M	FATHER BENEDETTO	Forgive me. I speak too fast. You study our history?
+M	JACK	No.
+M	FATHER BENEDETTO	You come to Italy to make a guide book and you don't care about history?
+M	JACK	I take pictures, father.
+M	FATHER BENEDETTO	Of course. You are American. You think you can escape history. You live for the present. A beat.
+M	JACK	I try to, father.
+M	3. Exit routes/foot	
+M	JACK	Un po' di formaggio, per favore.
+M	OLD WOMAN	Quale? Pecorino, parmigiano?
+M	JACK	Questo. He points.
+M	JACK	E un po' di pecorino.
+M	WOMAN	Grazie.
+M	JACK	Prego. You're welcome.
+M	WOMAN	You're American.
+M	JACK	"Amidst gathering clouds".
+M	WOMAN	You're assuming I'm English or you'd never have mentioned the weather. In fact I'm Belgian but I went to boarding school in England. And am quite happy to converse on all subjects meteorological.
+M	WAITER	Buon giorno. Desidera?
+M	WOMAN	Una spremute di limone. Per favore.
+M	WAITER	Signore?
+M	JACK	Una gelata alla fragola. Per favore.
+M	JACK	Edward.
+M	WOMAN	Mathilde.
+F	MATHILDE	It's hot. My car has no air conditioning. I asked for it, but...
+M	JACK	What car did they give you?
+M	JACK	Range?
+F	MATHILDE	One fifty to one seven five meters.
+M	JACK	Time?
+F	MATHILDE	Five seconds. Seven at the most.
+M	JACK	Targets?
+F	MATHILDE	One.
+M	JACK	Fire rate?
+F	MATHILDE	Rapid.
+M	JACK	Magazine capacity?
+F	MATHILDE	Large. Preferably 9mm Parabellum.
+F	MATHILDE	The weapon must be fairly light. And compact. Possible to be broken down into its constituent parts.
+M	L'AMERICANO	How compact?
+F	MATHILDE	As compact as possible.
+M	JACK	You want a submachine gun to fit in a lady's purse?
+F	MATHILDE	A small vanity case would be permissible.
+M	JACK	A small briefcase would be possible.
+M	JACK	X-rays? Camouflage: lap-top, DVD player, MP3 or digital camera?
+F	MATHILDE	Not necessary.
+M	JACK	Noise?
+F	MATHILDE	Silencer.
+M	JACK	No such thing. You'll have to make do with a suppressor like everyone else. It'll dampen the decibels, dislocate the sound source and reduce muzzle flash. I can't make you silent but I can make you invisible as the Finnish phrase goes, but only as long as you're prepared to lose some range.
+M	JACK	Two o'clock.
+F	MATHILDE	Excuse me?
+M	JACK	By the clothes stall. Light blue shirt, open at the neck, expensive buff suede shoes. Is he with you?
+F	MATHILDE	I didn't see him. In any case, I'm alone.
+F	MATHILDE	I can accept a slight loss of range.
+M	JACK	You want a weapon with the firing capacity of a submachine gun and the range of a rifle.
+F	MATHILDE	Can you do it?
+M	JACK	Give me a month. To trial. Then a week for final adjustments.
+M	JACK	Buon giorno.
+M	JACK	Il fermo posta?
+M	POSTMASTER	Nome?
+M	JACK	Clarke.
+M	POSTMASTER	Clarky?
+M	JACK	Clarke. Una pacchetto.
+M	POSTMASTER	Pacchetto!
+M	POSTMASTER	Clarky, Clarky, Clarky. Ecco.
+M	JACK	Grazie.
+M	POSTMASTER	Identificazione.
+M	-a barrel.	
+M	ITALIAN GIRL	Amore?
+M	JACK	Your source in Rome.
+M	LARRY (V.O.)	Clean bill of health and no OC. This was a straight favour with a dollar chaser, Jack. The guy's got a second cousin in NOCS on the graft who filched him the Socimi.
+M	JACK	I hope you paid below the odds. The more you pay them the more cops gossip in the locker room.
+M	LARRY (V.O.)	No one's gossiping, Jack.
+M	JACK	Yet.
+M	FATHER BENEDETTO	All the sheep in my flock are dear to me, but some are dearer than most. Especially those that have strayed from the fold.
+M	FATHER BENEDETTO	Fabio. He is a... [in ITALIAN] 'car doctor'. But I suspect his practice is not entirely sound. Ecco!
+M	FATHER BENEDETTO	Fagiano. Pheasant. With sauce of orange juice, orange peel, chestnuts, garlic, Marsala wine and... Come si dici in Inglese? Brodo di Pollo. Chicken broth. BENEDETTO serves each of them with a complete bird and
+M	FATHER BENEDETTO	Also: salsify in garlic butter. Mange-tout. Fried wild mushrooms with truffle.
+M	JACK	Sinful.
+M	FATHER BENEDETTO	The Holy Father eats better than this.
+M	JACK	Have you ever wanted to be anything other than a priest?
+M	FATHER BENEDETTO	Have you ever wanted to be anything other than a... come se dice in Inglese...?
+M	JACK	Photographer?
+M	FATHER BENEDETTO	Photographer.
+M	JACK	I do what I'm good at.
+M	FATHER BENEDETTO	I'm sure you have other talents. You have the hands of a craftsman, not an artist. You are good with machines. Yet you told me just the opposite when we first met.
+M	FATHER BENEDETTO	Journalism cannot make you a rich man. FATHER BENEDETTO's eyes flick over the ROLEX.
+M	JACK	No.
+M	FATHER BENEDETTO	Perhaps you are rich already?
+M	JACK	I'm not a young man. I have my savings.
+M	FATHER BENEDETTO	My meagre income is subject to the vagaries of the stock market and with church attendance declining there's less and less money in the offertory. But if a man has God in his vaults...
+M	JACK	I don't think God is interested in me. Father.
+M	FATHER BENEDETTO	I know better than to try to make a convert over pheasant and Trebbiano.
+M	JACK	What are the snakes for, father?
+M	FATHER BENEDETTO	"The grave soul keeps its own secrets, and takes its own punishment in silence." He checks the rear view mirror.
+M	JACK	Sono un amico di Padre Benedetto.
+M	FABIO	L'Americano?
+M	JACK	Buon giorno.
+M	JACK	I'm taking pictures forty minutes north of here. Right up in the mountains. Father Benedetto said you might be able to help.
+M	FABIO	You need models. For your photographs? Italian girls?
+M	JACK	My publisher wouldn't stretch to a four by four and the park trails are playing havoc with my chassis.
+M	FABIO	Want me to take a look?
+M	JACK	Not really. I just need something to work on a ruptured driveshaft.
+M	FABIO	You're a mechanic?
+M	JACK	Just a hobby. I tinker.
+M	FABIO	Help yourself. [In ENGLISH] My garage is your garage.
+M	JACK	I appreciate that. JACK picks out various implements, laying them on the work
+M	JACK	Bene?
+M	FABIO	Si! Si! Va bene!
+M	JACK	Quant'e?
+M	FABIO	Niente!
+M	JACK	Ciao. Grazie.
+M	FABIO	Ciao, Americano!
+M	CHOOP! CHOOP!	
+M	JACK	E Clara qui? [Is Clara here?]
+M	SECOND GIRL	Non e stasera qui. [She's not here tonight.]
+M	SECOND GIRL	Volete una bevanda? [Would you like a drink?]
+M	JACK	Forse un altro tempo. [Perhaps another time.]
+M	LARRY (V.O.)	Jack?
+M	JACK	I've got company.
+M	JACK	If he's not baby-sitting the Belgian contract then he's either a Joe, a cop or a shooter. He's not with The Company, they're fast: it's been three days and no TA. He's not intel: they're deep background and he wants to be noticed. He might be a cowboy but he can't be a cop: they work in pairs and he's alone. Strike Guarda di Finanza, State Police and NOCS: he's not Italian- he doesn't look like one, dress like one or behave like one. So who the hell is he?
+M	JACK	Larry? You got a long list of enemies, Jack.
+M	JACK	What's he waiting for?
+M	LARRY (V.O.)	Jack?
+M	LARRY (V.O.)	Want me to help take care of this?
+M	JACK	I can handle it.
+M	LARRY (V.O.)	You sound spooked.
+M	JACK	It's a bad line. Jack?
+M	JACK	Yes? I appreciate the value of a pre- emptive strike in circumstances like these, I really do, but if you're going to go Generation Kill then do me a favour, OK, because I'm running out of bribe money. [A BEAT] Make it look like an accident.
+F	MATHILDE	Mr. Clarke. How good to see you again.
+F	MATHILDE	Refreshments?
+M	JACK	The Carabinieri around here like roadblocks. It's cover.
+F	MATHILDE	You picked a beautiful spot.
+F	MATHILDE	You would be hard pressed to make a fast get away in this.
+F	MATHILDE	I would have thought you to have had at least an Alfa Romeo.
+M	JACK	This attracts less attention.
+F	MATHILDE	Is it far?
+M	JACK	Fifty minutes.
+F	MATHILDE	Up there?
+F	MATHILDE	The train was tiring. One has to keep alert so much in cities.
+M	JACK	I'll wake you before the turn-off.
+F	MATHILDE	Are we nearly there?
+M	JACK	The turn-off's up ahead.
+F	MATHILDE	I told you I work alone.
+M	JACK	Just a precaution. And turns off up a dirt track that disappears into the
+F	MATHILDE	Are those houses occupied?
+M	JACK	Derelict. I checked three days ago.
+F	MATHILDE	We should check again.
+M	JACK	I'll check alone. There are adders the mountains. And vipers. Your shoes.
+F	MATHILDE	I'll be careful.
+F	MATHILDE	You have tested the gun here before?
+M	JACK	Yes.
+F	MATHILDE	It's beautiful here.
+F	MATHILDE	I wish everywhere could be this tranquil.
+M	JACK	You'd be out of a job.
+F	MATHILDE	You don't like the peace?
+M	JACK	It's hard to like something you know nothing about. clods of mozarella
+F	MATHILDE	Rounds?
+M	JACK	I've made up two sorts.
+M	JACK	Thirty lead and thirty jacketed.
+F	MATHILDE	I should like a hundred of each.
+F	MATHILDE	And fifty explosive.
+M	JACK	Not a problem.
+M	JACK	Will mercury do?
+F	MATHILDE	Mercury will do very nicely.
+F	MATHILDE	I have made my own targets.
+M	JACK	Watch out for vipers.
+F	MATHILDE	Muzzle velocity?
+M	JACK	At least three hundred and sixty miles per hour. That's including twenty off the top for the sound suppression.
+F	MATHILDE	Socimi?
+M	JACK	Eight-two-one.
+F	MATHILDE	I've not had one before. You'll find it easy. I've re- balanced it for the longer barrel. The fulcrum is two centimetres forward of the grip now. Which won't matter if you're firing- and I'm guessing you are- from a fixed position.
+M	JACK	No major recoil issues. You should be able to hold onto any target. Even the smallest.
+F	MATHILDE	You've done a good job, Mr. Clarke. Thank you. Thank you very much.
+M	JACK	Good shot.
+F	MATHILDE	Go to the stones and fire near me.
+F	MATHILDE	Say...
+F	MATHILDE	...into the bush with the yellow flowers. Two bursts. Five seconds apart.
+F	MATHILDE	The sound suppression is superb. I couldn't place the direction of fire.
+F	MATHILDE	I shall require the rounds and the weapon by the first of next month. In the meantime would you tighten the adjusting screws on the sight, they are too loose. And lengthen the stock by three centimetres. I also want a sixty round magazine.
+M	JACK	You'll upset the balance.
+F	MATHILDE	I'm prepared to accept that.
+M	JACK	Then I'm happy to oblige.
+F	MATHILDE	What about the a case?
+M	JACK	A briefcase. Samsonite. Standard pattern in black with combination locks. Is there a number you'd prefer?
+F	MATHILDE	Eight-two-one.
+M	JACK	Eight-two-one.
+F	MATHILDE	What do you want done with these?
+M	JACK	Throw them in the lake.
+F	MATHILDE	How thoughtful.
+F	MATHILDE	I don't know Italian wine.
+M	JACK	Aspirinio. Like Mosacata but frizzante.
+M	JACK	It wouldn't look right if the picnic wasn't touched.
+F	MATHILDE	You chilled the wine. I thought...
+M	JACK	It had to be chilled. They're Italian cops.
+F	MATHILDE	You think of everything.
+M	JACK	I'm paid to. Don't move.
+F	MATHILDE	Wow.
+F	MATHILDE	It's so beautiful.
+M	JACK	Parnassius apollo. It's endangered.
+F	MATHILDE	You like coming here.
+M	JACK	It serves its purpose.
+F	MATHILDE	You've never taken a woman here before?
+M	JACK	No.
+F	MATHILDE	Perhaps you do not have a woman in your life. It is not easy for us to keep relationships. Not in our world.
+M	JACK	I have an acquaintance.
+F	MATHILDE	Friendships are transitory. It is...
+M	JACK	Wild boar.
+F	MATHILDE	I wish you hadn't brought me here. This is the sort of place I wish I'd discovered by myself. Then maybe one day I could have retired here. But you already know it.
+M	JACK	I'm much older than you. By the time you've retired I'll be dead.
+F	MATHILDE	We will meet as before?
+F	MATHILDE	On the first of next month?
+F	MATHILDE	Around noon?
+F	MATHILDE	Thank you for a lovely day. Mr. Butterfly.
+F	MATHILDE	You must take your mistress to the meadow for a picnic.
+M	BARMAN	Sergio Leone. Italiano.
+M	BARMAN	You like cow boy movie?
+M	JACK	Hokey.
+F	CLARA	Morboso?
+F	CLARA	Morboso.
+M	JACK	Morboso?
+F	CLARA	Morboso is like... when you can't stop thinking about something.
+F	CLARA	Or someone.
+M	JACK	You needn't act.
+F	CLARA	Act?
+M	JACK	You might have to act with your other clients but you don't have to pretend anything at all with me.
+M	JACK	I want you to be yourself with me. Be as indifferent as you like. I came here to get pleasure, not to give it.
+F	CLARA	Maybe I pretend very well. I got more tip than the other girls usually get.
+M	JACK	I don't sleep with the other girls.
+M	FATHER BENEDETTO	I've been looking for you.
+M	FATHER BENEDETTO	A man was here asking questions about you.
+M	JACK	Here?
+M	FATHER BENEDETTO	He came to the church this afternoon.
+M	JACK	What did he want?
+M	FATHER BENEDETTO	To know where you live. He said he was a friend from Switzerland.
+M	JACK	Switzerland?
+M	JACK	And you told him?
+M	FATHER BENEDETTO	Of course I do not tell him. How do I know him? He is maybe the police. Certainly he is no friend. A friend would know your pensione. Besides...
+M	FATHER BENEDETTO	Friends do not carry guns.
+M	FATHER BENEDETTO	If you live in Italy, and you are a man of the cloth, you meet many people. Besides, I lived once in Naples. If you live in Naples you know the difference between a fat wallet and a... custodia per armi di spalla. How you say in English?
+M	JACK	Shoulder holster.
+M	FATHER BENEDETTO	Si.
+M	JACK	You're a true friend, father.
+M	FATHER BENEDETTO	I am a priest.
+M	FATHER BENEDETTO	Signor Clarke?
+M	FATHER BENEDETTO	I make a mistake. He did not say he was from La Svizzera: Switzerland. He said- forgive me the names in Italian are so similar- La Svezia: Sweden.
+M	BARMAN	Someone left this for "L'Americano". This afternoon.
+M	JACK	Grazie.
+F	CLARA	Buon giorno!
+M	JACK	Buon giorno.
+F	CLARA	You are hurt?
+M	JACK	I'm fine.
+F	CLARA	What's wrong with you?
+M	JACK	It's nothing really. Just a broken rib. Un costollo rotta?
+F	CLARA	Stronzo! Let me help you!
+M	JACK	I came off my bike.
+F	CLARA	But you have to go to the hospital!
+M	JACK	No, no, no. I have pain killers. I just need a strong cup of coffee.
+F	CLARA	I know a place which make the strongest coffee in L'Aquila.
+F	CLARA	Ve bene. Tutto posto. Signor Farfalla. [Good. Everything's OK. Mr. Butterfly.]
+M	JACK	Why d'you call me that?
+F	CLARA	You have a tattoo. On your back.
+M	But not completely.	
+M	JACK	How did he know I was here, Larry?
+M	LARRY (V.O.)	You think I hired him? Are you out of your fucking mind, Jack?
+M	JACK	I doubt it. After everything I've done for you? The car, the cell phone (which you threw away), the safehouse, the fake passport? Someone has to pay for this shit, Jack! I have to pay for this shit. It comes out of my commission. You're my lousy profit margin. Why the fuck would I take a contract out on my own profit margin? You're not thinking straight. I was the one who told you to leave town! I told you to come to Rome! God damn it you've got a job to do! Why the Hell would I...
+F	CLARA	My friend Anna. This is my friend Signor Farfalla.
+M	JACK	How do you do?
+F	ANNA	I am very well thank you.
+M	JACK	Will you take a coffee with me?
+F	CLARA	That would be very good.
+M	JACK	Prego.
+F	CLARA	Anna is learning English.
+M	JACK	Have you been to England?
+F	ANNA	But you are...
+F	ANNA	Lui Americano?
+M	JACK	I am.
+F	ANNA	Ah. I have not been to England only to France. But I would love to go to America.
+M	JACK	Due cappuccini e un cafe corretto.
+F	CLARA	Anna is like all Italians. She thinks America is like in the movies. Little Italy, "West Side Story", "Chicago". I tell her in these times America is like here, there, anywhere. The streets are not... pave-ed with gold.
+M	JACK	If not with gold, than at least not with enough medieval cobbles to loosen every-self tapping screw in a Fiat.
+M	JACK	Where do you come from, Anna?
+M	JACK	Dove abita?
+F	ANNA	Ah, yes! I live in Via dell' Argilla. Nearby to Clara.
+F	CLARA	Perhaps we will have a drink together soon? I am free...
+F	CLARA	...on Monday.
+M	JACK	Great. I'll see you then.
+F	CLARA	But Eduardo... Where would you like to meet?
+M	JACK	How about our usual place? Our usual place?
+F	CLARA	I forgot. Where is our usual place?
+M	JACK	You've forgotten?
+F	CLARA	Remind me.
+M	JACK	Maybe we should try something different.
+F	CLARA	Where would you like to try, Eduardo?
+M	JACK	Locanda Grapelli?
+F	CLARA	Locanda Grapelli! Si!
+F	ANNA	This is the best food in the area.
+M	JACK	Good.
+F	CLARA	Seven?
+M	JACK	Seven.
+F	CLARA	Locanda Grapelli.
+M	JACK	Locanda Grapelli.
+F	CLARA	You'll be there?
+M	JACK	I'll be there.
+F	CLARA	See you then, Eduardo.
+M	JACK	See you then, Clara. It was a delight to meet you Anna. Arrivederci.
+F	ANNA	Arrivederci, Signor Farfalla.
+M	FATHER BENEDETTO	Buon giorno!
+M	FATHER BENEDETTO	I walk here to meditate. Once a week, Wednesday, the farthest one can travel in the week from the Sabbath. The trees are like the Stations of the Cross: by certain trees I thank God for certain favours he has granted me, or certain gifts he has made to me and all men. For example, here by this pine, I thank him for the many friendships I have and ask him to look after those of my friends who are troubled.
+M	FATHER BENEDETTO	Some walk here in the cool of evening. Others come at night.
+M	FATHER BENEDETTO	I wonder how many bastards have been made here?
+M	FATHER BENEDETTO	Perhaps you'll stay and settle here yourself?
+M	JACK	What makes you think I'm leaving?
+M	FATHER BENEDETTO	You told me as much when we first met. Besides, those who seek for peace seldom find it. They're always moving on, looking elsewhere. [A BEAT] And they are usually sinners.
+M	JACK	All men are sinners.
+M	FATHER BENEDETTO	Some are greater sinners than others. And those who seek peace have much sinning in their history.
+M	JACK	I don't seek peace. I never have.
+M	FATHER BENEDETTO	Until now.
+M	JACK	Perhaps. Perhaps I'll stay. The valley. The villages. The mountains.
+M	FATHER BENEDETTO	Forgive me. This is the priest in me speaking. And the friend. But you have done much sinning, Signor Clarke. You still do.
+M	JACK	I see a whore. She's young enough to be my daughter.
+M	FATHER BENEDETTO	I do not refer to the sins of carnality. But to the deadly sins...
+M	JACK	Aren't all sins equal?
+M	FATHER BENEDETTO	We are not discussing theology, my friend, but you. You like this town, this valley. You should like to remain here and find your peace at last. Yet you cannot. There is something you cannot ignore. Some force. Some enemy.
+M	FATHER BENEDETTO	You want to speak but you dare not. You know no one sufficiently well to share your history with them. You know I am trustworthy yet still you are cautious.
+M	FATHER BENEDETTO	What job do you do, Signor? Are you on the run, as they say?
+M	JACK	Who says?
+M	FATHER BENEDETTO	It's an expression, no?
+M	JACK	Everyone's on the run from something.
+M	FATHER BENEDETTO	Some men watch some of the shadows. You watch them all.
+M	JACK	I've done nothing I didn't have good cause to do.
+M	FATHER BENEDETTO	Do you wish to tell me?
+M	JACK	For what reason?
+M	FATHER BENEDETTO	For your own sake. Perhaps I can pray for you?
+M	JACK	I make things. Artifacts.
+M	FATHER BENEDETTO	Counterfeit money?
+M	JACK	Why do you say that?
+M	FATHER BENEDETTO	You work in metal. You are given some steel by Fabio, the car doctor.
+M	JACK	You know a lot about me.
+M	FATHER BENEDETTO	I know only what you do in the town. People talk to me. I am their priest and they trust me.
+M	JACK	And I should too?
+M	FATHER BENEDETTO	Of course.
+M	JACK	Fabio. The `car doctor'. Was he conceived here father?
+M	FATHER BENEDETTO	Why do you ask me that?
+M	JACK	He looks like you. Even more than he does in the photos you keep of each other. Where was he conceived, father? Under one of these trees? At night? Like all the other bastards?
+M	FATHER BENEDETTO	I do not remember, Signor. It was twenty-five years ago.
+M	FATHER BENEDETTO	In the end it is I who confesses to you.
+M	JACK	Expecting me to reciprocate?
+M	FATHER BENEDETTO	Perhaps. For your own good. You cannot doubt the existence of Hell. You live in it. It is a place without love. As for me, I go about my daily duties because the town requires it of me. Some know what you know. Perhaps I have no right to wear these robes. But I do have a heart full of a father's love. Something close to His heart! And for that I am both grateful and happy.
+M	FATHER BENEDETTO	What do you have, my friend? Ciao.
+F	CLARA	I did not think you would come.
+M	JACK	I wasn't sure you meant me to.
+F	CLARA	Certo.
+M	WAITER	Per due?
+F	CLARA	Si.
+F	CLARA	Una botiglia di acqua minerale non gasata et... una Parasini, per favore.
+M	WAITER	Menu in Inglese?
+M	JACK	No, grazie.
+M	WAITER	Tedesco? Olandese?
+F	CLARA	He speaks Italian. So do I. Listen: repeats her order, articulating each word emphatically,
+F	CLARA	Una botiglia di acqua minerale et una Parasini, per favore.
+M	WAITER	Gasata?
+F	CLARA	Non gasata.
+F	CLARA	Cittadina.
+M	JACK	Small towns.
+F	CLARA	Parasini. From Calabria. It is good, you will agree?
+M	JACK	It is. Very good.
+F	CLARA	Can I ask you something, Eduardo?
+M	JACK	Sure.
+F	CLARA	You are married?
+M	JACK	No.
+M	JACK	I doubt any of the couples here are. With the exception of the Germans at table seven. She's wearing a wedding ring and they haven't spoken a word to each other for eight and half minutes.
+F	CLARA	I was sure this was your secret.
+M	JACK	What makes you think I have a secret? I'm an ordinary man. I cough. I fart. I earn a living.
+F	CLARA	I do not think you are an ordinary man. I think you are a good man. But you have a secret.
+F	CLARA	He thinks we are a couple.
+M	JACK	Why spoil the illusion?
+F	CLARA	As long as we know it is an illusion.
+M	WAITER	Buona sera. Desidera?
+F	CLARA	Woooow!
+M	JACK	How is it?
+F	CLARA	Bitchin'.
+M	JACK	Bitchin'?
+F	CLARA	It's- come se dice- `slang', no? Eco.
+M	JACK	No thanks.
+F	CLARA	Come on, Eduardo!
+F	CLARA	It is good, you will agree?
+M	JACK	I will agree.
+F	CLARA	My English is nice!
+M	JACK	It's bitchin'.
+F	CLARA	You know how to swear in Italian?
+M	JACK	Sure. Bastardo. Imbecile.
+F	CLARA	"Imbecile?" Eduardo! Try: Mangia merde e morte: tuo cazzo un brufolo.
+M	JACK	Eat shit and die, pimple dick?
+F	CLARA	Perdone!
+M	JACK	I guess I've led a sheltered life. Of sorts.
+F	CLARA	Shell-tered?
+M	JACK	Too much work.
+F	CLARA	Too much work.
+F	CLARA	I don't apologise, Eduardo.
+M	JACK	For what?
+F	CLARA	For this I do. My job.
+M	JACK	Never apologise. means it.
+F	CLARA	Except this job is full of testa di cazzo.
+M	JACK	Mine too.
+F	CLARA	Lei?
+M	JACK	Si.
+F	CLARA	But you are too young to... pensione?
+M	JACK	Retire.
+F	CLARA	Si.
+M	JACK	Liar.
+F	CLARA	No!
+M	JACK	Would you be flattering me if I wasn't a client?
+M	JACK	Am I a client?
+F	CLARA	This say yes.
+F	CLARA	This...
+F	CLARA	This cannot be for sale. But I am not want to... come se dice?
+M	JACK	Give it away.
+F	CLARA	Stronzo! I buy you a present!
+M	JACK	Grazie.
+M	JACK	Grazie, Clara.
+F	CLARA	Prego. Eduardo.
+F	CLARA	My apartment is not far from here.
+M	LARRY (V.O.)	We're moving the drop.
+M	JACK	Where? We don't know yet. I'll call you ten am on the day with a venue. Give you enough time to make the noon delivery.
+M	JACK	I don't deliver, Larry. I never deliver. It's too dangerous. She comes to me. I know the town. That's what we agreed. I told `em. I told `em if there was even the slightest chance security had been breached, you'd have dealt with it immediately.
+M	JACK	Breach? What breach?
+M	LARRY	Our pretty young Belgian client and her associates think someone on your long list of enemies might have put a tail on you.
+M	JACK (V.O.)	Not possible.
+M	LARRY	Course not, Jack. But if, for the sake of argument, it was possible- I'm thinking it could be Galazzo. Or Simenov. Or Italian undercover. Cops?
+M	LARRY	The crooked kind.
+M	JACK (V.O.)	How come I'm still here?
+M	LARRY	The Belgians think they're planning to wait for the drop and exterminate you and Mathilde in one swoop.
+M	JACK (V.O.)	Where the hell's this information coming from?
+M	LARRY	I'm fucked if I know, Jack. If you want my opinion, they're just being jittery. I told `em you were the most security conscious professional I know. I told `em no one gets close to you.
+M	JACK	They don't. I told `em if we couldn't trust you to keep a tight lid on operations the who could we trust?
+M	JACK	They can. They can trust me and so can you.
+M	JACK	I've never jeopardised an operation in my life. You don't have to tell me that, Jack. For Christ's sake, you closed your own girlfriend's account...
+M	LARRY	Jack? [A BEAT] Jack? I'm sorry.
+M	LARRY	That was, um.... I'm just saying you can be relied on.
+M	LARRY	Jack?
+F	CLARA	Ciao, Eduardo!
+M	JACK	Put them in the back. We've got a way to go.
+F	CLARA	Where we go?
+M	JACK	Swimming.
+F	CLARA	How far do we go? To Fanale?
+M	JACK	An hour. And we're not going to the sea, we're going to the lakes. In the mountains.
+F	CLARA	For a... come se dice... you have in the back...
+M	JACK	A picnic.
+F	CLARA	A pick-nick! We are going for a pick-nick. Just the two of us.
+F	CLARA	I have practise my English, Eduardo. I love to have pick-nick. It is a beautiful day, isn't it?
+M	JACK	It is.
+F	CLARA	Is it more far?
+M	JACK	Ten kilometres. Another twenty minutes.
+F	CLARA	Twelve kilometres? In twenty minutes?
+M	JACK	We're going off the beaten track.
+M	JACK	Lontano. Fuori mano.
+F	CLARA	You will speak Italian. One day, I will teach you.
+F	CLARA	Where are we going?
+M	JACK	You shall see.
+F	CLARA	I think it is good we should stay close to the road.
+M	JACK	There's no need to worry. I've been here before several times. Taking photographs.
+M	JACK	You're not afraid of coming into the wild with me, are you?
+F	CLARA	No!
+F	CLARA	Of course I am not. Not with you. But this...
+F	CLARA	...sentiero!
+F	CLARA	You should have a jeep. A Toyota. It is not good for a... berlina.
+M	JACK	This is a Citroen!
+M	JACK	This was made by the French for taking potatoes to market. Besides, I always come here in this car.
+F	CLARA	You sure?
+M	JACK	Of course. I don't want to walk back to town any more than you do.
+F	CLARA	I think you are crazy. This will go to nowhere.
+M	JACK	I assure you it does.
+F	CLARA	Now there is no road!
+F	CLARA	Is this where we go?
+M	JACK	No. Not quite. We go another hundred metres, through the wood. But from here we just roll forward. No motor. No sound. And you'll see a wonder.
+M	JACK	You won't need to hold on. I'll go slowly. Just relax and look.
+F	CLARA	No one comes here?
+M	JACK	No.
+F	CLARA	Just you.
+M	JACK	Yes.
+F	CLARA	Well?
+F	CLARA	I am going to swim in the lake. Are you coming?
+M	JACK	There are vipers! Vipera! Marasso!
+F	CLARA	Maybe! But I am lucky!
+F	CLARA	He is an Italian bird! We disturb his siesta!
+F	CLARA	Come, Signor Farfalla!
+F	CLARA	Come!
+F	CLARA	Stand by me.
+F	CLARA	Keep still. Watch.
+M	JACK	If we stay here for a year, they'll devour us.
+F	CLARA	It is said that if these fishes bite at two hands holding, then love is good for the people.
+M	JACK	Maybe we should...
+F	CLARA	Do you make love in the water?
+M	JACK	I haven't.
+F	CLARA	What's wrong?
+M	JACK	Let's eat.
+F	CLARA	Eduardo.
+F	CLARA	Is this your real name?
+M	JACK	Is Clara yours?
+F	CLARA	Si. Yes.
+M	JACK	Edward is my real name.
+F	CLARA	Ed-ward.
+F	CLARA	You are sure you are not married, Eduardo?
+M	JACK	Quite sure.
+F	CLARA	Will you put this on my back?
+F	CLARA	Eduardo?
+F	CLARA	Amore?
+F	CLARA	Eduardo, what's wrong?
+M	JACK	Nothing. He takes the tube of SUNTAN lotion.
+M	JACK (V.O.)	Dear Father Benedetto...
+M	JACK (V.O.)	I promised myself that I would write to you- as your friend- to say goodbye.
+M	JACK (V.O.)	Everything I've ever done...
+M	JACK (V.O.)	I've done for a reason.
+M	JACK (V.O.)	I never thought the day would come when I'd run out of reasons. Reasons to worry. Reasons to run. Reasons to pull the trigger.
+M	JACK (V.O.)	Maybe that day's come. Or maybe I've just found a reason to change.
+F	CLARA	Grazie, Eduardo.
+M	JACK	I still don't understand. What's the point of a gun if it's not loaded?
+F	CLARA	One of the girls borrow it to me after the second hooker in Chieti is murdered. With some of the clients it make me feel safe. I don't tell the police, of course, but... Madonna, Eduardo. How they do to these two women! A police agente from Rome show me photographs. They show photographs to everyone in Via Lampedusa.
+F	CLARA	Non capito... how one person hurt another in this way.
+M	JACK	Does the gun make you feel safer with me?
+F	CLARA	You are not a client.
+M	JACK	Then why's it in your purse?
+F	CLARA	I have to work tonight, amore.
+M	JACK (V.O.)	Maybe this is suicide. Cops often put the graft on working girls. Perhaps the girl I told you about, Clara, has sold me out. Maybe she's a cop herself, or maybe she's a hired gun. Then again, maybe Clara is who she says she is and my Belgian clients will take the gun, shoot me themselves and keep the money. Always a risk in my profession. Or perhaps my trusted colleague in Rome no longer trusts me. Perhaps even you, Father, with your connections in Naples...
+F	CLARA	What will you do?
+M	JACK	I guess I'll go to work too.
+F	CLARA	And after that? Tomorrow and the next day.
+M	JACK	I can't stay here forever.
+M	JACK (V.O.)	It's not that I've given up on life, Father. Just the way that I was living it. If you can call it living.
+F	CLARA	I want always to stay here.
+M	JACK	It's time to go home.
+F	CLARA	Let me come to your home.
+M	JACK	I can't, Clara. One day...
+M	JACK (V.O.)	If I had one request, Father, it would be this. That it's not Clara who finally pulls the trigger. But whoever it is...
+F	CLARA	Stay forever here. ...by this time tomorrow I'll be dead.
+M	FATHER BENEDETTO	Ciao Fabio, come stai?
+M	IL POSTINO	Bene grazie, Padre.
+M	FATHER BENEDETTO	Dear Father Benedetto. I promised myself that I would write to you- as your friend- to say goodbye... Everything I've ever done...
+M	FATHER BENEDETTO (V.O.)	I've done for a reason. hear the cafe door open.
+F	MATHILDE	Hello. I see you have brought it in from the car with you.
+M	JACK	All there, as agreed.
+F	MATHILDE	What's in the paper bag?
+M	JACK	Sweets. For your journey.
+M	JACK	I guessed you'd have a sweet tooth.
+F	MATHILDE	That is most thoughtful of you.
+M	JACK	I suppose I'll read about this in the Times or the International Herald Tribune. Or Il Maessagiero.
+F	MATHILDE	Yes, I expect so.
+F	MATHILDE	I'm just going to the ladies. Wait here.
+F	MATHILDE	Shall we go.
+F	MATHILDE	You won't need your piece.
+M	JACK	You never know.
+F	MATHILDE	OK?
+M	JACK	Sure. You?
+F	MATHILDE	Everything's just fine.
+F	MATHILDE	Final payment.
+F	MATHILDE	Buy yourself a retirement clock.
+M	JACK	How do you know I'm retiring?
+F	MATHILDE	Have you taken your girl up to the meadow yet?
+F	MATHILDE	Do it.
+F	MATHILDE	Goodbye, Mr. Butterfly.
+M	No answer.	
+M	JACK	CLARA!
+M	LARRY	Not only did you not kill him, you gave him my fucking money?
+F	MATHILDE	What else could I do? There were kids everywhere. Besides he's suspicious.
+M	LARRY	He's paranoid. That's why I'm paying you the GDP of a small country to get close to him. You could have got him in the sack. You should have got him in the car park. Now you're going to have to take him out long range!
+F	MATHILDE	I prefer it that way.
+F	MATHILDE	The Socimi is the perfect weapon.
+M	LARRY	Let's hope his workmanship is up to scratch.
+M	LARRY	Sweden turned Jack into a liability. Three stiffs: two shooters and an innocent civilian. I can't afford a mistake like that again. Europol are crooked but they aren't cheap. Jack's supposed to make me money. Not run up cleaning bills.
+F	MATHILDE	He made short work of the last guy you hired.
+M	LARRY	Never mind Larson. He didn't stand a chance, not against someone as paranoid as Jack. The Swede was only there to take Jack's heat off you. So don't fuck this up again.
+M	LARRY	Mind if I help myself?
+M	LARRY	Shit.
+M	LARRY	Is there any actual candy in this gas guzzler? JACK and CLARA meet.
+M	JACK	When can I see you?
+F	CLARA	I have to work tonight.
+F	CLARA	You come to my apartment after.
+M	JACK	If I asked you would you come away with me?
+F	CLARA	Come away with you?
+M	JACK	Why not?
+F	CLARA	Together?
+M	JACK	Together.
+F	CLARA	Where?
+M	JACK	Wherever. Then when we're through, we could come back here. For good.
+F	CLARA	To live?
+M	JACK	Where else?
+F	CLARA	Forever?
+M	JACK	Forever.
+M	JACK	Unless you have other plans.
+F	CLARA	Other plans?
+F	CLARA	I love you, Signor Eduardo Farfalla.
+M	JACK	I... The gun jams.
+F	CLARA	What's happening?
+M	JACK	Someone got what was coming to them.
+M	JACK	Go to your apartment and pack. Wait `till I get there. Don't answer the door to anyone but me.
+F	CLARA	Eduardo, please?
+M	JACK	Trust me.
+F	CLARA	I trust you.
+M	JACK	Clara. My name is not Eduardo.
+F	CLARA	No?
+M	JACK	My name is Jack.
+F	CLARA	Jack.
+F	CLARA	You promise you're not married?
+M	JACK	I promise. Take this.
+M	JACK	Look after it. In case.
+F	CLARA	In case?
+M	JACK	Now go.
+M	LARRY	You're too old for this life, Jack.
+M	LARRY	You get sentimental then you fuck things up. silence.
+M	JACK	What will you tell them?
+M	FATHER BENEDETTO	I will them that the man who wrote this letter is my friend.
+M	FATHER BENEDETTO	Jack.

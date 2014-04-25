@@ -1,0 +1,938 @@
+M	CHARACTER	DIALOGUE
+M	MOTHER SUPERIOR	Agnes!... Agnes...
+M	PARAMEDIC	I'm just going to put something here to stop the bleeding. Excuse me Sister. She'll be fine.
+M	REPORTER	Here they are now.
+M	LEVEAU	Martha, it's you.
+F	MARTHA	What about Roger? He's free.
+F	EVE	They want a woman.
+M	LYON	All you have to do is meet with her once or twice... then tell the court she's insane.
+F	MARTHA	Are you dictating my position to me? We're getting into some sticky legal territories here.
+F	EVE	Martha, all we're saying is, no-one wants this to come to trial, not the Church, not the Crown... least of all me.
+F	MARTHA	Eve, she strangled a baby!
+F	EVE	Nobody is interested in sending a nun to prison.
+M	LEVEAU	We're not telling you what to decide Martha. We're not even telling you to take this.
+M	LYON	Is there any reason why you feel you shouldn't take it?
+F	MARTHA	Today's my birthday. I always make bad decisions on my birthday.
+M	LEVEAU	Happy birthday. moves over to her cat. Hi, it's Helen, calling to tell you that Mrs Davenport phoned to confirm her appointment at nine o'clock tomorrow, okay? Bye bye.
+M	ROGER (V.O.)	Hi Martha, it's Roger. Can you call me at the hospital. I'd like your opinion on a case. Oh, bye the way, happy birthday. Bye. Hi, Marty it's Helen again. I cancelled your Wednesday afternoon appointment so you can visit with your mother. Bye bye.
+M	MAN	in hand. A sign tangled over with creeper reads "Les Petites
+F	MARTHA	Bonjour, I'm Doctor Martha Livingston, I... Hello... I'm Doctor Martha Living...ston... I... hastily grinds it underfoot.
+M	tries	to kick it away. ...the court-appointed psychiatrist. Thank you. I um... I believe your Mother Superior's expecting me.
+M	MOTHER SUPERIOR	Doctor Livingston I presume? I'm Mother Miriam Ruth. You needn't call Mother if you don't wish. Most people find it uncomfortable.
+F	MARTHA	Well... I...
+M	MOTHER MIRIAM	I'm afraid the word brings up the most unpleasant connatations in this day and age...
+F	MARTHA	Yes... I...
+M	MOTHER MIRIAM	You can call me Sister.
+F	MARTHA	... Thank you.
+M	MOTHER MIRIAM	You must have tons of questions. You may smoke if you want to. Just don't tell any of the Sisters. They wouldn't understand, especially Sister Marguerite. She'd scare the pants off Queen Elizabeth. Besides, I miss them.
+F	MARTHA	You were a smoker?
+M	MOTHER MIRIAM	Two packs a day.
+F	MARTHA	I can beat that.
+M	MOTHER MIRIAM	Unfiltered. Well, you have questions. Fire away...
+F	MARTHA	Who knew about Agnes' pregnancy?
+M	MOTHER MIRIAM	No-one.
+F	MARTHA	How did she hide it from the other nuns?
+M	MOTHER MIRIAM	She undressed alone... she bathed alone.
+F	MARTHA	Is that normal?
+M	MOTHER MIRIAM	Yes.
+F	MARTHA	How did she hide it during the day?
+M	MOTHER MIRIAM	She could have hidden a machine gun in here if she had wanted to.
+F	MARTHA	Didn't she have any physical examinations
+M	MOTHER MIRIAM	We're examined once a year. Her pregnancy fell in between the doctor's visits.
+F	MARTHA	Who was the father?
+M	MOTHER MIRIAM	I haven't a clue.
+F	MARTHA	What man had access to her?
+M	MOTHER MIRIAM	None as far as I know.
+F	MARTHA	Was there a priest?
+M	MOTHER MIRIAM	Yes, but I...
+F	MARTHA	What's his name?
+M	MOTHER MIRIAM	Father Martineau, but I don't see him as a candidate.
+F	MARTHA	Could there have been anyone else?
+M	MOTHER MIRIAM	Obviously there was.
+F	MARTHA	And you didn't try to find out who?
+M	MOTHER MIRIAM	Believe me, I've done everything possible short of asking Agnes.
+F	MARTHA	Why haven't you asked her? back to use as an ashtray.
+M	MOTHER MIRIAM	She can't even remember the birth. Do you think she'd admit to the conception?
+F	MARTHA	Look, someone gave her the baby.
+M	MOTHER MIRIAM	Yes, but that was some ten months ago. I fail to see that the identity of that somebody has anything to do with this trial.
+F	MARTHA	Why do you think that?
+M	MOTHER MIRIAM	Don't ask me those questions dear, I'm not the patient.
+F	MARTHA	Well I'm the doctor. I'm the one who's going to decide what is, or is not important here.
+M	MOTHER MIRIAM	Look doctor, I don't know how to tell you this politely, but I don't approve of you. Not you personally...
+F	MARTHA	The science of psychiatry.
+M	MOTHER MIRIAM	Exactly. I want you do deal with Agnes as speedily and as easily as possible. She won't hold up under any sort of cross examination.
+F	MARTHA	I am not with the Inquisition.
+M	MOTHER MIRIAM	And I am not from the Middle Ages. I know what you are! I don't want that mind cut open. and head up a steep flight of wooden stairs. Faintly the
+M		a single young woman can be heard singing in Latin. window. Then Agnes hears a slight sound and stops abruptly. to see Martha standing in the doorway.
+F	MARTHA	Hello. I'm Doctor Livingston. I've been asked to talk to you. May I?
+F	AGNES	Yes. door.
+F	MARTHA	You have a lovely voice.
+F	AGNES	No I don't.
+F	MARTHA	I just heard you.
+F	AGNES	That wasn't me.
+F	MARTHA	Was it Sister Marguerite?
+M	MARTHA (Cont.)	You're very pretty Agnes.
+F	AGNES	No I'm not.
+F	MARTHA	Hasn't anyone ever told you that before?
+F	AGNES	Let's talk about something else.
+F	MARTHA	What would you like to talk about.
+F	AGNES	I don't know.
+F	MARTHA	Anything... may I sit down?
+F	AGNES	Yes.
+F	MARTHA	First thing that comes to your mind?
+F	AGNES	God! But there's nothing to say about God.
+F	MARTHA	Second thing that comes to your mind.
+F	AGNES	Love.
+F	MARTHA	Have you ever loved anyone?
+F	AGNES	Yes.
+F	MARTHA	Who?
+F	AGNES	Everyone.
+F	MARTHA	Well, who in particular?
+F	AGNES	Right now?
+F	MARTHA	Uh huh.
+F	AGNES	I love you.
+F	MARTHA	Agnes, have you ever loved another man... other than, Jesus Christ?
+F	AGNES	Yes.
+F	MARTHA	Who?
+F	AGNES	Oh, there are so many.
+F	MARTHA	Well do you love... do you love Father Martineau?
+F	AGNES	Oh, yes!
+F	MARTHA	Do you think he loves you?
+F	AGNES	Oh, I know he does.
+F	MARTHA	He's told you?
+F	AGNES	No. But... when I look into his eyes, I can tell.
+F	MARTHA	You've been alone together?
+F	AGNES	Yes.
+F	MARTHA	Often?
+F	AGNES	At least once a week.
+F	MARTHA	And you like that?
+F	AGNES	Oh, yes.
+F	MARTHA	Where do you meet?
+F	AGNES	In the confessional.
+F	MARTHA	Agnes, do ever see Father Martineau outside the...
+F	AGNES	You want to talk about the baby don't you?
+F	MARTHA	Would you like to talk about it?
+F	AGNES	I never saw any baby... I think they made it up.
+F	MARTHA	Why should they?
+F	AGNES	I don't know.
+F	MARTHA	Do you remember the night they said it came?
+F	AGNES	No. I was sick.
+F	MARTHA	How were you sick?
+F	AGNES	Something I ate.
+F	MARTHA	Did it hurt?
+F	AGNES	Yes.
+F	MARTHA	Where?
+F	AGNES	Down... there.
+F	MARTHA	And what did you do?
+F	AGNES	I went to my room.
+F	MARTHA	And what happened?
+F	AGNES	I got sicker.
+F	AGNES	fell asleep.
+F	MARTHA	the middle of all the pain?
+F	AGNES	
+F	MARTHA	did the baby come from?
+F	AGNES	baby?
+F	MARTHA	baby they made up.
+F	AGNES	their heads...
+F	MARTHA	that where they say it came ?
+F	AGNES	they say it came from the waste basket!
+F	MARTHA	it come from before that?
+F	AGNES	God.
+F	MARTHA	God... before the waste-paper
+F	AGNES	I don't understand.
+F	MARTHA	how are babies born?
+F	AGNES	you know?
+F	MARTHA	I do, but I want you to...
+F	AGNES	don't understand what you're about... you want to talk the baby... everybody wants never saw the baby so I can't talk about the baby because... I don't believe in the baby.
+F	MARTHA	Then let's talk about something else...
+F	AGNES	No... no, I'm tired of talking, I've been talking for weeks, nobody believes me when I tell them anything... nobody listens to me.
+F	MARTHA	Agnes...
+F	AGNES	No... no, I don't want to answer any more questions.
+F	MARTHA	Would you like to ask them?
+F	AGNES	What do you mean?
+F	MARTHA	Just that... you ask and I'll answer.
+F	AGNES	Anything?
+F	MARTHA	Anything.
+F	AGNES	What's your real name?
+F	MARTHA	Martha Louise Livingston.
+F	AGNES	Are you married?
+F	MARTHA	No.
+F	AGNES	Would you like to be?
+F	MARTHA	Not at the moment, no.
+F	AGNES	Do you have any children?
+F	MARTHA	No.
+F	AGNES	Would you like some?
+F	MARTHA	I can't have them any more.
+F	AGNES	Why not?
+F	MARTHA	I've stopped menstruating
+F	AGNES	Why do you smoke?
+F	MARTHA	Does it bother you?
+F	AGNES	No questions.
+F	MARTHA	Smoking is an obsession with me. Maybe one day I'll become obsessed with something else, then I'll stop smoking... Do you have any more questions?
+F	AGNES	One.
+F	MARTHA	What?
+F	AGNES	Where do you think babies come from?
+F	MARTHA	From their mothers and fathers of course. Before that, I... I don't know.
+F	AGNES	Well I think they come from... angel lights on their mothers chest and whispers into her ear. That makes good babies start to grow. And bad babies come from when a fallen angel squeezes in down there, and they start to grow, grow, till they come out down there. I don't know where good babies come out. And you can't tell the difference... except bad babies cry a lot... and they make their fathers go away... and their mothers get very ill... die sometimes.
+M	AGNES (Cont.)	Mummy wasn't very happy when she died ... and, I think she went to hell because every time I see her she looks like she just stepped out of a hot shower, and I... I'm never sure if it's her, or the Lady who tells me things! They fight over me all the time. The Lady... I saw when I was ten. I was lying on the grass, looking at the sun, and the sun became a cloud, and the cloud became, a Lady. And she told me she would talk to me. And then... her feet began to bleed and I saw there... there were holes in her hands and in her side. And I tried to catch the blood as it fell from the sky, but I couldn't see any more because my eyes hurt because there were big black spots in front of them. And she tells me things like, like... right now she's crying Marie! Marie! ... but I don't know what that means. ... and... she uses me to sing, it's as if she's throwing a big hook through the air and it catches me under my ribs and tries to pull me up, and I... I can't move because Mommy's holding my feet and all I can do is sing in her voice... it's the Lady's voice, God loves you! God loves you.
+F	MARTHA	Do you know a Marie?
+F	AGNES	No... do you?
+F	MARTHA	Why should I?
+F	AGNES	I don't know.
+M	MOTHER MIRIAM	Well... what do you think? Is she totally bananas or merely slightly off centre... or maybe she's perfectly sane and just a very good liar.
+F	MARTHA	What's your opinion?
+M	MOTHER MIRIAM	I believe Agnes is different.
+F	MARTHA	From other nuns... Yes I... I've noticed.
+M	MOTHER MIRIAM	From other people! I believe she is not crazy, nor is she lying.
+F	MARTHA	How could she have a baby and know nothing of sex or birth?
+M	MOTHER MIRIAM	Because she's an innocent. She's a slate that's hasn't been touched except by God.
+F	MARTHA	
+M	MOTHER MIRIAM	In her case it isn't. She's had very little schooling. Her mother kept her home almost all the time and when her mother died Agnes came here, to us. She's never been out there Doctor. She's never seen a movie or a television show. She's never even read a book.
+F	MARTHA	If she's so innocent, how come she murdered a child?
+M	MOTHER MIRIAM	She didn't! This is manslaughter, not murder. She didn't consciously kill that baby. She'd lost a lot of blood. She was unconscious by the time we got to her.
+F	MARTHA	So, someone else could have done it.
+M	MOTHER MIRIAM	No... not in the eyes of the police.
+F	MARTHA	And in your eyes?
+M	MOTHER MIRIAM	I've already told you what I thought.
+F	MARTHA	That she was unconscious, yes! So someone easily could have come in the room and killed the...
+M	MOTHER MIRIAM	You don't really believe something like that happened do you?
+F	MARTHA	It's possible isn't it?
+M	MOTHER MIRIAM	Who?
+F	MARTHA	One of the other nuns found out about the baby and... and wanted to avoid a scandal. down in front of Martha to act as an ashtray.
+M	MOTHER MIRIAM	That's absurd!
+F	MARTHA	That possibility never occurred to you?
+M	MOTHER MIRIAM	No-one knew about Agnes' pregnancy. No-one. Not even Agnes.
+M	ANNOUNCER (V.O.)	You have been listening to Mostly Music from Montreal. This is CBC Radio.
+M		
+M		then... door. Presently a huge, fat HOUSEKEEPER answers.
+F	MARTHA	Is Father Martineau in please?
+M	HOUSEKEEPER	
+F	MARTHA	
+M	HOUSEKEEPER	Wipe your feet.
+M	HOUSEKEEPER	Pere Martineau...
+M		heard, and then the figure of a very old priest, FATHER MARTINEAU with a stick. from a flask into her cup and an even larger slug into his
+M	FATHER MARTINEAU	They arise at five in the morning... and they're in bed by nine at night. Even if a man could get to them, he would probably find them praying. That's why I see that the real question is not only how he got in, but when.
+F	MARTHA	And you're the only man to see them?
+M	FATHER MARTINEAU	I promise you Doctor, even if I had the inclination, how could I possibly catch her? She would have to be a very slow and patient nun. Ah no... they're a very special and rare people those Sisters. Only a few of them left in this modern world, consecrated to the praise of God. laughter. She is physically alright, but quite senile. Martha over to her and kisses her.
+F	MARTHA	Hello, Mama ... brought you something.
+M	MAMA	Shut up, I'm trying to watch this.
+F	MARTHA	It's your favourite...
+M	MAMA	Who are you?
+F	MARTHA	It's Martha, Mama. There you go.
+M	MAMA	Marie brings me icecream too you know. Chocolate... my favourite.
+F	MARTHA	I thought cherry-vanilla was your favourite.
+M	MAMA	Not any more... now I like chocolate.
+F	MARTHA	Did you have a good week Mama. Are they treating you all right?
+M	MAMA	You know Martha never comes to see me. You watch it, she's going straight to hell... after all the things she said to me. Then she marries that son of a bitch of a Frenchman... has an abortion. I knew that one wouldn't work out. Not like you Marie. You got married to God.
+F	MARTHA	Marie's dead Mama.
+M	MAMA	I remember when you was a little girl Marie. You come back from the movies and you'd say - Mama that ending was so sad... and I'd tell you they had all the happy endings locked away in a vault in Hollywood. And you believed me.
+F	MARTHA	Mama, that wasn't Marie, that was me!
+M	MAMA	Who are you?
+F	MARTHA	I... I'm Martha, Mama. an umbrella talking to Sister Anne who is feeding the
+M	SISTER ANNE	The convent was built for over fifty. Not many of us left... just us and the chickens.
+F	MARTHA	How do you survive?
+M	SISTER ANNE	Oh, we own the land around here. But we rent it out. We keep a few acres for ourselves, some wheat, corn, some vegetables.
+F	MARTHA	Well that's a lot of land. You must have help. Do you have field hands that help you?
+M	SISTER ANNE	No. We work the land alone. No-one but Sister Marguerite and I are permitted contact with the public.
+F	MARTHA	Sister Anne, which was Agnes' room?
+M	SISTER ANNE	Oh that one there, in the corner.
+F	MARTHA	The one up on the third floor?
+M	SISTER ANNE	Yes.
+F	MARTHA	Uh huh. everything.
+M	MOTHER MIRIAM	This convent is locked solid. The only one that has a key is Sister Marguerite and she wouldn't let Christ in after dark.
+F	MARTHA	Well, it's been known to happen in the day too. Maybe Agnes went to him.
+M	MOTHER MIRIAM	Oh come on, you've talked to her. She doesn't even know how babies are born, let alone made.
+F	MARTHA	When did you first learn about her... innocence, the way she thinks?
+M	MOTHER MIRIAM	Shortly after she came to us.
+F	MARTHA	And you weren't shocked?
+M	MOTHER MIRIAM	I was appalled, just as you are now.
+F	MARTHA	And what happened?
+M	MOTHER MIRIAM	She stopped eating completely...
+M	of the	cross in front of the altar. Mother Miriam enters.
+M	MARTHA (V.O.)	This was before her pregnancy?
+M	MOTHER MIRIAM (V.O.)	About two years before.
+M	MOTHER MIRIAM	Agnes, it has come to my attention that you have stopped eating. Why is this?
+F	AGNES	I've been commanded by God.
+M	MOTHER MIRIAM	He talked to you Himself?
+F	AGNES	No.
+M	MOTHER MIRIAM	Through someone else?
+F	AGNES	Yes.
+M	MOTHER MIRIAM	Who?
+F	AGNES	I can't say.
+M	MOTHER MIRIAM	Why?
+F	AGNES	She'd punish me.
+M	MOTHER MIRIAM	One of the other Sisters?
+F	AGNES	No.
+M	MOTHER MIRIAM	Who?
+M	MOTHER MIRIAM (Cont.)	Why would she tell you to do this?
+F	AGNES	I'm getting fat.
+M	MOTHER MIRIAM	for Heaven's sake.
+F	AGNES	am, there's too much flesh on me.
+M	MOTHER MIRIAM	
+F	AGNES	a blimp.
+M	MOTHER MIRIAM	does it matter whether you're fat not...
+F	AGNES	
+M	MOTHER MIRIAM	You needn't worry about being here.
+F	AGNES	do, I have to be attractive to God.
+M	MOTHER MIRIAM	loves you the way you are.
+F	AGNES	he doesn't. He hates fat people.
+M	MOTHER MIRIAM	told you this?
+F	AGNES	a sin to be fat.
+M	MOTHER MIRIAM	
+F	AGNES	at the statues, they're thin.
+M	MOTHER MIRIAM	
+F	AGNES	because they're suffering... is beautiful, I want to be
+M	MOTHER MIRIAM	Who tells you these things?
+F	AGNES	Christ said it in the Bible, he said - suffer the little children, I want to suffer like a little child.
+M	MOTHER MIRIAM	That's not what he meant.
+F	AGNES	I... I am a little child but my body keeps getting bigger and soon I... I won't be able to fit in, I... I won't be able to squeeze into Heaven.
+M	MOTHER MIRIAM	Agnes dear, Heaven is not a place where...
+F	AGNES	No... I mean... I mean look at these. I've got to lose weight, I'm a blimp.
+M	MOTHER MIRIAM	Oh my dear child.
+F	AGNES	God blew up the Hindenburg. He'll blow me up, that's what she said...
+M	MOTHER MIRIAM	Who?
+F	AGNES	Mommy I'll get bigger and bigger every day and then I'll pop but... but if I stay little it won't happen.
+M	MOTHER MIRIAM	Your mother tells you this?... Agnes your mother is dead.
+F	AGNES	But she watches... she listens.
+M	MOTHER MIRIAM	Nonsense, I'm your mother now and I want you to eat.
+F	AGNES	I'm not hungry.
+F	AGNES	No I don't... the host is enough.
+M	MOTHER MIRIAM	My dear, I don't think a communion wafer has the recommended daily allowance of anything.
+F	AGNES	Of God.
+M	MOTHER MIRIAM	Yes, of God. the middle of her palm.
+F	AGNES	I'm being punished.
+M	MOTHER MIRIAM	Why?
+F	AGNES	I don't know.
+M	MOTHER MIRIAM	Dear Jesus...
+F	AGNES	It started this morning and I can't get it to stop.
+F	MARTHA	Why didn't you take her to a doctor?
+M	MOTHER MIRIAM	It was healed by the following morning and she started eating again...
+F	MARTHA	She had a... a hole in the palm of her hand! She could have bled to death. seen what I'd seen she'd be public property... newspapermen, psychiatrists, ridicule. She doesn't deserve that.
+F	MARTHA	She has it now.
+M	MOTHER MIRIAM	I know what you're thinking, she's a hysteric pure and simple.
+F	MARTHA	Not simple, no.
+M	MOTHER MIRIAM	I saw it. Clean through the palm of her hand. Do you think hysteria could do that?
+F	MARTHA	It's being doing it for centuries. She's not unique, she's just another victim.
+M	MOTHER MIRIAM	God's victim. That's her innocence. She belongs to God.
+F	MARTHA	And I intend to take her away from Him. That's what you're afraid of isn't it?
+M	MOTHER MIRIAM	You bet I am.
+M	LARRY	Here you are. Don't let anyone know where you got them. Thanks...
+F	AGNES	Last Tuesday, I didn't eat all of my lima beans... hid them under my spoon.
+M	FATHER MARTINEAU	Yes...
+F	AGNES	I thought... thoughts... about...
+M	FATHER MARTINEAU	Speak up, I can hardly hear you.
+F	AGNES	I thought ugly thoughts about Sister Marguerite. and the waste-paper basket. She puts the photos aside and puffs a cigarette. (The singing finishes at this point). for Lyon who is standing by the window.
+M	LEVEAU	Would you tell me why the hell this is taking so long.
+F	MARTHA	Look there are a lot of unanswered questions here.
+M	LYON	Martha, your job is to diagnose, not to heal and play detective. Who do you think you are?
+F	MARTHA	I know my job. Don't tell me my job Lyon. My duty as a doctor is to...
+F	EVE	Martha, you have to make a decision on her sanity as quickly as possible and not interfere with due process of law.
+F	MARTHA	No... no, excuse me Eve. As quickly as I see fit.
+F	EVE	The longer you take to make a decision, the more difficult it will be for us.
+F	MARTHA	Why?
+F	EVE	The bishop is breathing down our necks.
+F	MARTHA	And the sooner she goes to prison, the better off she'll be?
+M	LEVEAU	
+F	MARTHA	I don't believe this. I don't bloody believe this.
+M	LYON	Well the bishop will be very upset about this.
+F	MARTHA	I'm fighting for this woman's life, not some bloody bishop. is standing. Agnes is kneeling in front of a cross marked name "Soeur Marie Paul" and the dates she was born, consecrated Agnes places some winter flowers on the grave.
+F	MARTHA	You liked Sister Paul?
+F	AGNES	She was kind to me. She told me I was beautiful.
+F	MARTHA	What else did she tell you?
+F	AGNES	She said all of God's angels would want to sleep beside me if they could. I liked that. off. She lived here for almost seventy years. Every day she'd ring the bell, wake us up, call us to God. She took me to my secret place.
+F	MARTHA	Where's that?... I promise I won't tell, would you take me?
+F	MARTHA	Sister Paul was in her eighties? Did she climb up here often?
+F	AGNES	No, only when she felt like it. She brought me up here last winter and the next day she died.
+F	MARTHA	No wonder... wait... Agnes... Agnes how do you feel about babies?
+F	AGNES	Oh, they frighten me, I'm afraid I'll drop them. They have a soft spot on their heads and if you drop them so they land on their heads they become stupid. I was dropped on my head, that's why I don't understand things.
+F	MARTHA	Like what?
+F	AGNES	Numbers... you can spend your whole life counting and never reach the end.
+F	MARTHA	I don't understand them either. Do you suppose I was dropped on my head?
+F	AGNES	I hope not. It's a terrible thing to be dropped on your head.
+F	MARTHA	Oh, I've got to give up smoking. Agnes ... wait a minute... Agnes slow down.
+F	AGNES	She said you could see the whole world from up here. But it looks much better far away than it looks close up.
+F	MARTHA	Beautiful...
+F	AGNES	And sometimes I get under here... it makes a wonderful sound. bell.
+F	MARTHA	What happens if the bell rings and you're under there?
+F	AGNES	Oh, it's even more wonderful then.
+F	MARTHA	It's like hiding from my mother when I was a little girl.
+F	AGNES	Where did you go?
+F	MARTHA	Oh, no place as wonderful as this. Agnes... have you ever thought of leaving the convent for something else?
+F	AGNES	No. There is nothing else. Just being here at night helps me sleep.
+F	MARTHA	You have trouble sleeping?
+F	AGNES	I get headaches. Mommy did too... oh, but she wasn't stupid. She knew things that nobody else knew.
+F	MARTHA	What things?
+F	AGNES	She knew what was going to happen to me. That's why she hid me away.
+F	MARTHA	How did she know that?
+F	AGNES	Somebody told her.
+F	MARTHA	Who?
+F	AGNES	I don't know.
+F	MARTHA	Agnes...
+F	AGNES	You'll laugh.
+F	MARTHA	I promise I won't laugh. Who told her?
+F	AGNES	An angel, when she was having one of her headaches.
+F	MARTHA	Did your mother see angels often?
+F	AGNES	No.
+F	MARTHA	Do you?
+F	AGNES	No.
+F	MARTHA	Do you believe she really saw them?
+F	AGNES	No, but I can never tell her that.
+F	MARTHA	Why not? Mmm?
+F	AGNES	She'd get angry.
+F	MARTHA	did you love your mother?
+F	AGNES	
+F	MARTHA	you ever want to be a mother
+F	AGNES	could never be a mother.
+F	MARTHA	not?
+F	AGNES	I don't think I'm old enough and I don't want to have a baby.
+F	MARTHA	not?
+F	AGNES	I don't want one.
+F	MARTHA	you did want one, how'd you go getting one?
+F	AGNES	someone who didn't want to a baby.
+F	MARTHA	you? not like me!
+F	MARTHA	would that person get one if didn't want one?
+F	AGNES	mistake...
+F	MARTHA	how did your mother get you?
+F	AGNES	mistake... it was a mistake...
+F	AGNES	If you're trying to get me to say that she was a bad woman and hated me and didn't want me but that's not true, she was a good woman, a saint...
+F	MARTHA	Agnes, I don't believe you know nothing about sex...
+F	AGNES	I can't help it if I'm stupid.
+F	MARTHA	... that you don't remember getting pregnant...
+F	AGNES	Not my fault.
+F	MARTHA	... and that you don't believe you carried a child.
+F	AGNES	I was a mistake.
+F	MARTHA	What the child?
+F	AGNES	Everything... I don't have children.
+F	MARTHA	Agnes...
+F	AGNES	Don't touch me like that! You don't touch me like that, I know what you want from me, you want to take God away. You should be ashamed, they should lock you up people like you.
+M	MOTHER MIRIAM	You hate us don't you?
+F	MARTHA	What?
+M	MOTHER MIRIAM	Nuns... you hate nuns.
+F	MARTHA	I hate ignorance and stupidity.
+M	MOTHER MIRIAM	The Catholic Church...
+F	MARTHA	I haven't said anything against the the Catholic Church.
+M	MOTHER MIRIAM	Catholicism is not on trial here. I want you to deal with Agnes without any religious prejudice or you turn this case over to someone else...
+F	MARTHA	How dare you tell me to run my affairs!
+M	MOTHER MIRIAM	It's my affair too.
+F	MARTHA	How dare you think I'm in a position to be pressured...
+M	MOTHER MIRIAM	I'm only interested...
+F	MARTHA	... or bullied or what ever you're doing. Who the hell do you think you are? You go around here expecting applause for the way you treated this child.
+M	MOTHER MIRIAM	She is not a child.
+F	MARTHA	And she has a right to know that there's a world out there filled with people who don't believe in God... ... and aren't any worse off than you Mother. People who've gone through their entire lives without bending their knees once, to anybody. And people who fall in love and have babies and occas- sionally are very happy. She has a right to know that. But you and your... your order and your Church have kept her ignorant...
+M	MOTHER MIRIAM	
+F	MARTHA	... virginity, right Mother? Poverty, chastity and ignorance is what you live by.
+M	MOTHER MIRIAM	I am not a virgin, Doctor. I was married for twenty three years, two daughters. I even have grandchildren... surprised? It might please you to know that I was a failure as a wife and mother. My children won't even see me any more, that's their revenge. I think they tell their friends that I've passed on. And don't tell me I'm making up for past mistakes Doctor Freud.
+F	MARTHA	Then help her.
+M	MOTHER MIRIAM	I am...
+F	MARTHA	No, you're shielding her. Let her face the world.
+M	MOTHER MIRIAM	What good would it do. No matter what you decide it's either the... the prison or the nut house and the differences between them are pretty thin.
+F	MARTHA	There's another choice.
+M	MOTHER MIRIAM	What?
+F	MARTHA	Aquittal.
+M	MOTHER MIRIAM	How?
+F	MARTHA	Innocence. Legal innocence. I know the judge would be happy for any reason to throw this case out of court.
+M	MOTHER MIRIAM	All right, what do you need.
+F	MARTHA	Answers.
+F	MARTHA	When would Agnes have conceived the child?
+M	MOTHER MIRIAM	Oh, some time in January.
+F	MARTHA	Do you remember anything unusual happening at the time?
+M	MOTHER MIRIAM	Earthquakes?
+F	MARTHA	Visitors to the convent.
+M	MOTHER MIRIAM	Nothing.
+F	MARTHA	Do you have a... a diary or a day book?
+M	MOTHER MIRIAM	Yes.
+F	MARTHA	Take at look at it.
+M	MOTHER MIRIAM	There's nothing here.
+M	MOTHER MIRIAM	Oh, Dear God...
+F	MARTHA	What is it?
+M	MOTHER MIRIAM	The sheets...
+F	MARTHA	What sheets?
+M	MOTHER MIRIAM	Oh, Dear God, I should have guessed...
+M	MOTHER MIRIAM (V.O.)	... I should have suspected something.
+M	MOTHER MIRIAM	Sister Marguerite says you have been sleeping on a bare mattress Sister. Is that true?
+F	AGNES	Yes Mother.
+M	MOTHER MIRIAM	Why?
+F	AGNES	In the medieval days the nuns and monks would sleep in their own coffins. at her, then turns back to Agnes.
+M	MOTHER MIRIAM	We're not in the Middle Ages, Sister.
+F	AGNES	It made them holy.
+M	MOTHER MIRIAM	It made them uncomfortable. And if next day they were cranky as mules. Sister where are your sheets? Do you really believe that sleeping on a bare mattress is the equivalent of sleeping in a coffin?
+F	AGNES	No.
+M	MOTHER MIRIAM	Then tell me. Where are your sheets?
+F	AGNES	I burnt them.
+M	MOTHER MIRIAM	Why?
+F	AGNES	They were stained.
+M	MOTHER MIRIAM	How many times have I burned into your thick skull and the thick skull of your fellow novice, that menstruation is a perfectly natural process and nothing to be ashamed of.
+F	AGNES	Yes, Mother.
+M	MOTHER MIRIAM	Say it!
+M	AGNES and GENEVIEVE	It is a perfectly natural process and nothing to be ashamed of.
+M	MOTHER MIRIAM	Mean it! falters into silence. Mother Miriam goes on more kindly.
+M	MOTHER MIRIAM	A few years ago one of the Sisters came to me in tears, asking for comfort, comfort because she was too old to have any children. Not that she wanted to, but once a month she had been reminded of that possibility.
+F	AGNES	It's not that... it's not that...
+M	MOTHER MIRIAM	What do you mean?
+F	AGNES	It's not my time of month.
+M	MOTHER MIRIAM	Should you see a doctor?
+F	AGNES	I don't know. I don't know what happened Mother, I woke up... there was blood on the sheets, but I don't know what happened. I don't know what I did wrong, I don't know and I should be punished.
+M	MOTHER MIRIAM	For what?
+F	AGNES	I don't know... I don't know...
+M	MOTHER MIRIAM (V.O.)	That was the beginning, the night of the conception. That's why she burnt the sheets.
+M		lies dying. Father Martineau is there and many of the other
+M	MARTHA (V.O.)	When was that?
+M	MOTHER MIRIAM (V.O.)	The twenty third of January. On that night one of our elder nuns passed away. Sister Paul?
+M	MOTHER MIRIAM (V.O.)	Yes. I don't remember where Agnes was. I was needed in the sick room. word to her. The smile slips from Agnes' face. Then Sister back
+F	MARTHA	No.
+M	MONSIGNOR	Well you're probably right about that. It certainly can't help Sister Agnes to have this investigation continued for any length of time.
+F	MARTHA	Why do you call it an investigation? I never have.
+M	MONSIGNOR	Your mother was a resident of Saint Catherines home before you moved her.
+F	MARTHA	What does this have to do with..?
+M	MONSIGNOR	And you had a sister who died in the convent.
+F	MARTHA	Who told you this?
+M	MONSIGNOR	Do you still go to church?
+F	MARTHA	What business is it of yours..?
+M	MONSIGNOR	Oh, we just wonder if you can be very objective about this case.
+F	MARTHA	Look, Father, ah... just because I don't subscribe to the... to the beliefs you subscribe to...
+M	MONSIGNOR	But what you believe makes no difference to us whatsoever Doctor. But it does
+F	MARTHA	I don't understand. Are you expecting me to..?
+M	MONSIGNOR	Well somone's got to suffer for this Doctor. You've got to be merciful and quick. Excuse me. is a pile.
+F	MARTHA	Agnes, I'm here because I want to help you.
+F	AGNES	I'm not sick.
+F	MARTHA	But you're troubled... aren't you?
+F	AGNES	That's because you keep reminding me. If you go away then I'll forget.
+F	MARTHA	And you're unhappy.
+F	AGNES	Everyone's unhappy, you're unhappy aren't
+F	MARTHA	Agnes...
+F	AGNES	Answer me! You never answer me.
+F	MARTHA	Sometimes, yes.
+F	AGNES	Only you think you're lucky because you didn't have a mother who said things to you and did things to you that maybe weren't always nice but that was because of me, because I was bad, not her.
+F	MARTHA	What did you do?
+F	AGNES	I'm always bad.
+F	MARTHA	What did you do?
+F	AGNES	I breathed!
+F	MARTHA	Agnes. What did your mother do to you? If you can't answer me, just shake your head yes or no. Did... did she hit you? Did she make you do something you didn't want to? Did it make you feel uncomfortable to do it? Did it embarrass you? Did it... did it hurt you? What did she make you you do?
+F	AGNES	No...
+F	MARTHA	can tell me.
+F	AGNES	can't.
+F	MARTHA	dead isn't she?
+F	AGNES	
+F	MARTHA	can't hurt you any more.
+F	AGNES	can.
+F	MARTHA	
+F	AGNES	watches... she listens.
+F	MARTHA	I don't believe that. Tell me. protect you from her.
+F	AGNES	
+F	MARTHA	
+F	AGNES	makes me...
+F	MARTHA	
+F	AGNES	take off my clothes and then... makes fun of me.
+F	MARTHA	tells you you're ugly?
+F	AGNES	
+F	MARTHA	that you're stupid?
+F	AGNES	
+F	MARTHA	you're a mistake?
+F	AGNES	says my whole body's a mistake.
+F	MARTHA	
+F	AGNES	she says if I don't watch out have a baby.
+F	MARTHA	does she know that?
+F	AGNES	headaches.
+F	MARTHA	yes.
+F	AGNES	then...
+F	MARTHA	
+F	AGNES	touches me down there with a Mommy, don't touch me like that more. I'll be good, I won't be a baby more.
+F	MARTHA	oh Agnes, Agnes I want you to do I want you to pretend that your mother. Oh yes, only this time want you to tell me what you're feeling,
+F	AGNES	afraid.
+F	MARTHA	I want to help you. Let me help
+F	AGNES	
+F	MARTHA	you're ugly!... what do you say? course you do. Agnes, you're ugly!... do you say?
+F	AGNES	I'm not.
+F	MARTHA	Are you pretty?
+F	AGNES	Yes.
+F	MARTHA	Agnes, you're stupid.
+F	AGNES	No I'm not.
+F	MARTHA	Are you intelligent?
+F	AGNES	Yes I am.
+F	MARTHA	You're a mistake.
+F	AGNES	I'm not mistake, I'm here aren't I. How can I be a mistake if I'm really here. God doesn't make mistakes, you're a mistake...
+F	MARTHA	Oh Agnes, oh Agnes, it's alright, it's alright, it's alright, it's alright, I love you.
+F	AGNES	Do you really love me or are you just saying that?
+F	MARTHA	I really love you.
+F	AGNES	As much as Mother Miriam does?
+F	MARTHA	As much as God loves you. the door. she came. She brought the devil here. There was blood on her hand that night.
+F	MARTHA	Agnes? Who? Mother Superior?
+M	ELDERLY NUN	
+F	MARTHA	What?
+M	ELDERLY NUN	Look into the convent records.
+F	MARTHA	Sister...
+F	MARTHA	Oh, Good afternoon Sister, I... I'm looking for some biographical data on Sister Agnes, and Mother said I might find it here. her.
+F	MARTHA	Thank you.
+F	MARTHA	You lied to me
+F	MARTHA	Your niece!
+M	MOTHER MIRIAM	I didn't tell you because I didn't think it was important.
+F	MARTHA	No, it just makes you doubly responsible doesn't it?
+M	MOTHER MIRIAM	I never saw Agnes until she set foot in this convent. My sister ran away from home. We lost touch with her. And when my husband died and I came here, she wrote to me and asked me if I would take care of Agnes in case anything happened.
+F	MARTHA	And Agnes' father?
+M	MOTHER MIRIAM	It could have been any one of a dozen men from what my sister told me. She was afraid that Agnes would follow in her footsteps. She did everything she could to prevent it.
+F	MARTHA	Like keeping her home from school?
+M	MOTHER MIRIAM	Yes.
+F	MARTHA	Listening to angels?
+M	MOTHER MIRIAM	She drank too much. That's what killed her.
+F	MARTHA	Do you know what she did to her?
+M	MOTHER MIRIAM	I don't think I care to know.
+F	MARTHA	She molested her!
+M	MOTHER MIRIAM	Oh, dear God.
+F	MARTHA	There is more here than meets the eye isn't there? Lots of dirty little secrets.
+M	MOTHER MIRIAM	Oh God, if only I'd known.
+F	MARTHA	Why didn't you? You knew she was keeping her home from school. You knew she was an alcoholic.
+M	MOTHER MIRIAM	I knew that after the fact.
+F	MARTHA	Why didn't you do anything to stop her?
+M	MOTHER MIRIAM	Because I didn't know...
+F	MARTHA	Oh, God.
+F	MARTHA	Larry...
+M	LARRY	Marty, what are you doing here?
+F	MARTHA	Larry there's got to be something missing.
+M	LARRY	I gave you the pictures Marty, what else do you want?
+M	LARRY	What? You think that the girl is innocent?
+F	MARTHA	I don't know.
+M	LARRY	You got to be crazy.
+F	MARTHA	Larry...
+M	LARRY	What's the matter with you, you've seen the reports. It's a cut and dried case.
+F	MARTHA	Maybe there's something that's not in the report that should be.
+M	LARRY	You're too involved Marty. Jesus look at you. Why don't you turn this case over to someone else? I'll ask around, see what I come up with. In the meantime you go home and get some sleep.
+F	MARTHA	Thanks.
+M	LARRY	If I find anything I'll call you. flicks the answerphone on. Her cat meows.
+M	SECRETARY (V.O.)	Hi Marty, it's Helen. Mrs Davenport
+M	called and was very upset that you'd	missed her appointment. She wants you to call her at home, oh and a couple of reporters have been trying to get a hold of you about Sister Agnes. They seem persistent and they may try to reach you at home. I didn't give them number.
+M	REPORTER (V.O.)	Hallo, Doctor Livingston. My name is (?). I'm doing a Sunday article on Sister Agnes for the Gazette. I would appreciate it if you would give me a phone call on 942-2424.
+M	LARRY (V.O.)	Hi Marty, it's me. Listen I just talked with Detective Crawley who was at the convent. She said that there was one thing that bothered her that didn't make it into the report. The waste paper basket. The one in Agnes' room. None of the other nuns had one. Bye. ... her that didn't make it into the report. The waste paper basket. The one in Agnes' room. None of the other nuns had one. Bye. it and raises it up. Close on individual nuns at prayer including Agnes.
+F	MARTHA	I've gotten the court's permission to hypnotise her.
+M	MOTHER MIRIAM	And my permission?
+F	MARTHA	I'd like yours too.
+M		her.
+M	MOTHER MIRIAM	We'll see about that.
+F	MARTHA	Don't deny it!
+M	MOTHER MIRIAM	I haven't decided yet.
+F	MARTHA	The woman's health is at stake.
+M	MOTHER MIRIAM	Her spiritual health.
+F	MARTHA	I don't give a damn about her spiritual health.
+M	MOTHER MIRIAM	I know you don't.
+F	MARTHA	Sentence her and be done with it, that's what you're saying and I... simple woman...
+F	MARTHA	An unhappy woman...
+M	MOTHER MIRIAM	She's happy with us and she could go on being happy if she was left alone.
+F	MARTHA	Then why did you call the police in the first place Mother, huh? Why didn't you just throw the baby into the incinerator and be done with it.
+M	MOTHER MIRIAM	Because I am a moral person.
+F	MARTHA	Bullshit!
+M	MOTHER MIRIAM	Bullshit yourself!
+F	MARTHA	Catholic Church doesn't have a corner on morality...
+M	MOTHER MIRIAM	Who said anything about the Catholic Church...
+F	MARTHA	You just said...
+M	MOTHER MIRIAM	What the hell has the Catholic Church got to do with you?
+F	MARTHA	Nothing...
+M	MOTHER MIRIAM	What have we done to hurt you? And don't deny it, I can smell an ex-Catholic a mile away. What did we do? Burn a few heretics, sell some indulgences? That was in the days when the Church was a ruling body. We let governments do those things today. So what did we do to you eh? You wanted to neck in the back seat of a car when you were fifteen and you couldn't because it was a sin?
+M	MOTHER MIRIAM (Cont.)	So instead of questioning that one rule...
+F	MARTHA	It wasn't sex. It was a lot of things, but it wasn't sex. You know when I was in the first grade my best friend was run the nun said? She died because she hadn't said her morning prayers.
+M	MOTHER MIRIAM	Stupid woman... and that's all?
+F	MARTHA	That's all? That's enough! She was a beautiful little girl.
+M	MOTHER MIRIAM	And what has that to do with it?
+F	MARTHA	I wasn't. I wasn't. She was the pretty one. She died, why not me? I never said my morning prayers. And I was ugly, I was scrawny, I had buck teeth and freckles all over my face, do you know what the nun called me, Sister Mary Clitus, called me Polkadot Livingston.
+M	MOTHER MIRIAM	So you left the Church because you had freckles?
+F	MARTHA	No, because I... yeah, yeah I left the Church cause I had freckles. a bench a nun kisses a dove and lets it fly away.
+M	and	are sitting there talking. Martha is smoking.
+M	MOTHER MIRIAM	When I was a child I used to hear my guardian angel. She sang to me 'till I was six years old. That's when I stopped listening. But I remember the voice. A few years ago I looked at myself and saw nothing but a nun who was certain of nothing. Not even of Heaven. Not even of God. And then one evening I saw Agnes standing by I recognized the voice. Please don't take it away from me again Doctor Livingston. Those years after six were very bleak.
+F	MARTHA	My sister died in a convent. And it's her voice I hear. Does my smoking bother you?
+M	MOTHER MIRIAM	No, it reminds me.
+F	MARTHA	Would you like one? Huh?
+M	MOTHER MIRIAM	I'd love one. lot. Martha pats her on the back.
+M	MOTHER MIRIAM	I'm out of prac... ... practice.
+F	MARTHA	All right?
+M	MOTHER MIRIAM	Fine thanks...
+F	MARTHA	Do you suppose the saints would have smoked if tobacco had been popular back then?
+M	MOTHER MIRIAM	Undoubtedly. Not the ascetics of course but, well Saint Thomas More...
+F	MARTHA	Long, thin and filtered.
+M	MOTHER MIRIAM	Saint Ignatius would smoke cigars and stub them out on the soles of his bare feet. And of course (distorted)
+F	MARTHA	Hand rolled.
+M	MOTHER MIRIAM	Even Christ would partake socially.
+F	MARTHA	Saint Peter?
+M	MOTHER MIRIAM	Pipe!
+F	MARTHA	Right...
+M	MOTHER MIRIAM	Mary Magdelen?
+F	MARTHA	Oh, you've come a long way baby.
+M	MOTHER MIRIAM	And Saint John would chew tobacco.
+F	MARTHA	Right. What do you suppose today's saints are smoking?
+M	MOTHER MIRIAM	There are no saints today. Good people yes, but extraordinarily good people... those I'm afraid we are sorely lacking.
+F	MARTHA	Do you think they ever existed?
+M	MOTHER MIRIAM	Yes I do.
+F	MARTHA	Do you want to become one?
+M	MOTHER MIRIAM	Become? One is born a saint.
+F	MARTHA	Well you can try, can't you, to be good?
+M	MOTHER MIRIAM	Yes, but goodness has very little to do with it. Not all the saints were good, in fact some of them were a little crazy. But... they were still attached to God. Agnes has that birth. No room for miracles. Oh my dear, how I miss the miracles.
+F	MARTHA	Do you think Agnes is still attached to God?
+M	MOTHER MIRIAM	Listen to her singing.
+F	MARTHA	I'd like to begin.
+M	MOTHER MIRIAM	Begin what?
+F	MARTHA	The hypnotism. Do you still disapprove?
+M	MOTHER MIRIAM	Would it stop you if I did?
+F	MARTHA	No.
+M	MOTHER MIRIAM	May I be present?
+F	MARTHA	Of course.
+M	MOTHER MIRIAM	Then let's begin.
+F	MARTHA	You're listening to a chorus of angels. The music surrounds you like a... warm and, comfortable pool of water. And while you're sleeping, you're going to be able to recall, all the things that we want you to remember. And when I count to three and clap my hands, you'll no longer be hypnotised. Can you hear me.
+F	AGNES	Yes.
+F	MARTHA	Who am I?
+F	AGNES	Doctor Livingston.
+F	MARTHA	And why am I here?
+F	AGNES	To help me.
+F	MARTHA	Good. Would you like to tell me why you're here?
+F	AGNES	Because I'm in trouble.
+F	MARTHA	What kind of trouble? What kind of trouble Agnes?
+F	AGNES	I'm frightened.
+F	MARTHA	Of what?
+F	AGNES	Of telling you.
+F	MARTHA	But it's easy. It's just a breath with sound. Say it. What kind of trouble?
+F	AGNES	I had a baby.
+F	MARTHA	How did you have a baby?
+F	AGNES	It came out of me. Did you know what was going to come
+F	AGNES	
+F	MARTHA	you want it to come out?
+F	AGNES	
+F	MARTHA	
+F	AGNES	I was afraid.
+F	MARTHA	were you afraid?
+F	AGNES	I wasn't worthy.
+F	MARTHA	be a mother?
+F	AGNES	
+F	MARTHA	
+F	AGNES	I open my eyes now?
+F	MARTHA	not yet Agnes, very soon but not How did the baby get into you?
+F	AGNES	grew.
+F	MARTHA	made it grow? Do you know?
+F	AGNES	
+F	MARTHA	you like to tell me?
+F	AGNES	
+F	MARTHA	anyone else know about the baby?
+F	MARTHA	Will she be angry?
+F	AGNES	She made me promise not to.
+F	MARTHA	Who? Who made you promise? It's alright Agnes. It's alright. Let's go to your room. It's the night about six weeks ago when you were very sick.
+F	AGNES	I'm afraid.
+F	MARTHA	Oh don't be, I'm here. It's alright. I want you to tell me what you did before you went to bed.
+F	AGNES	I ate.
+F	MARTHA	Hm hmm. What did you have for dinner?
+F	AGNES	Fish... ... brussel sprouts.
+F	MARTHA	You don't like brussel sprouts?
+F	AGNES	I hate them.
+F	MARTHA	And then what happened?
+F	AGNES	We went to chapel for vespers.
+F	MARTHA	Hm hmm.
+F	AGNES	I left early because I wasn't feeling very well.
+F	MARTHA	What is it?
+F	AGNES	Someone's following me.
+F	MARTHA	Who?
+F	AGNES	Sister Marguerite I think.
+F	MARTHA	Was it Sister Marguerite who knew about the baby? Alright Agnes, I want you to see your room as you saw it on that night. Open your eyes. What do you see?
+F	AGNES	My bed.
+F	MARTHA	What else?
+F	AGNES	A crucifix.
+F	MARTHA	Above the bed? Any... anything else? What do you you see, something different? What is it?
+F	AGNES	A wastepaper basket.
+F	MARTHA	Do you know who put it there?
+F	AGNES	No.
+F	MARTHA	What do you think it's there for?
+F	AGNES	For me to get sick in.
+F	MARTHA	Are you ill?
+F	AGNES	Yes.
+F	MARTHA	What do you feel?
+F	AGNES	I feel as if I've eaten glass.
+F	MARTHA	What do you do?
+F	AGNES	I have to throw up... I can't... glass... one of the sisters has fed me glass.
+F	MARTHA	Which one?
+F	AGNES	
+F	MARTHA	Of what?
+F	AGNES	Of me. Oh... God! My God... Water... it's all water...
+F	MARTHA	Why isn't anyone coming?
+F	AGNES	They can't hear me that's why. Oh God... I don't wanna...
+M	MOTHER MIRIAM	Stop her!
+F	MARTHA	What is it?
+F	MARTHA	
+F	AGNES	away, I don't want you here.
+F	MARTHA	someone in the room with you?
+F	AGNES	don't hit me please...
+M	MOTHER MIRIAM	this, she'll hurt herself not going to allow this.
+F	MARTHA	no... I said leave her alone.
+F	AGNES	take my baby... no... wasn't my fault Mommy... it was a Mommy.
+F	MARTHA	Agnes... it's alright. One, two alright... it's me, Doctor Livingston, alright, alright. Thankyou Agnes, How do you feel?
+F	AGNES	
+F	MARTHA	you remember what just happened?
+F	AGNES	
+F	MARTHA	good. Do you feel well enough stand?
+F	MARTHA	There you go. It's alright, it's alright, it's all over. It's alright Agnes, that's right, that's right. Ah excuse me. Hallo. I'm looking for some ah... ground plans for the ah... Saint Marie Madeleine Convent in (distorted). a long set of drawers and starts looking through it.
+M	MAN	
+M	MAN	Oh... very interesting I guess... Excuse me... both at the plans. Ah viola! This has everything. Even the secret entrance. They all had that. Usually to get from building to building in the snow...
+F	MARTHA	That's how he got in... or she got out.
+M	MAN	Oh excuse me, what did you say?
+F	MARTHA	Nothing. May I take some notes?
+M	MAN	finds a stairway there leading underground. She goes down at a cross carved on the stone floor, then continues. Finally more steps and goes up into the... doves. It begins to make sense for her. out of a building, down streets, across the road as though traffic exist and into another building.
+M	GIRL	checks her lipstick in the reflective metal walls. The lift Sisters get off.
+M	MOTHER MIRIAM	Is the Doctor in her office?
+F	HELEN	Ah, who shall I say is calling?
+M	MOTHER MIRIAM	General MacArthur.
+F	HELEN	Just a minute please, you can't go in there.
+F	MARTHA	It's... it's alright Helen, just close the door.
+M	MOTHER MIRIAM	I've just met with the bishop. We're taking you off the case.
+F	MARTHA	You're what?
+M	MOTHER MIRIAM	If we want to hire a psychiatrist for Agnes. we'll find our own, thank you.
+F	MARTHA	One that will ask the questions you want asked.
+M	MOTHER MIRIAM	that will approach this matter some objectivity and respect.
+F	MARTHA	the Church?
+M	MOTHER MIRIAM	Agnes.
+F	MARTHA	think she's a saint?
+M	MOTHER MIRIAM	been touched by God, yes.
+F	MARTHA	How? She hallucinates, stops and bleeds spontaneously. Is supposed to convince me she be touched. Give me a miracle.
+M	MOTHER MIRIAM	father!
+F	MARTHA	is he?
+M	MOTHER MIRIAM	must he be anybody?
+F	MARTHA	God, you're as crazy as...
+M	MOTHER MIRIAM	laughing, I don't say it's the truth, saying...
+F	MARTHA	(distorted) ?
+M	MOTHER MIRIAM	be ridiculous.
+F	MARTHA	give me a reasonable explanation
+M	MOTHER MIRIAM	miracle is an event without an If she's capable of putting hole in her hand without benefit of a why couldn't she split a cell in her
+F	MARTHA	is insane.
+M	MOTHER MIRIAM	as no man in the convent on that and no way for any man to get in out.
+F	MARTHA	saying God did it? did it. I'm saying God it.
+F	MARTHA	how did it happen?
+M	MOTHER MIRIAM	never find the answer for God did.
+F	MARTHA	thought you didn't believe in miracles Mother?
+M	MOTHER MIRIAM	I want the opportunity to believe. want the choice to believe.
+F	MARTHA	what you are choosing to believe a lie because you won't face the fact she was raped... or seduced... that she did the seducing.
+M	MOTHER MIRIAM	is an innocent.
+F	MARTHA	she is not an enigma Mother. that Agnes has done is from modern psychiatry. two, three, right down the line.
+M	MOTHER MIRIAM	what you believe she is? The of her psychological parts?
+F	MARTHA	what I have to believe...
+M	MOTHER MIRIAM	why are you so obsessed with her? losing sleep over her? thinking about her all the time. bent on saving her. Why?
+M	MOTHER MIRIAM (Cont.)	I'm not accusing. I'm recognizing.
+F	MARTHA	There's a tunnel out of the crypt into the barn. Did you know about that? There's an answer Mother. That's how she got out.
+M	MOTHER MIRIAM	That's crazy. How could she find out about it?
+F	MARTHA	Somebody told her.
+M	MOTHER MIRIAM	Who? That tun... that tunnel hasn't been used in fifty years.
+F	MARTHA	Oh, would you stop lying Mother!
+M	MOTHER MIRIAM	Why would I lie?
+F	MARTHA	Because it's murder we're talking about. Aren't you concerned about what she told us about the other person in her room.
+M	MOTHER MIRIAM	I'm concerned about her health.
+F	MARTHA	Who was that person Mother? Was it you?
+M	MOTHER MIRIAM	If you believe this is murder, it is the Crown attorney you have to talk to, not me. And definitely not Agnes. children. Their singing (off) from the chapel continues until scene 78.
+F	MARTHA	All I want is one more week.
+M	LEVEAU	Why? You've done nothing to show any progress.
+F	MARTHA	Yes, that's because I'm getting to her.
+M	LEVEAU	You're getting to all of us Martha, let's face it.
+F	MARTHA	I'll have a decision by next week.
+M	LEVEAU	It's gone on long enough. You're out.
+F	MARTHA	Oh Joe... Joe she didn't kill the baby.
+M	LEVEAU	You have proof?
+F	MARTHA	I'll have it.
+M	LEVEAU	When?
+F	MARTHA	Next week.
+M	LEVEAU	No, no, no...
+M	LEVEAU	No!
+F	MARTHA	Tomorrow... tomorrow, I'll get it by tomorrow. I will.
+M	LEVEAU	hair being cut, her joy at the habit being fitted to her, join her family, a jolly old singalong on the piano, this nuns singing along from behind the gate. Excuse me Mother, Doctor Livingston is here. hands her a court order. Mother Miriam reads it briefly
+M	MOTHER MIRIAM	This is permission to take her apart.
+F	MARTHA	Where is she?
+M	MOTHER MIRIAM	Hasn't she had enough?
+F	MARTHA	I have a few more questions to ask her.
+M	MOTHER MIRIAM	My God, but you're determined.
+F	MARTHA	Who knew she was pregnant?
+M	MOTHER MIRIAM	Why do you insist upon pressing...
+F	MARTHA	Was it you?
+M	MOTHER MIRIAM	Is it because she's a nun?
+F	MARTHA	Did you know she was pregnant?
+M	MOTHER MIRIAM	Yes.
+F	MARTHA	And you didn't send her to a doctor.
+M	MOTHER MIRIAM	I didn't guess until it was too late.
+F	MARTHA	For what? An abortion?
+M	MOTHER MIRIAM	Oh, don't be ridiculous.
+F	MARTHA	Too late for what? I don't know... too late to stop it.
+F	MARTHA	The baby?
+M	MOTHER MIRIAM	The scandal...
+F	MARTHA	You went to the room to help with the birth.
+M	MOTHER MIRIAM	She didn't want any help.
+M	MOTHER MIRIAM	That's a lie.
+F	MARTHA	You hid the wastepaper basket in her room.
+M	MOTHER MIRIAM	I didn't hide it. I put it there for the blood and the dirty sheets.
+F	MARTHA	And the baby.
+M	MOTHER MIRIAM	No!
+F	MARTHA	You tied the cord around its neck.
+M	MOTHER MIRIAM	I wanted her to have it when no-one else was around, they would have taken the baby to a hospital and left it with them, but it was such a difficult birth, there was so much blood and I panicked.
+F	MARTHA	Before or after you killed the child?
+M	MOTHER MIRIAM	I left it with her and I went for help.
+F	MARTHA	I doubt that's what she'd say.
+M	MOTHER MIRIAM	Then she's a liar.
+F	MARTHA	Agnes, can you hear me?
+F	AGNES	Yes.
+F	MARTHA	I want you to remember if you can a night last January. The night Sister Paul died. Do you remember. What's the matter?
+F	AGNES	She said Michael.
+F	MARTHA	What did she mean?
+F	AGNES	The statue. She had shown it to me the day before.
+F	MARTHA	And the passage to the barn?
+F	AGNES	Yes.
+F	MARTHA	Why?
+F	AGNES	So I could go to him.
+F	MARTHA	Who?
+F	AGNES	Him.
+F	MARTHA	How did she know about him?
+F	AGNES	She'd seen him too.
+F	MARTHA	Where?
+F	AGNES	From the belltower the day she before she died.
+F	MARTHA	So she sent you?
+F	AGNES	Yes. lamp. What happened? as Agnes moves nervously through the barn.
+M	AGNES (V.O.)	He's here.
+F	MARTHA	Are you frightened?
+F	AGNES	Yes. as they fly around the barn.
+F	AGNES	Hallo...
+F	AGNES	... where are you?
+F	AGNES	Is it you? Then she seems to be talking to someone although we can see I... I'm afraid... yes, yes I do... why me?... wait, I want to see you. What do you see?
+F	AGNES	Halos... her back. Still all we can see are doves flashing in the light. ... dividing and dividing feathers and starts, falling, falling into the iris of God's eye. Oh... oh!... it's... it's so lovely... it's so... blue... yellow... blood wings, brown, blood... see two holes in her palms weeping blood.
+F	AGNES	His blood... my God...
+F	MARTHA	Oh Agnes...
+F	AGNES	It's bleeding... I'm bleeding... my God it won't stop, I can't get it to stop. Let go of me, I wish you were dead.
+F	MARTHA	Agnes... Agnes... blood. Martha follows her.
+F	AGNES	Stay away from me...
+F	MARTHA	Agnes it had nothing to do with the hand of God. He did a terrible thing to you, do you understand?
+F	AGNES	No...
+F	MARTHA	He frightened you and he hurt you. It's not your fault. It's his fault. Tell us who he is so we can find him. Stop him from doing this to other women.
+F	AGNES	Not your fault...
+F	MARTHA	Agnes who did you see?
+F	AGNES	I hate him...
+F	MARTHA	Of course you do. Who was it?
+F	AGNES	I hate him for what he did to me.
+F	MARTHA	Yes.
+F	AGNES	For what he made me go through.
+F	MARTHA	Who?
+F	AGNES	I hate him.
+F	MARTHA	Agnes, who did this to you?
+F	AGNES	God! It was God. And now I'll burn in hell because I hate him.
+F	MARTHA	Agnes you won't burn in hell. It's alright to hate him.
+M	MOTHER MIRIAM	That's enough.
+F	MARTHA	Agnes, what happened to the baby?
+M	MOTHER MIRIAM	She can't remember.
+F	MARTHA	What happened to the baby?
+F	AGNES	It was dead.
+F	MARTHA	It was alive wasn't it?
+F	AGNES	I don't remember.
+M	MOTHER MIRIAM	Oh, don't do this!
+F	MARTHA	Wasn't it!
+F	AGNES	YES!
+F	MARTHA	Mother Miriam was with you wasn't she?
+F	MARTHA	She took the baby in her arms?
+F	AGNES	Yes.
+F	MARTHA	You saw it all didn't you?
+F	AGNES	Yes.
+F	MARTHA	And then... what did she do? Agnes what did she do?
+F	AGNES	She... left me alone with that little thing, and I looked at it, and I thought this is a mistake. But it's my mistake, not Mommy's. God's mistake. I thought I... I can save her. I can give her back to God.
+F	MARTHA	What did you do?
+F	AGNES	I put her to sleep.
+F	MARTHA	H... how?
+F	AGNES	I tied the cord around her neck... wrapped her in the bloody sheets... and stuffed her in the trash can. Martha claps her hands lightly together once.
+M		Marguerite and Mother Miriam. Justice Leveau is summing
+M	LEVEAU	In view of the situation as it now stands, and the testimony given here this morning, it seems quite clear that the defendant was in no manner responsible for her actions. It is therefore the judgement of this court that she be returned to the convent of Marie Madeleine where she will be cared for under proper medical supervision by a visiting physician. to sum up in French when suddenly Agnes stands up. Oui. Do you have something to say?
+F	AGNES	I stood in the window of my room every night for a week. And one night I heard the most beautiful voice imaginable. And when I looked I saw the moon shining down on him. For six nights he sang to me, songs I'd never heard. And on the seventh night he opened his wings and lay on top of me. All the while he sang - Charlie Sweet... Charlie Sweet... Charlie's a...
+M	LEVEAU	Please, remove her from the court.
+M	LEVEAU	Would someone please remove the defendant from the courtroom. into one another.
+M	MARTHA (V.O.)	I don't know the meaning behind the song she sang. Perhaps it was a song of seduction. And the father was a fieldhand. Perhaps the song was simply a lullaby that she remembered from many years ago. And the father was hope and... and love and desire. And a belief in miracles. over which Agnes' singing can be heard.
+M	MARTHA (V.O.)	I want to believe that she was blessed. And I do miss her, and I hope that she's left something, some little part of herself with me. That would be miracle enough wouldn't it? it fly away across the snowy landscape.

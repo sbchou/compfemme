@@ -1,0 +1,749 @@
+M	CHARACTER	DIALOGUE
+M	VOICE (V.O.)	When I was lying there in the VA hospital, with a big hole blown through the middle of my life, I started having these dreams of flying. Sooner or later though, you always have to wake up...
+M	JAKE (V.O.)	They can fix a spinal, if you've got the money. But not on vet benefits, not in this economy.
+M	PERKY NEWSCASTER	The Bengal tiger, extinct for over a century, is making a comeback. These cloned tiger cubs at the Beijing Zoo are...
+M	JAKE (V.O.)	I became a Marine for the hardship. To be hammered on the anvil of life. I told myself I could pass any test a man can pass.
+M	JAKE (V.O.)	Let's get it straight up front. I don't want your pity. I know the world's a cold-ass bitch.
+M	JAKE (V.O.)	You want a fair deal, you're on the wrong planet. The strong prey on the weak. It's just the way things are. And nobody does a damn thing.
+M	JAKE (V.O.)	All I ever wanted in my sorry-ass life was a single thing worth fighting for.
+M	JAKE	I hope you realize you've just lost a customer!
+M	JAKE	Candy ass bitch.
+M	JAKE	If it ain't rainin' we ain't trainin'!
+M	AGENT 1	Are you Jake Sully?
+M	JAKE	Step off. You're ruinin' my good mood.
+M	AGENT 2	It's about your brother.
+M	JAKE (V.O.)	The strong prey on the weak. A guy with a knife took all Tommy would ever be, for the paper in his wallet.
+M	JAKE	Jesus, Tommy. The Suits' concern was touching.
+M	AGENT 1	Your brother represented a significant investment. We'd like to talk to you about taking over his contract.
+M	JAKE (V.O.)	The egghead and the jarhead. Tommy was the scientist, not me. He was the one who wanted to get shot light years out into space to find the answers.
+M	JAKE (V.O.)	Me -- I was just another dumb grunt gettin' sent someplace I was gonna regret.
+M	JAKE	Are we there?
+M	MED TECH	We're there, Sunshine.
+M	MED TECH	People, you have been in cryo for five years, nine months and twenty two days. You will be hungry, you will be weak. If you feel nausea, please use the sacks provided for your convenience. The staff thanks you in advance.
+M	CREW CHIEF	Exopacks on!
+M	CREW CHIEF	Remember people, you lose your mask you're unconscious in 20 seconds and you're dead in four minutes. Let's nobody be dead today, it looks bad on my report.
+M	CREW CHIEF	Exopack on, let's go!
+M	CREW CHIEF	Go directly into the base! Do not stop! Go straight inside!
+M	WAINFLEET	Look at all that new meat.
+M	FIKE	Check it out, man. Meals on wheels.
+M	WAINFLEET	That is just wrong.
+M	JAKE	What're you two limpdicks starin' at?
+M	WAINFLEET	Seen a lotta guys leave this place in a wheelchair. Never seen anybody show up in one. You are not in Kansas any more...
+M	QUARITCH	... You are on Pandora, ladies and gentlemen. Respect that fact every second of every day.
+M	QUARITCH	Out beyond that fence every living thing that crawls, flies or squats in the mud wants to kill you and eat your eyes for jujubees.
+M	QUARITCH	We have an indigenous population of humanoids here called the Na'vi. They're fond of arrows dipped in a neurotoxin which can stop your heart in one minute. We operate -- we live -- at a constant threat condition yellow.
+M	QUARITCH	As head of security, it's my job to keep you alive. I will not succeed -- -- not with all of you. If you wish to survive, you need a strong mental attitude, you need to follow procedure...
+M	JAKE (V.O.)	Nothing like an old-school safety brief to put your mind at ease.
+M	NORM	Hey, you're Jake right? Tom's brother? You look just like him. Sorry, I'm Norm Spellman, I went through avatar training with him.
+M	NORM	He was a great guy -- funny. It was a big shock to all of us.
+M	JAKE	Yeah.
+M	NORM	And duh! -- obviously you look like him. I mean, if you weren't genetically identical, you wouldn't be taking over his avatar.
+M	JAKE	That's why I'm here.
+M	NORM	So -- you want to go check it out?
+M	MAX	Me and Norm were out here to drive these remotely controlled bodies called avatars. They're grown from human DNA mixed with DNA from the natives here.
+M	JAKE	Damn. They got big.
+M	NORM	Yeah, they mature on the trip out. So the proprioceptive sims worked pretty well.
+M	MAX	Yeah, they've got great muscle tone. Give us a few hours, you guys can take them for a spin.
+M	JAKE	It looks like him.
+M	NORM	No, it looks like you. This is your avatar now, Jake.
+M	JAKE (V.O.)	The idea is -- every driver is matched to his own avatar --
+M	JAKE	-- so their nervous systems are in tune. Or something. Which is why they offered me this gig, because I can link with Tommy's avatar, which was insanely expensive. Is this right? I just say whatever in these videologs?
+M	NORM	Yeah. You just need to get in the habit of documenting everything -- what you see, what you feel -- it's all part of the science. Good science starts with good observation.
+M	JAKE	Right. So, whatever. Here I am. Doing science. Never been in a lab before.
+M	MAX	Log off. It's time to meet your boss for the next five years.
+M	NORM	Grace Augustine is a legend. She's the head of the Avatar Program, and she wrote the book -- I mean literally wrote the book -- on Pandoran botany.
+M	MAX	That's because she likes plants better than people.
+F	GRACE	Who's got my goddamn cigarette?!
+M	MAX	And here she is, Cinderella back from the ball. Grace, I'd like you to meet Norm Spellman and Ja --
+F	GRACE	Norm. I hear good things about you. How's your Na'vi?
+M	NORM	May the All Mother smile upon our first meeting.
+F	GRACE	Not bad. You sound a little formal.
+M	NORM	There is still much to learn.
+M	MAX	Uh, Grace, this is Jake S----
+F	GRACE	Yeah, yeah, I know who you are, and I don't need you. I need your brother. You know -- the PhD who trained three years for this mission.
+M	JAKE	He's dead. I know it's a big inconvenience to everyone.
+F	GRACE	How much lab training have you had? Ever run a gas chromatograph?
+M	JAKE	No.
+F	GRACE	Any actual lab work at all?
+M	JAKE	High school chemistry. But I ditched.
+F	GRACE	You see? You see? They're pissing on us without even the courtesy of calling it rain. I'm going to Selfridge.
+M	MAX	Grace, that's not a good idea.
+M	MAX	Here, tomorrow, oh eight hundred. Try to use big words.
+F	GRACE	Parker, I used to think it was benign neglect, but now I see you're intentionally screwing us.
+M	SELFRIDGE	Grace. You know I enjoy our little talks.
+F	GRACE	I need a research assistant, not some jarhead dropout.
+M	SELFRIDGE	Actually, we got lucky with him.
+F	GRACE	Lucky? How is this in any way lucky?
+M	SELFRIDGE	Well -- lucky your guy had a twin brother, and lucky the brother wasn't an oral hygienist or something. A Marine we can use. I'm assigning him to your team as security escort.
+F	GRACE	The last thing I need is another trigger happy asshole out there!
+M	SELFRIDGE	Look, you're supposed to be winning the hearts and minds of the natives. Isn't that the whole point of your little puppet show? If you look like them, if you talk like them, they'll trust you?
+M	SELFRIDGE	But after -- how many years? -- relations with the indigenous are only getting worse.
+F	GRACE	That tends to happen when you use machine guns on them.
+M	SELFRIDGE	This is why we're here. Unobtanium. Because this little gray rock sells for twenty million a kilo. No other reason. This is what pays for the party. And it's what pays for your science. Comprendo?
+M	SELFRIDGE	Those savages are threatening our whole operation. We're on the brink of war and you're supposed to be finding a diplomatic solution. So use what you've got and get me some results.
+F	GRACE	How much link time have you logged?
+M	NORM	Five hundred and twenty hours.
+M	JAKE	Like -- an hour.
+F	GRACE	Tell me you're joking.
+M	JAKE	Don't! I got this.
+F	GRACE	So you just figured you'd come out here to the most hostile environment known to man, with no training of any kind, and see how it went? What was going through your head?
+M	JAKE	Maybe I was just tired of doctors telling me what I couldn't do.
+F	GRACE	Relax and let your mind go blank. That shouldn't be hard for you.
+M	JAKE	Kiss the darkest part of my lily white --
+M	MAX	Initiate link.
+M	MAX	That's a gorgeous brain. Nice activity.
+F	GRACE	Go figure. Alright, I'm going in.
+M	TECH	Phase-lock at forty percent. He's in transition.
+M	MAX	That's it. Find your way home.
+M	MAX	He's in.
+M	TECH	Phase-lock ninety nine percent. The link is stable.
+M	MAX	Take it slow, Jake. We need to check your motor control. Try touching your fingertips together --
+M	MED TECH	Easy, Jake, I need you to sit down --
+M	MAX	Jake! Wait, we have to run some tests --
+M	GRACE (O.S.)	Hey Marine!
+M	JAKE	Grace?
+F	GRACE	Well who'd you expect, numbnuts? Think fast!
+F	GRACE	Motor control is looking good.
+M	NORM (O.S.)	Hey, check it out.
+M	NORM	I am a living god.
+M	QUARITCH	For you pogues, this is a banshee. A small one. See, they like it when I bring fresh meat out here. And this clearcutting really stirs up the hornet's nest. So keep your head on a swivel. If it moves, shoot it. If you're not sure it's moving -- shoot it! If it looks like a bunch of flowers you want to take home to Sally Rottencrotch -- SHOOT IT! What're you gonna do?
+M	TROOPERS	Shoot it, sir!
+M	QUARITCH	Outstanding. Let's roll.
+M	JAKE	That's kinda freaky.
+F	GRACE	Lights out amigos. See ya' at dinner.
+F	GRACE	Damn. Same old sack a' bones.
+F	TRUDY	Sully -- Colonel wants to see you in the Armor Bay.
+M	JAKE	You guys're packing some heavy ordinance.
+F	TRUDY	Yeah, `cause we're not the only thing flyin' around out there. Or the biggest. I'm gonna need you on a door gun, I'm a man short.
+M	JAKE	Yeah, no problem.
+F	TRUDY	See ya on the flight-line, zero nine. He's down there.
+M	QUARITCH	This low gravity makes you soft. You get soft, Pandora will shit you out dead with zero warning.
+M	QUARITCH	I pulled your record, Corporal. Venezuela -- that was some mean bush. Nothing like this here, though. You got heart kid, coming out here.
+M	JAKE	I figured -- just another hellhole.
+M	MECHANIC	That servo's in, Colonel, if you want to try it.
+M	QUARITCH	I was in First Recon a few years ahead of you. More than a few. Two tours in Nigeria, not a scratch. I come out here and --
+M	QUARITCH	They could fix this if I rotated back. But you know what? I kinda like it. Reminds me every day what's out there. Besides, I can't leave --
+M	QUARITCH	This is my war, here. The avatar program is a joke -- buncha limpdick scientists. But we have a unique opportunity here, you and I. A recon Marine in an avatar body could get me the intel I need, on the ground, right in the hostiles' camp.
+M	QUARITCH	Looks good. I need you to learn about these savages, gain their trust. Find out how I can force their cooperation, or hit `em hard if they don't. Maybe you can keep some of my boys from going home like you. Or bagged-and-tagged.
+M	JAKE	That sounds real good, Colonel. So -- am I still with Augustine?
+M	QUARITCH	On paper. You walk like one of her science pukes, you quack like one, but you report to me. Can you do that for me?
+M	QUARITCH	Look, son -- I take care of my own. Get me what I need, I'll see you get your legs back when you rotate home. Your real legs.
+F	GRACE	Start calibrating. We're on the flight line in ten minutes.
+F	GRACE	What did Atilla want?
+M	JAKE	Just Marines comparin' tattoos.
+F	GRACE	Yeah. Well, listen to me, Marine --
+F	GRACE	-- you're driving an avatar, now. That means you're in my world, got it?
+M	JAKE	Got it.
+F	GRACE	That son of a bitch has screwed up this program enough. All this -- -- exists so we can go out there and build a bridge of trust to these people, who could teach us so much. But thanks to Quaritch and his thugs the Na'vi won't even talk to us anymore.
+M	JAKE	Then how's this supposed to work?
+F	GRACE	We have a new face. You're fluent, you've studied the culture. You're non-threatening. The ones we know best -- the Omaticaya clan -- may give you a chance. Maybe you can get them back to the table before things go tits-up for good.
+M	NORM	This is failing as a pep talk.
+M	JAKE	How do we contact them?
+F	GRACE	We don't. They contact us. If they see us taking our samples, treating the forest with respect -- Not trampling everything in sight -- they may reach out to us.
+M	JAKE	Or they may skin us and make a drum.
+F	GRACE	Just keep your mouth shut and let Norm do the talking.
+M	TRUDY (INTERCOM)	Sturmbeest herd, one o'clock.
+F	GRACE	Looks like a bull, six cows and some juveniles.
+M	NORM	The bull has the red on the dorsal armor?
+M	WAINFLEET	Yo Chacon! Get some!
+F	GRACE	Stay with the ship. One idiot with a gun's enough.
+M	WAINFLEET	Whatever you say, Doc.
+M	WAINFLEET	Ya'll have fun out there.
+F	GRACE	Relax, Marine. You're making me nervous.
+M	NORM	How will they know we're here?
+F	GRACE	I'm sure they're watching us right now.
+M	GRACE (O.S.)	The kids were so bright, so eager to learn... they picked up English faster than I could teach it to them.
+F	GRACE	Bring the soil probe -- right there, yellow case.
+F	GRACE	The stingbats knock them off. I guess I always hope somebody will come back and read them.
+M	NORM	Why don't they come back?
+F	GRACE	The Na'vi learned as much about us as they needed to know.
+M	JAKE	What happened here?
+F	GRACE	Are you going to help with this gear? We've got a lot to do.
+F	GRACE	See, right here where the roots of the two trees interact.
+F	GRACE	Don't shoot. You'll piss it off.
+M	JAKE	It's already pissed off!
+F	GRACE	Jake, that armor's too thick. Trust me.
+F	GRACE	It's a territorial threat display. Do not run, or he'll charge.
+M	JAKE	What do I do?
+F	GRACE	Hold your ground!
+M	JAKE	Oh yeah! Who's bad?! That's right.
+M	JAKE	That's what I'm talkin' about, bitch! That's right motherf--
+M	JAKE	What about this one? Run, don't run? What?
+F	GRACE	Run. Definitely RUN!
+M	TRUDY (INTERCOM)	I'm going to have to call it, guys. We're not allowed to run night ops. Colonel's orders.
+F	GRACE	Shit.
+F	TRUDY	Sorry, Doc. He's just gonna have to hang on `till morning.
+F	GRACE	He's not going to make it till morning.
+M	JAKE	I don't have all goddamn night! Come on! Come on!
+F	NEYTIRI	Rrreeyaaah! Hyaaaah!!
+F	NEYTIRI	Raaaarrrr!
+M	JAKE	Wait, don't --
+F	NEYTIRI	Forgive me, my brother.
+M	JAKE	Look, um, I know you probably don't understand this. But -- thanks. Thank you. I owe you.
+F	NEYTIRI	Forgive me. May your spirit run with the Great Mother.
+M	JAKE	I would have been screwed if you hadn't come along --
+M	JAKE	Hey, wait. Wait! Where you goin'?
+M	JAKE	Slow down a second will you. I just want to thank you for killing those --
+F	NEYTIRI	Don't thank! You don't thank for this! This is sad. Very sad, only.
+M	JAKE	Okay, I'm sorry. Whatever I did -- I'm sorry.
+F	NEYTIRI	All this is your fault! They did not need to die.
+M	JAKE	They attacked me. How'm I the bad guy HERE--
+F	NEYTIRI	Your fault! You are like a baby, making noise, don't know what to do. You should not come here, all of you! You only come and make problems. Only.
+M	JAKE	Okay, fine, you love your little forest friends. So why not just let them kill my ass? What's the thinking?
+F	NEYTIRI	Why save you?
+M	JAKE	Yes, why save me?
+F	NEYTIRI	You have a strong heart. No fear.
+F	NEYTIRI	But stupid! Ignorant like a child!
+M	JAKE	If I'm so ignorant, maybe you should teach me.
+F	NEYTIRI	Sky people can not learn. You do not See.
+M	JAKE	Whooaa.
+M	JAKE	Then teach me to "see."
+F	NEYTIRI	No one can teach you to See.
+M	JAKE	Hey, slow down. Look, I think we just got off on the wrong foot and --
+M	JAKE	--you just have to get to know me. I'm Jake. Jake Sull--
+M	JAKE	Whooaaa -- shit!
+M	JAKE	I need your help.
+F	NEYTIRI	You should not be here.
+M	JAKE	So take me with you.
+F	NEYTIRI	No. You go back.
+M	JAKE	What?
+M	JAKE	What are they?
+F	NEYTIRI	Atokirina'. Seeds of the Great Tree -- very pure spirits.
+M	JAKE	What was that all about?
+F	NEYTIRI	Come!
+M	JAKE	What's your name?
+F	NEYTIRI	Tsu'tey, what are you doing?! He is my captive!
+M	TSU'TEY	These demons are forbidden here. I will kill this one as a lesson to the others!
+F	NEYTIRI	Stop! There has been a sign. This is a matter for the Tsahik.
+M	TSU'TEY	Bring him.
+M	EYTUKAN	Why do you bring this creature here?
+F	NEYTIRI	I was going to kill him, but there was a sign from Eywa.
+M	EYTUKAN	I have said no dreamwalker will come here, to offend our home! His alien smell fills my nose Father, many atokirina came to this alien.
+M	JAKE	What's going on?
+F	NEYTIRI	My father is deciding whether to kill you.
+M	JAKE	Your father!? Uh, good to meet you, sir.
+M	MO'AT	Step back!
+M	MO'AT	I will look at this alien.
+F	NEYTIRI	That is Mother. She is Tsahik -- the one who interprets the will of Eywa.
+M	JAKE	Who's Eywa?
+M	MO'AT	What are you called?
+M	JAKE	Jake Sully.
+M	MO'AT	Why did you come to us?
+M	JAKE	I came to learn.
+M	MO'AT	We have tried to teach other Sky People. It is hard to fill a cup which is already full.
+M	JAKE	My cup is empty, trust me. Just ask Doctor Augustine. I'm no scientist.
+M	MO'AT	What are you?
+M	JAKE	I don't know. I was a Marine -- uh, a warrior. Of the Jarhead clan.
+M	TSU'TEY	A warrior! I could kill him easily!
+M	EYTUKAN	No! This is the first warrior dreamwalker we have seen. We need to learn more about him.
+M	JAKE	What's going on? What are they saying?
+M	MO'AT	Daughter. You will teach him our way, to speak and walk as we do.
+F	NEYTIRI	Why me? That's not fair! I only--
+M	MO'AT	It is decided!
+M	MO'AT	My daughter will teach you our ways. Learn well, Jakesully. We will see if your insanity can be cured.
+M	MO'AT	He is your responsibility.
+M	JAKE	So it's all good, right? You and me --
+F	NEYTIRI	Do not speak.
+M	JAKE	Don't get up.
+M	JAKE	You never told me your name.
+F	NEYTIRI	Neytiri te Ckaha Mo'at'ite.
+M	JAKE	Okay, again, a whole lot slower.
+F	NEYTIRI	Neytiri. Nay-TEE-ree.
+M	JAKE	Nay-TEE-ree. That's nice. Nay-TEE-ree.
+M	TSU'TEY	These aliens try to look like people, but they can't.
+M	MO'AT	He seems dim to me. And his eyes are too small.
+M	JAKE	Your mom likes me. I can tell.
+M	MO'AT	Neytiri will test this "warrior." Hey may learn nothing -- but we will learn much.
+M	EYTUKAN	You speak truth. We must understand these Sky People if we are to drive them out.
+M	JAKE	These rock. What are they?
+F	NEYTIRI	Teylu. You call beetle larvae.
+M	JAKE	That's some damn fine teylu. That's like grandma's teylu.
+M	TSU'TEY	I say she will kill him.
+F	GRACE	Come on back, kid, that's it.
+M	JAKE	Wha --? Oh.
+F	GRACE	Damn, you were dug in like a tick. Is the avatar safe?
+M	JAKE	Yeah, Doc -- and you are not going to believe where I am.
+F	GRACE	-- so the kid's out there one night and he's got the Queen Bitch herself offering him the spare room and the car keys. Unbelievable.
+M	JAKE	It's not something you can teach.
+M	MAX	That's awesome, Jake.
+F	GRACE	For reasons I cannot fathom, the Omaticaya have chosen you. God help us all.
+M	QUARITCH	Jarhead clan? And that worked?
+M	JAKE	Yeah. They want to study me. See if I can learn to be one of them.
+M	QUARITCH	That's how you seize the initiative. I wish I had ten more like you.
+M	SELFRIDGE	Look, Sully -- find out what these blue monkeys want. We try to give them medicine and education. Roads! But no -- they like mud. I wouldn't care except --
+M	SELFRIDGE	Their damn village is sitting right over the richest unobtanium deposit for a hundred klicks in any direction. Which sucks -- for them -- because they need to relocate.
+M	JAKE	Does Augustine know about this?
+M	SELFRIDGE	Yeah, she does, and she's on the next ship back if she tries to cock-block me on it.
+M	JAKE	So -- who talks them into moving?
+M	QUARITCH	Guess.
+M	JAKE	What if they won't go?
+M	QUARITCH	I'm betting they will.
+M	SELFRIDGE	Killing the indigenous looks bad, but there's one thing shareholders hate more than bad press -- and that's a bad quarterly statement. Find me a carrot to get them to move, or it's going to have to be all stick.
+M	QUARITCH	You got three months. That's when the dozers get there.
+M	JAKE	I'm on it.
+M	JAKE	Tsu'tey. Mo'at. Eytukan.
+F	GRACE	He's the clan leader -- -- but she's the spiritual leader. Like a shaman.
+M	JAKE	Got it. So who's this Eywa?
+M	NORM	Who's Eywa? Oh, only their deity. The Great Mother. The goddess made up of all living things. You'd know that if you had any training whatsoever.
+M	JAKE	Who's got a date with the chief's daughter?
+F	GRACE	Knock it off. Jesus, it's like kindergarten around here.
+F	GRACE	Neytiri was my best student. She and her sister Silwanin. Just amazing girls.
+M	JAKE	I didn't meet the sister. No, she's dead. Okay, let's go -- village life starts early.
+M	MAX	Link is ready.
+F	GRACE	Don't do anything unusually stupid.
+F	NEYTIRI	This is shahaylu -- the bond. Feel her heartbeat, her breath. Feel her strong legs.
+F	NEYTIRI	You may tell her what to do -- -- inside. For now, say where to go.
+M	JAKE	Forward.
+F	NEYTIRI	Again.
+M	TSU'TEY	You should go away.
+M	JAKE	I knew this guy could speak English.
+M	TSU'TEY	This alien will learn nothing. A rock Sees more.
+F	NEYTIRI	Again.
+M	JAKE	You've got outer columns, then a secondary ring here, and an inner ring. Then a core structure, it's like a spiral, that's how they move up and down.
+M	QUARITCH	I'm going to need accurate scans of all these columns.
+M	JAKE	Roger that.
+F	GRACE	I'm not about to let Quaritch and Selfridge micro-manage this thing. We're going up into the mountains. There's a mobile link up at Site 26 that we can work out of.
+M	NORM	The Hallelujah Mountains?
+F	GRACE	That's right.
+M	NORM	Yesssss! The legendary Floating Mountains of Pandora? Heard of them?
+F	TRUDY	It only takes tiny inputs. Here, put your hand on the cyclic --
+F	TRUDY	Feel how small the moves are? You barely have to think it, and the aircraft reacts.
+F	GRACE	See these magnetic formations. We're getting close.
+F	TRUDY	Yeah we are. Look at my instruments.
+F	GRACE	Yup. We're in the flux vortex.
+M	NORM	Oh. My. God.
+F	TRUDY	You should see your face.
+M	JAKE (V.O.)	Yeah, so what does hold them up? Grace explained it to me -- some kind of maglev effect because unobtanium is a superconductor, or something. At least somebody understands it. Just not me.
+F	GRACE	Jake, take number two, it's the least glitchy. Norm, I need you to operate Jake's link.
+M	JAKE	Hey. You got a problem?
+M	NORM	I trained three years for this mission. I speak the language fluently. He falls off the frickin' turnip truck and all of a sudden he's cultural ambassador!?
+F	GRACE	It's not our choice, Norm.
+M	NORM	Yeah, well I didn't come out here to wash the dishes while you're on some interspecies booty call.
+F	GRACE	He can't go far.
+F	GRACE	Let's get you in.
+M	JAKE	Holy shit.
+F	NEYTIRI	Do not look in her eye.
+F	NEYTIRI	Ikran is not horse. Once shahaylu is made, ikran will fly with only one Hunter in the whole life. To become taronyu -- Hunter -- you must choose your own ikran. And he must choose you.
+M	JAKE	When?
+F	NEYTIRI	When you are ready.
+F	NEYTIRI	Heeyaaahh!
+M	JAKE	Do I have to do this? I need some rack.
+F	GRACE	No -- now, when it's fresh.
+M	JAKE	Yeah, yeah. The days are starting to blur together. The language is a bitch, but I figure it's like field-stripping a weapon. Repetition.
+M	JAKE	Seyri.
+M	JAKE	Ontu, mikyun, nari.
+M	JAKE (V.O.)	Neytiri thinks I'm some kind of retard.
+M	JAKE (V.O.)	Norm's attitude has improved lately.
+M	NORM	Thank you?
+M	JAKE	Ireiyo.
+M	NORM	Irrrreiyo. Irrrreiyo. You've gotta roll the R, r-r-r-oll it.
+M	JAKE (V.O.)	It's good he's back on board, but he thinks I'm a retard too.
+M	JAKE (V.O.)	My feet are getting tougher. I can run farther every day.
+M	JAKE (V.O.)	I have to trust my body to know what to do. With Neytiri it's learn fast or die.
+M	JAKE (V.O.)	I sweet-talked Mo'at into giving Norm and Grace a hall pass. Now Grace even makes me coffee before link every morning.
+F	GRACE	I See you, Neytiri Mo'at'ite.
+F	NEYTIRI	I See you, Doctor Grace Augustine. I'm learning to read the trails, the tracks at the water-hole, the tiniest scents and sounds.
+F	NEYTIRI	When you hear nothing, you will hear everything. When you see nothing, you will See everything.
+M	JAKE (V.O.)	Sometimes I have no idea what she's talking about.
+M	JAKE (V.O.)	It's been a month and I'm still not allowed to make a kill. She says the forest hasn't given permission.
+M	JAKE (V.O.)	There's a lot of crap like that. She's always going on about the flow of energy-- the spirits of the animals and what not --
+M	JAKE	I just hope this treehugger shit isn't on the final.
+F	GRACE	This isn't just about eye-hand coordination out there. You need to listen to what she says. Try to see the forest through their eyes.
+M	JAKE	Excuse me -- this is my video-log here, okay?
+M	JAKE (V.O.)	Everything is backwards now. Like out there is the true world, and in here is the dream.
+M	JAKE	I See you Brother, and thank you. Your spirit goes with Eywa, your body stays behind to become part of the People.
+F	NEYTIRI	A clean kill. You are ready.
+F	GRACE	You're still losing weight. Here --
+M	JAKE	I made a kill today. We ate it. I know where that meal came from. Other body. You need to take care of this body.
+M	JAKE	Yeah yeah.
+F	GRACE	Jake, I'm serious -- you look like crap. You're burning too hard.
+M	JAKE	Get rid of this shit, then you can lecture me.
+F	GRACE	I'm telling you, as your boss and someone who might even consider being a friend someday, to take some down time.
+M	JAKE	Not now. Tomorrow we leave for Iknimaya.
+F	GRACE	Yeah -- you're gonna go ride a banshee. Or die trying.
+M	JAKE	That's right, Grace. This is what I've been working for.
+F	GRACE	And this is your check up from the neck up, Marine. You're getting in way too deep. Trust me, I learned the hard way.
+M	JAKE	What did happen at the school?
+F	GRACE	Neytiri's sister -- Sylwanin -- stopped coming to school. She was angry about the clear-cutting.
+F	GRACE	One day, she and a couple of other young hunters came running in, all painted up -- they'd set a bulldozer on fire -- I guess they thought I could protect them.
+F	GRACE	The troopers pursued them to the schoolhouse.
+F	GRACE	They killed Sylwanin in the doorway. Right in front of Neytiri. Then shot the others. I got most of the kids out, before they shot me.
+M	JAKE	Jesus.
+F	GRACE	Yeah.
+F	GRACE	A scientist stays objective -- we can not be ruled by emotion. But I poured ten years of my life into that school. They called me sa'atenuk. Mother. That kind of pain reaches back through the link.
+F	GRACE	It's a job. Learn what you can -- but don't get attached.
+F	GRACE	It's not our world, Jake. And we can't stop what's coming.
+M	JAKE (V.O.)	Iknimaya translates roughly as stairway to heaven. It's the test every young hunter has to pass.
+M	JAKE	We doin' this?
+M	TSU'TEY	Jakesully will go first.
+F	NEYTIRI	Now you choose your ikran. This you must feel -- inside. If he also chooses you, move quick, like I showed. You will have one chance.
+M	JAKE	How will I know if he chooses me?
+F	NEYTIRI	He will try to kill you.
+M	JAKE	Outstanding.
+M	JAKE	Let's dance.
+M	JAKE	That's right! You're mine.
+F	NEYTIRI	First flight seals the bond. You cannot wait.
+M	JAKE	Heeeyyyaaaah!
+M	JAKE	Shut the hell up!!
+M	JAKE	Level out! Fly straight!
+M	JAKE (V.O.)	I may not be much of a horse guy. But I was born to do this.
+F	GRACE	The Great Leonopteryx is the apex aerial predator. Not only rare, but the sightings tend not to get reported.
+F	TRUDY	There usually isn't time to key the mike.
+M	JAKE	The People call it Toruk.
+M	NORM	Last Shadow.
+M	JAKE	Last one you ever see.
+F	TRUDY	I saw one take out a gunship once -- WHAM! Total frickin' yard sale. Ate the crew like peanuts.
+M	JAKE	That's it.
+F	GRACE	Vitraya Ramunong -- The Well of Souls. It's their most sacred place.
+F	GRACE	Something big is going on in there, biologically. I'd die to get samples, but outsiders are strictly forbidden.
+F	TRUDY	They're coming back.
+F	TRUDY	If you don't give him something, he's gonna shut us down.
+M	JAKE	Hey, guys.
+F	NEYTIRI	My grandfather's grandfather was Toruk Macto -- Rider of Last Shadow. Toruk chose him. It has only happened five times since the time of the First Songs.
+M	JAKE	That's a long time.
+F	NEYTIRI	Toruk Macto was mighty -- he brought the clans together in a time of great sorrow. All Na'vi people know this story.
+F	GRACE	Watch that stuff. It'll knock you into next week.
+M	TSU'TEY	I thought -- enough drink -- you would not be so ugly.
+M	JAKE	Sorry.
+M	TSU'TEY	Your warriors -- hide inside machines -- fight from far away. I did not think a sky person could be brave.
+F	NEYTIRI	You must dance! It is the way.
+M	MO'AT	We cannot let this seed grow. Her path is with Tsu'tey.
+M	JAKE (V.O.)	It's hard to put in words the deep connection the People have to the forest.
+M	JAKE (V.O.)	They see a network of energy that flows through all living things. They know that all energy is only borrowed-- -- and one day you have to give it back.
+M	JAKE (V.O.)	Hard to believe it's only been three months.
+M	JAKE	I can barely remember my old life. I'm not sure who I am anymore.
+M	SELFRIDGE	Good of you to stop by. How's it going out there? Our blue friends all packed up yet?
+M	SELFRIDGE	See, I keep hooking it. It's the damn pack.
+M	SELFRIDGE	The low gravity and the high air density cancel out so --
+M	JAKE	You called us back to report -- you want to hear it or not?
+M	SELFRIDGE	Go ahead.
+F	GRACE	Jake is making incredible progress, years worth in just a few months. But -- we need more time.
+M	SELFRIDGE	Not what I was hoping to hear.
+F	GRACE	Parker, it's their ancestral home. They've lived there since before human history began. You can spare them a few more weeks.
+M	SELFRIDGE	This thing is inevitable. What does it matter when it happens? I'm sorry, Dr. Augustine. You're out of time.
+M	QUARITCH	You're not gettin' lost in the woods, are you son?
+M	QUARITCH	Your last report was two weeks ago. I'm starting to doubt your resolve. From what I see, it's time to terminate this mission.
+M	JAKE	No. I can do this.
+M	QUARITCH	Look, you've given me plenty of usable intel. Like this "Well of Souls" place -- I've got them by the balls with that, when it turns into a shit-fight. Which it will.
+M	QUARITCH	So you'll get your legs back, like I promised. It's time to come in.
+M	JAKE	I've gotta finish this thing. There's one more test -- the Dream Hunt. It's the final stage of becoming a man. Then I'm one of them. They'll trust what I say...
+M	JAKE	... and I can negotiate the terms of their relocation. Then you need to get it done, Corporal.
+F	GRACE	Jake, I can't allow this. You're just not strong enough.
+M	JAKE	It's the last door -- I'm going through it. You can help me or get out of the way.
+F	GRACE	Will you listen to me? Sometimes the Na'vi themselves die in these vision quests. The venom takes you to the edge of death. And the psychoactive alkaloid in the worm- - we have no idea what that'll do in an avatar brain.
+M	NORM	Calibrating. Thirty seconds.
+F	GRACE	No matter what you prove out there-- you are still in here. Right here.
+M	JAKE	I have to go all the way -- become one of THEM--
+F	GRACE	Goddammit, Jake, you can never be one of them!
+F	GRACE	Our life out there takes millions of dollars of machinery to sustain. You visit -- and you leave.
+F	GRACE	You can never truly be with her.
+M	JAKE	You know why I'm here? Because Quaritch sent me.
+M	NORM	What? That's right -- to embed with the Omaticaya. To find out how to screw them out of their home. By deceit or by force, he didn't care. And if it turned out to be force, then how best to do it.
+F	GRACE	And what about now, Jake?
+M	JAKE	I'm not that guy any more.
+F	GRACE	I know.
+M	JAKE	But if I tell Quaritch the truth, he yanks me out -- I never see her again. And if I tell her the truth, the clan throws me out -- that's if they don't cut my heart out and show it to me.
+M	NORM	They won't understand what you've done.
+M	JAKE	They don't even have a word for "lie" -- they had to learn it from us.
+F	GRACE	I know. I taught it to them.
+M	JAKE	Grace. I've gotta go. They're waiting.
+M	NORM	Link is ready.
+F	GRACE	Jake. You can't carry this burden much longer.
+M	JAKE	It's okay. Mo'at says an alien mind probably can't survive the Dream Hunt anyway.
+F	GRACE	Prep my link. I'm going in.
+F	NEYTIRI	When your Spirit Animal comes, you will know.
+M	MO'AT	Oh wise worm, eater of the Sacred Tree -- bless this worthy Hunter with a true vision.
+M	MO'AT	It is finished.
+M	EYTUKAN	Did your Spirit Animal come?
+M	MO'AT	Something has come. It will take time for the meaning to be clear.
+M	EYTUKAN	You are now a son of the Omaticaya. You are part of the People. This is a place for prayers to be heard. And sometimes answered.
+M	JAKE	It's like -- a sound you feel.
+F	NEYTIRI	We call this utraya mokri -- the Tree of Voices. The voices of our ancestors, who live within Eywa.
+F	NEYTIRI	You are Omaticaya now. You may make your own bow from the wood of Hometree. And you may choose a woman.
+F	NEYTIRI	We have many fine women. Ninat is the best singer --
+M	JAKE	I don't want Ninat.
+F	NEYTIRI	There is Beyral -- she is a good hunter --
+M	JAKE	I've already chosen. But this woman must also choose me.
+F	NEYTIRI	She already has.
+F	NEYTIRI	Kissing is very good. But we have something better.
+M	JAKE	Neytiri, you know my real body is far away, sleeping.
+F	NEYTIRI	This body is real. This spirit is real.
+F	NEYTIRI	When I was first your teacher, I hated all Sky People. But you have also taught me. Spirit is all that matters.
+F	NEYTIRI	I am with you now, Jake. We are mated for life.
+M	JAKE	We are?
+F	NEYTIRI	Yes. It is our way. Oh. I forgot to tell?
+M	JAKE	Really, we are?
+F	NEYTIRI	We are.
+M	JAKE	It's cool. I'm there.
+F	NEYTIRI	Jake! Wake up! Where ever you are, come back to me now. Jake!
+F	GRACE	Here -- eat this. I'd hate to have to force-feed a cripple.
+F	GRACE	She's not going anywhere.
+F	GRACE	And when was the last time you took a shower? Jesus, Marine.
+M	JAKE	Hey! Heeeey! Stop! Stop!
+M	OPERATOR	Hey, I got one of the natives blockin' my blade here.
+M	SUPERVISOR	What do we do?
+M	SELFRIDGE	Roll on. He'll move. These people have to learn that we don't stop.
+M	OPERATOR	I'm blind.
+M	QUARITCH	Freeze it, right -- there.
+M	SELFRIDGE	Son of a bitch!
+M	QUARITCH	Get me a pilot! Tsu'tey will lead the war party!
+F	GRACE	Please -- this will only make it worse --
+M	TSU'TEY	You do not speak here!
+M	JAKE	Okay, listen. There's something I have to tell you. It's gonna be hard. I just need you to --
+M	TSU'TEY	You!
+M	TSU'TEY	You mated with this woman?!
+F	GRACE	Oh shit.
+M	MO'AT	Is this true?
+F	NEYTIRI	We are mated before Eywa. It is done. Neytiri was promised to me! Everything is changing. Everything is being destroyed!
+M	TSU'TEY	These aliens kill everything they touch, like poison.
+M	MO'AT	Neytiri! If you choose this path, you can never be Tsahik. Your life will be wasted.
+F	NEYTIRI	I have chosen.
+M	TSU'TEY	Yeeeeeaaa!
+M	EYTUKAN	Stop! This is not a proper challenge.
+M	TSU'TEY	I challenge you.
+F	GRACE	Jake, don't --
+M	JAKE	I accept.
+F	TRUDY	Loveshack this is Samson One Six inbound hot to your pos. I have Colonel Quaritch with me and --
+M	QUARITCH	Did I tell you to announce us?
+F	TRUDY	Sorry sir, it's procedure.
+M	NORM	Samson One Six? Trudy? Crap.
+F	GRACE	What the hell are you doing?
+M	JAKE	It's the only way to get him to goddamn listen.
+M	NORM	Hey, hang on, you can't interrupt a link in progress, it's dangerous -- wait!
+M	JAKE	Are you out of your goddamn mind?!
+M	QUARITCH	You crossed a line.
+M	TSU'TEY	This is a demon in a false body. It should not live.
+M	QUARITCH	You let me down, son. You got a little local pussy and completely forgot what team you play for.
+F	GRACE	Parker, listen, there may still be time to --
+M	QUARITCH	Shut your fucking hole!
+F	GRACE	Or what, Ranger Rick? You gonna shoot me? You need to muzzle your dog!
+M	SELFRIDGE	Can we just take this down a couple notches, please.
+M	JAKE	You say you want to keep your people alive. Start by listening to her.
+F	GRACE	This is bad, Parker. Those trees were sacred to the Omaticaya in a way you can't imagine.
+M	SELFRIDGE	You know what? You throw a stick in the air around here it falls on some sacred fern.
+F	GRACE	I'm not talking about pagan voodoo here -- I'm talking about something real and measurable in the biology of the forest.
+M	SELFRIDGE	Which is what exactly?
+F	GRACE	I can't do this. How am I supposed to reduce years of work to a sound bite for the illiterate?
+M	JAKE	Just tell him what you know in your heart.
+F	GRACE	Alright, look -- I don't have the answers yet, I'm just now starting to even frame the questions. What we think we know -- is that there's some kind of electrochemical communication between the roots of the trees. Like the synapses between neurons. Each tree has ten to the fourth connections to the trees around it, and there are ten to the twelfth trees on Pandora --
+M	SELFRIDGE	That's a lot I'm guessing.
+F	GRACE	That's more connections than the human brain. You get it? It's a network -- a global network. And the Na'vi can access it -- they can upload and download data -- memories -- at sites like the one you destroyed.
+M	SELFRIDGE	What the hell have you people been smoking out there? They're just. Goddamn. Trees.
+F	GRACE	You need to wake up, Parker. The wealth of this world isn't in the ground -- it's all around us. The Na'vi know that, and they're fighting to defend it. If you want to share this world with them, you need to understand them.
+M	QUARITCH	We understand them just fine. Thanks to Jake here.
+M	JAKE (RECORDED)	They're not going to give up their home -- they're not gonna make a deal. For what? Lite beer and shopping channel? There's nothing we have that they want. We're a horror to them. We're the monsters from space.
+M	JAKE (RECORDED)	They're never going to leave Hometree.
+M	QUARITCH	Since a deal can't be made -- it gets real simple. So thanks. I'm getting all emotional. I might just give you a big wet kiss.
+F	GRACE	Parker, we have to talk, like rational people.
+M	SELFRIDGE	Well, I'd cherish that, but unfortunately you're out of here on the next shuttle. All of you. I'm shutting down the Avatar Program, effective now.
+M	WAINFLEET	They hit with banshees first. Set the ampsuit on fire. Driver's toast.
+M	QUARITCH	The rest of the squad?
+M	WAINFLEET	Six bodies -- that's all of `em. And the
+M	SELFRIDGE	Christ.
+M	QUARITCH	I can do it with minimal casualties to the indigenous. We'll clear them out with gas first. It'll be humane. More or less.
+M	QUARITCH	Hey, don't go limp on me now. This is exactly the incident we needed.
+M	SELFRIDGE	Alright, let's pull the trigger.
+F	GRACE	They bulldozed a sacred site on purpose, to trigger a response. They're fabricating this war to get what they want.
+M	NORM	I can't believe that.
+M	JAKE	Yup. That's how it's done. When people are sitting on shit you want, you make them your enemy. Then you're justified in taking it.
+F	TRUDY	Sec-ops is rolling the gunships. They're gonna hit Hometree!
+M	JAKE	When?
+F	TRUDY	Now. We're spooling up now! I gotta go.
+F	GRACE	My God.
+F	GRACE	Parker, wait. Stop! These are people you're about to --
+M	SELFRIDGE	They're fly-bitten savages who live in a tree! Look around -- I don't know about you but I see a lot of trees. They can move.
+F	GRACE	For God's sake, there are children in there. Babies!
+M	JAKE	Look Selfridge, you don't want this kind of blood on your hands. Let me try to talk them out. They trust me.
+M	SELFRIDGE	You've got one hour. Unless you want your girlfriend in there when the axe comes down, you get them to evacuate. One hour. Eytukan, I have something to say, to everyone.
+M	EYTUKAN	Speak, Jakesully.
+M	JAKE	A great evil is upon us. The Sky People are coming to destroy Hometree. They will be here soon.
+M	JAKE	You have to leave, or you will die.
+M	MO'AT	Are you certain of this?
+M	JAKE	They sent me here to learn your ways. So one day I could bring this message, and you would believe it.
+F	NEYTIRI	What are you saying, Jake? You knew this would happen?
+M	JAKE	Yes. At first it was just orders. Then everything changed. I fell in love-- with the forest, with the Omaticaya People -- -- with you. And by then, how could I tell you?
+F	NEYTIRI	I trusted you, Jake!
+M	JAKE	Neytiri. Please, I only wanted to --
+F	NEYTIRI	You will never be one of the People! NEVER!
+M	TSUTEY	Bind them.
+M	QUARITCH	Well, I'd say diplomacy has failed.
+M	QUARITCH	I think they mean to cut their throats if we don't back off. Make sure you get a nice close-up of that. I can tack it onto the after-action report.
+M	JAKE	You have to get out of Hometree! Run to the forest! Please, I'm begging you!
+M	EYTUKAN	Take the ikran! Attack from above!
+M	QUARITCH	Alright, let's get this done. Give me forty millimeter gas rounds, right in the front door.
+M	GUNNER	Roger. CS forties. Going hot.
+M	QUARITCH	Fire.
+M	EYTUKAN	Everybody outside! Go to the Forest.
+M	MO'AT	You are one of us. Help us!
+M	JAKE	We've gotta move! He's gonna blow the columns.
+M	QUARITCH	That's how you scatter the roaches. Okay, switch missiles. Give me H-E's at the base of the west columns.
+M	PILOTS (V.O.)	Copy, switching missiles.
+F	TRUDY	Screw it.
+M	QUARITCH	Bring it down.
+M	QUARITCH	Nice work people. Alright, let's light it up.
+M	JAKE	Neytiri! Neytiri! Daughter -- take my bow. Protect the People.
+M	JAKE	I'm sorry --
+F	NEYTIRI	Get away from me, Jake. Go away! Never come back!
+M	JAKE (V.O.)	I was a warrior who dreamed he could bring peace. Sooner or later though, you always have to wake up...
+M	SELFRIDGE	Pull the plug.
+M	MO'AT	Bring her.
+F	GRACE	They never wanted us to succeed.
+F	TRUDY	Personally I think steak's too good for these traitors.
+M	GUARD	They get steak? That's bullshit. Let me see that --
+F	TRUDY	Oops. All the way down, pendejo.
+M	MAX	That was unexpectedly satisfying.
+M	NORM	Baby, you rock.
+M	JAKE	Thanks.
+M	JAKE	So what do you say? Time for a revolution?
+F	GRACE	I'm free.
+M	JAKE	Come on.
+M	JAKE	Get your ship fired up.
+M	JAKE	Stay here. I need somebody on the inside I can trust.
+M	TROOPER	I need you to shut down and step out of the vehicle! Now!
+M	JAKE	Take it nice and easy, troop.
+M	JAKE	On the ground, face down. Hands behind your head.
+F	GRACE	Do what he goddamn says!
+M	JAKE	Go! Go! Go!
+M	JAKE	Oh yeah, baby!
+F	GRACE	Aaahh, crap. Not again.
+F	GRACE	This is gonna ruin my whole day.
+M	JAKE	Hang on, Grace.
+F	TRUDY	Well, at least they won't be able to track us up here. Not this deep in the vortex.
+M	JAKE	It's strongest at the Well of Souls, right?
+F	TRUDY	Yeah.
+M	JAKE	Good, `cause that's where we're going.
+F	TRUDY	Copy.
+M	JAKE	I'm gonna get you some help, Grace.
+F	GRACE	Forget it, it doesn't matter.
+M	JAKE	No! The People can help you. I know it. The Well of Souls. The heart of the forest. I knew the People would go there.
+M	MO'AT	Wise ancestors who live within Eywa, guide us. Give us a sign.
+M	NORM	Tsu'tey is Olo'eyctan now. He's not going to let you get near that place.
+M	JAKE	I've gotta try, Norm.
+M	JAKE (V.O.)	Outcast. Betrayer. Alien. To ever face them again, I was gonna have to change the rules.
+M	JAKE (V.O.)	Sometimes your whole life boils down to one insane move.
+M	JAKE	Come on, boy. Time to fly. The way I had it figured, Toruk is the baddest cat in the sky. Nothing attacks him. So why would he ever look up? But that was just a theory.
+F	NEYTIRI	Toruk Macto.
+F	NEYTIRI	Toruk Macto!
+M	CROWD	Toruk Macto... Toruk Macto...
+F	NEYTIRI	I See you.
+M	JAKE	I See you.
+F	NEYTIRI	I was afraid Jake -- for my people. I'm not any more.
+M	JAKE	Tsu'tey of the Rongloa, son of Ateyo. I stand before you, ready to serve the People. You are Olo'eyctan, and you are the best warrior. I can't do this without you.
+M	TSU'TEY	I will fly with you.
+M	JAKE	Ireiyo.
+M	JAKE	Grace is dying. I beg the help of the Great Mother.
+M	MO'AT	Bring her, Jakesully.
+M	JAKE	Look where we are, Grace.
+F	GRACE	I need to take some samples.
+M	MO'AT	The Great Mother may choose to save all that she is --
+M	MO'AT	-- in this body.
+M	JAKE	Is that possible?
+M	MO'AT	Possible, yes. She must pass through the Eye of Eywa -- and return. But Jakesully-- she is very weak.
+M	JAKE	Hang on, they're gonna fix you up.
+F	GRACE	I -- always held back. But you gave them your heart. I'm proud of you, Jake. Help them. You do whatever it takes. You hear me?
+M	JAKE	I will.
+F	GRACE	I'm with her Jake -- -- she's real --
+M	JAKE	Grace!
+M	MO'AT	Her wounds were too great, there was not enough time. She is with Eywa now.
+M	JAKE	With your permission, I will Speak now. You would honor me by translating.
+M	JAKE	The Sky People have sent a message that they can take whatever they want, and no one can stop them. But we will send them a message. Ride out, as fast as the wind can carry you, tell the other clans to come. Tell them Toruk Macto calls to them. Fly now with me brothers and sisters! Fly! And we will show the Sky People that this is our land! We rode out to the four winds. To the horse clans of the plain, to the ikran people of the mountains. When Toruk Macto called them, they came.
+M	QUARITCH	People, you are fighting for survival. There's an aboriginal horde out there massing for an attack. First slide.
+M	QUARITCH	These orbital images show the hostiles' numbers have gone from a couple of hundred to over two thousand in one day, and more are pouring in. By next week it could be twenty thousand. Then they'll be overrunning our perimeter here. We can't wait. Our only security lies in pre- emptive attack. We will fight terror with terror.
+M	QUARITCH	Next slide. This mountain stronghold is supposedly protected by their deity. When we destroy it, we will blast a crater in their racial memory so deep they won't come within a thousand klicks of this place.
+M	SELFRIDGE	This thing is completely out of control!
+M	SELFRIDGE	Listen to me! I am not authorizing you to turn the mine-workers local into a freakin' militia!
+M	QUARITCH	I declared threat condition red. That puts all on-world assets under my command.
+M	SELFRIDGE	You think you can pull this palace coup shit on me?! I can have your ass with one call --
+M	QUARITCH	You're a long way from Earth.
+M	QUARITCH	Get him out of here.
+M	SELFRIDGE	You touch me you're so fired.
+M	MAX	I don't know how secure this channel is.
+M	JAKE	Talk fast.
+M	MAX	It's crazy here, Jake. It's full mobilization. They're rigging the shuttles as bombers. They've made up these big pallets of mine explosives. It's for some kind of shock and awe campaign.
+F	TRUDY	Frickin' daisycutters.
+M	NORM	Holy shit.
+M	JAKE	Can you talk to Selfridge? Maybe we can cut some kinda deal before this thing goes all the way.
+M	MAX	No, Quaritch has taken over. He's rolling and there's no stopping him.
+M	JAKE	When?
+M	MAX	Oh six hundred tomorrow.
+M	JAKE	Thanks.
+M	NORM	We're screwed.
+F	TRUDY	You know he's gonna commit those bombers straight to the Well of Souls.
+M	JAKE	That's right. Because I gave it to him on a plate.
+F	TRUDY	We both did.
+M	NORM	If he takes out the Well of Souls -- it's over. It's their main line to Eywa, to their ancestors -- it'll destroy them.
+M	JAKE	Then I guess we better stop him.
+F	TRUDY	You need to get some rack.
+M	JAKE	Gonna have to settle for coffee.
+M	JAKE (V.O.)	I was a warrior who dreamed he could bring peace. But there was only one thing I was ever really good at. Ooh-rah.
+M	JAKE	Strike here and here.
+F	TRUDY	You know our chances suck.
+M	JAKE	Yeah.
+F	TRUDY	Going up against gunships with bows and arrows...
+M	JAKE	What's your point? Right.
+M	JAKE	I've never done this in my life.
+M	JAKE	And I'm probably just talking to a tree right now. But if you're there -- I need to give you a heads up.
+M	JAKE	If Grace is there with you -- look in her memories -- she can show you the world we come from. There's no green there. They killed their Mother, and they're gonna do the same thing here.
+M	JAKE	More Sky People are gonna come. They're gonna come like a rain that never ends --
+M	JAKE	-- until they've covered the world. Unless we stop them. Look, you chose me for somethin'. And I'll stand and fight, you know I will. But I could use a little help here.
+F	NEYTIRI	Our Great Mother does not take sides. She protects only the balance of life.
+M	JAKE	It was worth a try.
+M	WAINFLEET	Contact. Two hundred meters.
+M	QUARITCH	Fire for effect.
+M	NORM	Jake! Jake! We're falling back!
+M	QUARITCH	Blue team, switch forties. Fire at will.
+M	TROOPERS	Yeah baby! Get some!
+M	QUARITCH	Blue team, stay with the ground units. Red team, with me. We're punching for the main target.
+F	TRUDY	You're not the only ones with guns, you pricks.
+M	QUARITCH	There it is. Valkyrie One, this is Dragon. Target is in sight.
+M	TROOPER	Target in sight.
+M	JAKE	We have to stop the shuttles, no matter what it takes.
+M	WAINFLEET	I hear this is worse than death for you, chief.
+M	TROOPER	Right flank -- something's coming! It's all lit up out there.
+M	JAKE	What the hell -- ?
+M	JAKE	WHOO-HOOOO!
+M	WAINFLEET	A and C squads -- rally at my pos. I want -- Who's screaming God damn it?! We gotta get outta here! Whoever's in charge, call for extraction!
+M	WAINFLEET	Shutup you crybabies!
+M	MAX	Rogue One, Rogue One, this is Max. Tell Jake we are in motion. Get in there. Barricade the door!
+M	PILOT	Mains to a hundred percent! Get me airspeed!
+M	PILOT	We're good!
+M	PILOT	Valkyrie Two is breaking off. And if any of ya'll want to get off this piece of shit planet, you better cover our ass, `cause we're the only way back to orbit.
+M	GUNSHIP PILOT	Roger that.
+M	QUARITCH	Get back here you worthless pukes!
+M	PILOT	Are we breaking off?
+M	QUARITCH	What do you think?
+M	SELFRIDGE	What the hell is going on out there?
+M	PILOT	Sir, all ground units are falling back to the LZ.
+M	QUARITCH	Stay on target.
+M	QUARITCH	Switch missiles. Arm all pods.
+M	PILOT	Arming.
+M	QUARITCH	Let's see what these blue bastards do when I bitch-slap their goddess.
+M	QUARITCH	Put your mask on.
+M	JAKE	Quaritch is gonna take out the Well of Souls! He's got a clear shot. Hit him, anybody that can! Do it now!
+F	TRUDY	On it.
+M	NORM	No!
+F	TRUDY	Norm, I love you.
+M	TROOPER	Dragon is down. It's off the board.
+M	SELFRIDGE	What do you mean, off the board?!
+M	SELFRIDGE	Oh shit. It's all over Quaritch --
+M	QUARITCH	Nothing's over while I'm breathing.
+M	JAKE	Kinda hoped you'd say that.
+M	QUARITCH	How does it feel to betray your own race?
+M	TSU'TEY	I See you, Jakesully.
+M	JAKE	I See you, Tsu'tey te Rongloa Ateyitan.
+M	TSU'TEY	Are the people safe?
+M	JAKE	They're safe.
+M	TSU'TEY	I can never ride again, or bond with my woman -- or hear the voice of Eywa. I can not lead the People. You will lead them, Jakesully.
+M	JAKE	No. I'm not officer material.
+M	TSU'TEY	It is decided. Now do the duty of Olo'eyctan. Set my spirit free.
+M	JAKE	I'm not killing you.
+M	TSU'TEY	I am already dead.
+M	JAKE	No.
+M	TSU'TEY	It is the way. And it is good. I will be remembered --
+M	TSU'TEY	-- I fought with Toruk Macto, we were brothers -- and he was my last shadow.
+M	JAKE	Forgive me, my Brother. Go now to the Mother Spirit.
+M	JAKE (V.O.)	A few chose to stay. Fewer were chosen.
+M	JAKE (V.O.)	The forest will heal, and so will the hearts of the People. New life keeps the energy flowing, like the breath of the world.
+M	JAKE (V.O.)	This is my last videolog.
+M	JAKE	The science guys will keep the lights on, here. But I won't miss this place.
+M	JAKE (V.O.)	I better wrap this up. There's a funeral tonight, and I don't want to be late. It was someone very close to me.

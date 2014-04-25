@@ -1,0 +1,1173 @@
+M	CHARACTER	DIALOGUE
+M	STEWARD	Fine! Fine! She ought to like this. Open the door.
+M	GUARD	Who's gonna take it in to her? You?
+M	STEWARD	Oh, no. Mullison! Come on!
+M	MULLISON	Not me, sir. She threw a ketchup bottle at me this morning.
+M	STEWARD	Well, orders are orders! Somebody's gotta take it in. Fredericks!
+M	FREDERICKS	Before I bring her another meal, I'll be put off the ship first.
+M	STEWARD'S VOICE	Henri!
+M	HENRI	No, Monsieur. When I leave the Ritz you do not say I have to wait on crazy womans.
+M	ANOTHER WAITER (A COCKNEY)	My wife was an angel compared to this one, sir. And I walked out on her.
+M	GUARD	Come on! Make up your mind!
+M	LACEY	What's up? What's up?
+M	STEWARD	These pigs! They're afraid to take her food in.
+M	LACEY	That's ridiculous! Afraid of a mere girl! Why didn't you do it yourself?
+M	STEWARD	Why -- I -- well, I never thought about --
+M	LACEY	I never heard of such a thing! Afraid of a mere girl. I'll take it in myself.
+M	LACEY	Can't get a thing done unless you do it yourself. Open the door.
+M	LACEY	Afraid of a mere girl! Ridiculous.
+M	ANDREWS	On a hunger strike, huh? When'd she eat last?
+M	CAPTAIN	She hasn't had a thing yesterday -- or today.
+M	ANDREWS	Been sending her meals in regularly?
+M	CAPTAIN	Yessir. She refuses them all.
+M	ANDREWS	Why didn't you jam it down her throat?
+M	CAPTAIN	It's not quite that simple. I've dealt with prisoners in my time, but this one --
+M	ANDREWS	Absurd! All this fuss over a snip of a girl. I'm going down to see her myself.
+M	CAPTAIN	This is dangerous business, Mr. Andrews. After all, kidnapping is no child's play.
+M	ANDREWS	What's this! What's happened here?
+M	LACEY	She refused another meal, sir.
+M	ANDREWS	Get another tray ready. Bring it here at once. Open the door.
+F	ELLIE	What do you want?
+M	ANDREWS	What's this about not eating?
+F	ELLIE	I don't want to eat! And there's one more thing I don't want! Definitely! That's to see you.
+M	ANDREWS	Know what my next move is? No more cigarettes.
+F	ELLIE	Why don't you put me in chains?
+M	ANDREWS	I might.
+F	ELLIE	All right! Put me in chains! Do anything you want! But I'm not going to eat a thing until you let me off this boat!
+M	ANDREWS	Come on, Ellie. Stop being silly. You know I'm going to have my way.
+F	ELLIE	I won't stand for it! I won't stand for your running my life! Why do you insist on it!
+M	ANDREWS	You ought to know why. Because --
+F	ELLIE	Yes. I know. Because I'm your daughter and you love me. Because you don't want me to make any mistakes. Because --
+M	ANDREWS	Because marrying that fool King Westley is --
+F	ELLIE	You're wasting your time. I'm already married to him.
+M	ANDREWS	Not so far as I'm concerned, you're not. Yes?
+F	ELLIE	How many times have I told you not to bring any food in here.
+M	ANDREWS	Wait a minute! Don't get excited! This isn't for you. Put it right here.
+M	FIRST WAITER	Anything else, Monsieur?
+M	ANDREWS	No. Everything seems quite satisfactory. I may want some more of that delicious gravy. I'll ring.
+M	WAITER	Very good, Monsieur.
+M	ANDREWS	Heavenly!
+F	ELLIE	Smart, aren't you! So subtle.
+M	ANDREWS	If Gandhi had a chef like Paul, it would change the whole political situation in India.
+F	ELLIE	You can't tempt me. Do you hear? I won't eat!
+M	ANDREWS	Please. I can't fight on an empty stomach. Remember what Napoleon said.
+F	ELLIE	I hope you're not comparing yourself to Napoleon. He was a strategist. Your idea of strategy is to use a lead pipe.
+F	ELLIE	Most humiliating thing ever happened to me. A bunch of gorillas shoving me in a car! That crowd outside the justice of the peace -- must have thought I was a criminal -- or something.
+F	ELLIE	Where are you taking me?
+M	ANDREWS	South America.
+F	ELLIE	South America!
+M	ANDREWS	We leave Miami in an hour. Soon's we get some supplies aboard.
+F	ELLIE	You'll have a corpse on your hands! That what you'll have. I won't eat a thing while I'm on this boat.
+M	ANDREWS	In that event, we won't need so many supplies.
+F	ELLIE	What do you expect to accomplish by all this? I'm already married!
+M	ANDREWS	I'll get it annulled.
+F	ELLIE	You'll never do it! You can't do it!
+M	ANDREWS	I'll do it if it takes every penny I've got. I'll do it if I have to bribe that musical comedy Justice of the Peace! I'll do it -- if I have to prove that you were dragged in, staggering drunk. You probably were. Mmm -- mmm. This filet mignon is divine!
+F	ELLIE	What've you got against King Westley?
+M	ANDREWS	Nothing much. I just think he's a fake, that's all.
+F	ELLIE	You only met him once.
+M	ANDREWS	That was enough. Do you mind handing me the ketchup?
+F	ELLIE	You talk as if he were a gigolo -- or something.
+M	ANDREWS	Never mind -- I'll get it myself. Gigolo? Why, you took the word right out of my mouth. Thanks.
+F	ELLIE	He's one of the best fliers in the country. Right now he's planning a trip to Japan.
+M	ANDREWS	You're going to finance him, I suppose.
+F	ELLIE	Why not? Look what he's doing for aviation. It takes courage to do what he does. And character! At least he's accomplished something worthwhile. I suppose you'd like to have me marry a business man. Well, I hate business men -- particularly if you're a shining example.
+F	ELLIE	Your whole life is devoted to just one thing. To accumulate more money. At least there's romance in what he's doing.
+M	ANDREWS	He's no good, Ellie, and you know it. You married him only because I told you not to.
+F	ELLIE	You've been telling me what not to do since I was old enough to remember. I'm sick of it!
+F	ELLIE	Aw, listen, Dad. Let's not fight like this any more. I know you're worried about me -- and want me to be happy. And I love you for it. But please try to understand. You're not being fair, darling. This isn't just a crazy impulse of mine. King and I talked about it a lot before we decided to get married. Look -- why can't we give it a trial -- let's say -- for a year or so. If it's wrong, King and I will be the first to know it. We can get a divorce, can't we? Now, be a dear, and let me off the boat. Keeping me prisoner like this is so silly.
+M	ANDREWS	You'll be set free when the marriage is annulled.
+M	ANDREWS' VOICE	So there's no use being a stubborn idiot.
+F	ELLIE	I come from a long line of stubborn idiots!
+M	ANDREWS	A time will come when you'll thank me for this.
+F	ELLIE	I won't thank you! I'll never thank you!
+M	ANDREWS	Please don't shout.
+F	ELLIE	I'll shout to my heart's content! I'll scream if I want to.
+M	ANDREWS	Ah! Coconut layer cake. Nice and gooey, too. Just the way I like it.
+M	ANDREWS	Ellie!
+M	ANDREWS	It's my daughter! Go after her.
+M	CAPTAIN	Lower the boats!
+F	ELLIE	Thanks.
+M	A MAN	Sorry, sir. She got away.
+M	ANDREWS	Of course she got away -- too smart for you.
+M	CAPTAIN	What a hell cat. No controlling these modern girls. They're terrible!
+M	ANDREWS	Terrible! Nothing terrible about her. She's great! Marvelous youngster! Got a mind of her own. Knows just what she wants. She's not going to get it though. She won't get very far. Has no money.
+M	CAPTAIN	What about that diamond wrist watch she had on -- she can raise some money on that?
+M	ANDREWS	Holy Smoke! I forgot all about that. Send a wireless at once, "Lovington Detective Agency. Daughter escaped again. Watch all roads -- all transports and railroad stations in Miami. Have your New York office keep tabs on King Westley. Intercept all messages. Want her back at all costs!"
+M	OFFICER	Yessir.
+M	FIRST DETECTIVE	We're wastin' our time. Can you picture Ellie Andrews ridin' on a bus?
+M	SECOND DETECTIVE	I told the old man it was the bunk.
+M	OLD LADY	Here's your ticket, ma'am.
+F	ELLIE	Oh, thank you. Thank you very much. Here.
+M	OLD LADY	Oh, thank you. Thank you.
+F	ELLIE	When does the bus leave?
+M	OLD LADY	In about fifteen minutes.
+F	ELLIE	Thank you.
+M	SHORTY	Hey, what's going on here? I'd like to use that phone.
+M	FIRST MAN	Shh! Quiet. This is history in the making.
+M	SHORTY	What?
+M	FIRST MAN	There's a man biting a dog in there.
+M	SECOND MAN	Atta-boy, Petey, old boy! Atta-boy! --
+M	PETER'S VOICE	I'm not going to stand for this any longer. In a pig's eye, you will!--
+M	GROUP	Is that so? That's telling him, Petey old boy.
+M	PETER	Listen, monkey-face -- when you fired me, you fired the best newshound your filthy scandal sheet ever had.
+F	GORDON	Say, listen, you wouldn't know a story if it reached up and kicked you in the pants. Yeah? Sure, sure, I got your copy. Why didn't you tell me you were going to write it in Greek? I'd start a new department.
+M	PETER	That was free verse, you gashouse palooka!
+F	GORDON	Free verse, huh? What the dickens was free about it? It cost this paper a gob of dough. Well, I'm here to tell you, it's not gonna cost us any more.
+M	PETER	That's okay by me! 'Cause as far as I'm concerned, I'm through with newspapers! See? I'm through with stupidity! I'll never write another newspaper story, for you or anybody else, if I have to starve. Yeah? What about my novel! When I get through with that --
+F	GORDON	When you get through with that, I'll have a beard down to my ankles.
+F	SECRETARY	Mr. Gordon--
+F	GORDON	Huh?
+F	SECRETARY	Did you know he reversed the charges on that call?
+F	GORDON	What! Say, listen you! When you get back to New York, take my advice and stay f-a-r away from this office -- unless you don't care what happens to that funny map of yours.
+M	PETER	Oh, so you're changing your tune, eh? Well, it's about time. But it's going to do you no good, my tough friend. It's a little too late for apologies. I wouldn't go back to work for you if you begged me on your hands and knees! I hope this is a lesson to you!
+M	MEN	Atta-boy, Peter. That's telling him, Peter.
+M	PETER	Give me any of his lip, will he? Huh! I guess he knows now what I think of his job! Is my chariot ready?
+M	FIRST MAN	Your chariot awaiteth withouteth, oh mighty King.
+M	MEN	Make way for the King. Long live the King. Make way.
+M	PETER	That's right, my friends. Cling to your jobs! Remain slaves the rest of your lives! Scum of the earth! Newspaper men! Not me! When I'm basking in the glorious arms of the Muse -- what'll you be doing? Chasing news. You miserable worms. For what? A mere pittance! My heart goes out to you. Good-bye.
+M	MEN	Goodbye, Oh mighty King! Peace be with you, Courageous One!
+M	ANNOUNCER'S VOICE	All aboard. Philadelphia, New York. All aboard.
+M	GROUP	Look out. Get back. Farewell. Farewell.
+M	PETER	Scram.
+M	PETER	Hey, driver! How about clearing this stuff away!
+M	DRIVER	Whadda you want!
+M	PETER	If you'll be good enough to remove those newspapers I'll have a seat.
+M	DRIVER	Okay! Okay! Keep your shirt on, young feller.
+M	PETER	of the driver's neck Just between you and me, I never intended taking it off.
+M	PETER	Personally, I was raised on a bottle. When I was a baby, I insisted on it. You know why? I never liked the idea of getting cigarette ashes in my eyes.
+M	DRIVER	Hey, wait a minute!
+M	DRIVER	What do you think you're doing!
+M	PETER	Huh?
+M	DRIVER	The papers! The papers! Whadda you mean throwin' 'em out!
+M	PETER	Oh -- the papers --
+M	PETER	That's a long story, my friend. You see, I don't like sitting on newspapers. I did once and all the headlines came off on my white pants.
+M	DRIVER	Hey, whadda you tryin' to do -- kid me?
+M	PETER	Oh, I wouldn't kid you. On the level, it actually happened. Nobody bought a paper that day. They followed me all over town and read the news from the seat of my pants.
+M	DRIVER	What're you gonna do about the papers? Somebody's gotta pick 'em up.
+M	PETER	It's okay with me. I'm not arguing.
+M	DRIVER	Fresh guy, huh! What you need is a good sock on the nose.
+M	PETER	Look here, partner. You may not like my nose. But I do. It's a good nose. The only one I've got. I always keep it out in the open where anybody can take a sock at it. If you decide to do it, make sure you don't miss.
+M	DRIVER	Oh, yeah?
+M	PETER	Now, that's a brilliant answer. Why didn't I think of it? Our conversation could have been over long ago.
+M	DRIVER	Oh, yeah?
+M	PETER	You win!
+M	PETER	Excuse me, lady -- -- but that upon which you sit -- is mine.
+F	ELLIE	I beg your pardon!
+M	PETER	Now, listen. I'm in a very ugly mood. I put up a stiff battle for that seat. So if it's just the same to you -- Scram.
+F	ELLIE	Driver!
+F	ELLIE	Are those seats reserved?
+M	DRIVER	No. First come, first served.
+F	ELLIE	Thank you.
+M	PETER	Driver!
+M	DRIVER	Yeah?
+M	PETER	These seats accommodate two passengers, don't they?
+M	DRIVER	Maybe they do -- and maybe they don't.
+M	PETER	Move over, lady. This is a "maybe they do."
+M	PETER	Next time you drop in, bring your folks.
+F	ELLIE	Tell that man not to drive so fast.
+M	PETER	Are you talking to me?
+F	ELLIE	Yes. Tell that man to drive slowly.
+M	PETER	Okay.
+M	DRIVER	Rest station! Ten minutes!
+M	PETER	He got away. I suddenly found myself in the middle of the brush and not a sign of the skunk.
+F	ELLIE	I don't know what you're raving about, young man. And, furthermore, I'm not interested.
+M	PETER	Well -- of all the -- well -- Maybe you'll be interested to know your bag's gone.
+F	ELLIE	Oh, my heavens! It's gone!
+M	PETER	Yeah. I knew you'd catch on eventually.
+F	ELLIE	What happened?
+M	PETER	That cadaverous-looking yegg who sat in front of us, just up and took it. Boy, how that baby can run!
+F	ELLIE	What am I going to do now?
+M	PETER	Don't tell me your ticket was in it?
+F	ELLIE	No, I've got that, all right. But my money. All I have here is four dollars. I've got to get to New York with it.
+M	PETER	You can wire home for some money when we get to Jacksonville.
+F	ELLIE	Why, no -- I -- Yes... I guess I will.
+M	PETER	I'll report it to the driver. About your bag, I mean.
+F	ELLIE	No. I'd rather you didn't.
+M	PETER	Don't be a fool. You lost your bag. The company'll make good. What's your name?
+F	ELLIE	I don't want it reported!
+M	PETER	Why, that's ridiculous! They're responsible for everything that --
+F	ELLIE	See here, can you understand English! I don't want it reported! Please stay out of my affairs! I want to be left alone.
+M	PETER	Why, you ungrateful brat!
+M	DRIVER	Oh, yeah?
+F	ELLIE	Oh, I'm sorry -- Silly, isn't it?
+F	ELLIE	Everybody's gone.
+F	ELLIE	Oh, thank you. We're in Jacksonville, aren't we?
+M	PETER	Yes.
+F	ELLIE	That was foolish of me. Why didn't you shove me away?
+M	PETER	I hated to wake you up. How about some breakfast?
+F	ELLIE	No, thank you. Thank you so much.
+F	ELLIE	How much time have I?
+M	DRIVER	About a half hour.
+F	ELLIE	I'm going over to the Windsor Hotel.
+M	DRIVER'S VOICE	The Windsor! You'll never make it in time.
+M	ELLIE'S VOICE	You'll have to wait for me.
+M	DRIVER'S VOICE	Wait for you!
+F	ELLIE	Yes. I may be a few minutes late.
+F	ELLIE	Where's the bus to New York?
+M	GUARD	Left twenty minutes ago.
+F	ELLIE	Why, that's ridiculous! I was on that bus -- I told them to wait!
+M	GUARD	Sorry, Miss. It's gone.
+M	PETER	Good morning.
+M	PETER	Remember me? I'm the fellow you slept on last night.
+F	ELLIE	Seems to me I've already thanked you for that. What time is the next bus to New York?
+M	GUARD	Eight o'clock tonight.
+F	ELLIE	Eight o'clock! Why, that's twelve hours!
+M	GUARD	Sorry, Miss.
+M	PETER	What's the matter? Wouldn't the old meanies wait for you? this angers him, and Say, how old are you anyway? Don't you know these busses work on a schedule? You need a guardian.
+F	ELLIE	What are you excited about? You missed the bus, too.
+M	PETER	Yeah. I missed it, too.
+F	ELLIE	Don't tell me you did it on my account! I hope you're not getting any idea that what happened last night is -- You needn't concern yourself about me, young man. I can take care of myself.
+M	PETER	You're doing a pretty sloppy job of it. Here's your ticket.
+F	ELLIE	My ticket?
+M	PETER	I found it on the seat.
+F	ELLIE	Oh, thank you. Must have fallen out of my pocket.
+M	PETER	You'll never get away with it, Miss Andrews.
+F	ELLIE	What are you talking about?
+M	PETER	Just a spoiled brat of a rich man. You and Westley'll make an ideal team.
+F	ELLIE	Will you please tell me what you're raving about!
+M	PETER	You'll never get away with it, Miss Andrews. Your father'll stop you before you get half way to New York.
+F	ELLIE	You must have me confused with --
+M	PETER	Quit kidding! It's all over the front pages, You know, I've always been curious about the kind of a girl that would marry King Westley.
+M	PETER	Take my advice -- grab the first bus back to Miami. That guy's a phony.
+F	ELLIE	I didn't ask for your advice.
+M	PETER	That's right. You didn't.
+F	ELLIE	You're not going to notify my father, are you?
+M	PETER	What for?
+F	ELLIE	If you play your cards right, you might get some money out of it.
+M	PETER	I never thought of that.
+F	ELLIE	Listen, if you'll promise not to do it, I'll pay you. I'll pay you as much as he will. You won't gain anything by giving me away as long as I'm willing to make it worth your while. I've got to get to New York without being stopped. It's terribly important to me. I'd pay now, only the only thing I had when I jumped off the yacht was my wrist watch and I had to pawn that to get these clothes. I'll give you my address and you can get in touch with me the minute you get to New York.
+M	PETER	Never mind. You know I had you pegged right from the start, you're the spoiled brat of a rich father. The only way you can get anything is to buy it. Now you're in a jam and all you can think of is your money. It never fails, does it? Ever hear of the word "Humility"? No, you wouldn't. I guess it never occurred to you to just say, "Please mister, I'm in trouble. Will you help me?" No; that'd bring you down off your high horse for a minute. Let me tell you something; maybe it'd take a load off your mind. You don't have to worry about me. I'm not interested in your money or your problems. You, King Westley, your father, you're all a lot of hooey to me.
+M	PETER	You send telegrams here?
+M	OPERATOR	I'm just fine thanks, and how are you? To "Joe Gordon, care of New York Mail, New York. Am I laughing. The biggest scoop of the year just dropped in my lap. I know where Ellen Andrews is --" No, do you really?
+M	PETER	Go on. Go on send the telegram.
+M	OPERATOR	"How would you like to have the story, you big tub of -- of --"
+M	PETER	Mush. Mush.
+M	OPERATOR	"Tub of mush. Well try and get it. What I said about never writing another line for you still goes. Are you burning? Peter Warne." Well, that will be $2.60.
+M	PETER	Send it collect.
+M	OPERATOR	Collect?
+M	PETER	Collect.
+M	ANNOUNCER'S VOICE	Bus for blah-blah-blah-blah -- Charleston -- blah-blah-blah -- and all points North to New York!
+M	DRUMMER	Hi, sister -- All alone? My name's Shapeley. Might as well get acquainted. It's gonna be a long trip -- gets tiresome later on. Specially for somebody like you. You look like you got class. Yessir! With a capital K. And I'm a guy that knows class when he sees it, believe you me.
+M	SHAPELEY'S VOICE	Ask any of the boys. They'll tell you. Shapeley sure knows how to pick 'em. Yessir. Shapeley's the name, and that's the way I like 'em.
+M	SHAPELEY	You made no mistake sitting next to me. Just between us, the kinda muggs you meet on a hop like this ain't nothing to write home to the wife about. You gotta be awful careful who you hit up with, is what I always say, and you can't be too particular, neither. Once when I was comin' through North Carolina, I got to gabbin' with a good-lookin' mama. One of those young ones, you know, and plenty classy, too. Kinda struck my fancy. You know how it is. Well, sir, you could'a knocked me over with a Mack truck. I was just warming up when she's yanked offa the bus. Who do you think she was? Huh? Might as well give up. The girl bandit! The one the papers been writin' about. Yessir, you coulda knocked me over with a Mack truck. What's the matter, sister? You ain't sayin' much.
+F	ELLIE	Seems to me you're doing excellently without any assistance.
+M	SHAPELEY	That's pretty good... Well, shut my big nasty mouth!
+M	SHAPELEY'S VOICE	...Looks like you're one up on me. Nothin' I like better than to meet a high-class mama that can snap 'em back at you. 'Cause the colder they are, the hotter they get, is what I always say.
+M	SHAPELEY	Take this last town I was in. I run into a dame -- not a bad looker, either -- but boy, was she an iceberg! Every time I opened my kisser she pulls a ten strike on me. It sure looked like cold turkey for old man Shapeley. I sell office supplies, see? And this hotsy-totsy lays the damper on me quick. She don't need a thing -- and if she did she wouldn't buy it from a fresh mugg like me. Well, says I to myself -- Shapeley, you better go to work. You're up against a lulu. Well, I'm here to tell you, sister, I opened up a line of fast chatter that had that dame spinnin' like a Russian dancer. Before I got through she bought enough stuff to last the firm a year. And did she put on an act when I blew town!
+M	SHAPELEY	Yessir. When a cold mama gets hot -- boy, how she sizzles! She kinda cramped my style, though. I didn't look at a dame for three towns. Not that I couldn't. For me it's always a cinch. I got a much better chance than the local talent. You see, they're kinda leery about the local talent. Too close to home. Know what I mean?
+M	SHAPELEY'S VOICE	But take a bird like me -- it's here today -- and gone tomorrow. And what happens is nobody's business.
+M	SHAPELEY	But I don't go in for that kinda stuff -- much. I like to pick my fillies. Take you for instance. You're my type. No kiddin' sister. I could go for you in a big way. "Fun-on-the side Shapeley" they call me, and the accent is on the fun, believe you me.
+F	ELLIE	Believe you me, you bore me to distraction.
+M	SHAPELEY	Well, you're two up on me now.
+M	PETER	Hey, you!
+M	SHAPELEY	Huh?
+M	PETER	There's a seat over there for you.
+M	SHAPELEY	What's the idea?
+M	PETER	I'd like to sit with my -- uh -- wife -- if you don't mind.
+M	SHAPELEY	Wife?
+M	PETER	Yeah. Come on -- come on!
+M	SHAPELEY	Oh, excuse me. I was just tryin' -- you know -- to make things pleasant.
+F	ELLIE	If you promise not to snap my head off, I'd like to thank you.
+M	PETER	Forget it. I didn't do it for you. His voice got on my nerves.
+M	BOY	Here you are, folks. Candy -- popcorn -- cigarettes -- magazines --
+F	ELLIE	Here, boy!
+M	PETER	What'd you do? Wire one of your friends for money?
+F	ELLIE	No. It'd be useless. Father'd get the wire before they would.
+M	BOY	Yes, ma'am?
+F	ELLIE	A box of chocolates, please.
+M	PETER	Never mind, son. She doesn't want it.
+M	BOY	But the lady says --
+F	ELLIE	Of course I do. What do you mean --
+M	PETER	Beat it!
+F	ELLIE	You have your nerve! Here, boy --!
+M	PETER	A dollar sixty!... You had four dollars last night! How do you expect to get to New York at the rate you're going?
+F	ELLIE	That's none of your business.
+M	PETER	You're on a budget from now on.
+F	ELLIE	Now, just a minute -- you can't --
+M	PETER	Shut up!
+M	FIRST POLICEMAN	You won't be able to pass till morning.
+M	SECOND POLICEMAN	Not even then, if this keeps up.
+M	PETER	What's up?
+M	FIRST POLICEMAN	Bridge washed out -- around Dawson.
+M	DRIVER	Looks like we can't go through till morning.
+M	SECOND POLICEMAN	Not even then, if this keeps up.
+M	FIRST POLICEMAN	Any of your passengers want a place to sleep -- there's an auto camp up yonder a piece.
+M	PETER	Yeah? Where?
+M	FIRST POLICEMAN	Up yonder. See the lights?
+M	PETER	Yeah.
+M	FIRST POLICEMAN	That's it. Dyke's Auto Camp.
+M	PETER	Thanks.
+M	PETER	Hey, Brat --!
+F	ELLIE	Are you talking to me!
+M	PETER	Yeah. Come on -- we're stopping here for the night.
+M	PETER	Hey! Come on! We're all set.
+M	DYKE	Good evening. Hope you and your husband rest comfortably.
+M	PETER'S VOICE	Well, Brat -- what do you say!
+M	PETER	Come on! Come on! What are you going to do? Stand there all night?
+F	ELLIE	Darn clever, these Armenians.
+M	PETER	Yeah. Yeah, it's a gift.
+F	ELLIE	I just had the unpleasant sensation of hearing you referred to as my husband.
+M	PETER	Oh, I forgot to tell you. I registered as Mr. and Mrs. way in which he says
+F	ELLIE	Oh, you did? What am I expected to do -- leap for joy?
+M	PETER	I kind of half expected you to thank me.
+F	ELLIE	Your ego is colossal.
+M	PETER	Yeah. Yeah, not bad. How's your's?
+F	ELLIE	Compared to you, my friend, Shapeley's an amateur. Whatever gave you an idea you can get away with this! You're positively the most conceited --
+M	PETER'S VOICE	Hey, wait a minute! Let's get something straightened out right now. If you've any peculiar ideas that I'm interested in you, forget it. You're just a headline to me.
+F	ELLIE	A headline? You're not a newspaper man, are you?
+M	PETER	Chalk up one for your side. Now listen, you want to get to King Westley, don't you? All right, I'm here to help you. What I want is your story, exclusive. A day-to-day account. All about your mad flight to happiness. I need that story. Just between you and me I've got to have it. Now isn't that just too cute? There's a brain behind that face of yours, isn't there? You've got everything nicely figured out, for yourself, including this.
+M	PETER	This? Oh, that's a matter of simple mathematics. These cabins cost two bucks a night and I'm very sorry to inform you, wifey dear, but the family purse won't stand for our having separate establishments.
+F	ELLIE	Well, thank you. Thank you very much, but -- you've been very kind.
+M	PETER	Oh, yeah? It's all right with me. Go on out in the storm, but I'm going to follow you, see? Yeah. And if you get tough I'll just have to turn you over to your old man right now. Savvy? Now that's my whole plot in a nutshell. A simple story for simple people. Now if you behave yourself, I'll see that you get to King Westley; if not, I'll just have to spill the beans to papa. Now which of these beds do you prefer? This one? All right.
+F	ELLIE	That, I suppose, makes everything -- uh -- quite all right.
+M	PETER	Oh, this? -- I like privacy when I retire. I'm very delicate in that respect. Prying eyes annoy me. Behold the walls of Jericho! Maybe not as thick as the ones that Joshua blew down with his trumpet, but a lot safer. You see, I have no trumpet. Now just to show you my heart's in the right place, I'll give you my best pair of pajamas.
+M	PETER	Do you mind joining the Israelites?
+F	ELLIE	You're not really serious about this, are you?
+M	PETER	All right, don't join the Israelites. Perhaps you're interested in how a man undresses. Funny thing about that. Quite a study in psychology. No two men do it alike.
+M	PETER'S VOICE	I once knew a chap who kept his hat on until he was completely undressed. Made a comical picture...
+M	PETER	Years later his secret came out. He wore a toupee.
+M	PETER	I have an idiosyncrasy all my own. You'll notice my coat came first -- then the tie -- then the shirt -- now, according to Hoyle, the pants should come next. But that's where I'm different. I go for the shoes first. After that I --
+F	ELLIE	Smart aleck!
+M	PETER	Still with me, Brat? Don't be a sucker. A night's rest'll do you a lot of good. Besides, you've got nothing to worry about. The Walls of Jericho will protect you from the big bad wolf.
+F	ELLIE	You haven't got a trumpet by any chance, have you?
+M	PETER	Not even a mouth organ.
+M	PETER	Who's afraid of the big bad wolf -- The big bad wolf, the big bad wolf. She's afraid of the big bad wolf, Tra-la-la-la-la --
+F	ELLIE	Do you mind putting out the light?
+M	PETER	Not at all.
+M	PETER	Do you mind taking those things off the Walls of Jericho? It's tough enough as it is.
+M	ELLIE'S VOICE	Oh, excuse me.
+F	ELLIE	Oh, by the way -- what's your name?
+M	PETER	What's that?
+F	ELLIE	Who are you?
+M	PETER	Who, me? Why, I'm the whippoorwill that cries in the night. I'm the soft morning breeze that caresses your lovely face.
+F	ELLIE	You've got a name, haven't you?
+M	PETER	Yeah. I got a name. Peter Warne.
+F	ELLIE	Peter Warne? I don't like it.
+M	PETER	Don't let it bother you. You're giving it back to me in the morning.
+F	ELLIE	Pleased to meet you, Mr. Warne...
+M	PETER	The pleasure is all mine.
+M	PETER	I've been thinking about you.
+M	ELLIE'S VOICE	Yes?
+M	PETER	You've had a pretty tough break at that. Twice a Missus and still unkissed.
+M	PETER'S VOICE	I'll bet you're in an awful hurry to get back to New York, aren't you?
+F	ELLIE	Goodnight, Mr. Warne.
+M	PETER	Goodnight.
+M	FIRST PILOT	The old man's screwy!
+M	SECOND PILOT	What's 'at?
+M	FIRST PILOT	I said, the old man's screwy!
+M	SECOND PILOT	Yeah!
+M	FIRST PILOT	The dame's too smart for him.
+M	SECOND PILOT	How'd you like to be married to a wild cat like that?
+F	SECRETARY	Here's another wire, sir. This one's from Charleston. "Checking every northbound train. Also assigned twenty operatives to watch main highways. No success yet. Will continue to do everything possible." Signed: Lovington Detective Agency, Charleston.
+M	ANDREWS	Any others?
+F	SECRETARY	Yessir. There's a report here from every State along the East coast. Want to hear them?
+M	ANDREWS	What do they say?
+F	SECRETARY	They're practically all the same, sir.
+M	ANDREWS	Amateurs!
+F	SECRETARY	They're the finest detective agency in the country, sir.
+M	PILOT	Yes, sir?
+M	ANDREWS	I thought I made it clear I was in a hurry to get to New York? What are we crawling for!
+M	PILOT	We've got her wide open, sir.
+M	ANDREWS	Well, step on it! Step on it!
+M	HENDERSON	I hope she's all right, sir.
+M	ANDREWS	Of course she's all right. What do you think can happen!
+M	HENDERSON	Nothing, sir!
+M	ANDREWS	Then shut up about it!
+F	ELLIE	Darn planes --
+M	PETER	Hey -- you not up yet? Come on -- come on!
+M	ELLIE'S VOICE	What time is it?
+M	PETER	Eight o'clock.
+M	PETER	Here --
+F	ELLIE	What is it? Why, it's a toothbrush! Thanks. You -- you had it pressed.
+M	PETER	Come on! Hurry up! Breakfast'll be ready in no time.
+F	ELLIE	Why, you sweet thing, you. Where'd you get it pressed?
+M	PETER	Listen, Brat -- I'm going to count to ten. If you're not out of bed by then I'm going to yank you out myself.
+M	PETER'S VOICE	One -- two -- three -- four -- five
+F	ELLIE	Why, you bully. I believe you would.
+M	PETER'S VOICE	-- six -- seven -- eight -- nine --
+F	ELLIE	I'm out! I'm out!
+M	PETER	You'll find the showers -- and things -- right back of the second cottage.
+F	ELLIE	Outside!
+M	PETER	Certainly, outside. All the best homes have 'em outside.
+F	ELLIE	I can't go out like this.
+M	PETER	Like what?
+F	ELLIE	Like this. I have no robe.
+M	PETER	Here -- take mine.
+M	PETER	But make it snappy.
+F	ELLIE	Where'd you say the showers -- and things -- were?
+M	PETER	Hey -- you're little, aren't you?
+F	ELLIE	Where is the shower?
+M	PETER	Your hair's cute like that. You should never comb it.
+F	ELLIE	I'll find it myself.
+F	WOMAN	Can't a body have some privacy around here?
+M	LITTLE GIRL	Don't she look funny, Mama?
+M	SHAPELEY	Hello, sister.
+M	SHAPELEY	Sorry about last night. Didn't know you were married to that guy. Shoulda told me about it right off. There I was, gettin' myself all primed for a killin', and you turn out to be an old married woman.
+M	SHAPELEY	Hey, what's this? Wearing Papa's things? Now that's cute. That's what I call real loveydovey. Yessir.
+F	ELLIE	If you don't get out of here, I'll slap that fresh mouth of yours.
+M	SHAPELEY	Sorry -- I didn't mean to --
+F	ELLIE	Get out!
+M	SHAPELEY	Okay. I was just trying to make conversation.
+M	PETER	High time you got back.
+F	ELLIE	I met some very interesting women at the showers. We got to chatting about this and that. You know how time flies.
+M	ELLIE'S VOICE	We must come back to this place often. You meet the nicest people!
+F	ELLIE	I saw the little Pussinfoos girl. She's turned out quite a charming creature.
+F	ELLIE	Very outspoken, too. Said I looked funny. Wasn't that cute?
+M	PETER	Hurry up and get dressed.
+F	ELLIE	Why, Peter! Don't you want to hear about our lovely friends?
+M	PETER	If you didn't waste so much time on that wise-cracking drummer -- we'd have been through with breakfast by this time.
+F	ELLIE	Well, I hope you're not going to dictate whom I can talk to.
+M	PETER	I know a couple of truck drivers I'd like to have you meet sometime. Come on, sit down.
+F	ELLIE	Thank you. My, my! Scrambled eggs.
+M	PETER	Egg. One egg -- doughnuts -- black coffee. That's your ration till lunch. Any complaints?
+F	ELLIE	Nope. No complaints.
+M	PETER	I'd have gotten you some cream but it meant buying a whole pint.
+F	ELLIE	Why, you don't have to apologize, Mr. Warne. You'll never know how much I appreciate all this.
+M	PETER	What makes you so disgustingly cheerful this morning?
+F	ELLIE	Must be the Spring.
+M	PETER	I thought maybe -- uh -- "believe you me" told you a couple of snappy stories.
+F	ELLIE	He apologized for last night. Said he didn't know we were married.
+M	PETER	Just shows you how wrong a guy can be. Doughnut?
+F	ELLIE	Thanks. You think this whole business is silly, don't you? I mean running away and everything.
+M	PETER	No. No. It's too good a story.
+F	ELLIE	Yes, you do. You think I'm a fool and a spoiled brat. Perhaps I am, although I don't see how I can be. People who are spoiled are accustomed to having their own way. I never have. On the contrary, I've always been told what to do and how to do it and where and with whom. Would you believe it? This is the first time I've ever been alone with a man!
+M	PETER	Yeah?
+F	ELLIE	It's a wonder I'm not panic stricken.
+M	PETER	Um. You're doing all right.
+F	ELLIE	Thanks. Nurses, governesses, chaperones, even body-guards. Oh, it's been a lot of fun.
+M	PETER	One consolation; you can never be lonesome.
+F	ELLIE	It has its moments. It got to be a sort of game to try to outwit father's detectives. I -- I did it once; actually went shopping without a bodyguard. It was swell. I felt absolutely immoral. But it didn't last long. They caught up with me in a department store. I was so mad I ran out the back way and jumped into the first car I saw. Guess who was in it?
+M	PETER	Santa Claus?
+F	ELLIE	King -- King Westley was in it.
+M	PETER	Oh. Is that how you met him?
+F	ELLIE	Um-hm. We rode around all afternoon. Father was frantic. By 6 o'clock he was having all the rivers dragged.
+M	PETER	Say, where did you learn to dunk, in finishing school?
+F	ELLIE	Aw, now, don't you start telling me I shouldn't dunk.
+M	PETER	Of course you shouldn't. You don't know how to do it. Dunking's an art. Don't let it soak so long. A dip and plop, into your mouth. If you let it soak so long, it'll get soft and fall off. It's all a matter of timing. I ought to write a book about it.
+F	ELLIE	Thanks, professor.
+M	PETER	Just goes to show you. Twenty millions and you don't know how to dunk.
+F	ELLIE	I'd change places with a plumber's daughter any day.
+M	DYKE	You can't go around bothering my tenants. I tell you, there's no girl by that name here. Besides, how do I know you're detectives?
+M	FIRST DETECTIVE	Show him your credentials, Mac. I'll look around.
+M	PETER	Detectives!
+F	ELLIE	That's Father at work. What'll I do? Peter, what'll I do?
+M	PETER	Don't look at me. I didn't marry King Westley.
+F	ELLIE	Maybe I could jump out of the window. Do you think they'd see me?
+M	PETER'S VOICE	Come here, you little fool!
+M	PETER	Sit down!
+M	PETER	Yeah. I got a letter from Aunt Betty. She says if we don't stop over at Wilkes-Barre she'll never forgive us.
+F	ELLIE	What are you talking about?
+M	PETER	The baby is due next month -- and they want us to come.
+M	PETER'S VOICE	She says she saw your sister Ethel the other day, and she's looking swell.
+F	ELLIE	Come in!
+M	PETER'S VOICE	Betty has a boy, don't you? She's always wanted a boy. I think we'll stop over in Wilkes-Barre this trip, darling. Give the family a treat.
+F	ELLIE	There's a man here to see you, Sweetheart.
+M	PETER'S VOICE	Who -- me? Want to see me?
+M	DETECTIVE	What's your name?
+F	ELLIE	Are you addressing me?
+M	DETECTIVE	Yeah. What's your name?
+M	PETER	Hey, wait a minute! You're talking to my wife! You can't walk in here and -- what do you want, anyway?
+M	DETECTIVE	We're looking for somebody.
+M	PETER	Well, look your head off -- but don't come bustin' in here. This isn't a public park.
+M	PETER	I got a good mind to sock you right in the nose.
+M	FIRST DETECTIVE	Take it easy, son. Take it easy.
+M	SECOND DETECTIVE	What's up?
+M	DYKE	These men are detectives, Mr. Warne.
+M	PETER	I wouldn't care if they were the whole police department. They can't come in here and start shooting questions at my wife!
+F	ELLIE	Don't get excited, Peter. They just asked a civil question.
+M	PETER	There you go again! How many times did I tell you to stop butting in when I have an argument?
+F	ELLIE	Well, you don't have to lose your temper!
+M	PETER	You don't have to lose your temper! That's what you told me the last time too. Every time I step in to protect you. At the Elk's dance when that big Swede made a pass at you --
+F	ELLIE	He didn't make a pass at me! I told you a million times!
+M	PETER'S VOICE	Oh, no! I saw him! He kept pawing you all over the dance floor!
+M	ELLIE'S VOICE	He didn't! You were drunk!
+M	PETER	Oh, so now I was drunk!
+F	ELLIE	Well, you were!
+M	PETER	I'm sorry I didn't take another sock at him.
+F	ELLIE	Yeah, and gotten yourself arrested!
+M	PETER	Aw, nuts! You're just like your old man! Once a plumber always a plumber! There isn't an ounce of brains in your whole family!
+F	ELLIE	Peter Warne, you've gone far enough. I won't stand being insulted like this another minute.
+M	DYKE	Now look what you've done!
+M	FIRST DETECTIVE	Sorry, Mr. Warne. But you see, we're supposed to check up on everybody.
+M	SECOND DETECTIVE	We're looking for a girl by the name of Ellen Andrews. You know -- the daughter of the big Wall Street mug.
+M	FIRST DETECTIVE'S VOICE	Your wife sure looks like her. Don't she, Mac?
+M	SECOND DETECTIVE'S VOICE	She sure does.
+M	PETER	Well, I hope you find her. Quit bawling! Quit bawling!
+M	DYKE'S VOICE	I told you they were a perfectly nice married couple.
+M	PETER	It'll be a dirty trick on Aunt Betty if it turns out to be a girl after all.
+M	PETER	Say, you were pretty good. Jumping in like that. Got a brain, haven't you?
+F	ELLIE	You weren't so bad yourself.
+M	PETER	We could start a two-person stock company. If things get tough -- we can play some small town auditoriums. We'll call this one "The Great Deception."
+F	ELLIE	Next week "East Lynne."
+M	PETER	After that "The Three Musketeers." I'd make a great D'Artagnan.
+F	ELLIE	How about Cinderella -- or a real hot love story?
+M	PETER	No mushy stuff. I'm running this troupe.
+F	ELLIE	Oh, you are! Who made you the manager?
+M	PETER	I did! It was my idea, wasn't it?
+F	ELLIE	You always want to run everything.
+M	PETER	If you don't like it, you can resign from the company.
+F	ELLIE	I refuse to resign!
+M	PETER	Then I'll fire you. I'll do all the parts myself.
+M	DYKE	Your bus leaves in five minutes.
+M	PETER	Holy jumping --! We haven't started to pack yet!
+F	SECRETARY	Here's another wire from Peter Warne.
+F	GORDON	Throw it in the basket. What's it say? "Have I got a story! It's getting hotter and hotter. Hope you're the same."
+F	GORDON	Collect?
+F	SECRETARY	Yes.
+F	GORDON	Don't accept any more.
+M	ANDREWS	Three days! Three whole days! And what have you accomplished! -- All you've shown me is a stack of feeble reports from those comical detectives of yours. I want action, Lovington!
+M	LOVINGTON	We can't do the impossible, Mr. Andrews.
+M	ANDREWS	What I'm asking isn't impossible. My daughter is somewhere between here and Miami. I want her found!
+M	LOVINGTON	I've put extra men on, all along the way.
+M	ANDREWS	It's not enough! Are you certain she's not with King Westley?
+M	LOVINGTON	No. He's been trailed twenty-four hours a day since this thing started. He can't even get a phone call we don't know about.
+M	ANDREWS	I'm worried, Lovington. After all, something might have happened to her.
+M	ONE OF THEM	Yessir?
+M	ANDREWS	Oh, Clark -- want you to arrange for a radio broadcast -- right away -- coast to coast hook-up! Offer a reward of ten thousand dollars for any information leading to her whereabouts.
+M	CLARK	Yessir.
+M	ANDREWS	Brown --
+M	BROWN	Yessir?
+M	ANDREWS	Send the story out to the newspapers. Some of the out of town papers may not have a picture of her. Here -- wire this to them -- I want it to break right away.
+M	BOY	What'sa matter, Ma? Don't you feel all right?
+F	ELLIE	Peter! There's something the matter with that woman. She looks ill.
+F	ELLIE	I better go over and see her.
+M	PETER	Don't be silly. Nothing you can do. Must be tough on an old woman -- a trip like this.
+F	ELLIE	Yes.
+M	MAN	Hey, Galli-Curci, come on -- get onto it! You, too, McCormack.
+M	ELLIE AND PETER	"O-o-o-oh--He flies through the air with the greatest of ease -- This daring young man on the flying trapeze --
+F	ELLIE	Thank the man for me, Peter. This is the first comfortable position I've had all night.
+M	PETER	"She flies through the air with the greatest of ease. This darin' young maid on the flying trapeze -- Her movements are graceful -- all men does she please --"
+M	BOY	Ma! Ma! What'sa matter with you? Somebody help me! Somethin's happened to her!
+M	PETER	Get some water, somebody. Let me get in here, son.
+M	PETER	That's better. You're all right now. Just took a little nose-dive, that's all.
+M	BOY	Ma -- oh, gee, Ma --!
+M	PETER	Come on, son. Better give your mother a chance to snap out of it. It's all right, son. She'll be okay in a couple of minutes.
+F	ELLIE	You'd better rest. It's been a hard trip, hasn't it?
+M	BOY	We ain't ate nothin' since yestidday.
+M	PETER	What happened to your money?
+M	BOY	Ma spent it all for the tickets. She didn't know it was gonna be so much. We shouldn'a come, I guess, but Ma said there's a job waitin' for her in New York -- and if we didn't go, she might lose it.
+M	PETER	Going without food is bad business, son. Why didn't you ask somebody?
+M	BOY	I was gonna do it, but Ma wouldn't let me. She was ashamed, I guess.
+F	ELLIE	She'll be all right, soon's she gets something to eat.
+F	ELLIE	Here, boy -- first town we come to, buy some food.
+M	BOY	I shouldn't oughta take this. Ma'll be angry.
+F	ELLIE	Just don't tell her anything about it. You don't want her to get sick again, do you?
+M	BOY	No-o. But I shouldn't oughta take the money. You might need it.
+M	PETER	Me? Forget it, son. I got millions.
+M	BOY	Thanks.
+F	ELLIE	Come on. Let's go back to your mother.
+M	DRIVER	That storm sure made a mess outa these roads.
+M	PETER	Holy Smokes! You'll never get out yourself! Better phone for some help.
+M	DRIVER	Phone for help? We're right in the middle of nowhere. There isn't a town within ten miles of here.
+M	SHAPELEY	What's up?
+M	PETER	Looks like we're going to be stuck for a long time.
+M	SHAPELEY	Say, Buddy --
+M	SHAPELEY	Like to have a look at my paper?
+M	SHAPELEY	Travelin' like this, you kinda lose track of what's goin' on in the world.
+M	PETER	Thanks.
+M	SHAPELEY	If you wanna get anywhere nowadays, you gotta keep in touch with all the news, is what I always say.
+M	PETER	That's right.
+M	SHAPELEY	Take that story there, for instance. Be kinda sweet if we could collect that ten thousand smackers.
+M	PETER	Yeah -- wouldn't it?
+M	SHAPELEY	It's a lotta dough. If I was to run across that dame, you know what I'd do?
+M	PETER	What?
+M	SHAPELEY	I'd go fifty-fifty with you.
+M	PETER	Why?
+M	SHAPELEY	Cause I'm a guy that don't believe in hoggin' it, see? A bird that figures that way winds up behind the eight ball, is what I always say.
+M	PETER	What's on your mind?
+M	SHAPELEY	Five G's -- or I crab the works.
+M	PETER	You're a pretty shrewd baby. We better get away from this gang. Talk this thing over privately.
+M	PETER	Lucky thing, my running into you. Just the man I need.
+M	SHAPELEY	You're not making any mistake, believe you me.
+M	PETER	I can use a smart guy like you.
+M	SHAPELEY	Say listen, when you're talkin' to old man Shapeley, you're talking to --
+M	PETER	Do you pack a gat?
+M	SHAPELEY	Huh?
+M	PETER	A gat! A gat! Got any fireworks on you?
+M	SHAPELEY	Why -- no --
+M	PETER	That's all right. I got a couple of machine guns in my suitcase. I'll let you have one of them. for something he hadn't bargained for, and stares Expect a little trouble up North. May have to shoot it out with cops.
+M	PETER'S VOICE	If you come through all right, your five G's are in the bag. Maybe more. I'll talk to the "Killer" -- see that he takes care of you.
+M	SHAPELEY	The Killer?
+M	PETER	Yeah -- the "big boy" -- the Boss of the outfit.
+M	SHAPELEY	You're not kidnapping her, are you?
+M	PETER	What else, stupid! You don't think we're after that penny-ante reward, do you? Ten thousand bucks? Chicken feed! We're holding her for a million smackers.
+M	SHAPELEY	Say, look! I didn't know it was anything like this, see -- and --
+M	PETER	What's the matter with you! Gettin' yellow?
+M	SHAPELEY	But I'm a married man. I got a couple of kids. I can't get mixed up with --
+M	PETER	Sh-sh-sh --! Soft pedal, you mug! -- before I -- What're you trying to do? Tell the whole world about it! Now listen, you're in this thing -- and you're staying in! Get me? You know too much.
+M	SHAPELEY	I won't say anything. Honest, I won't.
+M	PETER	Yeah? -- How do I know? I gotta good mind to plug you. I shouldn't take any chances on you.
+M	SHAPELEY	You can trust me, Mister. I'll keep my mouth shut.
+M	PETER	Yeah? as if making up his What's your name?
+M	SHAPELEY	Oscar Shapeley.
+M	PETER	Where do you live?
+M	SHAPELEY	Orange, New Jersey.
+M	PETER	Got a couple of kids, huh?
+M	SHAPELEY	Yeah. Just babies.
+M	PETER	You love them, don't you?
+M	SHAPELEY	Oh, gee, Mister -- you wouldn't -- you ain't thinkin' about --
+M	PETER	You'll keep your trap shut, all right.
+M	SHAPELEY	Sure -- sure -- I'll keep my trap shut. you can depend on me, Mister.
+M	PETER	If you don't -- Ever hear of Bugs Dooley?
+M	SHAPELEY	No.
+M	PETER	Nice guy. Just like you. But he made a big mistake, one day. Got kind of talkative. Know what happened? His kid was found in the bottom of the river. A rock tied around its neck. Poor Bugs! He couldn't take it. Blew his brains out. much more of this.
+M	SHAPELEY	Gee! That musta been terrible. I guess he had it coming to him though. But don't you worry about me. I don't talk. I never talk. Take my word for it. Gee, I wouldn't want anything to happen to my kids.
+M	PETER	Okay. Just remember that. Now beat it.
+M	SHAPELEY	Oh, thanks, thanks, Mister. I always knew you guys were kind-hearted.
+M	PETER	Come on, scram! And stay away from that bus.
+M	SHAPELEY	Sure. Anything you say.
+F	ELLIE	Poor old Shapeley. You shouldn't have frightened him like that.
+M	PETER	At the rate he started, he's probably passed two state lines by this time. The exercise is good for him.
+F	ELLIE	Yes, I noticed he was getting a little fat lately. Ouch!
+M	PETER	What's the matter?
+F	ELLIE	I was never built for these moonlight strolls. Why did we have to leave the bus?
+M	PETER	I don't trust that chatterbox.
+M	PETER	First town we hit in the morning, you better wire your father.
+F	ELLIE	Not as long as I'm alive.
+M	PETER	Okay with me, if you can stand the starvation diet.
+F	ELLIE	What do you mean -- starvation?
+M	PETER	It takes money to buy food.
+F	ELLIE	Why, haven't you --?
+M	PETER	Not a sou. I had some before the fainting scene.
+F	ELLIE	You didn't give that boy all your money?
+M	PETER	I didn't give him anything. You were the bighearted gal. How about wiring your father now?
+F	ELLIE	Never! I'll get to New York if I have to starve all the way.
+M	PETER	Must be some strange power Westley has over you women. How do you expect to get there?
+F	ELLIE	To New York?
+M	PETER	Yeah.
+F	ELLIE	I'm following you.
+M	PETER	Aren't you afraid of me?
+F	ELLIE	No.
+M	PETER	Okay. Hang on to these.
+M	PETER	I wish you'd stop being playful.
+F	ELLIE	Sorry. It's the first time I've ridden "piggy- back" in years.
+M	PETER	This isn't "piggy-back."
+F	ELLIE	Of course it is.
+M	PETER	You're crazy.
+F	ELLIE	I remember distinctly Father taking me for a "piggy-back" ride --
+M	PETER	And he carried you like this, I suppose.
+F	ELLIE	Yes.
+M	PETER	Your father didn't know beans about "piggy-back" riding.
+F	ELLIE	My uncle -- Mother's brother -- had four children... and I've seen them ride "piggy-back."
+M	PETER	I don't think there's a "piggy-back" rider in your whole family. I never knew a rich man yet who was a good "piggy-back" rider.
+F	ELLIE	That's silly.
+M	PETER	To be a "piggy-backer" it takes complete relaxation -- a warm heart -- and a loving nature.
+F	ELLIE	And rich people have none of those qualifications, I suppose.
+M	PETER	Not a one.
+F	ELLIE	You're prejudiced.
+M	PETER	Show me a good "piggy-back" rider and I'll show you somebody that's human. Take Abraham Lincoln, for instance -- a natural "piggy-backer." Where do you get off with your stuffed- shirt family? Why, your father knew so much about "piggy-back" riding that he --
+M	PETER	Aw, nuts!
+F	ELLIE	My father was a great "piggy-backer."
+M	PETER	Hold this a minute.
+M	PETER	Thank you.
+M	PETER	This looks like the best spot.
+F	ELLIE	We're not going to sleep out here, are we?
+M	PETER	I don't know about you, but I'm going to give a fairly good imitation of it.
+F	ELLIE	Peter --
+M	PETER	What?
+M	ELLIE'S VOICE	I'm hungry.
+M	PETER	Just your imagination.
+F	ELLIE	No, it isn't. I'm hungry and -- and scared.
+M	PETER'S VOICE	You can't be hungry and scared at the same time.
+F	ELLIE	Well, I am.
+M	PETER	If you're scared it scares the hunger out of you.
+F	ELLIE	Not if you're more hungry than scared.
+M	PETER	All right. You win. Let's forget it.
+F	ELLIE	I can't forget it. I'm still hungry.
+M	PETER	Holy Smokes! Why did I ever get mixed up with you!
+M	PETER	If I had any sense, I'd have been in New York by this time. viciously at the hay Taking a married woman back to her husband. Hunh! What a prize sucker I turned out to be. Come on -- your bed's all ready.
+F	ELLIE	I'll get my clothes all wrinkled.
+M	PETER	Well, take them off.
+F	ELLIE	What!
+M	PETER	All right! Don't take them off. Do whatever you please. But shut up about it.
+F	ELLIE	You're becoming terribly disagreeable lately. Snap my head off every time I open my mouth. If being with me is so distasteful to you, you can leave. You can leave any time you see fit. Nobody's keeping you her. I can get along.
+F	ELLIE	Peter -- while she listens, but nothing stirs, and there is more Peter!
+F	ELLIE	Peter!!
+M	PETER	What's the matter?
+F	ELLIE	Oh, Peter--
+M	PETER	What's got into you?
+F	ELLIE	Oh, Peter! I was so scared.
+M	PETER	I wasn't gone more than a minute. Just went out to find you something to eat.
+F	ELLIE	I know -- but --
+M	PETER	Here. Eat your head off.
+F	ELLIE	I don't want it now.
+M	PETER	Thought you were hungry!
+F	ELLIE	I was -- but --
+M	PETER	But what!
+F	ELLIE	I was so scared -- that it scared --
+M	PETER	Holy Jumping Catfish! You can drive a guy crazy.
+M	PETER	Might get chilly later on. Better use this.
+M	PETER	You've had a lot of men crazy about you, haven't you?
+M	PETER	I guess you've pretty much had your own way with them. That's your trouble mostly. You've always had your own way. That's why you're such a mess now.
+M	PETER	You know what generally happens to people like you? You get your values all mixed up. You attach all the importance to the wrong things. Right now, for instance, there's only one thought in your mind -- to get back to King Westley.
+M	PETER'S VOICE	Comical part of it is, it isn't what you want at all. In a couple of weeks you'll be looking for the nearest exit... People like you spend all your life on a merry-go-round. I guess that's what makes you so dizzy. You're always chasing after something. At least you think you are. Truth is, you're just running away. From yourself, mostly. 'Cause you're miserable. You hate yourself. The world's full of people like you. Don't know what they want.
+F	ELLIE	Do you know?
+M	PETER	Sure.
+F	ELLIE	What?
+M	PETER	Nothing. Nothing you'd give two cents for.
+F	ELLIE	Try me.
+M	PETER'S VOICE	I just want to be let alone, that's all. Life's swell if you don't try too hard. Most people want to get a strangle-hold on it. They're not living. They're just feverish. If they didn't get themselves all balled up with a lot of manufactured values, they'd find what they want. Peace and calm. When you get right down to it, what's all the shootin' for, will you tell me? After all, you can only eat three meals a day, only sleep in one bed -- Right now, that hay feels pretty good to you, doesn't it? Sure it does. 'Cause you were tired -- and it's the only thing around.
+F	ELLIE	You sound like a hobo.
+M	PETER	I am. I only work when I have to. Two years ago I got a notion and went to China. There was a war going on. Swell! After a while it got stale. I went down to Tahiti. Just lay on the beach for six months. What could be sweeter?
+F	ELLIE	Doesn't sound very exciting.
+M	PETER	I guess not. I'd have given odds it wouldn't mean anything to you. There were moments when I had hopes. When I -- aw, I'm wasting time -- You're destined to be a dope the rest of your life. I pity you. Goodnight.
+F	ELLIE	What are you thinking about?
+M	PETER	By a strange coincidence, I was thinking of you.
+F	ELLIE	Really?
+M	PETER	Yeah. I was just wondering what makes dames like you so dizzy.
+F	ELLIE	What'd you say we're supposed to be doing?
+M	PETER	Hitch-hiking.
+F	ELLIE	Well, you've given me a very good example of the hiking -- where does the hitching come in?
+M	PETER	A little early yet. No cars out yet.
+F	ELLIE	If it's just the same to you, we'll sit right here till they come. Got a toothpick?
+M	PETER	No. But I've got a penknife.
+F	ELLIE	Hay -- in my teeth.
+M	PETER	There it is. Better swallow it. We're not going to have any breakfast.
+F	ELLIE	Needn't rub it in. out of his coat pocket and starts nibbling What're you eating?
+M	PETER	Carrots.
+F	ELLIE	Raw?
+M	PETER	Uh-huh. Want one?
+F	ELLIE	No!! It's a wonder you couldn't get me something I can eat.
+M	PETER	You don't think I'm going around panhandling for you. Best thing in the world for you -- carrots. Had a tough time getting them. If that farmer ever caught me -- goodnight!
+F	ELLIE	I hate the horrid stuff.
+M	PETER	I wish you wouldn't talk too much. We let a car get away.
+F	ELLIE	What if nobody stops for us?
+M	PETER	Oh, they'll stop, all right. It's a matter of knowing how to hail them.
+F	ELLIE	You're an expert, I suppose.
+M	PETER	Expert! Going to write a book on it. Called the "Hitch-Hikers Hail."
+F	ELLIE	There's no end to your accomplishments.
+M	PETER	You think it's simple, huh?
+F	ELLIE	Oh, no!
+M	PETER	Well, it is simple. It's all in the thumb, see? A lot of people do it -- like this. But they're all wrong. Never get anywhere.
+F	ELLIE	Tch! Tch! I'm sorry for the poor things.
+M	PETER	But the thumb always works. Different ways to do it, though. Depends on how you feel. For instance, number one is a short, jerky movement-- That shows independence. You don't care if they stop or not. 'Cause you got some money in your pocket, see?
+F	ELLIE	Clever.
+M	PETER	Number two is a wider movement -- a smile goes with that one -- like this. That means you got a couple of brand new stories about the farmer's daughter.
+F	ELLIE	You figured that all out yourself, huh?
+M	PETER	Oh, that's nothing. Now take number three, for instance. That's a pip. It's the pathetic one. When you're broke -- and hungry -- and everything looks black. It's a long movement like this -- -- with a follow through.
+F	ELLIE	Amazing.
+M	PETER	Hm? Yeah, but it's no good if you haven't got a long face with it.
+F	ELLIE	Here comes a car!
+M	PETER	Now watch me. I'm going to use Number One. Keep your eye on that thumb, baby, and see what happens.
+F	ELLIE	I'm still watching your thumb.
+M	PETER	Something must have gone wrong. I guess I'll try number two.
+F	ELLIE	When you get up to a hundred, wake me up.
+M	PETER	I guess maybe I won't write that book after all.
+F	ELLIE	Yes. But look at all the fun you had. Mind if I try?
+M	PETER	You! Don't make me laugh.
+F	ELLIE	You're such a smart aleck! Nobody can do anything but you. I'll show you how to stop a car -- and I won't use my thumb.
+M	PETER	What're you going to do?
+F	ELLIE	Mind your own business.
+F	ELLIE	You might give me a little credit.
+M	PETER	What for?
+F	ELLIE	I proved once and for all that the limb is mightier than the thumb.
+M	PETER	Why didn't you take all your clothes off? You could have stopped forty cars.
+F	ELLIE	We don't need forty cars.
+M	DANKER	So you've just been married, huh? Well, that's pretty good. If I was young, that's just the way I'd spend my honeymoon -- hitch-hiking. Y-e-s s-i-r!
+M	DANKER	"Hiking down the highway of love on a honeymoon. Hitch-hiking down -- Down-down-down the highway Down --."
+M	PETER	Hey, hey, aren't you afraid you'll burn out a tonsil?
+M	DANKER	Tonsil? Me? No! Me burn a tonsil? "My tonsils won't burn -- As life's corners I...
+M	PETER	All right, let it go.
+M	DANKER	...turn."
+M	DANKER	How about a bite to eat?
+F	ELLIE	Why, I think that would be --
+M	PETER	No, thanks. We're not hungry.
+M	DANKER	Oh, I see, young people in love are never hungry.
+M	PETER	No.
+M	DANKER	"Young people in love Are very seldom hungry. People in love Are very seldom hungry..."
+M	PETER	What were you going to do? Gold dig him for a meal?
+F	ELLIE	Why not? I'm hungry.
+M	PETER	Eat a carrot.
+F	ELLIE	Never! I'm going in and ask him --
+M	PETER	If you do, I'll break your neck.
+M	PETER	Let's get out and stretch our legs.
+M	PETER	Hey!
+F	ELLIE	Oh, Peter! What happened? Are you all right?
+M	PETER	Come on -- get in.
+F	ELLIE	Oh, you've been hurt! There's a cut on --
+M	PETER	Come on! come on!
+F	ELLIE	What happened?
+M	PETER	Just a road thief. Picks people up and runs off with their stuff. What a racket!
+F	ELLIE	What'd you give him for the car?
+M	PETER	A black eye.
+F	ELLIE	Look -- uh -- how are the -- uh -- carrots holding out? Any left?
+M	PETER	You don't have to eat the carrots. Just passed a pond with some ducks in it.
+F	ELLIE	Darling!
+M	PETER	Haven't much gas left in this thing. Got to start promoting some. Better take the things out of the pocket of that coat. Ought to be good for ten gallons.
+M	ANDREWS	I haven't changed my mind, Westley, I want you to understand that! I don't like you! I never have! I never will! That's clear enough, isn't it?
+M	KING	You've made that quite evident -- with all your threats of annulment. Well, it hasn't bothered me for a minute. Ellie and I got married because we love each other. And she's proving it; as far as I'm concerned there's going to be no annulment.
+M	ANDREWS	You've got a good thing and you're hanging on to it, huh? All right, you win. I'll just have to get used to you. I admit I'm licked. But only because I'm worried. I've had detectives all over the country searching for her. I've seen thousands of photographs. Fortune tellers, nuts, every crank in the country has written me. Haven't slept one night this week. If I don't find her, I'll go crazy.
+M	WESTLEY	I might have been able to help if it weren't for you. I've been watched so closely, I --
+M	ANDREWS	Yes. I know. Well, you can help now. I issued a statement yesterday that I've withdrawn my objections. Begging her to come home. I haven't heard from her. Apparently she doesn't trust me.
+M	WESTLEY	Why should she? After all --
+M	ANDREWS	All right. That's why I sent for you. There's a room full of reporters out there. I want you to make a statement -- that you've had a talk with me -- that we've reached an understanding -- that if Ellen comes home, I won't interfere with your marriage. Will you do that?
+M	WESTLEY	If you really mean it, I will.
+M	ANDREWS	Of course I mean it! I don't care whom she's married to -- -- as long as I can get her back.
+M	ANDREWS	Come in, boys. This is my -- uh -- this is King Westley. He has a statement to make.
+M	REPORTERS	Hello, Westley... How do you do.
+M	PETER'S VOICE	All right, Brat.
+F	ELLIE	of the car just as Any luck?
+M	PETER	Yeah. He finally agreed to let us have a room.
+F	ELLIE	What about money?
+M	PETER	Talked him out of it. He thinks we're going to stay a week. I'll have to think of something before morning.
+F	ELLIE	That's swell!
+M	PETER	I'm glad you think so. If you ask me, it's foolish. I told you there's no sense in our staying here tonight. We could make New York in less than three hours.
+F	ELLIE	I couldn't arrive in New York at three in the morning. Everybody's in bed.
+M	PETER	Okay. Cottage Number Three.
+F	WIFE	There you go -- trustin' people again. How many times did I tell you --
+M	OWNER	He looked like an upright young feller to me, Ma.
+F	WIFE	Yeah. They're all upright till they walk out on you.
+M	OWNER	Said he was gonna stay a week.
+F	WIFE	Mebbe.
+M	OWNER	Worst comes to the worst, we got his car for security.
+F	WIFE	I don't trust him.
+M	PETER	Well, here we are on the last lap.
+M	PETER	Tomorrow morning, you'll be in the arms of your husband.
+F	ELLIE	Yes. You'll have a great story, won't you?
+M	PETER	Yeah, swell.
+F	ELLIE	Is that the Walls of Jericho going up?
+M	PETER'S VOICE	Yep! The Walls of Jericho.
+M	PETER	We certainly outsmarted your father. I guess you ought to be happy.
+F	ELLIE	Thank you. Am I going to see you in New York?
+M	PETER	Nope.
+F	ELLIE	Why not?
+M	PETER	I don't make it a policy to run around with married women.
+F	ELLIE	No harm in your coming to see us.
+M	PETER'S VOICE	Not interested.
+F	ELLIE	Won't I ever see you again?
+M	PETER	What do you want to see me for? I've served my purpose. I brought you back to King Westley, didn't I? That's what you wanted, wasn't it?
+F	ELLIE	Peter, have you ever been in love?
+M	PETER	I probably did the world a great favor at that. Got two pinheads out of circulation. Cupid thinks he's doing something when he brings two lovers together. What good's that? I'm bringing two pains-in-the-neck together. I think I'll start an institution -- hang out a shingle.
+F	ELLIE	Haven't you ever wanted to fall in love?
+M	PETER	Me?
+F	ELLIE	Yes. Haven't you thought about it at all? Seems to me you could make some girl wonderfully happy.
+M	PETER	Maybe. Sure -- sure, I've thought about it. Who hasn't? If I ever met the right sort of a girl, I'd -- Yeah, but where you going to find her -- somebody that's real -- somebody that's alive? They don't come that way any more.
+M	PETER	I've even been sucker enough to make plans. I saw an island in the Pacific once. Never been able to forget it. That's where I'd like to take her. But she'd have to be the sort of a girl that'd jump in the surf with me on moonlight nights -- and love it as much as I did. You know, those nights when you and the moon and the water all become one -- when something comes over you -- and you feel that you're part of something big and marvelous. Those are the only places to live. Where the stars are so close over your head that you feel you could reach right up and stir them around.
+M	PETER'S VOICE	Certainly I've been thinking about it. Boy, if I could ever find a girl who's hungry for those things --
+M	PETER	I'm going to swim in the surf with her -- I'm going to reach up and grab stars for her -- I'm going to laugh with her -- and cry with her. I'm going to kiss her wet lips -- and --
+F	ELLIE	Take me with you, Peter. Take me to your island. I want to do all those things you talked about.
+M	PETER	Better go back to your bed.
+F	ELLIE	I love you.
+M	PETER	You're forgetting you're married.
+F	ELLIE	I don't care. I love you. Nothing else matters. We can run away. Everything'll take care of itself. Please, Peter. You can't go out of my life now. I couldn't live without you. Oh, Peter --
+M	PETER	Better go back to your bed.
+F	ELLIE	I'm sorry.
+M	PETER	Hey, Brat --! Did you mean that? Would you really go? Hey, Brat --
+M	PETER	All I'm asking is enough gas to get me to New York. The bag's worth twenty- five dollars.
+M	MAN	Yeah, but I got a bag. My wife gave me one for Christmas.
+M	PETER	Listen, man -- I'll tell you what I'll do. When I come back in the morning, I'll buy it back from you and give you ten dollars profit? What do you say?
+M	MAN	I ain't got a hat --
+M	PETER	What?
+M	MAN	I ain't got a hat.
+M	PETER	Well, you got one now. -- Come on, fill 'er up.
+M	PETER	Fine! That's fine, Tony. Now get me a drink and make sure nobody disturbs me for half an hour.
+M	ITALIAN	Sure. Sure, Pete.
+M	PETER	Hello, Agnes.
+F	AGNES	Better not go in. He'll shoot you on sight.
+M	PETER	I haven't been shot at for days.
+F	GORDON	Get out of here!
+M	PETER	Wait a minute, Gordon -- I --
+F	GORDON	Get out!
+M	PETER	Joe, listen--
+F	GORDON	Don't "Joe" me.
+M	PETER	Okay, Joe. Listen -- you know I've always liked you. Anytime I could do you a great turn -- anytime I ran into a story that looked good -- I always came running to you, didn't I? Well, I got one now. Those wires I sent you were on the level. It's the biggest scoop of the year. I'm giving it to you, Joe.
+F	GORDON	You mean about the Andrews' kid?
+M	PETER	That's it. I got it all written up. Ready to go. All I want is a thousand dollars.
+F	GORDON	A thousand dollars! Get out of this office before I throw you out bodily.
+M	PETER	Don't get sore, Joe. This is something you got to do for me. I need a thousand dollars -- and I need it quick. I'm in a jam.
+F	GORDON	What's the thousand bucks for?
+M	PETER	To tear down the Walls of Jericho.
+F	GORDON	What!
+M	PETER	Never mind... Listen -- suppose I should tell you that Ellen Andrews is going to have her marriage annulled.
+F	GORDON	Huh?
+M	PETER	That she's going to marry somebody else.
+F	GORDON	You're drunk.
+M	PETER	Would an exclusive story like that be worth a thousand bucks to you?
+F	GORDON	If it's on the level.
+M	PETER	Well, I got it, Joe.
+F	GORDON	Who's she gonna marry?
+M	PETER	It's all right here. Give me the thousand and it's yours.
+F	GORDON	I wouldn't trust you as far as I could throw that desk.
+M	PETER	Wait a minute, Joe. Use your bean. I couldn't afford to hand you a phoney yarn, like that. I'd be crazy. There isn't a newspaper in the country'd give me a job after that! I could go to jail!
+F	GORDON	I'd put you there myself.
+M	PETER	Sure. I wouldn't blame you, either.
+F	GORDON	Who's the guy she's gonna marry?
+M	PETER	I am, Joe.
+F	GORDON	You!
+M	PETER	Yeah.
+F	GORDON	Now I know you're drunk. I'm going home. Don't annoy me any more.
+M	PETER	For heaven's sake, Joe -- stop being an editor for just a minute. We've been friends for a long time, haven't we? You ought to know when I'm serious. This is on the level.
+M	PETER	I met her on a bus coming from Miami. Been with her every minute. I'm in love with her, Joe.
+F	GORDON	Well, I'll be--
+M	PETER	Listen, Pal -- you've got to get this money for me. Now. Minutes count. She's waiting for me in an auto camp outside of Philadelphia. I've got to get right back. You see, she doesn't know I'm gone. A guy can't propose to a girl without a cent in the world, can he?
+F	GORDON	What a story! On her way to join her husband, Ellen Andrews falls in love with -- Lemme see that a minute.
+F	WIFE	I told you! I told you, you couldn't trust him! He's gone!
+M	OWNER	Who?
+F	WIFE	That feller last night, that's who! He was gonna stay a week, huh? Well, he's skipped. Took the car with him, too. We wouldn't have known a thing about it until morning if I hadn't took that magnesia. Come on, get up, don't lay there. Let's do something about it.
+F	WIFE	See that. They're gone!
+M	OWNER	Looks like it, don't it? Here's the woman, ma.
+F	WIFE	Oh!!
+F	ELLIE	Ellie's Bed as the owner and his wife come up to her; What's the matter?
+F	WIFE	Where's your husband, young lady --
+F	ELLIE	Husband?
+F	WIFE	Yes -- if he is your husband.
+F	ELLIE	Isn't he here?
+F	WIFE	No, he ain't! And the car's gone, too.
+F	ELLIE	Why, he'll be back.
+F	WIFE	Yeah? What makes you think so! He took his suitcase and everything. Kinda surprised, huh? It's just like I told you, Zeke. They ain't married a'tall...
+M	WIFE'S VOICE	...could tell she was a hussy just from the looks of her.
+M	OWNER'S VOICE	Hey! You! Got any money?
+F	ELLIE	Why -- no.
+F	WIFE	Then -- you'll have to git!
+M	OWNER	Yeah, you'll have to git.
+F	ELLIE	Why, you can't put me out in the middle of the --
+F	WIFE	Serves you right. Oughta be careful who you take up with on the road. You can't go plyin' your trade in my camp.
+F	ELLIE	But can't you wait until morning --
+F	WIFE	Ain't gonna wait a minute.
+M	OWNER	Not a minute!
+F	WIFE	Better start gettin' into your clothes.
+M	OWNER	Yeah.
+F	WIFE	Zeke. Git!
+M	OWNER	Yes, Ma.
+F	ELLIE	Can I use your telephone? I want to talk to New York.
+F	WIFE	You ain't gonna stick me for no phone calls. You can go down to the Sheriff's office.
+F	WIFE	And listen, next time better keep away from here. I run a respectable place.
+M	PETER	Thanks, Pal. You saved my life.
+F	GORDON	Okay, Pete. escorts Peter out, For my dough, you're still the best newspaperman in the business.
+F	GORDON	S'long, kid. And good luck.
+M	PETER	'Bye, Agnes. You're beautiful. All women are beautiful!
+F	GORDON	Oh, boy! What a yarn! What a yarn! Get me Hank on the phone. Gotta hold up the morning edition.
+M	SECRETARY'S VOICE	There's Hank.
+F	GORDON	Hank! Listen. Hold the morning edition. Break down the front page. Gonna have a completely new layout -- Send a couple of re-write men in here. Don't do a thing -- I got a story that'll make your hair curl.
+F	GORDON	Yeah. Yeah. Don't annoy me. I'm busy. Listen, Hank! Dig out all the Andrews pictures. Get Healy out of bed. I want a cartoon right away. With King Westley in it. He's waiting at the church. Big tears streaming down his face. His bride hasn't shown up. Old Man Andrews is there, too. Laughing his head off. Everything exaggerated. You know -- Now snap into it! the second phone, speaking into it Yeah. Yeah. What is it?
+F	GORDON	What! -- Ellen Andrews! You're crazy!
+M	REPORTER	Yeah. She just phoned her father from an auto camp to come and get her. He's getting a police escort. Westley's going along, too. She's been traveling by bus. The moment she read that her father and Westley made up, she phoned in.
+F	GORDON	You sure that's right! Say, you haven't been drinking, have you! Okay -- grab a car -- and stay with them. Put Hank on. Agnes! Get me a doctor. I'm about to have a nervous breakdown. Hank -- forget everything I just told you. I was just having a nightmare! Call up the police department! Tell 'em to find Peter Warne. Send out a general alarm. I want the dirty crook pinched.
+F	AGNES	Yessir.
+M	MEN	You want us?
+F	GORDON	Yeah. Shove everything off the front page. Ellen Andrews just phoned her father -- she's coming home. The moment she heard the old man withdrew his objections, she gave herself up. Spread it all over the place. Here's your lead: "Love Triumphant!" Step on it!
+M	MEN	Yessir.
+M	HENDERSON	I knew she was safe.
+M	LOVINGTON	Certainly gave us a run for our money.
+M	ANDREWS	Can't you get them to go any faster?
+M	PETER	"I found a million dollar baby --"
+M	PETER	Okay, Pal. Be seein' you.
+M	PETER	Come on, Dobbin, old boy. We got a police escort.
+M	PETER	Dobbin, me lad. You failed muh. I'm afraid you're gittin' old.
+M	REPORTERS	Will you make a statement Miss Andrews? Was it an exciting experience? How did you travel?
+M	ANDREWS	Later, boys, later. See her at home.
+M	PETER	Take it easy, Dobbin. Remember your blood pressure.
+M	PETER	Better get that toy train out of here. I'm in a hurry.
+M	PEOPLE	Hi, Pete -- Didya see this? Ellen Andrews is back. Gonna marry that Westley guy after all -- What a dame! What a dame!
+F	AGNES	Gordon's out back some place.
+M	PETER	See that he gets that, will you, Agnes? Tell him I was just kidding.
+F	GORDON	You can't get a thing done around her unless --
+F	AGNES	Peter Warne was just in.
+F	GORDON	Huh? What?
+F	AGNES	Left this money. Said to tell you he was just kidding.
+F	GORDON	Where is he?
+M	GORDON'S VOICE	Hey, Pete!
+M	PETER	Hello, Joe. Sorry. Just a little gag of mine. Thought I'd have some fun with you.
+F	GORDON	Yeah. Sure. Had me going for a while.
+M	PETER	Wouldn't have made a bad story, would it?
+F	GORDON	Great! But that's the way things go. You think you got a swell yarn -- then something comes along -- messes up the finish -- and there you are.
+M	PETER	Yeah, where am I?
+F	GORDON	When you sober up -- come in and see me.
+M	PETER	Thanks, Joe.
+M	ANDREWS	Well, here we are; it's all set. You're finally going to be married properly. With all the fanfare and everything. I still don't know how it happened -- but you're going to be my son-in-law whether I like it or not. I guess you're pleased.
+M	KING	Why, naturally, I --
+M	ANDREWS	Naturally. You're going to become a partner in a big institution. It's one of the largest in the world.
+M	KING	You talk as if --
+M	ANDREWS	Someday perhaps, you might even take charge.
+M	ANDREWS	The thought of it makes me shudder.
+M	KING'S VOICE	You might be surprised.
+M	ANDREWS	I hope so. However, that'll take care of itself. There's another responsibility you're taking on. One that I'm really concerned about.
+M	KING'S VOICE	What's that?
+M	ANDREWS	My daughter.
+M	KING	Ellie? Oh, she's no responsibility.
+M	ANDREWS	No? Say, listen -- I've devoted a whole lifetime trying to tame that wildcat. Toughest job I ever tackled. Ever hear of J. P. Clarkson? Biggest man in the country, isn't he? Well, I tamed him. Got him eating out of the palm of my hand. I've browbeaten financiers, statesmen, foreign ministers -- some of the most powerful people in the world -- but I've never been able to do a thing with her. She's been too much for me. I'm glad you think it's easy. Now listen -- if you'll do what I tell you, perhaps I might develop a little respect for you. You never can tell.
+M	KING	What would you like to have me do?
+M	ANDREWS	Sock her!
+M	ANDREWS' VOICE	Sock her at least once a day. Do it on general principles. Make her know you're the boss and never let her forget it. Think you can do that?
+M	KING	Try. Do me a favor. Try. It's your only chance. And hers, too. Do that for me -- and maybe we'll be friends -- Maybe. Do we understand each other?
+M	KING	Yes, sir.
+M	ANDREWS	Fine. I'll see you at the reception.
+M	KING	Oh, by the way, Mr Andrews, I thought of a great stunt for the reception. I'm going to land on the lawn in an autogyro. What do you think of that!
+M	ANDREWS	You thought that up all by yourself, huh?
+M	KING	Why, it'll make all the front pages. A spectacular thing like that --
+M	ANDREWS	Personally, I think it's stupid! But go ahead. Have a good time. As long as Ellie doesn't object.
+M	KING	Oh, no. She'll be crazy about it. Well, see you later. I'm going out on the lawn and arrange for landing space. Goodbye.
+M	ANDREWS	We've done that already.
+M	KING	Yes, of course.
+M	ANDREWS	Autogyro! I hope he breaks his leg.
+M	ANDREWS	Oh -- Mary --
+M	MARY	Yes, sir?
+M	ANDREWS	How is she?
+M	MARY	Why -- uh -- she's all right, sir.
+M	ANDREWS	What's the matter? Anything wrong?
+M	MARY	Oh, no, sir. No different than --
+M	ANDREWS	Yes. I know. Still in the dumps, huh?
+M	MARY	Yessir. If you'll excuse me, sir -- she sent me for a drink.
+M	ANDREWS	Ellie --
+F	ELLIE	Oh, hello, Dad.
+M	ANDREWS	I knocked several times.
+F	ELLIE	Sorry. Must have been day-dreaming.
+M	ANDREWS	Well, everything's set. Creating quite a furor, too. Great stunt King's going to pull.
+F	ELLIE	Stunt?
+M	ANDREWS	Landing on the lawn in an autogyro.
+F	ELLIE	Oh, yes. I heard.
+M	ANDREWS	Yes. Personally, I think it's silly, too.
+M	ANDREWS' VOICE	You look lovely. Are you pleased with the gown? Ellie!
+F	ELLIE	Huh? Oh -- the gown -- Yes, it's beautiful.
+M	ANDREWS	What's the matter, Ellie? What's wrong?
+F	ELLIE	Nothing.
+M	ANDREWS	You've been acting so strangely since you returned. I'm -- I'm worried. I haven't bothered to ask you any questions -- I -- Isn't all this what you wanted? You haven't changed your mind about King, have you?
+F	ELLIE	Oh, no.
+M	ANDREWS	If you have, it isn't too late. You know how I feel about him. But I want to make you happy. You gave me such a scare -- I -- when I couldn't find you. You know, the old pump isn't what it used to be.
+F	ELLIE	Sorry, Dad. I wouldn't hurt you for the world. You know that.
+M	ANDREWS	Ellie -- what is it? Aren't you happy, child?
+M	ANDREWS	I thought so. I knew there was something on your mind. There -- there!
+M	ANDREWS	What is it, darling? You haven't fallen in love with somebody else, have you?
+M	ANDREWS	Have you?
+M	ANDREWS	I haven't seen you cry since you were a baby. This must be serious. Where'd you meet him?
+F	ELLIE	On the road.
+M	ANDREWS	Now, don't tell me you fell in love with a bus driver!
+F	ELLIE	No.
+M	ANDREWS	Who is he?
+F	ELLIE	I don't know very much about him. Except that I love him.
+M	ANDREWS	Well, if it's as serious as all that -- we'll move heaven and earth to --
+F	ELLIE	It'll do no good. He despises me.
+M	ANDREWS	Oh, come now --
+F	ELLIE	He despises everything I stand for. He thinks I'm spoiled and pampered, and selfish, and thoroughly insincere.
+M	ANDREWS	Ridiculous!
+F	ELLIE	He doesn't think so much of you either.
+M	ANDREWS	Well!
+F	ELLIE	He blames you for everything that's wrong about me. Thinks you raised me stupidly.
+M	ANDREWS	Fine man to fall in love with.
+F	ELLIE	He's marvelous!
+M	ANDREWS	Well, what are we going to do about it? Where is he?
+F	ELLIE	I don't know.
+M	ANDREWS	I'd like to have a talk with him.
+F	ELLIE	It's no use, Dad. I practically threw myself at him.
+M	ANDREWS	Well, under the circumstances, don't you think we ought to call this thing off?
+F	ELLIE	No, I'll go through with it.
+M	ANDREWS	But that's silly, child. Seeing how you feel, why --
+F	ELLIE	It doesn't matter. I don't want to stir up any more trouble. I've been doing it all my life. I've been such a burden to you -- made your life so miserable -- and mine, too. I'm tired, Dad. Tired of running around in circles. He's right, that's what I've been doing ever since I can remember.
+M	ELLIE'S VOICE	I've got to settle down. It really doesn't matter how -- or where -- or with whom.
+M	ANDREWS	You've changed, Ellie.
+F	ELLIE	Yes, I guess I have. I don't want to hurt anybody any more. I want to get away from all this front page publicity. It suddenly strikes me as being cheap and loathsome. I can't walk out on King now. It'll make us all look so ridiculous. Besides, what difference does it make? I'll never see Peter again.
+M	ANDREWS	Is that his name?
+F	ELLIE	Yes. Peter Warne.
+M	ANDREWS	Peter Warne!
+F	ELLIE	Why? Do you know him?
+M	ANDREWS	Oh, no -- no.
+F	ELLIE	You haven't heard from him, have you, Dad?
+M	ANDREWS	Why, no... Don't be silly.
+F	ELLIE	Oh, please, Dad --
+F	ELLIE	Looks like that was his only interest in me. The reward.
+M	ANDREWS	I'm sorry you read it.
+F	ELLIE	Are you going to see him?
+M	ANDREWS	I suppose so.
+F	ELLIE	Certainly! Pay him off. He's entitled to it. He did an excellent job. Kept me thoroughly entertained. It's worth every penny he gets.
+F	ELLIE	Thanks, Mary. That's just what I need.
+M	MARY	Mr. King Westley is on his way up.
+F	ELLIE	Fine -- Fine! Have him come in.
+M	ANDREWS	I'll be going.
+F	ELLIE	Well, if it isn't the groom himself! You're just in time, King.
+M	KING	How are you, Ellie? perfunctorily -- but he insists upon being Are you happy?
+F	ELLIE	Happy? Why shouldn't I be happy? I'm getting the handsomest man in captivity. Here you are, King. Let's drink. Let's drink to us. We finally made it, didn't we?
+M	KING	You bet we did.
+F	ELLIE	It's up to you now. I want our life to be full of excitement, King. We'll never let up, will we? Never a dull moment. We'll get on a merry-go-round and never get off. Promise you'll never let me get off? It's the only way to live, isn't it? No time to think. We don't want to stop to think, do we? Just want to keep going.
+M	KING	Whatever you say; darling.
+F	ELLIE	I heard about your stunt. That's swell, King. Just think of it -- the groom lands on the lawn with a plane. It's a perfect beginning for the life we're going to lead. It sets just the right tempo. Come on, King. You're lagging.
+M	PETER	Hello... Yes?... Who?... Oh... Why can't I see you at your office?
+M	ANDREWS	I leave for Washington tonight. May be gone several weeks. Thought perhaps you'd like to get this thing settled.
+M	PETER	Yeah, but I don't like the idea of walking in on your jamboree... Just between you and me -- those things give me a stiff pain.
+M	ANDREWS	You needn't see anybody. You can come directly to my study. I'd appreciate it very much if --
+M	PETER	No -- no. What the deuce do I want to --
+M	PETER	Yeah, wait a minute. Maybe I will come over. I'd like to get a load of that three-ring circus you're pulling. I want to see what love looks like when it's triumphant. I haven't had a good laugh in a week.
+M	CAPTAIN	I want everything to be just so. When the ceremony starts, you stand on the side -- still. No moving around -- no talking, comprenez?
+M	PETER	Keep your eye on my car when you're backing up, you guys.
+M	ANDREWS	Show him in.
+M	ANDREWS	Mr. Warne?
+M	PETER	Yeah.
+M	ANDREWS	Come in. Sit down.
+M	ANDREWS	I was surprised to get your note. My daughter hadn't told me anything about you. About your helping her.
+M	PETER	That's typical of your daughter. Takes those things for granted. Why does she think I lugged her all the way from Miami -- For the love of it?
+M	ANDREWS	Please understand me. When I say she didn't tell me anything about it, I mean not until a little while ago. She thinks you're entitled to anything you can get.
+M	PETER	Oh, she does, huh? Isn't that sweet of her! You don't, I suppose.
+M	ANDREWS	I don't know. I'd have to see on what you base your claim. I presume you feel you're justified in --
+M	PETER	If I didn't I wouldn't be here! I've got it all itemized.
+M	PETER	I sold some drawers and socks, too; I'm throwing those in.
+M	ANDREWS	And this is what you want -- thirty- nine dollars and sixty cents?
+M	PETER	Why not? I'm not charging you for the time I wasted.
+M	ANDREWS	Yes, I know -- but --
+M	PETER	What's the matter? Isn't it cheap enough? A trip like that would cost you a thousand dollars! Maybe more!
+M	ANDREWS	Let me get this straight. You want this thirty-nine sixty in addition to the ten thousand dollars?
+M	PETER	What ten thousand?
+M	ANDREWS	The reward.
+M	PETER	Who said anything about a reward!
+M	ANDREWS	I'm afraid I'm a little confused. You see, I assumed you were coming here for --
+M	PETER	All I want is thirty-nine sixty. If you'll give me a check I'll get out of this place. It gives me the jitters.
+M	ANDREWS	You're a peculiar chap.
+M	PETER	We'll go into that some other time.
+M	ANDREWS	The average man would go after the reward. All you seem to --
+M	PETER	Listen, did anybody ever make a sucker out of you? This is a matter of principle. Something you probably wouldn't understand. When somebody takes me for a buggy ride I don't like the idea of having to pay for the privilege.
+M	ANDREWS	You were taken for a buggy ride?
+M	PETER	Yeah -- with all the trimmings. Now, how about the check. Do I get it?
+M	ANDREWS	Certainly.
+M	ANDREWS	Here you are. Do you mind if I ask you something frankly? Do you love my daughter?
+M	PETER	A guy that'd fall in love with your daughter should have his head examined.
+M	ANDREWS	That's an evasion.
+M	PETER	She grabbed herself a perfect running mate. King Westley! The pill of the century! What she needs is a guy that'd take a sock at her every day -- whether it's coming to her or not.
+M	PETER	If you had half the brains you're supposed to have, you'd have done it yourself -- long ago.
+M	ANDREWS	Do you love her?
+M	PETER	A normal human being couldn't live under the same roof with her, without going nuts. She's my idea of nothing!
+M	ANDREWS	I asked you a question. Do you love her?
+M	PETER	Yes! But don't hold that against me. I'm a little screwy myself.
+M	PETER	Perfect! Now you look natural.
+F	ELLIE	I hope you got your money.
+M	PETER	You bet I did.
+F	ELLIE	Congratulations.
+M	PETER	Same to you.
+F	ELLIE	Why don't you stay and watch the fun? You'll enjoy it immensely.
+M	PETER	I would. But I've got a weak stomach.
+M	GUESTS	Here comes King! He's just coming down! Hurry up, everybody! Come on, Ellie!
+M	ANDREWS	I just had a long talk with him.
+M	ELLEN	I'm not interested.
+M	ANDREWS	Now, wait a minute, Ellie --
+F	ELLIE	I don't want to hear anything about him!
+M	ANDREWS	You're a sucker to go through with this.
+M	ANDREWS	That guy Warne is O.K. He didn't want the reward.
+M	ANDREWS	All he asked for was thirty-nine dollars and sixty cents... that's what he spent on you. It was a matter of principle with him -- says you took him for a ride.
+M	A YOUNG GIRL	I wish I were in her shoes.
+M	SECOND GIRL	Yes. She certainly is lucky.
+M	ANDREWS	He loves you, Ellie. Told me so.
+M	ANDREWS	You don't want to be married to a mug like Westley.
+M	ANDREWS	I can buy him off for a pot of gold, and you can make an old man happy, and you wouldn't do so bad for yourself. If you change your mind, your car's waiting at the back gate.
+M	MINISTER	Dearly beloved, we are gathered together here in the sight of God and in the face of this company to join together this man and this woman in holy matrimony. If any man can show just cause why they may not lawfully be joined together, let him speak now or else hereafter forever hold his peace. King, wilt thou have this woman to be thy wedded wife? So long as ye both shall live?
+M	KING	I will.
+M	MINISTER	Ellen, wilt thou have this man to be thy wedded husband so long as ye both shall live?
+M	KING	Ellie!
+M	GUESTS	What's happened? Where's she going?
+M	A MAN	Get her, Mac! She's ducking!
+M	KING	What happened?
+M	ANDREWS	I haven't the slightest idea.
+M	ANDREWS	Don't want to talk to -- don't want to talk to anybody. Don't want to see anybody.
+F	SECRETARY	But it's King Westley on the phone.
+M	ANDREWS	Ooooooh. Hello my would-be ex-son-in-law. I've sent you a check for a hundred thousand. Yes. That's the smartest thing you ever did, Westley, not to contest that annulment. That's satisfactory, isn't it? Yeah. Well, it ought to be. Oh I'm not complaining. It was dirt cheap. Don't fall out of any windows.
+F	SECRETARY	There's another wire from Peter, sir. They're in Glen Falls, Michigan.
+M	ANDREWS	"What's holding up the annulment, you slow poke? The Walls of Jericho are toppling." Send him a telegram right away. Just say: "Let 'em topple."
+F	WIFE	Funny couple, ain't they?
+M	MAN	Yeah.
+F	WIFE	If you ask me, I don't believe they're married.
+M	MAN	They're married all right. I just seen the license.
+F	WIFE	They made me get 'em a rope and a blanket, on a night like this.
+M	MAN	Yeah?
+F	WIFE	What do you reckon that's for?
+M	MAN	Blamed if I know. I just brung 'em a trumpet.
+F	WIFE	A trumpet?
+M	MAN	Yeah. You know, one of those toy things. They sent me to the store to get it.
+F	WIFE	But what in the world do they want a trumpet for?
+M	MAN	I dunno.

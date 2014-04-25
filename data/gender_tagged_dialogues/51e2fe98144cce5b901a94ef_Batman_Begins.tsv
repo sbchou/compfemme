@@ -1,0 +1,941 @@
+M	CHARACTER	DIALOGUE
+M	YOUNG BRUCE	Rachel?
+M	FEMALE VOICE (O.S.)	Rachel?! Master Bruce?!
+M	YOUNG BRUCE	What're you doing?!
+F	RACHEL	Kidnapping you. They'' pay a lot for precious Brucie.
+F	RACHEL	Bruce, I can see you.
+F	RACHEL	BRUCE?!!
+F	RACHEL	MOM!! MISTER ALFRED!!
+M	OLD MAN	A dream?
+F	WAYNE	A nightmare.
+M	OLD MAN	Worse than this?
+M	OLD MAN	They are going to fight you.
+F	WAYNE	I fought them yesterday.
+M	OLD MAN	They will fight you every day. Until they kill you.
+F	WAYNE	Can't they kill me before breakfast?
+M	ENORMOUS MAN	You are in hell, little man...
+M	ENORMOUS MAN (CONT'D)	...and I am the devil.
+F	WAYNE	You're not the devil...
+M	WAYNE (CONT'D)	...you're practice.
+M	GUARD	Solitary!
+F	WAYNE	Why?
+M	GUARD	For protection.
+F	WAYNE	I don't need protection.
+M	GUARD	Protection for them.
+M	VOICE (O.S.)	I often wonder at the riches to be found in dark places.
+F	WAYNE	I thought the point of solitary confinement was the solitary part.
+M	MAN	These men have mistaken you for a criminal, Mr.Wayne...
+F	WAYNE	Who are you?
+M	MAN	My name is merely Ducard. But I speak for Ra's Al Ghul. Have you heard the name?
+F	WAYNE	I've heard the legends...master warrior, international mercenary, feared by the all the underworld... some even swear he's immortal.
+M	DUCARD	Ra's Al Ghul uses theatricality and deception as powerful weapons. You have not escaped his notice- a man like you is here by choice... or because he is truly lost.
+M	DUCARD (CONT'D)	Ra's Al Ghul and his League of Shadows offer a path to those that are capable of upholding our code.
+F	WAYNE	Code? Aren't you criminals?
+M	DUCARD	A criminal is simply a man that someone else thinks... ...should be put in jail.
+M	DUCARD (CONT'D)	This world is run by tyrants and corrupt bureaucrats. Our code respects only the natural order of things- we're not bound by their hypocrisy. Are you?
+M	DUCARD (CONT'D)	There is a rare flower- a blue double- bloomed poppy- that grows on the Eastern slopes. Tomorrow you will be released. Pick one of the flowers. If you can carry it to the top of the mountain, you may find what you are looking for.
+F	WAYNE	And what am I looking for?
+M	DUCARD	Purpose.
+M	MALE VOICE (O.S.)	Bruce?
+M	ALFRED	Will we be needing an ambulance, Master Wayne?
+M	THOMAS	We have everything I need to set the bone. I'll take him for x-rays later.
+M	ALFRED	Very good, sir.
+M	THOMAS	He'll be fine.
+M	ALFRED	Took quite a fall, didn't we?
+M	ALFRED (CONT'D)	And why do we fall, Master Bruce?
+M	ALFRED (CONT'D)	So that we might better learn to pick ourselves up.
+M	CHILD (O.S.)	No one will help you.
+F	WAYNE	I need food.
+M	OLD MAN	Then turn back.
+F	WAYNE	Ra's Al Ghul?
+M	DUCARD (O.S.)	Wait.
+M	DUCARD (CONT'D)	Fear has been your guide. But now you must advance or fear will keep you on your knees. We will help you conquer your fear. In exchange you will renounce the cities of man. You will live in solitude. You will be a member of the Leagues of Shadows. And you will be without fear.
+M	DUCARD (CONT'D)	Are you ready to begin?
+F	WAYNE	Ready? I... I can barely-
+M	DUCARD	Death does not wait for you to be ready...
+M	DUCARD (CONT'D)	Death is not considerate, or fair. And make no mistake- today, death is your opponent.
+M	DUCARD (CONT'D)	Tiger Crane... Ju Jitsu... Skilled. But this is not a dance-
+M	DUCARD (CONT'D)	Facing death you learn the truth...
+M	DUCARD (CONT'D)	You are weak...
+M	DUCARD (CONT'D)	You are alone...
+M	DUCARD (CONT'D)	And you are afraid...
+M	DUCARD (CONT'D)	But not of me.
+M	DUCARD (CONT'D)	Tell us, Wayne...
+M	DUCARD (V.O.) (CONT'D)	What do you fear?
+M	THOMAS	The bats again?
+M	THOMAS (CONT'D)	You know why they attacked you? They were afraid of you.
+M	YOUNG BRUCE	Afraid of me?
+M	THOMAS	You're a lot bigger than a bat, aren't you? All creatures feel fear.
+M	YOUNG BRUCE	Even the scary ones?
+M	THOMAS	Especially the scary ones. Here, let me show you something- But you can't tell anyone, right?
+M	THOMAS (CONT'D)	For your mother.
+M	YOUNG BRUCE	Did you build this train, Dad?
+M	THOMAS	Your great-grandfather built the first trains in Gotham. The city's been good to our family- it was time to give something back...
+M	THOMAS (CONT'D)	A new public transportation system for the whole city...
+M	THOMAS (CONT'D)	...and at the cent... Wayne Tower.
+M	YOUNG BRUCE	Can we go?!
+F	MARTHA	Bruce, what's wrong?
+M	THOMAS	He's fine. I just needed a bit of air. Bit of opera goes a long way, right, Bruce?
+M	THOMAS (CONT'D)	Come one.
+M	MAN	Wallet, jewelry! Fast!
+M	THOMAS	That's fine, just take it easy.
+M	THOMAS (CONT'D)	Here you go.
+M	THOMAS (CONT'D)	It's fine, it's fine...
+M	THOMAS (CONT'D)	...just take it and go.
+M	MAN	I said jewelry!!
+M	THOMAS	Hey, just-
+F	MARTHA	THOMAS!! THOMAS!!
+M	MAN	Gimme the damn...
+M	MALE VOICE (O.S.)	Is that your father's?
+F	GORDON	It's okay.
+M	MALE VOICE (O.S.)	GORDON! You gotta stick your nose into everything!
+M	CAPTAIN LOEB	Outta my sight.
+M	CAPTAIN LOEB (CONT'D)	Good news... we got him, son.
+M	EARLE	You're in excellent hands, Bruce. And we're minding the empire. When you're all grown up, it'll be waiting.
+M	ALFRED	I thought I'd prepare a little supper.
+M	ALFRED (CONT'D)	Very well.
+M	YOUNG BRUCE (O.S.)	Alfred?
+M	ALFRED	Master Bruce?
+M	YOUNG BRUCE	It was my fault, Alfred.
+M	YOUNG BRUCE (CONT'D)	I made them leave the theater-
+M	ALFRED	Oh, no, no, no-
+M	YOUNG BRUCE	If I hadn't got scared-
+M	ALFRED	No, no, Master Bruce. Nothing you did. Nothing anyone ever did can excuse that man. It's his, and his alone. Do you understand?
+M	YOUNG BRUCE	I miss them, Alfred. I miss them so much.
+M	ALFRED	So do I, Master Bruce. So do I.
+M	DUCARD (V.O.)	And do you still feel responsible?
+F	WAYNE	My anger outweighs my guilt.
+M	DUCARD	Advanced techniques of Ninjitsu employ explosive powders.
+F	WAYNE	As weapons?
+M	DUCARD	Or distractions. Theatricality and deception are powerful agents.
+M	DUCARD (CONT'D)	To be a great warrior is not enough. Flesh and blood, however skilled, can be destroyed... you must be more than just a man in the minds of your opponents.
+M	DUCARD	Mind your surrounding. Always.
+M	DUCARD (CONT'D)	Your parent's death was not your fault...
+M	DUCARD (CONT'D)	...it was your father's.
+M	DUCARD (CONT'D)	Anger does not change the fact that your father failed to act.
+F	WAYNE	The man had a gun!
+M	DUCARD	Would that stop you?
+F	WAYNE	I've had training-
+M	DUCARD	The training is nothing. The will to take control is everything. Your father trusted his city, its logic... he thought he understood the attacker and could simply give him what he wanted... Your father did not understand the forces of decay- cities like Gotham are in their death throes- chaotic, grotesque. Beyond saving.
+F	WAYNE	Beyond saving? You believe that?
+M	DUCARD	It is not right that one must come so far to see the world as it is meant to be. Purity. Serenity... Solitude. These are the qualities we hold dear. But the important thing is whether you believe it...
+M	DUCARD (CONT'D)	Can Gotham can be saved, or is she an ailing ancestor whose time has run?
+F	WAYNE	Yield.
+M	DUCARD	You haven't beaten me. You've sacrificed sure footing for a killing stroke.
+M	DUCARD	Don't rub your arms, rub your chest. Your arms'll take care of themselves.
+M	DUCARD (CONT'D)	You have strength born of years of grief and anger, Wayne. The strength of a man denied revenge.
+M	DUCARD (CONT'D)	Why, Wayne..?
+M	DUCARD (V.O.)	Why could you not avenge your parents?
+M	BRUCE	You didn't have to pick me up-
+M	ALFRED	Well, sir, the red line... well, it's closed. Apparently Mr.Earle thought it wasn't making enough money.
+M	BRUCE	How is Mr.Earle?
+M	ALFRED	Oh... successful.
+M	ALFRED	Will you be heading back to Princeton tomorrow or could I persuade you to spend an extra night or two?
+M	BRUCE	I'm not heading back at all.
+M	ALFRED	You don't like it there?
+M	BRUCE	I like it fine... they just don't feel the same way.
+M	ALFRED	I've prepared the master bedroom.
+M	BRUCE	My old room will be fine.
+M	ALFRED	With all due respect, sir, your father is dead. Wayne Manor is your house.
+M	BRUCE	No, alfred, his isn't my house. It's a mausoleum.
+M	BRUCE (CONT'D)	A reminder of everything I lost. And when I have my way I'll pull the damn thing down brick by brick-
+M	ALFRED	This house, Master Wayne, has sheltered six generations of the Wayne family, and stood patiently by while you've cavorted in and out of a dozen private schools and colleges. As have I.
+M	ALFRED (CONT'D)	The Wayne family legacy is not so easily shrugged off.
+M	BRUCE	Nor borne, old friend. I'm sorry to have disappointed you.
+M	ALFRED	Master Wayne... I was at your father's side when you were born. And at your side when he was laid to rest.
+M	BRUCE	I know.
+M	ALFRED	Your father was a great man. But I have every confidence that you will exceed his greatness.
+M	BRUCE	Haven't given up on me, yet?
+M	ALFRED	Never.
+M	BRUCE	I may not get another chance to thank you for all you've done for me.
+M	ALFRED	Are you going away after the hearing?
+M	BRUCE	You look well. "Assistant District Attorney", right?
+F	RACHEL	You still trying to get kicked out of the entire ivy league?
+M	BRUCE	Turns out you don't actually need a degree to do the international playboy thing.
+F	RACHEL	Bruce, I don't suppose there's any way I can convince you not to come-
+M	BRUCE	Someone at this proceeding should stand for my parents.
+F	RACHEL	Bruce, we all loved your parents. What Chill did is unforgivable-
+M	BRUCE	Then why is your boss letting him go?
+F	RACHEL	Because in prison he shared a cell with carmine Falcone. He learned things and he'll testify in exchange for early parole.
+M	BRUCE	Rachel, this man killed my parents. I cannot let that pass. Rachel, I need you to understand.
+M	FINCH	Given the exemplary prison record of Mr.Chill, the 14 years already served
+M	FINCH (CONT'D)	And his extraordinary level of cooperation with one of this office's most important investigations... we strongly endorse Mr.Chill's petition for early release.
+M	CHAIRMAN	I gather a member of the Wayne family is here today...
+M	CHAIRMAN (CONT'D)	...does he have anything to say?
+M	REPORTERS	They're taking him out the side!!
+M	REPORTER1	Chill, any words for the Wayne family?!!
+M	REPORTER2	It's Bruce Wayne!
+M	BLONDE FEMALE REPORTER	Joe! Hey Joe!!
+M	BLONDE FEMALE REPORTER (CONT'D)	Falcone says hi!!
+F	RACHEL	Come one, Bruce. Come on, we don't need to see this.
+M	BRUCE	I do.
+F	RACHEL	Are you okay?
+M	BRUCE	All these years I wanted to kill him. Now he's gone. Now I can't.
+F	RACHEL	You don't mean that.
+M	BRUCE	What if I do, Rachel? Chill killed my parents. They deserved justice.
+F	RACHEL	You're not talking about justice, you're talking about revenge.
+M	BRUCE	Sometimes they're the same.
+F	RACHEL	They're never the same, Bruce. Justice is about harmony... revenge is about you making yourself feel better. That's why we have an impartial system-
+M	BRUCE	Well, your system of justice is broken-
+F	RACHEL	Don't you tell me the system's broken, Bruce! I'm out here every day trying to fix it while you mope around using your grief as an excuse to do nothing. You care about justice..?
+F	RACHEL	Look beyond your own pain, Bruce. This city is rotting. Chill is not the cause, he's the effect. Corruption is killing Gotham and Chill being dead doesn't help that- it makes it worse because Falcone walks. He carries on flooding our city with crime and drugs... creating new Joe Chills... Falcone may not have killed your parents, Bruce, but he's destroying everything they stood for...
+M	RACHEL (CONT'D)	They all know where to find Falcone... But no one will touch him because he keeps the bad people rich and the good people scared.
+M	RACHEL (CONT'D)	And what chance does Gotham have when the good people do nothing?
+M	BRUCE	I'm not one of your "good people", Rachel. Chill took that from me.
+F	RACHEL	What do you mean?
+M	BRUCE	I was going to kill him myself.
+F	RACHEL	You're no better than the rest.
+M	RACHEL (CONT'D)	Your father would be ashamed of you.
+M	BOUNCER	Get lost, kid.
+M	BRUCE	The other half when you give me the nod that Falcone's leaving. Unawares.
+M	BOUNCER	'Night, Mr.Falcone.
+M	FALCONE	The little rich kid. No gun? I'm insulted.
+M	BRUCE	I don't need a gun.
+M	FALCONE	Yes, you do.
+M	FALCONE (CONT'D)	Money isn't power down here- fear is.
+M	FALCONE (CONT'D)	You shoulda just sent me a thank-you note...
+M	BRUCE	I didn't come here to thank-you. I came to show you that nit everyone in Gotham is afraid of you.
+M	FALCONE	Just those that know me. You got balls, kid... But you don't belong down here with us. We don't play fair.
+M	FALCONE (CONT'D)	Now go back to your big house, wrap yourself in your silk sheets and I'll send you a shoulder to cry on.
+M	BRUCE	You don't dress well enough to be a pimp.
+M	FALCONE	You miss your Mommy and Daddy? Come down here again, I send you to them.
+M	MALE VOICE (O.S.)	No one'll mess with ya.
+M	HOMELESS MAN	Wander 'round here dressed like that, means you got something to prove. Man with something to prove is dangerous.
+M	HOMELESS MAN (CONT'D)	For what?
+M	BRUCE	Your jacket.
+M	HOMELESS MAN	Lemme have it, that's a good coat.
+M	BRUCE	Be careful who sees you with that. They're gonna come looking for me.
+M	HOMELESS MAN	Who?
+M	BRUCE	Everyone. And when you left Gotham...
+M	DUCARD	...what were you seeking?
+F	WAYNE	To lose myself. I couldn't do anything as Bruce Wayne. I felt useless.
+M	DUCARD	Perhaps you can beat my record.
+F	WAYNE	How long?
+M	DUCARD	Two days. The test is not to see how quickly you can climb, but how slowly. The Ninja is thought invisible, but invisibility is largely a matter of patience.
+M	DUCARD (CONT'D)	On your journey... you sought knowledge of the criminal world?
+F	WAYNE	I needed to understand the thoughts and feelings of those who stand in the shadows...
+M	WAYNE (V.O.)	The first time you're forced to steal not to starve...
+M	WAYNE (V.O.)	...you lose many assumptions about the simple nature of right and wrong. I needed to feel the fear before a crime...
+M	WAYNE (V.O.) (CONT'D)	And the thrill of success...
+M	WAYNE (V.O.) (CONT'D)	...without becoming one of them.
+M	WAYNE (V.O.)	I thought I would find something... I thought I would learn what I needed to do with my skills and my anger...
+F	WAYNE	But the harder I looked the less I saw. The less I knew...
+M	BRUCE	Where's this friend of yours?
+M	BOSS	Not friend. Friend of friend.
+M	WAYNE (V.O.)	Until I wasn't even sure what I'd been looking for in the first place...
+M	WAYNE (V.O.)	And I was lost.
+M	COP	He refuses to give his name.
+M	OFFICER	Fool- this is china, you're a criminal, what the hell do I care what your name is?
+M	BRUCE	I'm not a criminal.
+M	OFFICER	Tell that to the guys who owned these!
+M	DUCARD	You are ready.
+M	DUCARD	Drink in your fears. Face them.
+F	WAYNE	Why The masks?
+M	DUCARD	To conquer fear, you must become fear... you must bask in the fear of other men... and men fear most what they cannot see-
+M	DUCARD (CONT'D)	It is not enough to be a man... you have to become an idea... a terrible thought... a wraith-
+M	DUCARD (O.S.) (CONT'D)	Face your fear... Become one with the darkness... You cannot leave any sign...
+M	WAYNE (O.S.)	I haven't.
+M	DUCARD	We have purged your fear. You are ready to lead these men. You are ready to become a member of the League of Shadows. Drink.
+M	DUCARD (CONT'D)	By blowing out this candle you renounce your mortal life. You renounce forever the cities of man. You dedicate your life to solitude.
+F	WAYNE	Where will I be leading these men?
+M	DUCARD	You will need them in Gotham.
+F	WAYNE	You want me to go back to Gotham?
+M	DUCARD	You yourself are a victim of Gotham's decay. That is why you came here, and that is why you must go back. You will assume the mantle of your birthright. As Gotham's favored son you will be ideally placed...
+F	WAYNE	For what?
+M	DUCARD	To help us destroy the city.
+F	WAYNE	What?!
+M	DUCARD	When Gotham falls, the other cities will follow in short order. Nature's balance will be restored and Man will finally return to solitude.
+F	WAYNE	You can't believe in this.
+M	DUCARD	Ra's Al Ghul has rescued you from the darkest corner of your own heart... what he asks in return is obedience. And the courage to do what is necessary.
+M	DUCARD (CONT'D)	What are you doing?
+F	WAYNE	What's necessary.
+M	OLD MAN	I will tell him you saved his life.
+F	WAYNE	Tell him... I have an ailing ancestor who needs me.
+M	ALFRED (O.S.)	Wayne residence.
+F	WAYNE	Alfred.
+M	ALFRED	Master Wayne. It's been some time.
+F	WAYNE	Yes. Yes it has. I need a ride.
+M	ALFRED	And where are we, sir?
+F	WAYNE	Bhutan, I think.
+M	ALFRED	Am I to assume that you're without money and passport?
+F	WAYNE	I'm traveling a bit light, yes.
+M	ALFRED	I believe there's an airstrip at Khatmandu long enough for a G5. Make your way there, I'll have the jet down in fifteen hours.
+F	WAYNE	Very good. Oh, and Alfred?
+M	ALFRED	Yes, sir?
+F	WAYNE	Bring some painkillers.
+F	WAYNE	Have you told anyone I'm coming home?
+M	ALFRED	I thought you might like to surprise a few people.
+F	WAYNE	No one can know I'm back. Not until I'm ready. I'll need everything on the company- shareholders' reports, holdings. Everything.
+M	ALFRED	You sound like a man with purpose.
+F	WAYNE	Gotham needs me, Alfred. Gotham needs... a symbol.
+M	ALFRED	What symbol, sir?
+F	WAYNE	I'm not sure. Something for the good to rally behind...
+M	WAYNE (V.O.)	...and the criminals to fear. Lot of interest in new directions Wayne Industries has been taking...
+M	INTERVIEWER (CONT'D)	...couple big defense contracts in the bag... as well as rumors that the board is petitioning to have Bruce Wayne, missing for seven years now, declared officially dead.
+M	EARLE	Our operating assumption is always the hopeful one that Bruce'll resurface sometime soon.
+M	ALFRED (O.S.)	A blessed bat gain, sir.
+M	ALFRED (CONT'D)	They nest somewhere on the grounds.
+F	WAYNE	Is it closed?
+M	ALFRED	They still run a token service out of respect for your father.
+F	WAYNE	Respect?
+M	EARLE	Clearly, Judge Phelan, moving to have Bruce declared dead is not something that any of us here relishes... but as responsible managers it falls to us to act on behalf of Wayne Industries...
+F	WAYNE	Morning.
+M	ASSISTANT	Sir, you can't go in there!
+F	WAYNE	Yes, I can.
+M	EARLE	I'm sorry, can I...?
+F	WAYNE	Sorry to barge in, but I was in the areas...
+M	EARLE	My boy! We thought you were gone for good.
+F	WAYNE	What can I say? "Reports of my death have been greatly exaggerated".
+M	EARLE	Can I ask where you've been?
+F	WAYNE	You can ask...
+M	EARLE	Well, perhaps you'll tell us your plans. Are you back to finish college?
+F	WAYNE	Actually, I thought I'd get to grips with what we actually do around here. From the ground up- one division at a time.
+M	EARLE	Any idea where you'd like to start?
+F	WAYNE	Applied sciences caught my eye.
+M	EARLE	Mr.Fox's department. I'll make a call. You can start today.
+F	WAYNE	Actually, I've got a one o'clock tee- off, and it took me all morning to convince the club to honor my old membership. Apparently they don't have to meet the same high standards as you when it comes to declaring someone dead.
+F	RACHEL	Mr.Finch
+M	FINCH	Yes, Miss Dodson?
+F	RACHEL	Mr.Finch, on the Falcone matter-
+M	FINCH	The case against Falcone died with Chill. We had our shot.
+F	RACHEL	That was then- but now he's importing drugs, everybody knows it, let's take it to Harvey Dent and-
+M	FINCH	Keep your voice down. Look, Rachel, Falcone's got Judge Phelan and half of City Hall bought
+M	FINCH (CONT'D)	And paid for. So you got burned on Falcone- let it go, we've got bigger fish to fry.
+F	RACHEL	That would make a lot more sense if we were doing any frying.
+M	ALFRED	Shall I park, sir?
+F	WAYNE	No, let's go.
+M	FOX	Environmental applications, defense projects, consumer products... all prototypes, none if production at any level whatsoever.
+F	WAYNE	None?
+M	FOX	What did they tell you this place was?
+F	WAYNE	They didn't tell me anything.
+M	FOX	Told me exactly what it was when they sent me here... a dead end where I couldn't cause any more trouble for the rest of the board.
+F	WAYNE	You were on the board?
+M	FOX	Back when your father ran things.
+F	WAYNE	You knew my father?
+M	FOX	Sure. Helped him build his train. Beautiful project- routed right into Wayne Tower, along with the water and power utilities. Made Wayne Tower the unofficial heart of Gotham.
+M	FOX (CONT'D)	Here it is: the nomex survival suit for advanced infantry. Kevlar bi- weave, reinforced joints...
+F	WAYNE	Bullet-proof?
+M	FOX	Anything but a straight shot.
+F	WAYNE	Tear-resistant?
+M	FOX	This sucker'll stop a knife.
+F	WAYNE	Why didn't they put it into production?
+M	FOX	The bean counters figured a soldier's life wasn't worth the 300 grand. What do you want with it, Mr.Wayne?
+F	WAYNE	I want to borrow it. For spelunking. You know, cave-diving.
+M	FOX	You get a lot of gunfire down in those caves?
+F	WAYNE	Listen, I'd rather Mr.Earle didn't know about me borrowing-
+M	FOX	Mr.Wayne, the way I see it...
+M	FOX (CONT'D)	All this stuff is yours, anyway.
+F	WAYNE	Okay! Give it a try.
+M	ALFRED	Oh, charming.
+M	ALFRED (CONT'D)	At least you'll have company.
+M	ALFRED (CONT'D)	Must be the lowest foundations of the Southeast wing.
+M	ALFRED (CONT'D)	During the civil war your great- grandfather was involved with the underground railroad. Secretly transporting freed slaves to the North. I suspect these caverns came in handy.
+F	WAYNE	Alfred, come up here.
+M	ALFRED	I can see it very well from here, thank-you, sir.
+M	FLASS	Don't s'pose you want a taste?
+M	FLASS (CONT'D)	I keep offering 'cause who knows, maybe one day you'll get wise.
+F	GORDON	Nothing wise in what you do, Flass.
+M	FLASS	Yeah? Well, Jimbo, you don't take your taste- makes us guys nervous you might decide to roll over-
+F	GORDON	I'm no rat, Flass. In a town this bent, who's there to rat to, anyway? Don't turn around.
+F	GORDON	What do you want?
+F	WAYNE	I've been watching. You're a good cop. One of the few. What would it take to get Falcone?
+F	GORDON	Carmine Falcone?
+F	WAYNE	He brings in shipments of drugs every week, nobody takes him down. Why?
+F	GORDON	He's paid up with the right people.
+F	WAYNE	What would it take?
+F	GORDON	Leverage on Judge Phelan. And a D.A. brave enough to prosecute.
+F	WAYNE	Rachel Dodson in the D.A.'s office.
+F	GORDON	Who are you?
+F	WAYNE	Watch for a sign.
+F	GORDON	You're just one man?
+F	WAYNE	Now we are two.
+F	GORDON	We?
+F	GORDON	FREEZE!
+M	UNIFORM 1	The hell was that? 1
+F	GORDON	Some nut.
+M	BOARD MEMBER	Is he taking over?
+M	EARLE	Not yet. I checked th trust, and bruce can't assume control until his thirtieth birthday. Jessica, where's that coffee?
+M	BOARD MEMBER	But that's in three months.
+M	EARLE	We'll have to move fast.
+M	EARLE	An IPO. There's nothing in Bruce's trust to stop us taking the company public... we'll have an offering...
+M	BOARD MEMBER	And Bruce will become just another board member.
+M	EARLE	Precisely. We can't have some clown prince running things. Jessica?
+F	WAYNE	Keep your elbows in... Ladies?
+F	JESSICA	Sorry, Mr.Earle, Mr.Wayne insisted that all junior executives need to know how to play golf.
+M	EARLE	Junior Executive? Who's answering the phones?
+F	WAYNE	This is Wayne Industries, Mr.Earle- I'm sure they'll call back.
+M	WAYNE (CONT'D)	I thought a few promotions might be good karma forgetting my new job.
+M	EARLE	Of course, you're not actually starting just yet, Bruce. Not until your birthday.
+F	WAYNE	Three month's time- I'm having a huge blowout and I expect everyone to be there.
+M	EARLE	With bells on. How are things down at Applied Sciences?
+F	WAYNE	Great- there's some cool stuff down there. Although that Mr.Fox goes on a bit once you gte him talking.
+M	EARLE	Since you're here, there is a business matter that I wanted to make you aware of...
+F	WAYNE	Business... sure.
+M	EARLE	We've been thinking for some time about offering shares... I think the time is right.
+F	WAYNE	Offering shares?
+M	EARLE	It's just a way of raising capital for growth... it's important to me that the company be in great shape when you take over. Consider it my legacy.
+M	EARLE (CONT'D)	Well, I guess I'd better go hire a new secretary and receptionist...
+F	WAYNE	Right, who's turn is it?
+M	BOUNCER	Night, Judge Phelan.
+M	PHELAN	Shhhhh.
+M	DRIVER	Get lost!
+M	HOMELESS MAN	Leave him alone! Let him be!
+M	ALFRED	If we order the main part of this... ...cowl from Singapore-
+F	WAYNE	Via a shell corporation.
+M	ALFRED	Indeed. Then quite separately, place an order through a Chinese manufacturer for these-
+F	WAYNE	Put it together ourselves.
+M	ALFRED	Precisely. Of course, they'll have to be large orders to avoid suspicion.
+F	WAYNE	How large?
+M	ALFRED	Say, ten thousand.
+F	WAYNE	Least we'll have spares.
+M	FOX	What's it today? More "spelunking"?
+F	WAYNE	Sper-lunking. And no, today it's base-jumping.
+M	FOX	Base-jumping? What, like parachuting?
+F	WAYNE	I need some kind of lightweight grappling hook...
+M	FOX	For what?
+F	WAYNE	Base jumping's illegal-you can't just take the elevator.
+M	FOX	We've got suction pads, grapples...
+F	WAYNE	Any good?
+M	FOX	Nope. But this thing's pretty neat.
+M	FOX (CONT'D)	Pneumatic. Magnetic grapple. Monofilament tested to 350 pounds.
+F	WAYNE	Too expensive for the army?
+M	FOX	Guess they never thought about marketing to the billionaire base- jumping, spelunking market.
+F	WAYNE	Look, Mr.Fox, if you're uncomfortable-
+M	FOX	Mr.Wayne, if you don't tell me what you're really doing, then when I get asked... I don't have to lie. But don't treat me like an idiot.
+F	WAYNE	Fair enough.
+M	FOX	Come on, I'll show you something.
+M	FOX	Notice anything? Memory fabric- dual layer polymers with variable alignment molecules. Flexible ordinarily, but put a current through it...,
+M	FOX (CONT'D)	...the molecules align and become rigid.
+F	WAYNE	What kind of shapes can you make?
+M	FOX	It could be tailored to any structure based on a rigid skeleton.
+F	WAYNE	What's that?
+M	FOX	The Tumbler? Oh, you wouldn't be interested in that.
+M	FOX	She was built as a bridging vehicle! You hit that button- NO, NOT NOW!! It boosts her into a rampless jump! In combat, two of them jump a river towing cables, then you run a bailey bridge across! Damn bridge never worked- but this baby works fine!
+M	FOX	What do you think?
+F	WAYNE	Does it come in black?
+M	ALFRED	Problems with the graphite mixture, apparently. The next ten thousand will be up to specifications.
+F	WAYNE	At least they gave us a discount.
+M	ALFRED	Quite. In the meantime, might I suggest, sir, that you try to avoid landing on your head?
+M	ALFRED	Why the design, Master Wayne?
+F	WAYNE	A man, however strong, however skilled, is just flesh and blood. I need to be more than a man. I need to be a symbol.
+M	ALFRED	And why the symbol of the bat?
+F	WAYNE	Bats frighten me. And it's time my enemies shared my dread.
+M	PHELAN	Carmine! Where are you going?
+M	FALCONE	Duty calls. You have yourself a good time, Judge. If he's too cheap to get a hotel, at least make him take his car around to the alley. No class.
+M	FLASS	Cute.
+M	FLASS (CONT'D)	Oh? What have we here?
+M	FLASS (CONT'D)	Carry on, gents.
+M	FALCONE	You believe this hump, Flass?
+M	FLASS	Problem?
+M	FALCONE	Crane here's making insinuations.
+M	CRANE	Insinuations? Well, let me be clearer- you stepped on the last shipment before you delivered it to me. You cut it with baby powder, and rendered it useless for my purposes.
+M	FALCONE	Flass, tell this guy what happens to people who talk to me this way.
+M	BATMAN	You have eaten well... As Gotham has starved.
+M	BATMAN (CONT'D)	This changes tonight.
+M	BATMAN	Nice coat.
+M	HOMELESS MAN	Thanks.
+M	CRANE	I'm aware that you're not intimidated by me, Mr.Falcone. But you know who we're working for... and when he gets here I don't think he's going to want to hear that you've been endangering our operation just to filch a few dollars from your dealers.
+M	FALCONE	He's coming to Gotham?
+M	CRANE	Soon. This is our last shipment.
+M	SECOND THUG	Steiss?
+M	THIRD THUG	Come on, we gotta-
+M	FALCONE	There's no need to argue- you can just test the stuff here and now.
+M	CRANE	That's why I came.
+M	SECOND THUG	What?
+M	SECOND THUG (CONT'D)	What the hell-
+M	FALCONE	What the hell's going on?!
+M	FLASS	You've got a problem out there.
+M	JUMPY THUG	WHERE ARE YOU?!!!
+M	BATMAN	Here.
+M	FALCONE	What in God's name are you?
+M	BATMAN	I'm Batman.
+M	VOICE (O.S.)	Rachel Dodson.
+F	RACHEL	Who's there?!!
+M	RACHEL (CONT'D)	Take one step, I drop you!
+M	RACHEL (CONT'D)	What the hell is this?
+M	BATMAN	Leverage.
+F	RACHEL	What do I need leverage for?
+M	BATMAN	To get things moving.
+F	RACHEL	Who are you?
+M	BATMAN	Someone like you. Someone who'll stand against the corruption.
+M	UNIFORMED COP (O.S.)	Falcone's men?
+F	GORDON	Does it matter? We'll never tie him to it, anyway.
+M	UNIFORMED COP (O.S.)	I wouldn't be too sure of that.
+M	COP 1	Th hell is that? Looks like...
+M	COP 2	Like a bat.
+F	GORDON	Cut him down.
+F	RACHEL	No way to bury it now.
+M	FINCH	Maybe so, but there's Judge Phelan-
+F	RACHEL	I've got Phelan covered.
+M	FINCH	And this "bat" they're babbling about.
+F	RACHEL	Even if these guys'll swear in court to being thrashed by a giant bat... we have Falcone at the scene- drugs, prints, cargo manifest- everything.
+M	FINCH	Damn right. Let's get frying.
+M	LOEB	Unacceptable. I don't care if it's rival gangs, Guardian Angels or the goddamn Salvation Army- get them off the street, and off the front page.
+M	CAPTAIN SIMPSON	They say it was one guy... or thing.
+M	LOEB	Dipping into their own supply- it was some asshole in a costume. If it's one guy, that'll make it a lot easier for you, won't it?
+F	GORDON	This guy did deliver us one of the city's biggest crime lords.
+M	LOEB	No one takes the law into their own hands in my city, understand?
+F	WAYNE	Bats are nocturnal.
+M	ALFRED	Bats, maybe... but even for billionaire playboys, 3 o'clock is pushing it. The price of leading a double life, I fear.
+M	ALFRED (CONT'D)	Your theatrics made an impression.
+F	WAYNE	Theatricality and deception are powerful weapons, Alfred. It's a start.
+M	ALFRED	If those are to be the first of many injuries... it would be wise to find a suitable excuse. Polo, for instance.
+F	WAYNE	I'm not learning polo, Alfred.
+M	ALFRED	Strange injuries, a nonexistent social life... these things beg the question of what, exactly, Bruce Wayne does with his time. And his money.
+F	WAYNE	What does someone like me do?
+M	ALFRED	Drive sports cars, date movie stars... Buy things that aren't for sale.
+M	ALFRED (CONT'D)	Who knows, Master Wayne- if you start pretending to have fun, you might even have a little by accident.
+M	PRISON OFFICIAL	Dr.Crane, thanks for coming down...
+M	CRANE	Not at all. So he cut his wrists?
+M	PRISON OFFICIAL	Probably looking for an insanity plea, but if anything happened...
+M	CRANE	Of course, better safe than sorry.
+M	FALCONE	Doctor Crane, it's all too much, the walls are closing in, blah, blah, blah. Couple more days of this food, it'll be true.
+M	CRANE	What do you want?
+M	FALCONE	We got a lot to talk about.
+M	CRANE	Such as?
+M	FALCONE	Such as, how you're gonna convince me to keep my mouth shut.
+M	CRANE	About what? You don't know anything.
+M	FALCONE	I know you wouldn't want the cops taking a closer look at the drugs they seized.
+M	FALCONE (CONT'D)	I know about your experiments on the inmates at your nuthouse... I don't get into business with someone without finding out their dirty secrets. Those goons you hired.. I own the muscle in this town.
+M	FALCONE (CONT'D)	So what have I been bringing in for you hidden in my drugs, Crane?
+M	CRANE	If he wanted you to know he'd have told you himself.
+M	FALCONE	I've been smuggling your stuff in for months, so whatever he's got planned, it's big. And I want it.
+M	CRANE	I already know what he'll say... that we should kill you.
+M	FALCONE	Even he can't touch me in here. Not in my town.
+M	CRANE	Would you like to see my mask?
+M	CRANE (CONT'D)	I use it in my experiments. Probably not very frightening to a guy like you. But those crazies...
+M	CRANE (CONT'D)	...they can't stand it...
+M	FALCONE	When did the nut take over the asylum-
+M	CRANE	They scream and cry...
+M	CRANE (CONT'D)	...much as you're doing now.
+M	CRANE	Oh, he's not faking. Not that one.
+M	CRANE (CONT'D)	I'll talk to the Judge, see if I can get him moved to the secure wing at Arkham. I can't treat him here.
+M	EXECUTIVE	We have a situation.
+M	EARLE	What kind of situation?
+M	EXECUTIVE	Coast guard picked up one of our cargo ships last night. Heavily damaged. Crew missing, probably dead.
+M	EARLE	What happened?
+M	EXECUTIVE	Ship was carrying a prototype weapon. A microwave emitter...
+M	EXECUTIVE (V.O.)	It's designed for desert warfare- it uses focused microwaves to vaporize the enemy's water supply...
+M	EXECUTIVE	It looks like someone fired it up at sea- judging from the damage to the ship and cargo.
+M	EARLE	What about the weapon?
+M	EXECUTIVE	It's missing.
+M	FEMALE GUEST	At least he's getting something done.
+M	MALE GUEST	Bruce, help me out here.
+F	WAYNE	A guy who dresses up like a bat clearly has issues.
+M	FEMALE GUEST	But he put Falcone behind bars-
+M	MALE GUEST	And now the cops are trying to bring him in, so what does that tell you?
+M	FEMALE GUEST	They're jealous?
+F	WAYNE	If he's so benevolent why does he hide his face?
+M	FEMALE GUEST	Maybe he's protecting the people he cares about from reprisals.
+M	MAITRE' D	Sir, the pool is for decoration, and your friends do not have swim wear.
+F	WAYNE	Well, they're European.
+M	MAITRE' D	I'm going to have to ask you to leave.
+F	WAYNE	Mr.Earle, I'm buying this hotel. Will you please broker a deal?
+M	WAYNE (CONT'D)	I think we should make some new rules for the pool area, don't you?
+M	BLONDES (O.S.)	Bruce!
+F	WAYNE	Ladies?
+M	RACHEL (O.S.)	Bruce?
+F	WAYNE	Rachel.
+M	BLONDES	Come on, Bruce. We have some more hotels we want you to buy.
+F	RACHEL	I'd heard you were back. Where were you?
+F	WAYNE	Oh, kind of all over, you know.
+F	RACHEL	No, Bruce, I don't. And neither did a lot of people. People who thought you were probably dead.
+F	WAYNE	You didn't?
+F	RACHEL	I never quite gave up on you.
+F	WAYNE	Rachel, all that... that's not me, inside I'm... different. I'm-
+F	RACHEL	The same great little kid you used to be? Bruce, deep down, your friends out there are great, too. It's not who you are underneath... But what you do that defines you.
+M	FLASS (O.S.)	Gonna rain, huh?
+F	GORDON	What do you want, Flass?
+M	FLASS	How's Barbara? The kid?
+M	FLASS (CONT'D)	Another one on the way, right? Big responsibility. And when you're on a big case like Falcone... lot of time away from here.
+F	GORDON	Cut to it, Flass.
+M	FLASS	Just saying it's good the case is clear cut- you'll wrap it up easy.
+F	GORDON	You come around here making threats, pretending to be liquored up... tells me you're scared.
+M	FLASS	Take care of yourself, pal.
+M	BATMAN (O.S.)	Trouble?
+F	GORDON	The scum's getting jumpy because you stood up to Falcone.
+M	BATMAN	It's a start. Your partner was at the docks with Falcone.
+F	GORDON	He moonlights as a low-level enforcer.
+M	BATMAN	There was another man. Testing the drugs.
+F	GORDON	It wasn't a buy- why risk opening a package on the docks?
+M	BATMAN	Flass knows.
+F	GORDON	He won't talk.
+M	BATMAN	He'll talk to me.
+F	GORDON	Commissioner Loeb set up a massive task force to catch you. He thinks you're dangerous.
+M	BATMAN	What do you think?
+F	GORDON	I think you're trying to help...
+M	GORDON (CONT'D)	...but I've been wrong before.
+M	CUSTOMS AGENT	This is the one I'm talking about.
+M	DOCK EMPLOYEE 1	What's your problem with it?
+M	CUSTOMS AGENT	It shouldn't exist. This ship left Singapore with 246 containers and arrived with 247. Probably dead illegals. You got a strong stomach?
+M	CUSTOMS AGENT (CONT'D)	What the hell is this thing?
+M	BATMAN	Who was with Falcone at the docks?
+M	FLASS	I don't know, I swear to God-
+M	BATMAN	Swear to ME.
+M	FLASS	I never knew his name... never... Sometimes shipments went to this guy before they went to the dealers-
+M	BATMAN	Why?
+M	FLASS	There was something else in the drugs, something hidden-
+M	BATMAN	What?
+M	FLASS	I don't know- something! I never went to the drop-off- it's in the Narrows- cops can't go into the Narrows except in force...
+M	BATMAN	Batman can.
+M	DOCK EMPLOYEE 1	The boss wants you to keep it in the asylum until the time comes.
+M	CRANE	Fine, leave the body. Torch the place. No traces.
+M	CRANE (CONT'D)	Need a light?
+M	BATMAN	Alfred?! Alfred?!
+M	BATMAN	BLOOD! Alfred?! Blood! A sample- take a sa- sample- poisoned...
+M	YOUNG BRUCE	We HAVE to go NOW, Dad!!
+F	WAYNE	How long did I sleep?
+M	ALFRED	Two days. It's your birthday.
+F	WAYNE	It was some kind of gas... I only breathed the slightest amount...
+M	ALFRED	I dread to think, sir, what would've happened if you'd had a lungful.
+F	WAYNE	I've felt those effects before... but this was much more potent.
+M	ALFRED	I took a blood sample and sent it to a laboratory known discreet both discreet... ...and prompt bloodwork.
+M	BRUCE	Protein-based compounds... might be possible to work up an antidote.
+M	ALFRED	Shall I contact Wayne Pharmaceutical?
+M	BRUCE	I've got a better idea.
+M	FOX	This was in your blood?
+F	WAYNE	It's some kind of weaponized hallucinogen. Administered in aerosol form.
+M	FOX	Mr.Wayne, you are definitely hanging out at the wrong clubs.
+F	WAYNE	Could you synthesize an antidote?
+M	FOX	Well, the hallucinatory compounds can be balanced... but this receptor's a compound I've never seen before.
+F	WAYNE	So you can't.
+M	FOX	Did I say that? I just want you to know how hard it's gonna be.
+F	WAYNE	Do you know what a Wayne Industries M-Emit42B is?
+M	FOX	No. But she will...
+M	FOX (CONT'D)	Oh.
+F	WAYNE	What?
+M	FOX	It won't tell us... It must be a defense prototype.
+F	WAYNE	Could you find out?
+M	FOX	I'll make a couple calls... I still have a couple friends in defense.
+F	RACHEL	Sergeant Gordon?
+F	GORDON	Councilor. Thanks for seeing me.
+M	GORDON (CONT'D)	Will Finch go the distance on Falcone?
+F	RACHEL	He'll have to because of the press.
+F	GORDON	What about Judge Phelan?
+F	RACHEL	Someone gave me leverage.
+F	GORDON	Who?
+F	RACHEL	I'd rather not say.
+F	GORDON	There's a loose thread on the Falcone case- I want to see what unravels higher up. I'm told you can be trusted.
+F	RACHEL	Who told you that?
+F	GORDON	I'd rather not say.
+F	RACHEL	Gordon, we're working for a masked vigilante. Maybe from a rival gang.
+F	GORDON	My gut says he's okay. And he's getting things moving in this town.
+F	RACHEL	And when he gets bolder with success? Goes too far?
+F	GORDON	Councilor, this guy took down a dozen of Gotham's most vicious wiseguys single-handed and without killing one of them- he's plenty bold already.
+F	RACHEL	If he takes a life... it's on us.
+F	WAYNE	I'm sorry, I'll come back.
+F	GORDON	I was just leaving, Mr.Wayne.
+F	WAYNE	I'm sorry, have we..?
+F	GORDON	Gordon. Sergeant. No, I just recognized you. From your pictures.
+F	RACHEL	What do you want, Bruce?
+F	WAYNE	I wanted to invite you a party-
+F	RACHEL	A party. Great. Just what I need...
+F	WAYNE	Today's my birthday. And I wanted to apologize.
+F	RACHEL	You don't owe an apology, Bruce. You are who you are. It' simple. I don't have the right to expect anything more.
+F	WAYNE	I thought you could never quite give up on me.
+F	RACHEL	Is the party at the house? I miss it.
+F	WAYNE	I hate the place. I'd tear it down if I could.
+F	RACHEL	Bruce, don't say that.
+F	WAYNE	The place is nothing without the people who made it what it was. Now there's only Alfred.
+F	RACHEL	And you.
+M	ASSISTANT	It's Falcone. They moved him to Arkham Asylum on suicide watch.
+F	RACHEL	Who authorized that?!
+M	ASSISTANT	Judge Bentley, on the advice of the head psychiatrist, Dr.Jonathan Crane.
+F	RACHEL	Get Crane there right now- don't take no for an answer... and call Dr.Lehmann, we'll need our own assessment on the Judge's desk by morning.
+M	RACHEL (CONT'D)	Guess I won't make your party...
+F	WAYNE	You're going to Arkham now? It's in the Narrows, Rachel.
+F	RACHEL	You have yourself a great time- some of us have work to do.
+M	RACHEL (CONT'D)	Happy Birthday, Bruce.
+M	ALFRED	But Master Wayne, the guests will be arriving.
+F	WAYNE	Keep them happy until I arrive. Tell them that joke you know.
+M	CRANE	Ms.Dodson, there's nothing to add to the report I filed with the judge.
+F	RACHEL	Well, I have questions about your report. Such as, is it unusual for a 58-year old man with no history of mental illness to have a complete psychotic break?
+M	CRANE	Yes. But this is a mental asylum for the criminally insane. The unusual is usual here.
+F	RACHEL	But isn't it convenient for Falcone to suddenly develop these symptoms when he's about to be indicted?
+M	CRANE	There's nothing convenient about his symptoms, Miss Dodson. Look, I doubt we're even supposed to be having this conversation, but off the record...
+M	CRANE	We're not talking about a few easily- manufactured eccentricities.
+M	FALCONE	Scarecrow... s-scarecrow... s-s...
+F	RACHEL	What's "scarecrow"?
+M	CRANE	Patients suffering delusional episodes often focus their paranoia onto an external tormentor, usually one conforming to the Jungian archetypes. In this case, a scarecrow.
+F	RACHEL	He's drugged.
+M	CRANE	Psychopharmacology is my primary field- I'm a strong advocate.
+M	CRANE (CONT'D)	Outside, he was a giant. In here, only the mind can grant you power.
+F	RACHEL	You enjoy the reversal.
+M	CRANE	I respect the mind's power over the body. It's why I do what I do.
+F	RACHEL	And I do what I do to put scum like Falcone behind bars, not in therapy. I want my own psychiatric consultant to have full access to Falcone, including bloodwork to find out exactly what you have him on.
+M	CRANE	First thing tomorrow, then.
+F	RACHEL	Tonight. I've already paged Dr.Lehmann over at County General.
+M	CRANE	As you wish.
+M	CRANE	This is where we make the medicine. Perhaps you should have some. Clear your head.
+M	CRANE	Boo.
+M	CRANE	Who knows you're here? WHO KNOWS?!!
+M	CRANE (CONT'D)	He's here.
+M	FIRST THUG	Who?
+M	CRANE	The batman.
+M	FIRST THUG	What do we do?
+M	CRANE	around. Call the police.
+M	SECOND TECHNICIAN	You want the cops here?
+M	CRANE	At this point, they're irrelevant. But the batman... he has a talent for disruption. Let the cops wrangle him.
+M	CRANE (CONT'D)	Force him outside, the police will take him down. Get them out of here.
+M	FIRST THUG	What about her?
+M	CRANE	She's gone. I gave her a concentrated dose. The mind can only take so much.
+M	SECOND THUG	The things they say about him... Can he really fly?
+M	THIRD THUG	I heard he can disappear-
+M	CRANE	We'll find out, won't we?
+M	BATMAN	Taste of your own medicine, doctor?
+M	BATMAN (CONT'D)	Who are you working for?!
+M	CRANE	Ra's... Ra's... Al Ghul...
+M	BATMAN	Ra's Al Ghul is dead, Crane! Who are you really working for? CRANE!!!
+M	CRANE	Dr. Crane isn't here right now, but if you'd like to make an appointment- BATMAN. PUT DOWN YOUR WEAPONS AND SURRENDER. YOU ARE SURROUNDED.
+M	FLASS	What're you waiting for?!
+M	UNIFORMED COP	Backup.
+M	FLASS	Backup?!
+M	UNIFORMED COP	The batman's in there. SWAT's on the way, but if you want to go now... I'm right behind you, sir.
+M	FLASS	SWAT's on the way.
+F	GORDON	What-!
+M	GORDON (CONT'D)	What's happened to her?
+M	BATMAN	Crane poisoned her with his toxin. He was the third man at the docks.
+F	GORDON	Let me take her down to the medics-
+M	BATMAN	They can't help her. But I can.
+M	BATMAN (CONT'D)	I need to get her the antidote before the damage becomes permanent.
+F	GORDON	How long does she have?
+M	BATMAN	Not long.
+M	BATMAN	Get her downstairs, meet me in the alley on the Narrows side.
+F	GORDON	How will you get out?
+M	BATMAN	I called for backup. Crane's been refining his toxin, stockpiling it.
+F	GORDON	What was he planning?
+M	BATMAN	I don't know, but he's been working for someone else.
+F	GORDON	What is that?
+M	BATMAN	Backup.
+M	BATMAN	Excuse me-
+M	LUNATIC	What'd I tell ya?
+M	BATMAN (O.S.)	How is she?
+F	GORDON	Take my car.
+M	BATMAN	I bought mine.
+F	GORDON	Yours?
+M	GORDON (CONT'D)	I gotta get me one of those.
+M	COP 1	He's in a vehicle!
+M	DISPATCHER (over radio)	Make and color? It's a black... ...tank. Tank?
+M	BATMAN	You've been poisoned. Stay calm.
+M	COP 3	At least tell me what it looks like...
+M	COP 3 (CONT'D)	Never mind.
+M	BATMAN	Breath slowly. Close your eyes.
+F	RACHEL	That's worse!
+F	RACHEL	What're you doing?!!
+M	BATMAN	Shortcut. TURN OFF YOUR ENGINE!
+M	BATMAN	Trust me. We're on him, we're on him...
+M	COP 4	Dammit!
+M	BATMAN	Stay with me.
+M	COP 3	Where'd he-?
+M	COP 3 (CONT'D)	THERE HE IS!
+M	BATMAN	Hold on. Just hold on.
+M	BATMAN	Rachel? Rachel?!
+F	GORDON	Is he cooperating?
+M	DETECTIVE	If by cooperating you mean chewing his way through three sets of restraints, then yes, he's cooperating. Did we catch the batman?
+F	GORDON	Nope.
+M	COP	Sir, there's something you should take a look at...
+F	GORDON	Looks like they tapped the mains...
+M	GORDON (CONT'D)	Get me somebody at the water board!
+F	RACHEL	Oh. My. God. How do you feel?
+F	RACHEL	Where are we? Why did you bring me here?
+M	BATMAN	If I hadn't... your mind would now be lost. You were poisoned.
+F	RACHEL	I remember... nightmares. This... face, this... mask. Crane. It was Crane-
+M	RACHEL (CONT'D)	I have to tell the police- we've got-
+M	BATMAN	Rest. Gordon has Crane. f
+F	RACHEL	Is Sergeant Gordon your friend?
+M	BATMAN	I don't have the luxury of friends.
+F	RACHEL	Why did you save my life?
+M	BATMAN	Gotham needs you.
+F	RACHEL	And you serve Gotham?
+M	BATMAN	I serve justice.
+F	RACHEL	Perhaps you do.
+M	BATMAN	I'm going to give you a sedative. You'll wake up back at home... And when you do, get these to Gordon, and Gordon alone. Trust no one.
+F	RACHEL	What are they?
+M	BATMAN	The antidote. One for Gordon to inoculate himself, the other to start mass-production.
+M	BATMAN (CONT'D)	Crane was just a pawn. He was working for someone else.
+F	RACHEL	Ghul... something Al Ghul...
+M	BATMAN	Ra's Al Ghul. It's not him. He's dead.
+F	RACHEL	How do you know?
+M	BATMAN	I watched him die.
+F	GORDON	Someone's been dumping a dangerous contaminant into the supply from this location for days, maybe weeks-
+M	TECHNICIAN	If that's true then it's already spread through the whole system. But no one's reported any effects...
+F	GORDON	It must be like chlorine or fluoride- harmless to drink, but when you breathe it it's deadly... look, wake up your boss, see if there's a way to flush out the system.
+M	GORDON (CONT'D)	Open that up.
+F	WAYNE	Rachel's sedated. You can take her home.
+M	ALFRED	Very good, sir.
+F	WAYNE	Is Fox still here? Tell you staff to stop serving drinks and move everybody on after the cake.
+M	FEMALE GUEST (O.S.)	There he is!
+M	ALFRED	A little the worse for wear, I'm afraid.
+F	WAYNE	Any word on that... item.
+M	FOX	A contact in heavy weapons tipped me off- it's a microwave emitter. It vaporizes water.
+F	WAYNE	Could you sue it to put a biological agent into the air?
+M	FOX	Sure, if the water supply were poisoned before you vaporized it.
+M	EARLE (O.S.)	Happy Birthday, Bruce.
+F	WAYNE	Mr.Earle, good of you to come.
+M	EARLE	Not everybody thought you'd make it this far.
+F	WAYNE	Sorry to disappoint. How did the stock offering go?
+M	EARLE	Very well- the price soared.
+F	WAYNE	Who was buying?
+M	EARLE	A variety of funds and brokerages... it's all a bit technical- the key thing is, our company's future is secure.
+F	WAYNE	Have you met Lucius Fox?
+M	EARLE	Of course, Lucius, how are you?
+F	WAYNE	Fox is showing me the ropes down at Applied Sciences... he's a great untapped resource at our company, aren't you, Mr.Fox?
+M	FOX	He's a good kid.
+M	EARLE	Fox, forget about kissing Wayne's ass to get back in- I'm merging Applied Sciences with central archiving and you're top of the early retirement list... Didn't you get the memo?
+M	COP	What the hell is it?
+F	GORDON	I don't know, but nobody gets near it, understand? We're closing the bridges, locking down the whole island.
+M	SOCIETY DAME	Bruce, there's somebody here you simply must meet...
+F	WAYNE	Mrs Delane, I can't just now...
+M	SOCIETY DAME	Now, am I pronouncing it right..?
+M	SOCIETY DAME (CONT'D)	Mr.Al Ghul?
+F	WAYNE	You're not Ra's Al Ghul. He's dead.
+M	VOICE (O.S.)	But is Ra's Al Ghul immortal..?
+M	DUCARD	Are his methods supernatural..?
+F	WAYNE	Or cheap parlor tricks to conceal your trues identity.., Ra's?
+M	DUCARD/RA'S AL GHUL	Surely you don't begrudge me dual identities?
+M	RA'S AL GHUL	I've been admiring your work, even as it's interfered with my plans...
+M	RA'S AL GHUL (CONT'D)	You were my greatest student... until you betrayed me.
+F	WAYNE	Your quarrel is with me. Let these people go.
+M	RA'S AL GHUL	As you wish. But they don't have long to live- your antics at the Asylum have forced my hand...
+F	WAYNE	Crane was working for you.
+M	RA'S AL GHUL	His toxin is derived from the organic compound in our blue poppies. Crane was able weaponize the compound. A brilliant scientist, but no visionary. He just wanted money and power- I told him the plan was to hold the city to ransom... but, in fact-
+F	WAYNE	You're going to unleash Crane's poison on the entire city...
+M	RA'S AL GHUL	Then watch Gotham tear itself apart through fear...
+M	POLICE OFFICER	Orders are, no one crosses-
+F	RACHEL	Officer, I'm a Gotham City District Attorney with information relevant to this situation- so let me pass.
+F	WAYNE	You're going to destroy millions of lives.
+M	RA'S AL GHUL	No. Billions of lives. Gotham is just the beginning. The world will watch in terror as the greatest city falls. Anarchy and chaos will spread... mankind will ravage itself, the species will be culled and the balance of nature restored. The planet will be saved for all species.
+F	WAYNE	You're inhuman.
+M	RA'S AL GHUL	Don't question my humanity, Bruce- when I found you in that fetid hole you were lost. I saved you- I showed you a path and took away your fear- I made you what you are. And in return... you attacked me and burned my home...
+M	RA'S AL GHUL (CONT'D)	Since then, you've used my skills and techniques to interfere with my plans, plans in which you were supposed to play a part...
+F	WAYNE	What part was that, Ra's? To put my company at your disposal? To obtain your microwave emitter and plant it somewhere in Gotham?
+M	RA'S AL GHUL	You were supposed to be Gotham's destroyer... instead you became her only protector.
+F	WAYNE	You underestimate Gotham.
+M	RA'S AL GHUL	You underestimate Gotham's corruption- we've infiltrated every aspect of the city's infrastructure...
+M	THIRD SWAT	Hey! What the hell are you- This train is no longer in service.
+M	RA'S AL GHUL	Gotham is helpless without you. That's why I'm here.
+F	WAYNE	To kill me?
+M	RA'S AL GHUL	To bring you back to us, Bruce. The world will need great men like you-
+F	WAYNE	To take power.
+M	RA'S AL GHUL	This is not about power... this is about saving the planet before man destroys it with his greed, with his pollution, with his weaponry...
+M	RA'S AL GHUL (CONT'D)	You still doubt me? Apply a few pounds of pressure... buy your precious city a reprieve.
+M	RA'S AL GHUL (CONT'D)	Kill me. Then you'll understand how simple it is to do what's necessary.
+F	WAYNE	I will not take life. I will not be a part of this.
+M	RA'S AL GHUL	But you already are. You've given Gotham a potent symbol of fear...
+F	WAYNE	I frighten criminals.
+M	RA'S AL GHUL	You frighten everybody. A giant vengeful bat? What better apocalyptic symbol to haunt Gothams' dreams as panic takes hold?
+M	RA'S AL GHUL (CONT'D)	Then die with Gotham-
+F	GORDON	How are you?
+F	RACHEL	Better. Thank you.
+F	GORDON	Thank the Batman.
+F	RACHEL	I already did. He sent me with doses of the antidote for you...
+F	RACHEL	Gordon, wait!
+M	TECHNICIAN	What's that?!
+M	SECOND TECHNICIAN	Some kind of pressure under the Narrows... like the water's... ...boiling.
+M	TECHNICIAN	Did the valves hold?
+M	SECOND TECHNICIAN	Yeah, it's contained. For now.
+F	WAYNE	Perhaps you taught me too well.
+M	RA'S AL GHUL	Or perhaps you'll never learn-
+M	RA'S AL GHUL (CONT'D)	-to mind your surroundings as well as your opponent.
+M	RA'S AL GHUL (CONT'D)	Rest easy, friend.
+M	RA'S AL GHUL	No one comes out. Make sure.
+M	RA'S AL GHUL (CONT'D)	Is everything ready?
+M	NINJA 2	They created a smokescreen in the Narrows- and they're moving the emitter into place for your run.
+F	RACHEL	Gordon, it's me! It's Rachel! I have the antidote! Gordon- Stay calm... I can help you...
+M	ALFRED	I sincerely hope you're not from the fire department.
+M	ALFRED	Master Wayne! Master Wayne!!
+M	ALFRED (CONT'D)	Sir, whatever is the point of all those push-ups if you can't even-
+F	WAYNE	What have I done, Alfred? Everything my family... everything my Father and his father built...
+M	ALFRED	The Wayne legacy is more than bricks and mortar, sir.
+F	WAYNE	I thought I could... help Gotham... but I've failed...
+M	ALFRED	And why do we fall, sir?
+M	ALFRED (CONT'D)	So that we might better learn to pick ourselves up.
+F	WAYNE	Still haven't given up on me?
+M	ALFRED	Never.
+F	RACHEL	Breathe. Just breathe.
+M	RACHEL (CONT'D)	Come on.
+M	LOEB	What in God's name is going on in there?
+M	INMATE	Scarecrow.
+F	RACHEL	Crane!
+M	CRANE	Scarecrow.
+M	BATMAN	They're going to unleash the toxin on the entire city. I have to find the microwave emitter...
+F	RACHEL	They were lifting a machine up to the tracks...
+M	BATMAN	Of course- the monorail. The track runs directly over the water mains...
+M	BATMAN (CONT'D)	He's going to drive that thing straight into Wayne Tower and blow the main hub, creating enough toxin to blanket the entire city...
+M	SECOND TECHNICIAN	What's that?
+M	TECHNICIAN	The pressure's increasing... and it's... Moving.
+F	RACHEL	Wait!
+M	RACHEL (CONT'D)	You could die. At least tell me your name.
+M	BATMAN	It's not who I am underneath... But what I do that defines me.
+F	RACHEL	Bruce-
+M	FLASS	What the-?
+M	SECOND TECHNICIAN	Pressure's building at the hub-
+M	TECHNICIAN	Open all the run-off valves!
+M	SECOND TECHNICIAN	They're already blown!
+M	RA'S AL GHUL	You!
+M	FIRST TECHNICIAN	Everybody out! Out of the building!!
+M	SECOND TECHNICIAN	But-
+M	FIRST TECHNICIAN	We're sitting on the hub- she's gonna blow and blow big, understand?
+M	RA'S AL GHUL	You took my advice about theatricality a bit literally, don't you think?
+M	RA'S AL GHUL (CONT'D)	Familiar...
+M	RA'S AL GHUL (CONT'D)	Don't you have anything new?
+M	BATMAN	How about this?
+M	RA'S AL GHUL	What're you doing?!!
+M	BATMAN	What's necessary.
+M	RA'S AL GHUL	Are you afraid?!!
+M	BATMAN	Yes..
+M	BATMAN (CONT'D)	...but not of you.
+M	FOX	This is a hard hat area.
+M	EARLE	What are you doing here, Fox? I seem to remember firing you.
+M	FOX	Might be something to do with my new job as head of Wayne Industries. Didn't you get the memo?
+M	EARLE	Whose authority?
+M	EARLE	You think you have authority to decide who runs this company, Bruce?
+F	WAYNE	It is my company.
+M	EARLE	Not anymore. Wayne Industries went public a week ago-
+F	WAYNE	And I bought most of the shares. A controlling interest, in fact. Through various charitable foundations, trusts and so forth...
+M	WAYNE (CONT'D)	Look, it's all a bit technical, but the important thing is.... my company's future is secure.
+F	WAYNE	Do you remember the day I fell?
+F	RACHEL	Of course.
+F	WAYNE	As I lay there, I knew... I could sense it...
+F	RACHEL	What?
+F	WAYNE	That things would never be the same.
+F	RACHEL	What did you find down there?
+F	WAYNE	Childhood's end.
+F	RACHEL	The day you left Gotham... the day Chill was murdered... I said terrible things.
+F	WAYNE	True things. You made me see that justice is about more than my own pain and anger.
+F	RACHEL	Well, you proved me wrong.
+F	WAYNE	About what?
+F	RACHEL	Your father would be proud of you. Just as I am.
+M	RACHEL (CONT'D)	Between Batman and Bruce Wayne, there's no room for me.
+F	WAYNE	Rachel, this life I chose... I can give it up.
+F	RACHEL	You didn't choose the life, Bruce. It was thrust upon you, the way greatness often is. You've given this city hope- now she's depending on you. We all are.
+M	RACHEL (CONT'D)	Good-bye, Bruce.
+M	RACHEL (CONT'D)	What will you do?
+F	WAYNE	I'm going to rebuild it just the way it was. Brick for brick.
+M	ALFRED	Just the way it was, sir?
+F	WAYNE	Yes, why?
+M	ALFRED	I thought we might take the opportunity of making some improvements to the foundation.
+F	WAYNE	In the south east corner?
+M	ALFRED	Precisely, sir.
+M	BATMAN	Nice.
+F	GORDON	Couldn't find any mob bosses to strap to the light.
+M	BATMAN	Well, Sergeant?
+F	GORDON	It's Lieutenant, now. Commissioner Loeb had to promote me. And he had to disband the task force hunting you. Amazing what saving a city can do for your image.
+M	BATMAN	Then things are better.
+F	GORDON	You've started something- bent cops running scared, hope on the streets...
+M	BATMAN	But?
+F	GORDON	But there's a lot of weirdness out there right now... the Narrows is lost... we still haven't picked up Crane or half the inmates of Arkham that he freed...
+M	BATMAN	We will. Gotham will return to normal.
+F	GORDON	Will it? What about escalation?
+M	BATMAN	Escalation?
+F	GORDON	We start carrying semiautomatics, they buy automatics... we start wearing kevlar, they buy armor- piercing rounds...
+M	BATMAN	And?
+F	GORDON	And... you're wearing a mask and jumping off rooftops...
+M	GORDON (CONT'D)	Take this guy...
+M	GORDON (CONT'D)	...armed robbery, double homicide...
+M	GORDON (CONT'D)	Got a taste for theatrics, like you...
+M	GORDON (CONT'D)	Leaves a calling card.
+M	BATMAN	I'll look into it.
+F	GORDON	I never said thank you.
+M	BATMAN	And you'll never have to.
+M	END.	

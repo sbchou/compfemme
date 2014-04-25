@@ -1,0 +1,986 @@
+M	CHARACTER	DIALOGUE
+M	WICK	Better take this along, Don. It's going to be cold on the farm.
+M	DON	Okay.
+M	WICK	How many shirts are you taking?
+M	DON	Three.
+M	WICK	I'm taking five.
+M	DON	Five?
+M	WICK	I told them at the office I might not be back till Tuesday. We'll get there this afternoon. That'll give us all Friday, Saturday, Sunday, Monday. We'll make it a long weekend.
+M	DON	Sounds long, all right.
+M	WICK	It'll do you good, Don, after what you've been through.
+M	WICK	Trees and grass and sweet cider and buttermilk and water from that well that's colder than any other water.
+M	DON	Wick, please, why this emphasis on liquids? Noble, upstanding, nauseating liquids.
+M	WICK	Sorry, Don.
+M	DON	Think it would be a good idea if we took my typewriter?
+M	WICK	What for?
+M	DON	To write. To write there. I'm going to get started on my novel.
+M	WICK	You really feel up to writing?
+M	DON	Why not?
+M	WICK	I mean, after what you've been through.
+M	DON	I haven't touched the stuff for ten days now.
+M	WICK	I know you haven't. Where's the portable?
+M	DON	In the living room closet, kind of towards the back.
+M	WICK'S VOICE	You sure it's in the closet? I can't find it.
+M	DON	Look by the big chair.
+M	WICK'S VOICE	Isn't it under your bed?
+M	DON	Of course. Here it is.
+M	WICK	Here's some paper.
+M	WICK	We'll fix a table on the south porch. Nobody to disturb you -- I'll see to it. Except maybe Saturday night we'll go over to the Country Club.
+M	DON	I'm not going near that Country Club.
+M	WICK	Why not?
+M	DON	Because they're a bunch of hypocrites and I don't like to be whispered about: Look who's here from New York. The Birnam brothers -- or rather the nurse and the invalid.
+M	WICK	Stop that, Don. Nobody there knows about you.
+M	DON	No? We get off the train and the alarm is sounded: The leper is back. Better hide your liquor.
+M	DON	Helen.
+M	WICK	I'll take it.
+F	HELEN	Hello, Wick. Where's Don?
+F	HELEN	Glad I made it. I was afraid you might be gone. Presents.
+F	HELEN	The new Thurber book, with comical jokes and pictures, and a quiet little double murder by Agatha Christie. Cigarettes and chewing gum.
+M	DON	Thanks, Helen.
+F	HELEN	Now have a good time, darling. And remember -- lots of sleep, lots of milk --
+M	DON	And sweet cider and some of that nice cold water from the well.
+F	HELEN	Bend down.
+F	HELEN	I'd better be going. I've missed ten minutes of the concert already.
+M	DON	What concert?
+F	HELEN	Carnegie Hall. Barbirolli conducting. They gave me two tickets at the office.
+M	DON	Who are you going with?
+F	HELEN	Nobody.
+M	DON	What are they playing?
+F	HELEN	Brahms' Second Symphony, something by Beethoven, something by Handel, and not one note of Grieg.
+M	DON	Sounds wonderful.
+F	HELEN	Goodbye, boys. See you Monday.
+M	WICK	Tuesday.
+M	DON	Just a minute. Wick --
+M	DON	I just had a crazy idea.
+M	WICK	As for instance.
+M	DON	Who says we have to take the two- forty-five train? We could go on the six-thirty.
+M	WICK	What are you talking about?
+M	DON	I just thought we could take a later train and Helen wouldn't have to go alone to the concert. She's got two tickets, hasn't she?
+F	HELEN	No. I'm not upsetting any plans. You're going on that two-forty-five.
+M	DON	But Helen, it's so silly! A whale of a concert and an empty seat next you.
+M	WICK	No, Don. Everything's all set. They'll be at the station to meet us. Dinner'll be waiting.
+M	DON	So what? We put in a call that we're taking the late train, have supper at nine o'clock, be in bed by ten.
+M	WICK	Nothing doing. We're going.
+F	HELEN	Wick's right. And don't worry about that empty seat. I'll find myself a very handsome South American millionaire.
+M	DON	There. Did you hear her? And now we'd have to break our necks to catch the train anyway.
+F	HELEN	Two-twenty.
+M	DON	See?
+M	WICK	All right. Go ahead.
+M	DON	Wait a minute. I'm not going.
+M	WICK	Then what are we talking about?
+M	DON	I want you to go. You and Helen.
+M	WICK	Me and Helen?
+M	DON	Yes. That was the idea. Who likes Brahms, you or I?
+M	WICK	Since when don't you like Brahms?
+M	DON	I'll stay right here and finish packing. Take a little nap maybe.
+M	WICK	Nonsense. If anybody goes... Helen's your girl.
+F	HELEN	There's something in that, Don.
+M	WICK	What's more, I don't think you should be left alone.
+M	DON	I shouldn't?
+M	WICK	No.
+F	HELEN	Really, Don.
+M	DON	Why? I can't be trusted. Is that it?
+M	WICK	What I meant to say --
+F	HELEN	Wick.
+M	WICK	After what Don's been through --
+M	DON	After what I've been through, I couldn't go to a concert. I couldn't face the crowd. I couldn't sit through it with all those people around. I want to be alone for a couple of hours and kind of assemble myself. Is that such an extraordinary thing to want?
+M	WICK	Don't act so outraged, would you mind?
+M	DON	All right. Anything else?
+F	HELEN	Please, boys.
+M	WICK	Come on, Helen.
+F	HELEN	You'll stay right here, won't you?
+M	DON	Where would I go?
+F	HELEN	Then you'll be here when we come back?
+M	DON	I told you I'm not leaving this apartment.
+M	WICK	You've told us a good many things, Don.
+M	DON	All right, if you don't believe me, why don't you take my key and lock me in like a dog.
+F	HELEN	We've got to trust Don. That's the only way.
+M	WICK	Sorry, Don. Here we go.
+F	HELEN	So long, Don.
+M	DON	So long.
+F	HELEN	Bend down.
+M	WICK	What's this, Don?
+M	DON	That? That's whiskey, isn't it?
+M	WICK	How did it get there?
+M	DON	I don't know.
+M	WICK	I suppose it dropped from some cloud. Or someone was bouncing it against this wall and it got stuck.
+M	DON	I must have put it there.
+M	WICK	Yes, you must.
+M	DON	Only I don't remember when. Probably during my last spell, or maybe the one before.
+M	DON	Don't look at me like that, Helen. Doesn't mean a thing. I didn't know it was there. And if I had, I wouldn't have touched it.
+M	WICK	Then you won't mind.
+M	DON	Won't mind what?
+M	WICK	Now you trot along with Helen.
+M	DON	Why? On account of that? You think I wanted you out of the apartment because of that? I resent that like the devil, and if there's one more word of discussion, I don't leave on your blasted weekend.
+F	HELEN	Let's go.
+F	HELEN	Be good, won't you, Don, darling?
+M	DON	Of course, Helen. Just stop watching me all the time, you two. Let me work it out my way. I'm trying, I'm trying.
+F	HELEN	We're both trying, Don. You're trying not to drink, and I'm trying not to love you.
+M	WICK	You call the farm, Don. Tell them we're taking the six-thirty train.
+M	DON	Sure.
+M	WICK	So long.
+M	WICK	Come on, Helen.
+F	HELEN	Oh, Wick, what are we going to do about him ever.
+M	WICK	He'll be all right.
+F	HELEN	What if he goes out and buys another bottle?
+M	WICK	With what? He hasn't a nickel. There isn't a store, there isn't a bar that'd give him five cents' worth of credit.
+F	HELEN	Are you sure he hasn't another bottle hidden somewhere?
+M	WICK	Not any more, he hasn't. I went through the apartment with a fine- toothed comb. The places he can figure out!
+M	DON	Who is it?
+M	DON	WHO IS IT?
+M	MRS. FOLEY	Mrs. Foley. Come to clean up.
+M	DON	Not today. Does it have to be today?
+M	MRS. FOLEY	I ought to change the sheets, and today's my day to vacuum.
+M	DON	You can't come in. I'm not dressed.
+M	MRS. FOLEY	Shall I wait, shall I come back, or what?
+M	DON'S VOICE	You come on Monday.
+M	MRS. FOLEY	All right, Mr. Birnam. Is your brother here?
+M	DON'S VOICE	No, he isn't.
+M	MRS. FOLEY	How about my money? Didn't he leave my money?
+M	DON	What money?
+M	MRS. FOLEY	My five dollars. Didn't he leave it?
+M	DON	Probably. Where would he leave it?
+M	MRS. FOLEY'S VOICE	In the kitchen.
+M	DON	Where in the kitchen?
+M	MRS. FOLEY'S VOICE	In the sugar bowl.
+M	DON	Just a minute.
+M	DON	Sorry, Mrs. Foley. It's not there. He must have forgotten.
+M	MRS. FOLEY	Oh, Putt! I wanted to do some shopping.
+M	DON'S VOICE	You'll get it Monday all right.
+M	MRS. FOLEY	Goodbye, Mr. Birnam.
+M	DON	Two bottles of rye.
+M	SALESMAN	I'm sorry, Mr. Birnam.
+M	DON	What are you sorry about?
+M	SALESMAN	Your brother was in here. He said he's not going to pay for you any more. That was the last time.
+M	DON	He won't, huh?
+M	DON	Two bottles of rye.
+M	SALESMAN	What brand?
+M	DON	You know what brand, Mr. Brophy. The cheapest.
+M	SALESMAN	All right.
+M	DON	None of that twelve-year-old, aged- in-the-wood chichi. Not for me. Liquor is all one, anyway.
+M	SALESMAN	Don't you want a bag?
+M	DON	Yes, I want a bag.
+M	SALESMAN	You know, your brother asked me not to sell you anything even if you had money, but I can't stop nobody, can I, not unless you're a minor.
+M	DON	I'm not a minor, Mr. Brophy, and just to quiet your conscience, I'm buying this as a refill for my cigarette lighter.
+M	DON	Good afternoon, Mrs. Deveridge.
+F	MRS. DEVERIDGE	Hello, Mr. Birnam.
+F	MRS. DEVERIDGE	That's that nice young man that drinks.
+F	MRS. DEVERIDGE	Come on, Sophie. Let's go.
+M	DON	And how is my very good friend Nat today?
+M	NAT	Yes, Mr. Birnam.
+M	DON	This being an especially fine afternoon, I have decided to ask for your hand in marriage.
+M	NAT	Look, Mr. Birnam --
+M	DON	If that is your attitude, Nat, I shall have to drown my sorrows in a jigger of rye. Just one, that's all.
+M	NAT	Can't be done, Mr. Birnam.
+M	DON	Can't? Let me guess why. My brother was here, undermining my financial structure.
+M	NAT	I didn't tell him nothing about the wrist watch you left here, or your cuff links.
+M	DON	Thank you, Nat. Today, you'll be glad to know, we can barter on a cash basis.
+M	NAT	One straight rye.
+M	DON	That was the idea.
+M	DON	Don't wipe it away, Nat. Let me have my little vicious circle. The circle is the perfect geometric figure. No end, no beginning... What time is it?
+M	NAT	Quarter of four.
+M	DON	Good. That gives us the whole afternoon together. Only remind me when it's a quarter of six. Very important. We're going to the country for a weekend, my brother and I.
+F	GLORIA	Hello, Mr. Birnam. Glad to have you back with the organization.
+M	DON	Hello, Gloria.
+M	DON	Not just a Saturday-Sunday weekend. A very long weekend. I wish I could take you along, Nat. You -- and all that goes with you.
+M	DON	Not that I'm cutting myself off from civilization altogether.
+M	DON	Now of course there arises the problem of transportation into the country. How to smuggle these two time bombs past the royal guard. I shall tell you how, Nat, because I'm so fond of you. Only give me another drink.
+M	DON	I'm going to roll one bottle in a copy of the Saturday Evening Post, so my brother can discover it like that. And I want him to discover it, because that'll set his mind at rest. The other bottle -- Come here.
+M	DON	That one I'm tucking into my dear brother's suitcase. He'll transport it himself, without knowing it, of course. While he's greeting the care- taker, I'll sneak it out and hide it in a hollow of the old apple tree.
+M	NAT	Aw, Mr. Birnam, why don't you lay off the stuff for a while.
+M	DON	I may never touch it while I'm there. Not a drop. What you don't understand, all of you, is that I've got to know it's around. That I can have it if I need it. I can't be cut off completely. That's the devil. That's what drives you crazy.
+M	NAT	Yeah. I know a lot of guys like that. They take a bottle and put it on the shelf. All they want is just to look at it. They won't even carry a cork- screw along, just to be sure. Only all of a sudden they grab the bottle and bite off the neck.
+M	DON	Nat, one more reproving word and I shall consult our lawyer about a divorce.
+M	DON	Quarter of six. Don't forget. My brother must find me at home, ready and packed.
+M	DON	Shall we dance?
+F	GLORIA	You're awfully pretty, Mr. Birnam.
+M	DON	You say that to all the boys.
+F	GLORIA	Why, natch. Only with you it's on the level.
+M	DON	Is it? Whatever became of your manicurist job?
+F	GLORIA	I've still got it. Only I find I can't work more than four hours a day, three days a week. It's too tough on your eyes, all those little hangnails.
+M	DON	Sit down.
+F	GLORIA	No thanks. Thanks a lot, but no thanks. There's somebody waiting.
+M	DON	Him? I bet he wears arch supporters.
+F	GLORIA	He's just an old friend of the folks. Lovely gentleman. Buys me dimpled Scotch.
+M	DON	He should buy you Indian rubies, and a villa in Calcutta overlooking the Ganges.
+F	GLORIA	Don't be ridic.
+M	DON	Gloria, please, why imperil our friendship with these loathsome abbreviations.
+F	GLORIA	I could make myself free for later on if you want.
+M	DON	I'm leaving for the weekend, Gloria. Maybe another time.
+F	GLORIA	Any time.
+F	GLORIA	Just crazy about the back of your hair.
+M	DON	Nat, weave me another.
+M	NAT	You'd better take it easy.
+M	DON	Don't worry about me. Just let me know when it's a quarter of six.
+M	NAT	Okay.
+M	DON	And have one yourself, Nat.
+M	NAT	Not me, Mr. Birnam.
+M	DON	I often wonder what the barman buys, one-half so precious as the stuff he sells.
+M	DON	Come on, Nat. One little jigger of dreams.
+M	NAT	Nope.
+M	DON	You don't approve of drinking?
+M	NAT	Not the way you drink.
+M	DON	It shrinks my liver, doesn't it, Nat? It pickles my kidneys. Yes. But what does it do to my mind? It tosses the sandbags overboard so the balloon can soar. Suddenly I'm above the ordinary. I'm competent, supremely competent. I'm walking a tightrope over Niagara Falls. I'm one of the great ones. I'm Michelangelo moulding the beard of Moses. I'm Van Gogh, painting pure sunlight. I'm Horowitz playing the Emperor Concerto. I'm John Barrymore before the movies got him by the throat. I'm a holdup man -- I'm Jesse James and his two brothers, all three of them. I'm W. Shakespeare. And out there it's not Third Avenue any longer. It's the Nile. The Nile, Nat, and down it moves the barge of Cleopatra. Listen: Purple the sails, and so perfumed that The winds were love-sick with them; the oars were silver, Which to the tune of flutes kept stroke, and made The water which they beat to follow faster, As amorous of their strokes. For her own person, It beggar'd all description.
+M	DON	The cloud-capp'd towers, the gorgeous palaces, The solemn temples, the great globe itself --
+M	NAT	Mr. Birnam, you ought to go home. You're late.
+M	DON	Yea, all which it inherit shall dissolve --
+M	NAT	You ought to be home, on account of your brother.
+M	DON	Who says so?
+M	NAT	You said so yourself. On account of you're going away somewheres.
+M	DON	Huh?
+M	NAT	Don't you remember?
+M	DON	What time is it?
+M	NAT	Ten past six.
+M	DON	Why didn't you tell me?
+M	NAT	What do you think I've been doing for half an hour?
+M	NAT	Take your change.
+F	HELEN	Do you suppose he's at Morandi's, or Nat's bar, or that place on Forty- second Street?
+M	WICK	What difference does it make?
+F	HELEN	You're not really going, Wick.
+M	WICK	I certainly am.
+F	HELEN	You can't leave him alone. Not for four days.
+F	HELEN	Wick, for heaven's sake, if he's left alone anything can happen! I'll be tied up at the office every minute, All Saturday. All Sunday. I can't look out for him. You know how he gets. He'll be run over by a car. He'll be arrested. He doesn't know what he's doing. A cigarette will fall out of his mouth and he'll burn in his bed --
+M	WICK	Oh Helen, if it happens, it happens. And I hope it does. I've had six years of this. I've had my bellyful.
+F	HELEN	You can't mean that.
+M	WICK	Yes, I do. It's terrible, I know, but I mean it.
+F	HELEN	For heaven's sake, Wick --
+M	WICK	Who are we fooling? We've tried everything, haven't we? We've reasoned with him, we've babied him. We've watched him like a hawk. We've tried trusting him. How often have you cried? How often have I beaten him up? We scrape him out of the gutter and pump some kind of self-respect into him, and back he falls, back in, every time.
+F	HELEN	He's a sick person. It's as though he had something wrong with his lungs or his heart. You wouldn't walk out on him because he had an attack. He needs our help.
+M	WICK	He won't accept our help. Not Don. He hates us. He wants to be alone with that bottle of his. It's the only thing he gives a hang about.
+M	WICK	Why kid ourselves? He's one of the lost ones. Why kid ourselves? He's a hopeless alcoholic.
+M	WICK	Come, Helen.
+M	WICK	Taxi! Taxi! I'll give you a lift as far as Grand Central.
+F	HELEN	No thanks, Wick. I'm going to wait here.
+M	WICK	You're crazy.
+F	HELEN	Because I won't give up? Maybe I am.
+M	WICK	Oh Helen, give yourself a chance. Let go of him.
+F	HELEN	Goodbye, Wick.
+M	DON	Guten Tag, Mrs. Wertheim. How's business?
+M	MRS. WERTHEIM	Business he is good, thank you. There isn't a fortune in it, but you know: small fish, good fish. And I keep young and healthy. Why shouldn't I, sitting in a Turkish bath all day for free?
+M	MRS. WERTHEIM	Three dollars and ninety.
+M	DON	I wonder if you could do me a favor, gnaedige Frau?
+M	MRS. WERTHEIM	Always glad, Mr. Birnam.
+M	DON	My brother's gone away for the weekend and he took the checkbook along...
+M	MRS. WERTHEIM	Oh, you want a blank check?
+M	DON	It's not that. It's just that I'm a little short.
+M	MRS. WERTHEIM	What do you mean, you're short?
+M	DON	I wonder if you could let me have a little cash, bitte schoen?
+M	MRS. WERTHEIM	A little cash?
+M	DON	I thought about twenty dollars, maybe. Only till Monday, when my brother comes back.
+M	MRS. WERTHEIM	You thought... No, Mr. Birnam. I cannot. Not that I don't want to, because I want to, but I cannot. And when I say not, I mean absolutely not.
+M	MRS. WERTHEIM	I'll let you have five dollars.
+M	DON	That's all right.
+M	DON	Danke schoen, Mrs. Wertheim.
+M	MRS. WERTHEIM	Your laundry, Mr. Birnam! How about your laundry?
+M	NAT	Hi.
+M	NAT	Thought you were going away for the weekend.
+M	DON	For the love of Pete, what are you doing, Nat. Give me a drink!
+M	NAT	Right with you, Mr. Birnam. Just fixing my lunch.
+M	DON	Well, stop it and come on and give me a drink, for heaven's sake. Come on, come on!
+M	NAT	Okay.
+M	DON	Can't you hurry it up a little, Nat?
+M	NAT	Here you are, Mr. Birnam.
+M	DON	Thank you, Nat.
+M	NAT	That young lady stopped in last night, looking for you.
+M	DON	What young lady?
+M	NAT	The one with the leopard coat.
+M	DON	Yeah?
+M	NAT	She was acting like she just happened to drop in, but I know she was making the rounds after you.
+M	DON	What did you say to her?
+M	NAT	I said you hadn't been in for two weeks.
+M	DON	Good. I can't let her see me. Not now while I'm "off" like this.
+M	NAT	Then why in the name of -- Why don't you cut it short?
+M	DON	You're talking like a child. You can't cut it short! You're on that merry-go-round and you've got to ride it all the way, round and round, till the blasted music wears itself out and the thing dies down and clunks to a stop.
+M	NAT	How about you eating this?
+M	DON	Take it away.
+M	NAT	You got to eat something sometime.
+M	DON	Give me another drink.
+M	NAT	Look, Mr. Birnam, this is still morning.
+M	DON	That's when you need it most, in the morning. Haven't you learned that, Nat? At night this stuff's a drink. In the morning it's medicine.
+M	NAT	Okay if I eat?
+M	DON	Move it a little to one side.
+M	DON	Nat, are you ever scared when you wake up? So scared the sweat starts out of you? No, not you. With you it's simple. Your alarm clock goes off and you open your eyes and brush your teeth and read the Daily Mirror. That's all. Do you ever lie in your bed looking at the window? A little daylight's coming through, and you start wondering: is it getting lighter, is it getting darker? Is it dawn or dusk? That's a terrifying problem, Nat. You hold your breath and you pray that it's dusk, so you can go out and get yourself some more liquor. Because if it's dawn, you're dead. The bars are closed and the liquor stores don't open till nine. You can't last till nine. Or it might be Sunday. That's the worst. No liquor stores at all, and you guys wouldn't open a bar, not until one o'clock. Why? Why, Nat?
+M	NAT	Because we got to go to church once in a while. That's why.
+M	DON	Yes, when a guy needs it most.
+M	NAT	How about those two quarts? Did you polish them off last night?
+M	DON	What two quarts?
+M	NAT	The two bottles you had.
+M	DON	That's right, I did have two bottles, didn't I? I hid one of them. I've still got it. I'm a capitalist, Nat! I've got untapped reserves. I'm rich!
+M	NAT	Mr. Birnam, if you had enough money you'd kill yourself in a month.
+F	GLORIA	Say, Nat, was there a gentleman -- Hello, Mr. Birnam. Didn't you go away for the weekend?
+M	DON	Apparently not, Gloria.
+F	GLORIA	Was there a gentleman in here asking for me?
+M	NAT	Not to my knowledge there wasn't.
+F	GLORIA	He was supposed to come around twelve o'clock. He's from Albany.
+M	DON	Another friend of the folks?
+F	GLORIA	More a friend of a friend of the folks type. A fellow telephoned me about him. Wants me to show him the town.
+M	NAT	Like Grant's Tomb for instance?
+F	GLORIA	But def.
+M	NAT	Amazing, ain't it, how many guys run down from Albany just to see Grant's Tomb.
+F	GLORIA	Sometimes I wish you came from Albany.
+M	DON	Where would you take me?
+F	GLORIA	Oh, lots of places. The Music Hall, and then the New Yorker Roof maybe.
+M	DON	There is now being presented at a theatre on Forty-fourth Street the uncut version of Hamlet. I see us as setting out for that. Do you know Hamlet?
+F	GLORIA	I know Forty-fourth Street.
+M	DON	I'd like to get your interpretation of Hamlet's character.
+F	GLORIA	And I'd like to give it to you.
+M	DON	Dinner afterwards, I think. Nothing before. Always see Shakespeare on an empty stomach.
+F	GLORIA	Not even a pretzel?
+M	DON	But afterwards, dozens of bluepoints in the Rainbow Room. And a very light wine. Vouvray perhaps. Do you care for Vouvray?
+F	GLORIA	Why, natch.
+M	DON	We may blindfold the orchestra so that I can dance with abandon.
+F	GLORIA	Aren't you going to dance with me?
+M	DON	Of course, little Gloria.
+M	ALBANY	Could I have a glass of water?
+M	NAT	Why, sure. And what shall it be for a chaser?
+M	ALBANY	Tell me: this is Nat's Bar, isn't it?
+M	NAT	That's what the man said.
+M	ALBANY	I'm looking for a young lady name of Gloria.
+M	ALBANY	Are you Miss Gloria?
+F	GLORIA	Who, me? No, I'm not. I just live with Gloria. She's not here.
+M	ALBANY	She isn't?
+F	GLORIA	And she won't be. She's down to the Aquarium.
+M	ALBANY	Aquarium?
+F	GLORIA	Feeding bubble-gum to the jelly fish.
+M	ALBANY	Beg pardon?
+F	GLORIA	Ruptured appendix. Middle of last night. Went like that! Scared the life out of me.
+M	ALBANY	That's terrible.
+F	GLORIA	Goodbye.
+M	ALBANY	Goodbye.
+M	ALBANY	Could I have a word with you?
+F	GLORIA	No thanks. Thanks a lot, but no thanks.
+M	ALBANY	You're welcome, I'm sure.
+M	DON	Wasn't that rather rude, Gloria, to send that nice man all alone to Grant's Tomb?
+F	GLORIA	When I have a chance to go out with you? Don't be ridic.
+M	DON	Oh, is our engagement definite?
+F	GLORIA	You meant it, didn't you?
+M	DON	Surely, surely.
+F	GLORIA	I'm going to get a facial, a fingerwave, a manicure. The works. Right now. You're going to call for me, aren't you? If you are, what time?
+M	DON	What time do you suggest?
+F	GLORIA	How about eight?
+M	DON	Eight's fine.
+F	GLORIA	I live right in the corner house. You know where the antique shop is, the one with the wooden Indian outside? They've got the Indian sign on me, I always say.
+M	DON	I'll be there.
+F	GLORIA	Second floor. Oh, Mr. Birnam, all I've got is a semi-formal. Will that be all right?
+M	DON	That'll be fine.
+F	GLORIA	Goodbye, Not.
+F	GLORIA	You know, this show you're taking me to. If it's too highbrow, I can just lean back and look at the back of your neck, can't I? Eight o'clock.
+M	DON	One last one, Nat. Pour it softly, pour it gently, and pour it to the brim.
+M	NAT	Look, Mr. Birnam, there's a lot of bars on Third Avenue. Do me a favor -- get out of here and buy it someplace else.
+M	DON	What's the matter?
+M	NAT	I don't like you much. What was the idea of pulling her leg? You know you're never going to take her out.
+M	DON	Who says I'm not?
+M	NAT	I say so. You're drunk and you're just making with your mouth.
+M	DON	Give me a drink, Nat.
+M	NAT	And that other dame -- I mean the lady. I don't like what you're doing to her either.
+M	DON	Shut up.
+M	NAT	You should've seen her last night, coming in here looking for you, with her eyes all rainy and the mascara all washed away.
+M	DON	Give me a drink!
+M	NAT	That's an awful high class young lady.
+M	DON	You bet she is.
+M	NAT	How the heck did she ever get mixed up with a guy that sops it up like you do?
+M	DON	It's a problem, isn't it. That nice young man that drinks, and the high- class young lady, and how did she ever get mixed up with him, and why does he drink and why doesn't he stop. That's my novel, Nat. I wanted to start writing it out in the country. Morbid stuff. Nothing for the Book-of-the Month Club. A horror story. The confessions of a booze addict, the log book of an alcoholic. Come on, Nat. Break down.
+M	DON	Do you know what I'm going to call my novel? The Bottle -- that's all. Very simply, The Bottle. I've got it all in my mind. Let me tell you the first chapter. It all starts one wet afternoon about three years ago. There was a matinee of La Traviata at the Metropolitan --
+M	ATTENDANT	Did you forget something?
+M	DON	No. Going home, if it's all right with you.
+M	ATTENDANT	Say, this isn't yours.
+M	DON	No, it certainly isn't.
+M	ATTENDANT	That's what it says though -- 417.
+M	DON	I don't care what it says.
+M	ATTENDANT	The checks must have got mixed up.
+M	DON	Maybe they did. Find me my coat. It's a plain man's raincoat and a derby.
+M	ATTENDANT	Are you kidding? Do you know how many plain men's raincoats we have on a day like this? About a thousand.
+M	DON	Let me get back there. I can find it.
+M	ATTENDANT	That's against regulations, sir.
+M	DON	I'm not going to wait till the end of the performance.
+M	ATTENDANT	You can get your coat tomorrow.
+M	DON	Look, man, there's something in the pocket of that coat I -- It so happens I find myself without any money and I need that coat. And I need it now.
+M	ATTENDANT	Listen, if everybody went in there digging through those coats... There's regulations. There's got to be regulations.
+M	DON	What do you suggest?
+M	ATTENDANT	You just wait till the other party comes and then you can swap.
+M	DON	I want my coat.
+M	ATTENDANT	As far as I'm concerned, that's your coat.
+M	DON	You're a great help.
+M	ATTENDANT	No smoking.
+M	DON	I thought so.
+M	DON	That's my coat you've got.
+F	HELEN	And that's mine, thank heaven. They mixed up the checks.
+M	DON	They certainly did. I thought you'd never come.
+F	HELEN	You can't have been waiting so long.
+M	DON	Only since the first aria of the first act. That's all.
+F	HELEN	Do you always just drop in for the overture?
+M	DON	Goodbye.
+F	HELEN	Hey, wait a minute!
+F	HELEN	My umbrella, if you don't mind.
+F	HELEN	Thank you very much.
+M	DON	I'm terribly sorry.
+F	HELEN	You're the rudest person I ever saw. What's the matter with you?
+M	DON	Just rude, I guess.
+F	HELEN	Really, somebody should talk to your mother.
+M	DON	They tried, Miss St. John.
+F	HELEN	My name's not St. John.
+M	DON	St. Joseph, then.
+F	HELEN	St. James.
+M	DON	First name Hilda or Helen, or Harriet maybe?
+F	HELEN	Helen.
+M	DON	You come from Toledo, Ohio.
+F	HELEN	How do you know?
+M	DON	I've had three long acts to work you out from that coat of yours. Initials, label -- Alfred Spitzer, Fine Furs, Toledo, Ohio.
+F	HELEN	Maybe I should have explored your coat.
+M	DON	But you didn't.
+F	HELEN	Didn't have time.
+M	DON	Good. My name is Don Birnam.
+M	DON	How do you like New York?
+F	HELEN	Love it.
+M	DON	How long are you going to stay?
+F	HELEN	Oh, sixty years, perhaps.
+F	HELEN	I live here now. I've got a job.
+M	DON	Doing what?
+F	HELEN	I'm on Time Magazine.
+M	DON	Time Magazine? In that case perhaps you could do something for me.
+F	HELEN	Yes.
+M	DON	Could you help me to become Man of the Year?
+F	HELEN	Delighted. What do you do?
+M	DON	Yes, what do I do? I'm a writer. I've just started a novel. I've started quite a few novels. I never seem to finish one.
+F	HELEN	In that case, why not write short stories.
+M	DON	I have some of those. The first paragraph. Then there's one-half of the opening scene of a play. It all takes place in the leaning tower of Pisa and explains why it leans. And why all sensible buildings should lean.
+F	HELEN	They'll love that in Toledo.
+M	DON	Are you by any chance coming here to Lohengrin next week?
+F	HELEN	I don't know.
+M	DON	Because if you are, I'm not going to let this coat out of my hands.
+F	HELEN	Don't worry.
+M	DON	I do, though. To be really safe, maybe we should go together.
+F	HELEN	We could.
+M	DON	Are you in the telephone book?
+F	HELEN	Yes, but I'm not home very much.
+M	DON	Then I'll call you at the office.
+F	HELEN	Editorial Research. If Henry Luce answers the phone, hang up.
+M	DON	Taxi?
+F	HELEN	No, thank you. I'm taking the subway.
+M	DON	Very sensible.
+F	HELEN	As a matter of fact, I'm going to an extremely crazy party on Washington Square. If you want, I'll take you along.
+M	DON	Thank you very much, Miss St. James, but I have to see a friend uptown.
+F	HELEN	Goodbye, Mr. Birnam.
+M	DON	Goodbye.
+F	HELEN	Who threw that?
+M	DON	It fell out of my pocket.
+F	HELEN	Do you always carry those things?
+M	DON	You see... that friend, the one uptown, he has a cold. I thought I'd take this along and make him a hot toddy.
+F	HELEN	Now he gets hot lemonade and some aspirin.
+M	DON	I shall.
+F	HELEN	Goodbye.
+M	DON	Miss St. James!
+F	HELEN	Yes?
+M	DON	What kind of a party was that you asked me to?
+F	HELEN	A cocktail party.
+M	DON	Invitation still stand?
+F	HELEN	Of course. Come on.
+M	DON	How's that for a first meeting, Nat? Cute, full of laughs. A charming girl, an extra special girl. Her coat-check might just as well have been mixed up with the coat-check of a solid citizen, the son of the chairman of some insurance company, highly eligible, no vices except that sometimes he plays the cello. But oh no, that would have made everything too simple. It had to be that young man with the bottle.
+M	NAT	Listen, once that bottle smashes, doesn't she catch on?
+M	DON	No, she doesn't.
+M	NAT	Okay. So they go to that cocktail party and he gets stinko and falls flat on his face.
+M	DON	He doesn't. He's crazy about that girl by then. He drinks tomato juice. Doesn't touch liquor for that whole week -- for two weeks, for six weeks.
+M	NAT	He's in love, huh?
+M	DON	That's what's going to be hard to write. Love's the hardest thing in the world to write about. So simple. You've got to catch it through details, like the early morning sunlight hitting the gray tin of the ashcans in front of her house. A ringing telephone that sounds like Beethoven's Pastoral. A letter scribbled on her office stationery that you carry in your pocket because it smells of all the lilacs in Ohio.
+M	NAT	And no drinking?
+M	DON	He thinks he's cured. If he can get a job now, they can be married and that's that. Only it's not, Nat. Not quite. Because one day, one terrible day -- Pour it, Nat.
+M	NAT	Yeah?
+M	NAT	Well, go on.
+M	DON	You see, that girl's been writing to her family in Toledo They want to meet this young man. So they come to New York. They stay at the Hotel Manhattan. Their very first day, she's to introduce him to her parents. One o'clock. Lobby of the hotel...
+M	MR. ST. JAMES	Just walked in for a simple haircut. No, that wasn't enough, not for New York. They gave me a shampoo, a scalp massage, a manicure. Thought they'd tear my shoes off and paint my toenails.
+M	MRS. ST. JAMES	I had a lovely morning. Just did a little window shopping. I didn't want to get all tired out.
+M	MR. ST. JAMES	On account of meeting that young man? Now, Mother.
+M	MRS. ST. JAMES	Who did you get a haircut for?
+M	MR. ST. JAMES	Wonder what's keeping Helen.
+M	MRS. ST. JAMES	She'll be here.
+M	MR. ST. JAMES	This Birnam fellow went to Cornell, didn't he?
+M	MRS. ST. JAMES	I believe so, but Helen says he never graduated.
+M	MR. ST. JAMES	I wonder why. How old is he?
+M	MRS. ST. JAMES	Thirty-three.
+M	MR. ST. JAMES	He has no job. As far as I can find out, he never had one. I wish Helen wasn't so vague.
+M	MRS. ST. JAMES	Maybe he has a little money. Some people do, you know, Father.
+M	MR. ST. JAMES	He ought to have a job anyway.
+M	MRS. ST. JAMES	He's a writer.
+M	MR. ST. JAMES	A writer? What does he write? I never heard of his name.
+M	MRS. ST. JAMES	Now Father, relax. You always expect the worst. I've made up my mind he's a well-brought-up young man who wipes his feet before he enters a house and doesn't even smoke.
+M	MR. ST. JAMES	I hope he realizes Helen's our only daughter and we ought to know a few things about him.
+M	MRS. ST. JAMES	Those'll all come out -- his background, his prospects, his church affiliations.
+M	DON	Manhattan Hotel?... Will you page Miss St. James? She must be in the lobby.
+M	DON	Helen?... Don. I'm terribly sorry but I can't get there for a while. Please go ahead with your lunch and apologize to your parents... No, nothing serious. I'll be there. Goodbye.
+M	WICK	Don?
+M	DON	Turn off that light.
+M	WICK	For heaven's sake, Don.
+M	DON	Turn it off!
+M	WICK	I thought you were with Helen and her father and mother.
+M	WICK	What happened?
+M	WICK	Come on, Don.
+M	DON	I couldn't face it.
+M	WICK	You couldn't face what? Didn't you go to see them?
+M	DON	Certainly I went. One o'clock sharp. And I saw them, all right. Only they didn't see me.
+M	WICK	How was that?
+M	DON	Such nice, respectable people. I couldn't face them, Wick, and all the questions they'd ask me. I couldn't face them. Not cold. I had to have a drink first. Just one. Only the one didn't do anything to me.
+M	WICK	So you had another and another. You poor idiot, Don. Won't you ever learn with you it's like stepping off a roof and expecting to fall just one floor?
+M	DON	You're right, you're right. There's nothing I can say.
+M	DON	Go ahead. Bawl me out, Wick, let me have it. Why don't you take that bottle and smash it over my face.
+M	WICK	It's a quarter of eight. I suppose they're still in that hotel, waiting for you.
+M	DON	Call her up, Wick, will you? Tell her something. Tell her I'm sick. Tell her I'm dead.
+M	DON	Will you call her?
+M	WICK	Yes, I'll call her.
+M	DON	She must have written them a lot of nice things about me. What a gentleman I am. A prince.
+M	WICK	Which hotel is it?
+M	DON	The Manhattan. Mr. and Mrs. Charles St. James from Toledo, Ohio.
+M	WICK	Get up, Don.
+M	WICK	Just a minute, Helen.
+F	HELEN	Hello, Wick. Is Don here?
+M	WICK	Don? No.
+F	HELEN	Any idea where he could be?
+M	WICK	Wasn't he meeting you?
+M	HELEN'S VOICE	He was supposed to meet us for lunch, then he telephoned he'd be late. Mother's beginning to think I just made him up.
+F	HELEN	Do you suppose something's happened to him?
+M	WICK	Nonsense.
+F	HELEN	But surely he'd have called back if he were all right.
+M	WICK	Where did he call you from?
+F	HELEN	I don't know.
+M	WICK	I think I've got an idea. He called from out of town.
+F	HELEN	Out of town? Where?
+M	WICK	Philadelphia.
+F	HELEN	What's he doing in Philadelphia?
+M	WICK	There's an opening on the Philadelphia Inquirer, The Book Section. Don wrote them. He wired. I think this morning early he just took a train.
+F	HELEN	He never told me a word about it.
+M	WICK	I'm not supposed to tell you either. He wanted it to be a surprise.
+F	HELEN	He did!
+M	WICK'S VOICE	He probably couldn't get to the right people right away, missed a train. You know how it is.
+M	HELEN'S VOICE	Oh, it would be just wonderful if he got the job and started working. Or would it, Wick, with him in Philadelphia and me in New York?
+F	HELEN	Don't ever tell him I said that though, will you?
+M	WICK	Of course not.
+F	HELEN	I could never understand why somebody like Don, a person with so much talent, such flashes of real brilliance... Maybe I'm a little prejudiced.
+F	HELEN	What are you doing, Wick?
+M	WICK	Nothing, Helen.
+F	HELEN	Where'd that bottle come from?
+M	WICK	It just rolled out.
+F	HELEN	From under the couch?
+M	WICK	Yes, Helen. It's my guess that Don caught an early train.
+F	HELEN	Is that Don's bottle?
+M	WICK	What makes you think that?
+F	HELEN	There was a bottle the first time we met.
+M	WICK	There was?
+F	HELEN	It fell out of Don's pocket.
+M	WICK	It was for me, Helen.
+M	WICK'S VOICE	This one is mine, too. You might as well hear the family scandal. I drink.
+M	WICK	Don thinks I drink too much.
+M	WICK	I had to promise I'd go on the wagon. That's why I hid the bottle, so he wouldn't see it.
+F	HELEN	I'm so sorry, Wick. I shouldn't have started asking questions. It was none of my business.
+M	WICK	Forget it.
+M	HELEN'S VOICE	I'd better be getting back to the hotel. Don may be there already. And don't worry, Wick, I won't mention this to him.
+M	WICK'S VOICE	Thank you, Helen.
+M	HELEN'S VOICE	Goodbye, Wick.
+M	WICK'S VOICE	Goodbye.
+M	DON	Helen!
+M	DON	I'm sorry, Helen. I can't let you go. Not like that.
+F	HELEN	Don!
+M	WICK	Shut your mouth, Don. I'll take you downstairs.
+M	DON	Thank you very much for your Philadelphia story, Wick. Nice try.
+M	DON	That looks so silly on you.
+M	WICK	Don't listen to him.
+M	DON	You don't have to. Just look at the two of us.
+F	HELEN	Yes. What's all this covering up?
+M	WICK	All that happened is that Don was nervous at the idea of meeting your parents and so he took a couple of drinks.
+M	DON	Come on, Wick, she'd have found out sooner or later.
+F	HELEN	Stop it, both of you. Don's a little tight. Most people drink a little. A lot of them get tight once in a while.
+M	DON	Sure. The lucky ones who can take it or leave it. But then there are the ones who can't take it, but can't leave it either. What I'm trying to say is I'm not a drinker. I'm a drunk. They had to put me away once.
+M	WICK	He went to a cure.
+M	DON	Which didn't take. That first day we met, you see, the dirty trick was I should have had the decency to get drunk, just for your sake.
+F	HELEN	For my sake? We're talking about you. Is it really that bad, Wick?
+M	DON	Yes, it is.
+M	WICK	Can't we go over this tomorrow, Don when you're feeling more like yourself?
+M	DON	Helen's heard the facts. That's all there is to it.
+F	HELEN	I've heard them and they're not very pleasant. But they could be worse. After all, you're not an embezzler or a murderer. You drink too much. That's not fatal. One cure didn't take. There are others.
+M	WICK	Of course there are.
+M	DON	This has a familiar ring.
+F	HELEN	There must be a reason why you drink. The right doctor can find it.
+M	DON	I'm way ahead of the right doctor. I know the reason. The reason is me. What I am. Or, rather, what I'm not.
+F	HELEN	What aren't you that you want to be, Don?
+M	DON	A writer. Silly, isn't it? You see, in college I passed for a genius. They couldn't get out the college magazine without one of my stories. Boy, was I hot. Hemingway stuff. I reached my peak when I was nineteen. Sold a piece to the Atlantic Monthly. It was reprinted in the Readers' Digest. Who wants to stay in college when he's Hemingway? My mother bought me a brand new typewriter, and I moved right in on New York. Well, the first thing I wrote, that didn't quite come off. And the second I dropped. The public wasn't ready for that one. I started a third, a fourth, only about then somebody began to look over my shoulder and whisper, in a thin, clear voice like the E- string on a violin. Don Birnam, he'd whisper, it's not good enough. Not that way. How about a couple of drinks just to put it on its feet? So I had a couple. Oh, that was a great idea. That made all the difference. Suddenly I could see the whole thing -- the tragic sweep of the great novel, beautifully proportioned. But before I could really grab it and throw it down on paper, the drink would wear off and everything be gone like a mirage. Then there was despair, and a drink to counterbalance despair, and one to counterbalance the counterbalance. I'd be sitting in front of that typewriter, trying to squeeze out a page that was halfway decent, and that guy would pop up again.
+F	HELEN	What guy? Who are you talking about?
+M	DON	The other Don Birnam. There are two of us, you know: Don the drunk and Don the writer. And the drunk will say to the writer, Come on, you idiot. Let's get some good out of that portable. Let's hock it. We'll take it to that pawn shop over on Third Avenue. Always good for ten dollars, for another drink, another binge, another bender, another spree. Such humorous words. I tried to break away from that guy a lot of ways. No good. Once I even bought myself a gun and some bullets. I meant to do it on my thirtieth birthday.
+M	DON	Here are the bullets. The gun went for three quarts of whiskey. That other Don wanted us to have a drink first. He always wants us to have a drink first. The flop suicide of a flop writer.
+M	WICK	All right, maybe you're not a writer. Why don't you do something else?
+M	DON	Yes, take a nice job. Public accountant, real estate salesman. I haven't the guts, Helen. Most men lead lives of quiet desperation. I can't take quiet desperation.
+F	HELEN	But you are a writer. You have every quality for it. Imagination, wit, pity --
+M	DON	Come on, let's face reality. I'm thirty-three and I'm living on the charity of my brother. Room and board free, and fifty cents a week for cigarettes. An occasional ticket for a concert or a show, out of the bigness of his heart. And it is a big heart, a patient heart.
+M	WICK	Now, Don, I'm just carrying you along for the time being.
+M	DON	Shut up, Wick. I've never done anything, I'm not doing anything, I never will do anything. Zero, zero, zero.
+F	HELEN	Now you shut up. We'll straighten it out.
+M	DON	Look. Wick has the misfortune to be my brother. You just walked in on this, and if you know what's good for you, you'll turn around and walk out again. Walk fast and don't turn back.
+F	HELEN	Why don't you make some coffee, Wick? Strong. Three cups.
+M	DON	Do yourself a favor, Helen. Go on, clear out.
+F	HELEN	Because I've got a rival? Because you're in love with this? You don't know me, Don. I'm going to fight and fight and fight. Bend down.
+M	DON	That was three years ago, Nat. That's a long time to keep fighting, to keep believing. They'd try a health farm, a psychiatrist, a sanatorium in New Jersey, No go. She'd be patient. She'd be gay. She'd encourage him. She'd buy a new ribbon for his typewriter -- a two-color job, black and red. Just write, Don. Keep writing. That first paragraph came off so well... There was no second paragraph. There were drinks. Drinks sneaked in secret. In the bathroom, here, in Harlem. Promises again, lies again. But she holds on. She knows she's clutching a razor blade but she won't let go. Three years of it.
+M	NAT	And what? How does it come out?
+M	DON	I don't know. Haven't figured that far.
+M	NAT	Want me to tell you? One day your guy gets wise to himself and gets back that gun. Or, if he's only got a dollar ten, he goes up to the Empire State Building, way up on top, and then -- Or he can do it for a nickel, in a subway under a train.
+M	DON	Think so, Nat? What if Helen is right, after all, and he sits down and turns out something good -- but good -- and that pulls him up and snaps him out of it?
+M	NAT	This guy? Not from where I sit.
+M	DON	Shut up, Nat. I'm going to do it. I'm going to do it now. It's all there. You heard it.
+M	NAT	Yes, Mr. Birnam.
+M	DON	That's why I didn't go on that weekend, see, so I can be alone up there and sit down at my typewriter. This time I'm going to do it, Nat. I'm going to do it.
+M	NAT	By gosh, maybe you will.
+M	DON	Thank you, Nat. Am I all paid up?
+M	NAT	Yes, Mr. Birnam.
+M	DON	Goodbye, Nat. I'm going home. This time I've got it. I'm going to write.
+M	NAT	Good luck, Mr. Birnam.
+M	THE BOTTLE	A Novel by Don Birnam
+M	DON	You had another bottle, you know you did. Where did you put it? You're not crazy. Where did you put it?
+M	HARRY'S & JOE'S	Where Good Liquor Flows 13 W. 52nd St.
+M	DON	Where is my check.
+M	WAITER	Right here, sir.
+M	WAITER	Yes, sir.
+M	DON	One more gin vermouth.
+M	WAITER	Yes, sir.
+M	DON	Thank you. Where is your wash room?
+M	WAITER	Over there, sir.
+M	ATTENDANT	How's about a carnation, sir?
+M	CUSTOMER	What for?
+M	ATTENDANT	For your buttonhole, sir.
+M	CUSTOMER	Okay.
+M	ATTENDANT	Right here, sir.
+M	DON	Wipe my shoes, will you?
+M	ATTENDANT	Yes, sir.
+M	ATTENDANT	How's about a carnation?
+M	DON	I took one.
+M	ATTENDANT	You did, sir?
+M	DON	Yes, for a very kind lady.
+M	WAITER	That's him. That's the man.
+M	HEADWAITER	You were sitting here, sir?
+M	DON	I beg your pardon.
+M	M.M.'S ESCORT	You took this lady's bag, didntcha? Come on, give it back.
+M	DON	Of course.
+M	M.M.'S ESCORT	Somebody call a cop.
+M	M.M.	No, George, no. It doesn't matter as long as I have the bag.
+M	M.M.'S ESCORT	Well, look in it. Maybe he's taken something.
+M	DON	Ten dollars, to be exact.
+M	M.M.'S ESCORT	I ought to kick your teeth in.
+M	M.M.	George, George! He's drunk.
+M	HEADWAITER	Get out of here.
+M	WAITER	How about the check?
+M	DON	Exactly. That's why I had to borrow from the lady. I didn't have enough.
+M	DON	I'll come back and pay the rest.
+M	HEADWAITER	Don't you show your face here again ever. Mike! Mike! Come on, Charlie.
+M	DON	I assure you I'm not a thief. I'm not a thief!
+M	DON	Stop it, Helen, stop it, stop it. I'm all right. I just can't talk. Stop it.
+M	DON	You'll never make it. You'll never make that hock shop. It's a block and a half away.
+M	DON	This isn't Sunday, is it, lady?
+M	WOMAN	Huh?
+M	DON	I asked is this Sunday.
+M	WOMAN	No, Sattaday. Why?
+M	DON	Because it's closed. Nothing else is closed.
+M	WOMAN	Well, somebody passed away, most likely.
+M	DON	What's going on? What is it? Did you all go to a funeral, all of you? Maybe it's you that died, Don Birnam. Maybe it's your funeral.
+M	1ST MAN	What's the matter with you?
+M	DON	Why are they all closed? They're all closed, every one of them.
+M	1ST MAN	Sure they are. It's Yom Kippur.
+M	DON	It's what?
+M	1ST MAN	It's Yom Kippur, a Jewish holiday.
+M	DON	It is.
+M	DON	What are you talking about? How about Kelly's? How about Gallagher's?
+M	1ST MAN	They're closed too. We've got an agreement. They keep closed on Yom Kippur and we don't open on St. Patrick's.
+M	DON	That's a good joke. That's funny, that's very funny.
+M	DON	Nat --
+M	NAT	What's the matter, Mr. Birnam?
+M	DON	Let me have one, Nat. I'm dying. Just one.
+M	NAT	I thought you were home writing that book.
+M	DON	They're playing a trick on me. A dirty trick. Give me one, Nat. I'll pay you when I can. Just don't let me die here.
+M	NAT	No credit, and you know it.
+M	DON	All right, so it's charity. I'm begging you for one. Give me one.
+M	NAT	Yeah, one. One's too many and a hundred's not enough.
+M	NAT	That's all.
+M	DON	Come on, Nat, come on. I'll let you have my typewriter.
+M	NAT	I'm no writer. You're the writer. Now go. Go away.
+M	DON	Nat --
+M	NAT	I mean it. Get out.
+M	GLORIA'S VOICE	Who is it?
+M	GLORIA'S VOICE	Who is it?
+M	DON	It's me.
+F	GLORIA	Why, Mr. Birnam, as I live and breathe! Only if you're coming for our date, you're a little late, aren't you, Mr. Birnam? And if you're coming to apologize -- no thanks. Thanks a lot, but no thanks.
+M	DON	Gloria --
+F	GLORIA	Save your saliva. I've had enough of you. Def, but def. What do you think I am? I break a business date. I buy an evening purse, a facial, a new hair-do. Well, maybe you can do that to your ritzy friends. You can't to me, understand?
+M	DON	Gloria.
+F	GLORIA	Okay, what do you want, Mr. Don Birnam Esquire?
+M	DON	I need some money.
+F	GLORIA	You what?
+M	DON	Could you let me have some money?
+F	GLORIA	Say, you out of your mind? Don't be ridic. Get out of here. Make with those stairs. Go on!
+F	GLORIA	I was waiting half the night, like it was the first date I ever had. And the other half I was crying. How much money?
+M	DON	Could you let me have ten or five, or something?
+F	GLORIA	I'll see.
+F	GLORIA	You look awful sick, honey. You got a fever or something?
+M	DON	I'm all right now.
+F	GLORIA	Thank you a lot. You do really like me a little, don't you, honey?
+M	DON	Why, natch, Gloria. Natch.
+M	NAGGING WOMAN'S VOICE	Gloria, where are you?
+F	GLORIA	Coming.
+M	DON	Nat! I've got money now, Nat, I've got money!
+M	DON	I need a straight one, Nat! Quick, quick!
+M	DON	Nat. I got the money, Nat.
+F	MRS. DEVERIDGE	Good morning.
+F	MRS. DEVERIDGE	Anything wrong up there? Anything wrong?
+F	MRS. DEVERIDGE	Are you all right?
+F	HELEN	I'm fine, thank you.
+F	MRS. DEVERIDGE	Have you been here all night?
+F	HELEN	I've been waiting for Mr. Birnam.
+F	MRS. DEVERIDGE	Mr. Don Birnam?
+F	HELEN	Yes. I suppose he must have stayed overnight with -- some friends. He has some friends on Long Island.
+F	MRS. DEVERIDGE	Now, now, what kind of story is that?
+F	HELEN	I beg your pardon?
+F	MRS. DEVERIDGE	Look, I'm his landlady. I know what goes on in this house. I know Mr. Don Birnam. I knew all about him the first week they moved here, three years ago. Heard those bottles rattle in their garbage can. I know all about you. You're Don Birnam's girl. I also know he's not staying with any friends in Long Island. He's off on another toot and you know I'm darned right. Now come on down and I'll make you some breakfast.
+F	HELEN	I don't care for any breakfast, nor do I care for that kind of talk, even supposing you were right.
+F	MRS. DEVERIDGE	Which I am. Now you're going to have some coffee.
+F	MRS. DEVERIDGE	I could have kicked him out fifty times. The last when two taxi drivers dumped him into the entrance hall, out cold on the floor, with all my tenants going in and out, and children leaving for school.
+F	HELEN	Oh please, please!
+F	MRS. DEVERIDGE	Well, I didn't put him out, not as long as his brother could pay the rent. You couldn't help liking him anyway. He was so good-looking, he had such nice manners. He always had a little joke.
+F	HELEN	Stop talking about him as if he were dead.
+F	MRS. DEVERIDGE	Did I? I didn't mean to. Hope it wasn't bad luck.
+M	DON	What's this place?
+M	DON	Hey, you, what's this place?
+M	DON	I'm talking to you.
+M	BIM	Good morning, merry sunshine. How's your head?
+M	DON	Where am I? What is this?
+M	BIM	This? This is the Hangover Plaza.
+M	DON	What hospital is this?
+M	BIM	Alcoholic Ward. How's the head?
+M	DON	It aches.
+M	BIM	We thought you'd fractured her till we seen the X-rays. All in one piece. Just a concussion.
+M	DON	Why did they put me in the Alcoholic Ward?
+M	BIM	Are you kidding? We took a peek at your blood. Straight applejack. Ninety- six proof.
+M	DON	What day is this?
+M	BIM	Sunday. These yours? They fell out of somebody's pocket. You and the colored fellow was being undressed at the same time.
+M	DON	They're mine.
+M	DON	Are you a doctor?
+M	BIM	Nope. I'm a nurse. Name of Dolan. They call me Bim. You can call me Bim.
+M	BIM	What's your name?
+M	DON	Birnam.
+M	BIM	What kind of Birnam?
+M	DON	Don Birnam.
+M	BIM	Where do you live?
+M	DON	Two hundred and nine East Fif -- Say, what do you need that for?
+M	BIM	For the post card.
+M	DON	What post card?
+M	BIM	To your folks, so's they'll know where honey-boy is and where they can pick him up when he's feeling better.
+M	DON	No address.
+M	BIM	Okay. We'll get it out of the telephone book, or the directory, or maybe you've got it in your wallet.
+M	DON	No post card. Understand? Nobody's going to pick me up.
+M	BIM	The management insists. If we let you guys go home alone a lot of you don't go home. You hit the nearest bar and bounce right back. What we call the Quick Ricochet.
+M	DON	Listen, I'm as well as you are. I can leave right now.
+M	BIM	You think so?
+M	DON	Where are my clothes?
+M	BIM	Downstairs.
+M	DON	How do I get out of this place?
+M	BIM	Right through here.
+M	GUARD	Where do you think you're going?
+M	DON	To get my clothes.
+M	GUARD	You got your discharge?
+M	DON	My what?
+M	GUARD	Your release?
+M	DON	I'm all right. Let me out.
+M	GUARD	Go on, get back.
+M	DON	Keep your hands off me.
+M	BIM'S VOICE	Birnam!
+M	BIM	Come here, Birnam.
+M	DON	Is this a jail?
+M	BIM	Well, this department -- it's kind of halfway hospital, halfway jail, but we run it more like a flophouse.
+M	DON	Listen, Bim, in my clothes there's five dollars. That's for you if only you won't send that post card.
+M	BIM	Nothing doing.
+M	DON	I don't want anybody to know.
+M	BIM	Listen, your folks might as well get used to our little post cards,
+M	DON	What are you talking about?
+M	BIM	There'll be more of them, You'll be back.
+M	DON	Shut your face.
+M	BIM	Listen, I can pick an alky with one eye shut. You're one and you'll come back. They all do.
+M	BIM	Him, for instance. He turns up every month, just as sure as the gas bill. And him there. That's another repeater. This is his forty-fifth time. Big executive in the advertising business, A lovely fellow. Been coming here ever since 1927. Good old prohibition days. You should have seen the place then. Say, this is nothing. Back then we had really a turnover. Standing room only. Prohibition! That's what started half these guys off. Whoopee!
+M	BIM	Now lie down like a good boy and drink this.
+M	DON	What is it?
+M	BIM	Doctor's orders. It'll calm you down.
+M	DON	I don't want it.
+M	BIM	You better take it. Come the night there's apt to be a little floor show around here. Might get on your nerves.
+M	DON	Floor show?
+M	BIM	Didn't you ever have the D.T.'s?
+M	DON	No.
+M	BIM	You will, brother.
+M	DON	Not me.
+M	BIM	Want to make a small bet? You're just a freshman. Wait till you're a sophomore. That's when you start seeing the little animals. Drink it.
+M	DON	I don't want it.
+M	BIM	That stuff about pink elephants, that's the bunk. It's little animals. Little tiny turkeys in straw hats. Midget monkeys that come through the key-holes. See that guy in the corner?
+M	BIM	With him it's beetles. Comes the night, he sees beetles crawling all over him. Has to be dark, though. It's like the doctor was saying to me, "Delirium is a disease of the night." Well, good night.
+M	NURSE	Straitjacket! And the doctor!
+M	DOCTOR	Get him up to the violent ward.
+M	3RD MALE NURSE	Help me with this one, will you, Doc?
+M	1ST NURSE	Violent ward. Get the elevator.
+M	DON	I want a quart of rye. Quick.
+M	PROPRIETOR	All right if I take off my coat first?
+M	DON	No.
+M	DON	No cracks, no questions. Just a quart of rye.
+M	PROPRIETOR	That'll be two fifteen.
+M	DON	Give it to me.
+M	PROPRIETOR	Two fifteen.
+M	DON	Come on. I need that liquor, I want it, I'm going to get it. I'm going to walk out of here with that quart of rye, understand. One way or another.
+F	MRS. DEVERIDGE	Shut up, Sophie! Shut up!
+F	MRS. DEVERIDGE	Miss St. James?... He's back. He's upstairs... This is Mrs. Deveridge. He's back! In the apartment. I heard him yelling. He's just got to remember that there are other tenants... Miss St. James? Miss St. James?
+F	HELEN	Don, open the door. Open it, please.
+M	HELEN'S VOICE	Don, won't you let me in? I know you're there. Please open the door.
+F	HELEN	Don, don't you hear me? I want to help you.
+M	HELEN'S VOICE	I won't go away, Don. Do I have to get the janitor with the pass key to let me in?
+F	MRS. DEVERIDGE	Dave! Dave!
+M	DAVE'S VOICE	Yes, Mrs. Deveridge?
+F	MRS. DEVERIDGE	Come on up with the pass key.
+F	HELEN	Thank you very much.
+F	MRS. DEVERIDGE	You'd better let us come too. You can't go in there alone.
+F	HELEN	I'll be fine, thank you.
+F	HELEN	Don, darling --
+M	DON	Go away, Helen.
+F	HELEN	I'm here to help you, Don.
+M	DON	No, no.
+F	HELEN	Look at you. How long is it since you've had anything to eat?
+F	HELEN	You want to get up, Don. Put your hand on my shoulder.
+F	HELEN	You'll have a bath. I'll help you shave. You'll eat and sleep, and when Wick comes back everything will be all right.
+M	DON	No, Helen, no!
+F	HELEN	What's the matter, Don?
+M	DON	The wall. Don't look.
+F	HELEN	What wall?
+M	DON	The mouse and the bat.
+F	HELEN	What mouse? What bat?
+M	DON	That hole in the wall --
+F	HELEN	There isn't any hole in the wall. Look.
+F	HELEN	See?
+F	HELEN	You had some kind of a nightmare.
+F	HELEN	Stop shaking, Don. Everything will be all right. I'll stay right with you.
+M	DON	Little animals. It's always little animals. That's what Bim said.
+F	HELEN	You're not making much sense.
+M	DON	And do you know what Nat said about the ending? Like this. Or like that.
+M	HELEN'S VOICE	Don! Don!
+F	HELEN	Where are you going, Don?
+F	HELEN	All right, Don. Give me the pawn ticket.
+M	DON	No scene, please.
+F	HELEN	No scene. Just give me the pawn ticket.
+M	DON	I don't want you to go in there now claiming it. It would look queer.
+F	HELEN	You're ashamed of what the pawn broker may think, is that it? It doesn't matter what I think.
+M	DON	Wick'll get you back your coat.
+F	HELEN	You couldn't have taken my bracelet or my pay check? It had to be that coat?
+M	DON	You mean the one that brought us together? Stop being sentimental.
+F	HELEN	I have, Don, I assure you. It's finished. It's dead. For three years they couldn't talk me out of you. I was the only one who really understood you. I knew there was a core of something... And there was a core, and now I know what it is. A sponge. And to soak it full you'll do anything ruthless, selfish, dishonest.
+M	DON	I asked you not to make a scene.
+F	HELEN	Then give me the ticket.
+M	DON	No, Helen, not now I told you. Cut it out.
+F	HELEN	I don't want the money. You can get as drunk as you like for all I care.
+M	DON	Thank you.
+F	HELEN	A gentleman was here a while ago. How much did you give him for that coat?
+M	PAWN BROKER	Huh?
+F	HELEN	I want it back. It's my coat.
+M	PAWN BROKER	It's your coat?
+F	HELEN	It's all right. He had my permission. How much did you give him?
+M	PAWN BROKER	He didn't want any money. He wanted to swap it.
+F	HELEN	For what?
+M	PAWN BROKER	Something he hocked here a long while back.
+F	HELEN	What?
+M	PAWN BROKER	A gun. Now if you want that coat I can --
+M	DON	What is it, Helen?
+F	HELEN	Thank you very much.
+M	DAVE	That's all right, Miss.
+M	DON	What's the matter? Come on.
+F	HELEN	Nothing's the matter, except the rain's worse and I can't get a taxi. Perhaps you can lend me a coat under the circumstances.
+M	DON	Sure. How about my raincoat?
+F	HELEN	Funny, after all these years we should wind up just as we met -- I with your raincoat --
+M	DON	And I with your leopard coat. I always got the best of the bargain. Goodbye, Helen.
+F	HELEN	Goodbye.
+M	DON	What are you looking for?
+F	HELEN	I just thought if you had anything for my head -- Would you care to wear my black bowler?
+F	HELEN	Some old scarf or something.
+M	DON	All right.
+M	DON	Here you are.
+F	HELEN	Thanks.
+M	DON	Well, goodbye.
+F	HELEN	Oh, Don, there was still some whiskey left in the bottle when I cleaned up last night.
+M	DON	Was there?
+F	HELEN	Would you like to know where I put the bottle?
+M	DON	No.
+F	HELEN	Don't you want a drink, Don?
+M	DON	No.
+F	HELEN	Just one. Look, it's right here.
+M	DON	What are you up to?
+F	HELEN	Nothing. I'm just ashamed of the way I talked to you, like a narrow-minded, insensitive, dried-up, small-town teetotaller.
+M	DON	I don't feel like a drink. Not now, I told you.
+F	HELEN	Come on, Don. Just one. I'll have one with you. I'm in no hurry. This is my easy day at the office.
+M	DON	Helen, there are a few things I want to put in order before Wick comes.
+F	HELEN	Let me stay.
+M	DON	No.
+M	DON	I'm sorry. You'll have to run along.
+M	DON	Don't let me bend for nothing.
+F	HELEN	You need this, Don. Drink it. I want you to drink it. I'll get you some more. I'll get you all you want.
+M	DON	What kind of talk is that?
+F	HELEN	It's just that I'd rather have you drunk than dead.
+M	DON	Who wants to be dead?
+F	HELEN	Stop lying to me.
+M	DON	Give it to me.
+M	DON	Helen!
+M	DON	Let go!
+M	DON	Go on now.
+M	DON	And no fuss, please. Don't call in the neighbors. It won't do any good, I promise you.
+F	HELEN	I won't. You've made up your mind. Could you tell me exactly why?
+M	DON	Because it's best all around, for everybody. For you, for Wick, for me.
+F	HELEN	That's not true. We love you, Wick and I.
+M	DON	All right. Just for me, then. Selfish again.
+F	HELEN	That's a sad final word, Don.
+M	DON	Look at it this way, Helen. This business is just a formality. Don Birnam is dead already. He died over this weekend.
+F	HELEN	Did he? What did he die of?
+M	DON	Of a lot of things. Of alcohol, of moral anemia, of fear, of shame, of D.T.'s.
+F	HELEN	Oh, that Don Birnam. And now you want to kill the other one.
+M	DON	What other?
+F	HELEN	There were two Dons. You told me so yourself. Don the drunk and Don the writer.
+M	DON	Let's not go back to a fancy figure of speech. There's one Don, and he's through.
+F	HELEN	Don --
+M	DON	I'm all right. I have enough strength left.
+F	HELEN	I know you have. I can see it. Don't waste it on pulling a trigger, Don.
+M	DON	Let me get it over. Or do you want me to give you another one of my promises that I never keep?
+F	HELEN	I don't want you to give me your promise. I don't want you to give your promise to anybody but Don Birnam.
+M	DON	To me? It's too late. I wouldn't know how to start.
+F	HELEN	The only way to start is to stop. There's no cure besides just stopping.
+M	DON	Can't be done.
+F	HELEN	Other people have stopped.
+M	DON	People with some purpose, with something to do.
+F	HELEN	You've got your talent, your ambition.
+M	DON	Talent. Ambition. That's dead long ago. That's drowned. That's drifting around with a bloated belly on a lake of alcohol.
+F	HELEN	It's not. You still have it.
+M	DON	Oh, Helen, I couldn't write. What do you expect, a miracle?
+F	HELEN	Yes, yes, yes! If I could only make you see --
+M	DON	Who is it?
+M	NAT'S VOICE	It's me, Mr. Birnam.
+M	DON	What is it, Nat?
+M	NAT	I got something for you.
+M	NAT	You know when you had your accident? Well, afterwards I found this floating around on the Nile.
+M	DON	Thank you, Nat.
+M	NAT	She writes real good. I oiled her up a little. And I didn't oil her up so you can hock her.
+F	HELEN	I'll take it, Nat.
+M	NAT	Hello, Miss.
+M	NAT	Goodbye, everybody. How's all them lilacs in Ohio?
+F	HELEN	Well, Don. here it is. What do you say now?
+M	DON	Say about what?
+F	HELEN	This. Someone, somewhere, sent it back. Why? Because He means you to stay alive, because He wants you to write. I didn't ask for a big miracle.
+M	DON	Write! With these hands? And a brain that's all out of focus?
+F	HELEN	It'll clear up again. You'll be well.
+M	DON	And I'll be sitting there in front of that white piece of paper, scared.
+F	HELEN	No you won't. You've forgotten what it feels like to be well.
+M	DON	And what will I write about? What?
+F	HELEN	What you always wanted to write. Where's that page? "The Bottle. A Novel by Don Birnam." What was that going to be?
+M	DON	About a messed-up life. A man, a woman and a bottle. Nightmares, horrors, humiliations, things I want to forget.
+F	HELEN	Put them on paper. Get rid of them that way. Tell it all, to whom it may concern. It concerns so many people, Don.
+M	DON	Yeah.
+F	HELEN	I'll fix us some breakfast.
+M	DON	We have quite a supply of milk.
+M	DON'S VOICE	You'll notice I didn't even find a first line.
+F	HELEN	Of course you couldn't write the beginning because you didn't know the ending. Only now --
+F	HELEN	Only now you know the ending.
+M	DON	I'll send one copy to Bim, one to that doctor who loaned me his coat, and one to Nat. Imagine Wick standing in front of a book store. A great big pyramid of my books. A Novel by Don Birnam. "That's my brother, you know."
+F	HELEN	That's by my fellow. Didn't I always tell you?
+M	DON	I'm going to put the whole weekend down, minute by minute.
+F	HELEN	Why not?
+M	DON	The way I stood in there, packing my suitcase...
+M	DON'S VOICE	Only my mind wasn't on the suitcase, and it wasn't on the weekend. It wasn't on the shirts I was putting in, either. My mind was hanging outside the window. It was suspended about eighteen inches below the sill... And out there in that great big concrete jungle, I wonder how many others there are like me. Poor bedevilled guys, on fire with thirst. Such comical figures to the rest of the world, as they stagger blindly towards another binge, another bender, another spree...

@@ -1,0 +1,744 @@
+M	CHARACTER	DIALOGUE
+M	HAP (O.S.)	Jesus. Just look at all that. I thought we had a population problem. Everyone should just move up here. Just look at it, Will.
+M	WILL	I don't need to look at it.
+M	HAP	Nothing wrong with smelling the roses.
+M	WILL	Tell that to her, partner. Detective? Better check your belts. We'll be landing in about fifteen minutes.
+M	OLD MAN (O.S.)	Eleanor?
+F	ELLIE	Hey, Mr. Angstrom!
+M	MR. ANGSTROM	What're you doing here?
+F	ELLIE	Police business.
+M	MR. ANGSTROM	Police business?
+M	MR. ANGSTROM (cont'd)	Didn't you used to baby-sit for us?
+F	ELLIE	I don't babysit any more, Mr. Angstrom. Just made detective three weeks ago.
+M	MR. ANGSTROM	Boy, Charlie must be short-handed down at the station.
+M	WILL	"Halibut fishing capital of the world."
+M	HAP	This ought to be interesting.
+F	ELLIE	Detective Dormer! It's a huge honor to meet you! Ellie Burr. I'm here to take you to the station!
+M	WILL	My partner...
+F	ELLIE	Detective Eckhart! I know! Welcome to Nightmute!
+F	ELLIE	I just want to say how incredible it is to have you working with us, Detective Dormer. I've followed all your cases. Theodore Dineli, Frank and Casey Prud'homme, the Port Angeles shootings...
+M	ELLIE (cont'd)	...And especially the Leland Street Murders. That was my case study at the Academy.
+M	PILOT	Tell your dad the game's gonna start late this week, Ellie.
+F	ELLIE	Sure thing, Spence. That's where Ronald Langley cut you in the basement of his father's house on 325 Leland, isn't it?
+M	WILL	You did your homework, Officer.
+F	ELLIE	Actually...
+F	ELLIE	I just made detective three weeks ago.
+M	CHIEF NYBACK (O.S.)	Will Dormer!
+M	CHIEF NYBACK	I'll be damned!
+M	WILL	How you doing, Charlie?
+M	HAP	Hey, Charlie.
+M	CHIEF NYBACK	Christ. I haven't seen you boys since...
+M	WILL	Just after Leland Street.
+M	CHIEF NYBACK	What's that, then?
+M	HAP	Eight years.
+M	WILL	Seven years.
+M	CHIEF NYBACK	Seven years? Where does it all go? That was some amazing time, though, wasn't it?
+M	CHIEF NYBACK (cont'd)	You haven't changed a bit, Will.
+M	WILL	You have, Chief.
+M	CHIEF NYBACK	I knew that was coming. I deserve it. Pay attention to this man, Ellie. He'll teach you how to be a great cop.
+F	ELLIE	Yes, sir.
+M	CHIEF NYBACK	That's all, for now.
+F	ELLIE	Oh. Right. Okay.
+M	WILL	Nice kid.
+M	CHIEF NYBACK	Got a love affair with police work. Drives me crazy with it.
+M	WILL	Keeping you busy up here, Charlie?
+M	HAP	"2nd prize Great Kodiak Salmon Catch."
+M	CHIEF NYBACK	I told you seven years ago this was a stepping stone to retirement. Looks like it's a good time for you to get up here, too. With all the bad business going on down at Special Branch.
+M	CHIEF NYBACK (cont'd)	Just five bad apples so far?
+M	WILL	So far.
+M	CHIEF NYBACK	What's the D.A. got them on?
+M	WILL	Four unwarranted shootings, witness intimidation, and cocaine theft.
+M	CHIEF NYBACK	How about you? How you faring?
+M	HAP	They're all over us, Charlie.
+M	WILL	They're all over everybody.
+M	HAP	I.A.'s calling themselves the "Corruption Task Force." Can you believe that? Trying to root out any mistakes or "oversights" any other Detectives may have made over the years. They're turning it into a witch hunt. Something on the news about it practically every night.
+M	CHIEF NYBACK	Got a bunch of messages here from some guy named Warfield.
+M	WILL	That's I.A.'s pit bull.
+M	CHIEF NYBACK	Wants me to keep him posted on all your movements up here.
+M	CHIEF NYBACK (cont'd)	I'm just glad Buck could spare you a couple of weeks. Take you out of the frenzy. I gotta tell you, though, I sure don't miss big city police work. Not that I was ever a great detective. But up here there's no Bureaucracy. No Public Relations. No blurred lines. Just good guys and bad guys. Simple.
+M	CHIEF NYBACK (cont'd)	Except for this.
+M	CHIEF NYBACK	Couldn't get a thing from the body. Not a trace. Town's never dealt with anything like this before.
+M	CHIEF NYBACK (cont'd)	I've briefed everybody about your coming. They know to follow your lead.
+M	CHIEF NYBACK	This is Detective Dormer and his partner Detective Eckhart. On loan from Buck Lundgard, Seattle Robbery and Homicide Special Branch. They'll be helping with the Connell case.
+M	FRED	Helping?
+M	CHIEF NYBACK	Anything they need to see, you show them; anywhere they want to go, you take them. This is Detective Fred Duggar. He's been leading the investigation up to now.
+M	WILL	Detective...
+M	FRED	Suppose you want to see the body.
+M	FRED	We can walk from here.
+M	WILL	Guess that's what they call Alaskan hospitality. Don't worry about him... He's just mad 'cause you're taking over.
+M	FRED	Ellie! Go type something!
+M	CORONER (O.S.)	Did a fundascopic examination and found papilledema and petechiae of the retina. Clear cause of death was herniation of the brain stem due to intracerebral hemorrhage.
+M	HAP	Beaten to death.
+M	CORONER	Beaten to death.
+M	WILL	What about these contusions?
+M	CORONER	Superficial.
+M	WILL	Any signs of rape?
+M	CORONER	None.
+M	CORONER (cont'd)	She was a nice girl. Played flute with my granddaughter.
+M	WILL	Wait. He washed her hair. Combed it. Cleaned under her fingernails. Clipped them. Toes, too. You found nothing on the body?
+M	FRED	No.
+M	WILL	No fibers, skin flakes, hairs...
+M	FRED	Like I said, no. We know about those things up here.
+M	WILL	He knew exactly what we'd be looking for. Made sure to cover up all his tracks.
+M	HAP	Even the best make mistakes.
+M	RACHEL (O.S.)	Lower forty-eight.
+M	HAP	Lower forty-eight?
+F	RACHEL	You're not from here. I can tell by your walk.
+M	HAP	Oh? And how's that?
+F	RACHEL	Unsure.
+M	WILL	Detectives Will Dormer and Hap Eckhart. There should be a reservation for us.
+F	RACHEL	Your friend's all business.
+M	WILL	I'm always all business. Is it really 9:30?
+F	RACHEL	Alaskan summers. Hope you're an easy sleeper. It'll be like this all night. Sign here.
+M	HAP (O.S.)	Me.
+M	WILL	Come on in.
+M	HAP	See you have the same decor as my room. Same view, too. I've been watching that tugboat for the last half hour. So small, pulling all that weight. We have to talk, Will.
+M	WILL	What do you want to talk about?
+M	HAP	You know what about.
+M	WILL	We'll talk when we get back to Seattle.
+M	HAP	When's that, a week? Two weeks?... We have to figure out a plan of action now.
+M	WILL	You know my plan of action.
+M	HAP	To do nothing.
+M	WILL	That's right.
+M	HAP	Dammit, Will. Warfield had me locked up in his office again for five hours yesterday. Five hours. Asking all kinds of questions...
+M	WILL	He's asking everybody questions.
+M	HAP	But he's zeroing in on me. On us. Everyone's talking about it.
+M	WILL	He's just rattling your cage.
+M	HAP	Well, I gotta tell you. With a wife, three kids, and a pension plan in the balance, it's rattling hard.
+M	WILL	We say nothing. It goes away. Simple as that.
+M	HAP	Look. We've tampered with evidence. We've pushed witnesses. We've planted shit. And they're sniffing around like dogs. Especially on the Dobbs case...
+M	WILL	Weston Dobbs killed an eight year-old boy and left him hanging in the basement like a piece of meat. You remember that?
+M	HAP	You know I remember that.
+M	WILL	One word to I.A. and he walks.
+M	HAP	Maybe not. We could talk to Buck...
+M	WILL	No way.
+M	HAP	Cut some kind of a deal. I heard that's what Flynn's doing...
+M	WILL	Mike Flynn's a dirty cop, Hap! We are nothing like Mike Flynn. We did what we needed to do to make sure that son-of- bitch Dobbs paid for what he did. And every bastard like him. We say one word about it and every case we ever brought in is going to blow wide open and they'll all walk. Every last one. And I am not going to let that happen. No deals. No compromises. No discussions.
+M	HAP	Goddammit, Will. You grab on to something and you don't let it go.
+M	HAP	I don't know if it's because you think it's the right thing to do or because your pride won't let you do anything else. I can't tell any more. But I can tell you one thing. I'm getting too old for this cowboy cop stuff. Breaking the rules. Cleaning up messes. We're a dying breed, Will. You're a dying breed. I.A., the D.A., all those reporters - they don't care what you did at Leland Street seven years ago. They don't care that you've made this your life. They don't care about getting the bad guy...
+M	WILL	I care.
+M	HAP (cont'd)	They're watching us, Will. Like it or not. They're watching us.
+M	WILL	You got to be kidding me.
+F	ELLIE	Fred wants us to meet him at the Connell's.
+F	ELLIE	Brought you a bear claw. Just in case you were hungry. Local delicacy.
+M	WILL	Think I'll pass. What kind of calls you get around here?
+F	ELLIE	Oh. You know. Small-time stuff. Nothing like what you must get. Mostly drinking-related problems. Domestic abuse. Barroom fights. Stuff like that.
+M	ELLIE (cont'd)	In the summer months it's pretty quiet. That's when there's work out on the boats. The rest of the year, though... Hey, there, Joe! That's Joe Willy. Took his family hostage in November. That was the most exciting thing that happened last year. I wasn't there, though. Chief barely lets me handle anything above a misdemeanor.
+M	WILL	Don't give misdemeanors a bad rap.
+F	ELLIE	But they're so boring. All small stuff.
+M	WILL	It's all about the small stuff. Small lies. Small mistakes. Small oversights. People give themselves away in a traffic violation just as much as they do in a murder case. It's human nature.
+M	WILL (cont'd)	Aren't you going to write that down?
+F	ELLIE	Let me just...
+M	MRS. CONNELL (O.S.)	I haven't tidied up, since Fred told me not to touch anything.
+M	MRS. CONNELL	I don't believe in keeping a child's room like a shrine.
+M	WILL	Typical seventeen year-old. She went to a party Friday night?
+F	ELLIE	Down at a local dive the kids like to hang out in.
+M	WILL	No diary.
+M	FRED	She left the party early. Friends said she had a fight with her boyfriend and stormed out.
+M	WILL	What time was that?
+M	FRED	Around twelve-thirty.
+M	WILL	Who was the last one to see her alive?
+M	FRED	Randy Stetz. Her boyfriend. We've questioned him, searched his place. Didn't find anything.
+M	WILL	These are designer. Expensive. Could Randy Stetz afford these?
+F	ELLIE	He fixes boat engines.
+M	WILL	Well her mother didn't buy them for her.
+M	HAP	What are we thinking?
+M	WILL	Kay Connell had an admirer.
+M	WILL (cont'd)	I want to talk to the boyfriend.
+M	WILL	You don't seem all that sad.
+M	RANDY	I haven't had a chance! You fuckers been all over my back since Monday!
+M	HAP	You know smoking stunts your growth.
+M	RANDY	Yeah, okay, fat-ass.
+M	HAP	More Alaskan hospitality.
+M	WILL	Did you love her?
+M	RANDY	Huh?
+M	WILL	Kay Connell. Did you love her?
+M	RANDY	Sure. She was nice.
+M	WILL	"She was nice." Wow. That makes me all soft inside. Ever occur to you she didn't love you back?
+M	RANDY	Huh?
+M	WILL	You heard me that time.
+M	RANDY	She loved me. She wanted to see me every night.
+M	WILL	But she was seeing someone else on the side.
+M	RANDY	I don't know what you're fucking talking about. Friday night, at the party - what'd you fight about?
+M	RANDY	Stuff.
+M	WILL	What kind of stuff?
+M	RANDY	Just stuff. I don't fucking remember.
+M	WILL	The other guy?
+M	RANDY	I told you I don't remember.
+M	WILL	After that she left the party to go to him.
+M	RANDY	How should I know?...
+M	WILL	Ran like hell to go to him...
+M	RANDY	Fuck you, man! - I'm sick of all your fucking cop questions...
+M	WILL	Now you listen to me, you little shit. This fuck-the-world-Metallica-t-shirt crap may work with your mamma, but it doesn't work with me. You got mad at your girlfriend because she was seeing someone else. You want to be the last person who saw her alive or are you going to tell me who that is?
+M	RANDY	I don't know.
+M	WILL	You don't know.
+M	RANDY	She didn't tell me.
+F	ELLIE	He's a little surly, isn't he?
+M	WILL	Just a little.
+M	WILL	I want you to check this out, Ellie.
+F	ELLIE	We already did.
+M	WILL	Do it again.
+F	ELLIE	But there wasn't any...
+M	WILL	The small things - remember? The second you're about to dismiss something - look at it again.
+F	ELLIE	You want me to write that down?
+M	WILL	Who's that?
+F	ELLIE	The bartender at Darrow's. He was there Friday night.
+M	WILL	Good. He's up next.
+M	WILL	Halibut Calabrese. Halibut Olympia. Halibut Cajun Style. Halibut fish and chips... Can't wait to see what's for dessert.
+M	HAP	At least there's variety.
+M	WILL	Looks like the natives are restless.
+M	HAP	Will? I think, I think I'm gonna talk to Buck when we get back to Seattle.
+M	HAP	I wish I could stick it out like you. I just, with Trish and the kids...
+M	WILL	Don't do this, Hap...
+M	HAP	I'm thinking I could get off with probation. Keep half my pension. That's all I want.
+M	WILL	Goddammit, Hap. Think about what you're doing...
+M	HAP	You don't have to be involved, Will.
+M	WILL	You tell Buck and I'm involved whether I like it or not... Ready to order?
+M	HAP	Hey - you do everything around here?
+F	RACHEL	Just about.
+M	WILL	I'll just have another Scotch in my room. If you don't mind.
+M	WILL	Where is it?
+F	ELLIE	Over here.
+M	WILL	We're sure it's hers?
+M	FRED	Has her books in it.
+M	HAP	What about prints?
+M	WILL	Biology and Algebra.
+M	WILL (cont'd)	Find out who she studied with.
+M	WILL (cont'd)	Make-up. Find out where she bought it. Lab.
+M	WILL (cont'd)	Otherwise Engaged, Murder at Sunset. Who here reads this kind of crap?
+M	FARRELL	I read that kind of crap.
+M	WILL	Read them. Tell me anything that strikes you. Lab.
+M	WILL (cont'd)	That's it.
+M	FRED	I'll stick it in the evidence locker...
+M	WILL	No. We put it back where we found it. You said it was a fishing cabin.
+M	FARRELL	Uh, right. About two miles outside of town.
+F	ELLIE	On the beach.
+M	FRED	Why are we taking it back?
+M	WILL	This murder was in the papers, right?
+F	ELLIE	Yeah. All over.
+M	WILL	Call all of them from here to Anchorage. Tell them we now know that Kay Connell left the party with a dark blue knapsack, but we haven't recovered it yet. We can get it in by the morning editions.
+M	WILL (cont'd)	Fill this with random books. Make it look heavy. It'll eat this guy alive if he thinks he overlooked a detail.
+M	HAP (O.S.)	Nice. Lighter than I remembered.
+M	FARRELL	Glock 40. All plastic save the barrel and firing pin. Never rusts. What do you carry down in Seattle?
+M	HAP	Smith and Wesson 45.
+M	FARRELL	Excellent! Brought some coffee...
+M	FRED	What are you doing here?
+M	WILL	I told her to come.
+F	ELLIE	Anything yet?
+M	WILL FRED	Nothing. Nothing.
+M	FARRELL	Maybe this guy doesn't read the papers.
+M	HAP	Or goes straight to the Sports Section. Who gets first dibs? Will?
+M	FRED	I see someone!
+M	WILL (O.S.)	That's him. Fan out.
+M	WILL (cont'd)	Stay here, Ellie.
+F	ELLIE	But...
+M	FRED	He's bolting!
+M	WILL	Go! Go! Go!
+M	WILL	Police! Goddammit! You! Head back up to base... You! Go right and follow along the water... Hap! You go left... Go!
+M	FARRELL	Sorry about...
+M	WILL	Where is he? Where'd the shot come from?
+M	FARRELL	Over there.
+M	WILL	Freeze! Dammit, Ellie!... Put that thing away! Farrell's down!...
+M	VOICE (O.S.)	Hap!
+M	WILL	Hap!
+M	WILL (cont'd)	Hap!
+M	FRED	Dormer...
+M	FRED (cont'd)	Dormer! He's gone.
+M	CHIEF NYBACK	And then you lost him.
+M	WILL	And then I lost him. In the fog.
+M	CHIEF NYBACK	About how long 'til you heard the suspect's second shot?
+M	WILL	Twenty, thirty seconds. I followed the sound down to the water. That's where... That's where I found Hap.
+M	CHIEF NYBACK	I think you need a glass of this.
+M	WILL	Why didn't I know about that goddamn tunnel, Charlie?
+M	CHIEF NYBACK	There's a bunch of those tunnels out there, Will. From bunkers over sixty years old. I don't even know half of them myself, and I grew up here.
+M	WILL	I had him, Charlie. Right in front of me. Not two feet. I could smell the son- of-a-bitch. Playing with me. And I missed the shot. He was right there and I missed the shot! Then my goddamned gun jammed...
+M	CHIEF NYBACK	Will, you can't blame yourself.
+M	WILL	I had him!
+M	CHIEF NYBACK	It's only gonna make you crazy.
+F	ELLIE	You wanted to see me?
+M	CHIEF NYBACK	Right, Ellie. I want you to take care of the investigation into Detective Eckhart's shooting.
+F	ELLIE	But what about the Connell case? I'm on the Connell case.
+M	CHIEF NYBACK	We need paperwork, Ellie. You know that. Just write up a quick report.
+M	WILL	I'm going to check on the roadblocks...
+M	CHIEF NYBACK	You're no good right now, Will. Go back to the Lodge. Try to get some rest.
+M	RADIO	...earlier this evening after an aborted attempt to apprehend a suspect. He was forty-five...
+F	RACHEL	I'm sorry about your partner.
+M	RACHEL (cont'd)	It's been on the radio for the last two hours. Nothing but that. Like when they found Kay Connell's body. We're not used to this sort of thing up here. He was standing right there just a couple of days ago. Your partner. Exactly where you are now. I hope I was nice to him.
+M	WILL	You were nice to him. He liked you.
+F	RACHEL	Pioneer Lodge?... Hold on a second. He's right here. John Warfield. He's called a couple of times.
+M	RACHEL (cont'd)	Want me to lie?
+M	WILL	Dormer.
+M	WARFIELD'S VOICE	Detective Dormer. I've been trying to reach you. I was very sorry to hear about your partner, Detective Eckhart. It must have been a terrible shock, what happened this morning.
+M	WILL	That's not exactly how I'd put it.
+M	WARFIELD'S VOICE (cont'd)	No, no. I suppose not. But I look forward to reading the report. Very sad. Very sad. Funny...
+M	WILL	What do you mean, "Funny?"
+M	WARFIELD'S VOICE	Oh, nothing. Just that I felt Detective Eckhart and I, Hap and I, were starting to make a real connection before you left. I sensed that he was ready to get some things off his chest. Did you sense anything like that, Detective? I mean, as his partner?...
+M	WARFIELD'S VOICE (cont'd)	...You were his partner for, what, about ten years?...
+M	WILL	You know why everyone hates you, Warfield? It's not your questions, it's not your press conferences, it's not even your cheap suits; everyone hates you 'cause day after day you suck the marrow out of real cops when you never had the balls to become one yourself. Well I got to tell you, it's a shame you're not up here with me because I'd love to show you right now just what a real cop is capable of. You just remember that when you're sitting at your bullshit desk reading your bullshit report on my dead partner! Next time. Go ahead and lie.
+M	WILL	Goddammit! Goddamned...thing!
+M	HAP	They're watching us, Will...
+M	WILL	Hap!
+M	CHIEF NYBACK (O.S.)	...We're going to bring down a couple of guys from Ridgemount, but I want us to step up the investigation here...
+M	CHIEF NYBACK	...Nightmute hasn't lost an officer in thirty-seven years, and even though Detective Eckhart wasn't from here, he was as good as one of us on this case. I had the honor of working with him down in Seattle for a number of years. He was a fine detective and an even better man.
+M	CHIEF NYBACK (cont'd)	Fred, you'll be working with Detective Dormer directly from now on. Will? Anything you'd like to add?
+M	CHIEF NYBACK	Okay. Then let's get to it.
+M	ELLIE (O.S.)	Detective Dormer?
+M	ELLIE (cont'd)	I'm sorry to bother you, but I was asked to write the report on... ...you know what I was asked to write the report on... ...Could you, just to be accurate, for the report, could you just point out where you were when you saw Detective Eckhart yesterday?
+M	WILL	It's good to be accurate, Ellie. You're doing your job.
+F	ELLIE	I'm so sorry about what happened. I know you did everything you could...
+M	WILL	I was here.
+M	FRED	Dormer. Still no sign of the bullet that went through Farrell.
+M	WILL	I'm going to the hospital to talk to him now. You get the search party together. No fewer than thirty people. I'll meet you in exactly twenty-five minutes. Don't waste any time.
+M	FRED	Partner or no partner. That guy's a prick.
+F	ELLIE	He has to be a prick, Fred. He's a great detective.
+M	FARRELL	Detective Dormer! You don't seem like the bring-an- underling-who's-in-the-hospital-a- Snickers-bar kind of guy.
+M	WILL	I'm not. How's the book?
+M	FARRELL	Oh, a real tear-jerker. Brody, the good guy, just got shot.
+M	FARRELL (cont'd)	Oh. I'm sorry. About Hap. Detective Eckhart.
+M	WILL	Thanks.
+M	FARRELL	I wish I'd had the chance to get to know him better. Take him fishing or something.
+M	WILL	He would have liked that.
+M	FARRELL	We just gotta catch the bastard, right?
+M	WILL	That's why I'm here. I need to know exactly what you saw yesterday, Farrell.
+M	FARRELL	What I saw?
+M	WILL	Anything. It's important.
+M	FARRELL	Pretty much nothing. That fog was so thick. The bullet seemed to come out of nowhere. I don't even remember seeing any shapes. Then I saw you. But only when you came up close. Then you disappeared again. I guess I heard more than I saw. Sorry.
+M	WILL	No. No. Don't be sorry. It's not your fault.
+M	NURSE	Time for your meds.
+M	FARRELL	Lonnie and I went to high school together.
+M	LONNIE	Just take the pills, Farrell.
+M	WILL	How's the leg?
+M	FARRELL	Oh, you know. Don't feel that much. Bullet went right through.
+M	WILL	Right. Got lost in the rocks.
+M	FARRELL	We'll get the other one, though. After the autopsy. ...and it was at this point that Detective Dormer headed towards the noise... Remember, Kepp, shoot everything... ...wherein he discovered the wounded Detective Farrell Brooks, having been shot in the vastus externus of the upper left thigh...
+M	ELLIE (cont'd)	Francis!
+M	FRANCIS	What?
+F	ELLIE	You're supposed to be Farrell. Shot in the thigh and writhing in pain.
+M	FRANCIS	C'mon, Ellie. What's it matter?
+F	ELLIE	Accuracy. That's what. Now get down.
+M	FRANCIS	Ow.
+F	ELLIE	...shortly after hearing the second shot, Detective Dormer continued through the water until he spotted the body, lying approximately fifteen feet away.
+M	ELLIE (cont'd)	You there, Rich?
+M	VOICE (O.S.)	Yeah. And I'm freezing my nads off!
+M	FRANCIS	Ellie! Think I found something!
+M	WILL (O.S.)	...Anything catches your eye, you put it in a bag. Anything looks strange, you put it in a bag...
+M	WILL (cont'd)	...Anything he may have dropped, moved, kicked, or stepped on, you put in a bag. Cigarette butts, gum wrappers, paper clips, coins, buttons - nine times out of
+M	VOICE (O.S.)	Detective?
+M	BURLY GUY #1	Where do you want us?
+M	WILL	The woods. One group heading south, the other heading north.
+M	FRED	Make sure they're set to channel 6...
+M	OFFICER #1	We did the interviews with all the nearby houses like you asked.
+M	WILL	Anything?
+M	OFFICER #1	Here's a list of who we talked to.
+M	WILL	Alright. Go back and set up some follow- ups for this afternoon.
+M	FRED	You don't think they should start further back?
+M	WILL	He had to have exited here. Over those boulders. I saw him move, he's nimble. Would have taken the hardest way out.
+M	FRED	Duggar...
+M	FRED (cont'd)	Where was it?
+M	FRED (cont'd)	Okay. That was Ellie. They found Farrell's bullet. Says it looks like a 357. After the autopsy Rich can drive 'em both to the lab in Anchorage. Have a murder weapon by morning. That is, if it's alright with you.
+F	RACHEL	Here. It's on the house.
+M	WILL	Thanks.
+F	RACHEL	I got it. Don't know why I bother. It's been broken for two years.
+M	WILL	Habit. Oh. A man came by to see you earlier. Said he was your new partner.
+M	WILL	Fred Duggar?
+F	RACHEL	No. He didn't say what his name was. Only that you were expecting him.
+M	WILL	I'm not expecting anyone.
+F	RACHEL	That's not what he thinks.
+M	WILL	What did he look like?
+F	RACHEL	Short. Dark hair. Not that memorable.
+M	WILL	I need to borrow something. Detective Dormer! What are you doing here? It's two-thirty in the morning. Shouldn't you be asleep?
+M	WILL	I could say the same thing about you.
+F	ELLIE	Oh. We always have play-offs in the middle of the night. It's the best time.
+M	WILL	Who's playing?
+F	ELLIE	The Puffins and the Hawks. We're in extra innings. The Hawks have a really good line-up this year.
+F	ELLIE	That's my sister. That's okay, Lib! Usually she's better.
+M	WILL	She your only sibling?
+F	ELLIE	Twelve years younger.
+M	ELLIE (cont'd)	What about you? You have any siblings?
+M	WILL	No. Well. I had a brother. He died when I was eleven.
+F	ELLIE	Oh, I shouldn't have...
+M	WILL	It's okay. Happened a long time ago. He was killed in a fire. In New Mexico.
+F	ELLIE	That must have been awful for you.
+M	WILL	Not really. I remember I was more embarrassed that he had died. Embarrassed that it made me different. So I didn't tell the other kids at school what had happened. They'd ask me where he was, where he'd gone. And I'd make up stories. He was visiting an aunt up north, he'd broken his leg, he was in a Swiss boarding school. Stuff like that. Nice kid, huh? Just kept making up more and more lies...
+F	ELLIE	You okay?
+M	WILL	I'm going back to the Lodge, Ellie. Still need to go through some of Kay Connell's school records.
+F	ELLIE	Okay.
+M	ELLIE (cont'd)	Try to get some sleep!
+M	WILL	Officer!...
+M	WILL	I'll pick it up. You head back to the station.
+M	WILL	Duggar - I'm at the coroner's now. I'll be back in about twenty minutes...
+M	CORONER	Detective. Thought you were sending one of your lackeys.
+M	WILL	I thought it was better if I came. Under the circumstances.
+M	CORONER	It's different when you know them, isn't it? Just sign over there and she's all yours. Your partner didn't suffer much...
+M	CORONER (cont'd)	Maybe for a minute or two. Just enough time to reflect.
+M	WILL	Thanks, Doc.
+M	CORONER	You're looking a little green, Detective.
+M	WILL (O.S.)	So where's the other bullets?
+M	WILL	What's with all the moose antlers around here?
+M	FRED	Lots of moose.
+M	WILL	When's Rich coming?
+M	FRED	I'll call him now.
+M	WILL	First I need a copy of the key.
+M	FRED	This isn't Seattle, Detective. We don't have copies. This is the only one.
+M	SECRETARY	Detective Dormer? Telephone.
+M	SECRETARY	This came for you earlier.
+M	WILL	Dormer. Goddammit, Warfield, if you're gonna check up on me every...
+M	MAN'S VOICE	I bet you haven't been getting much sleep.
+M	WILL	What?
+M	MAN'S VOICE	You lower-48s. You think the white nights are kind of neat. Then you can't sleep for days. I've seen it happen about a million times. But you can't sleep for a different reason.
+M	WILL	Who is this?
+M	WILL	I said, who is this?
+M	MAN'S VOICE	I saw what really happened, Will...
+M	MAN'S VOICE	I saw you kill your partner. With your back-up weapon. Out there on the beach. I saw you shoot him dead...
+M	WILL	Now you listen to me...
+M	MAN'S VOICE	Don't worry. I won't tell anyone. Oh, and I saw you take my gun. My uncle's old 357. I dropped it in the rocks. But you can go ahead and keep that.
+M	MAN'S VOICE (cont'd)	...I mean... ...Now that we're partners.
+M	ELLIE (O.S.)	Detective Dormer!
+F	ELLIE	You look like you're in a hurry. I just wanted to ask you about these pictures.
+M	ELLIE (cont'd)	I know they're not great quality, but this is where you said you were when you first saw Detective Eckhart, right?
+M	WILL	Right.
+F	ELLIE	But here's the thing. I retraced your exact steps according to your statement. You couldn't have seen Detective Eckhart from there. I mean, not in that fog.
+M	WILL	Then change it.
+F	ELLIE	How much closer would you say you were?
+M	WILL	I don't remember.
+F	ELLIE	Five feet? Seven feet?
+M	WILL	Listen, Ellie. I don't have time for this shit. Five feet, seven feet, twenty feet. Put down whatever you want in your report, alright? Dormer...
+M	WILL	These should have gone out two hours ago.
+M	YOUNG GIRL	...And that's how I think Kay would want us to remember her...
+M	YOUNG GIRL (cont'd)	...Swimming, reading, hiking through the Kebaughs... ...playing her flute, meeting at Darrow's after school...
+M	YOUNG GIRL	...And always, always with a smile on her face.
+M	VOICE (O.S.)	Want one?
+M	FRED	We should go say hello to Mrs. Connell.
+M	WILL	You go ahead. I'll be there in a second. Why don't I give her a ride?
+M	RANDY	Thought I smelled something.
+M	WILL	Good to see you, too, Randy.
+F	TANYA	Who're you?
+M	RANDY	Fuckin' cop.
+M	RANDY	You coming or not?
+F	TANYA	I never met anyone from Seattle before.
+M	WILL	You're not missing much.
+F	TANYA	What are you doing in this shit-hole town?
+M	WILL	You were good friends with Kay Connell, weren't you?
+F	TANYA	I was her best friend.
+M	WILL	Best friend?
+F	TANYA	Since grade school.
+M	WILL	That's a long time.
+F	TANYA	We were like sisters. Knew everything about each other.
+M	WILL	Must be tough for you. What happened.
+F	TANYA	Everybody says I'm holding up great, considering. Don't even care if I go to school. They're all worried I haven't cried yet. But there's no law against not crying, right?
+M	WILL	What about Kay's other friends?
+F	TANYA	Do we have to talk about Kay? I don't want to talk about her right now. Let's just drive. Go somewhere.
+M	WILL	You want me to take you somewhere?
+F	TANYA	Long as it's fun.
+M	TANYA (cont'd)	Young, impressionable girl left alone with older, Seattle detective. Who knows what we could get up to.
+M	WILL	How about this. You like this?
+F	TANYA	
+M	WILL	Thought you wanted something fun...
+F	TANYA	Move over! Move over, you crazy fuck!
+F	TANYA	You crazy son-of-a-bitch! You could have killed us! Ow! You're hurting me! You want to tell me what the fuck this is all about?
+M	WILL	You and Kay were like sisters?
+F	TANYA	That's what I said.
+M	WILL	Told each other everything. That why your picture's torn up in the top drawer of her bureau? Why her boyfriend's hand was clamped on your ass at her funeral?
+M	WILL (cont'd)	You like games, little girl? Well how about this one - you're standing right where her naked body was found wrapped up in a garbage bag.
+F	TANYA	No...
+M	WILL	Who was Kay seeing besides Randy Stetz? Who gave her those dresses?
+M	WILL (cont'd)	I need a name.
+F	TANYA	I don't know.
+M	WILL	You don't know.
+F	TANYA	She wouldn't tell me!
+M	WILL	But you were such good friends...
+F	TANYA	It was like some big fucking secret!
+M	WILL	What was?
+F	TANYA	She kept saying she was gonna get out of here. Leave us all behind. That he was going to take her!
+M	WILL	Who?
+F	TANYA	My arm!
+M	WILL	Who?
+F	TANYA	She used some stupid code name.
+M	WILL	What was it?
+F	TANYA	Brody...I don't know... ...Something Brody!
+M	TANYA (cont'd)	You happy now, you fucking bastard?
+M	WILL	Lucy. Desi.
+M	WALTER'S VOICE	Now you're mad at me. ...I spotted your car around the corner. You must have been in a hurry. Put some pieces together. Don't worry, I would have done the same thing...
+M	WALTER'S VOICE (cont'd)	Anyway... ...I'm not coming home. So you shouldn't wait there all day. I mean, they'll wonder about you at the station. You should be careful about following procedure, Will, especially now that...
+M	WILL	Goddammit!
+M	FRED	Forget your pager?
+M	WILL	What?
+M	FRED	I beeped you over two hours ago.
+M	FRED (cont'd)	Got a fax from the lab. Murder weapon was a 357 Ruger.
+M	WILL	Good.
+M	FRED	And something else that might interest you. Remember this?
+M	WILL	No.
+M	FRED	One of the paperbacks we found in Kay Connell's knapsack.
+M	WILL	That's right.
+M	FRED	Mrs. Connell found this copy in the house. It's signed. Personally.
+M	WILL	So?
+M	FRED	This is a local writer. Kay had all his books. I think we should check it out.
+M	WILL	I don't think it'll lead anywhere. Well. If he's local. Give him a call.
+M	WOMAN'S VOICE (O.S.)	Are you alright? You popped out from nowhere!
+M	MAN'S VOICE (O.S.)	He okay?
+M	OLD LADY	I don't think you should move.
+M	OLD LADY	You sure you're okay?
+M	WILL	I'm fine.
+M	OLD LADY	Careful not to bleed on my interior.
+M	WILL	Walter Byrd.
+M	WALTER	When I was seven my mother and grandmother took me to Vancouver. We were walking along the street one day when these two men ran past and snatched my grandmother's purse right from under her arm. Right from under her arm. That night a police officer came to our hotel room to ask us questions. Stood the whole time.
+M	WALTER (cont'd)	His uniform looked brand new. His shoes and badge were polished, his billy club, his belt buckle. All perfect. He was like a soldier, but better. Made a huge impression on me. His goodness. Gave me an instant respect for the police. I tried to become a cop when I left high school, but... Congenital problem. Oh. We're here.
+M	WALTER	You know this glacier moves a quarter of an inch every day? And on a clear day you can see all the way over to Newtok. There's a beautiful aviary over there. We can go sometime. It's actually cool for this time of year. Normally the temperature runs about...
+M	WILL	You think this is a nice meeting we're having here? Friendly? Two people getting acquainted? You sick, coward, fuck. I get up every morning of my life just to bring someone like you down. Beating a seventeen year- old girl to death. Washing her afterwards, cleaning her. Make you feel like a real man? Huh? I outta end this right now. Take a rock and smash your fucking skull in...
+M	WALTER	I stood right behind you...I saw you look right into his eyes and shoot him... ...Seattle's great hero. Shooting his own partner. I saw it all...
+M	WILL	That was an accident! You hear me? I didn't know it was him! I didn't know it was him!
+M	WALTER	Then why lie about it?
+M	WALTER (cont'd)	I mean, I'm all for bending the truth. That's what I do in my novels. It's my trade you might say. But why cover it up? You don't have to tell me if you don't want to. I'm sure you have some reason. Something noble. I have faith in that.
+M	WALTER (cont'd)	They should be bundled up better.
+M	WILL	What's your game, Byrd?
+M	WALTER	No game.
+M	WILL	The phone call. The knapsack.
+M	WALTER	I figured we're partners on this one. I mean, after what I saw...
+M	WILL	Let's get one thing straight, Byrd. We are partners on nothing.
+M	WALTER	I research my novels. I know the procedures. You'd have cuffed me back at the ferry. You'd have called for back- up, read me my rights, and gotten a search warrant for my apartment. You're a well-respected detective. There's no reason for you to be talking to me right now... ...except that we could help each other.
+M	WALTER (cont'd)	So. We're at an impasse.
+M	WILL	You're going to get a phone call.
+M	WALTER	I'm sorry?
+M	WILL	I said you're going to get a phone call.
+M	WALTER	Oh?
+M	WILL	Kay Connell had a signed copy of one of your books.
+M	WALTER	Thought you might find that.
+M	WILL	You're going to be brought in for questioning.
+M	WALTER	Down at the station?
+M	WILL	Yes down at the station.
+M	WALTER	Okay. Okay. Brought in for questioning. Good. I can write this. Ferry's leaving. Something to divert... My gun. You still have my gun, right? Then that's the wild card. Every detective story has a wild card.
+M	WILL	What do you mean, "wild card?"
+M	WALTER	Next ferry's in forty-five minutes.
+M	WILL	What do you mean "wild card?"
+M	WALTER	You'll know. At the questioning.
+M	TICKET TAKER	Full up.
+M	WILL	I have a cold.
+F	ELLIE	Which way are you walking?
+M	WILL	Back to the Lodge.
+F	ELLIE	I needed to get your signature on something.
+M	ELLIE (cont'd)	The report on Detective Eckhart. Chief made me finish it this morning. Said it was taking too long.
+M	ELLIE (cont'd)	Aren't you going to read it?
+M	WILL	I trust you. Now I can help you with the Connell case. That writer's coming in tomorrow. Walter Byrd.
+M	WILL	Duggar called him?
+F	ELLIE	About an hour ago. Said he was more than happy to cooperate.
+M	ELLIE (cont'd)	You haven't been sleeping much, have you, Detective Dormer?
+M	WILL	Not really.
+F	ELLIE	Isn't that the difference between a good cop and a bad cop? A good cop can't sleep 'cause a piece of the puzzle's missing. A bad cop can't sleep 'cause his conscience won't let him. You said that once, remember?
+M	WILL	No. But it sounds like something I would've said. See you tomorrow, Ellie.
+F	ELLIE	Oh! I forgot to tell you. The Puffins won.
+M	ELLIE (cont'd)	The baseball game. Our team... ...We won.
+M	WILL	Listen to me, you son-of-a-bitch...
+M	RECORDED VOICE	...I saw you look right into his eyes and shoot him...
+M	RECORDED VOICE (cont'd)	...Seattle's great hero. Shooting his own partner. I saw it all... That was an accident!...
+M	WILL	Goddammit, Byrd!
+M	WALTER	You'd have done the same thing, Will. I know you would...
+M	WILL	I didn't know!
+M	HAP	You sure about that, buddy?
+M	WILL	Fuck!
+M	RACHEL (O.S.)	Detective Dormer?
+F	RACHEL	Will...I...
+M	WILL	What is it?
+F	RACHEL	There's a guy down the hall. Complaining about the noise. Says he can't sleep.
+F	RACHEL	Are you alright?
+M	WILL	I'm fine.
+F	RACHEL	Did something happen?
+M	WILL	No.
+F	RACHEL	Will...
+M	WILL	The light. It keeps coming in...
+F	RACHEL	Will. What happened?
+M	WILL	There was this guy named Weston Dobbs. Twenty-four. Worked as a part-time stock boy in a copy store. Every morning he'd sit at the only window in his apartment and watch an eight year-old boy get picked up by his carpool across the street. And every afternoon he'd watch the boy get dropped off again. He did this for about six months. Until one day he got up the nerve to cross the street and grab the boy before his carpool came. Kept him in his apartment for three days. Tortured him. Raped him. Made him do things...
+M	WILL (cont'd)	When he was done, he got a rope and a kitchen stool and hanged the boy in the basement of the apartment building. But he didn't do a good enough job. The little boy's neck didn't break and he died from shock. The landlord found him five days later.
+F	RACHEL	One of your cases?
+M	WILL	Me and Hap. A year and a half ago. I knew the second I met Dobbs that he was guilty. Smug, cold. Dead eyes. We had circumstantial evidence, but nothing to tie him to it. Nothing concrete. Went over every inch of that apartment.
+F	RACHEL	What happened?
+M	WILL	We took some blood samples from the boy's body and planted them in his apartment. Arrested him the next day.
+F	RACHEL	Will.
+M	WILL	There've been other cases. Where we've changed results. Pushed witnesses. Manipulated evidence. But Dobbs. I wanted Dobbs more than anything.
+F	RACHEL	What if someone finds out?
+M	WILL	We're under investigation now. Back in Seattle. Hap wanted to talk. As soon as we got back. Thought he could work out some kind of deal.
+F	RACHEL	Well, that's not going to happen now.
+M	WILL	Do you think it was wrong? What we did?
+F	RACHEL	There are two kinds of people in Alaska. Those who were born here and those who've come here to escape something in their lives. I wasn't born here, Will. I'm in no position to judge anyone. I'm not about that any more. It's all about what you're willing to live with.
+M	FRED (O.S.)	You were acquainted with the deceased, Kay Connell? Yes I was.
+M	FRED	In what manner?
+M	WALTER	She was, not quite a "fan." More an avid reader of my detective novels.
+F	ELLIE	When did you first meet her?
+M	WALTER	A year ago. At one of my signings.
+M	FRED	Where you signed this?
+M	WALTER	That's right.
+M	FRED	What happened at that signing?
+M	WALTER	She flattered me about my writing. Asked if she could visit me. To talk about my books.
+M	FRED	Did she?
+M	WALTER	Yes. Not that much at first. But then she became more comfortable. Started visiting me every week...
+M	WILL	What was the nature of your relationship?
+M	WALTER	What do you mean, Detective Dormer?
+M	WILL	She was an attractive girl. Did you have sex with her?
+M	WALTER	She was only seventeen.
+M	WILL	But she was an attractive girl.
+M	WALTER	I suppose.
+M	WILL	Did you have sex with her?
+M	WALTER	No.
+M	WILL	But you wanted to.
+M	WALTER	I was a mentor to her.
+M	WILL	You gave her gifts.
+M	WALTER	Yes.
+M	WILL	Expensive dresses. A heart necklace.
+M	WALTER	Yes.
+M	WILL	Doesn't sound like a mentor to me.
+M	WALTER	I gave her things she didn't have. Couldn't have. Her family lives on Mr. Connell's disability. It isn't much.
+M	FRED	We understand, Mr. Byrd. You want to sit down, Detective?
+M	WALTER	She wasn't happy. I was someone to talk to.
+M	FRED	How do you mean?
+M	WALTER	That boyfriend. Randy.
+M	FRED	Randy Stetz?
+M	WALTER	That's right.
+M	WILL	What about him?
+M	WALTER	He. Well, he... I don't want to talk out of school. Kay told me things in the strictest of confidence. As a friend.
+M	FRED	Mr. Byrd. Anything you can tell us could help out with this case.
+M	WALTER	Well. He hit her.
+M	FRED	Are you sure about that?
+M	WALTER	She'd come to me, sometimes in the middle of the night. Bruises all over her back, her upper arms. I pled with her to let me call the police, but she wouldn't hear it. Wanted to keep it a secret.
+F	ELLIE	Randy Stetz beat Kay Connell?
+M	FRED	Ellie.
+M	WALTER	He has a terrible rage. Kay even said he carried a handgun around with him.
+M	FRED	Margaret! Get Judge Biggs on the phone! I'll get another warrant for Stetz's place.
+M	WALTER	Could I have some more coffee, Detective Burr? You can't fucking do this!
+M	RANDY (O.S.)	Hey! I'm working on that!
+M	OFFICER (O.S.)	Found something.
+M	RANDY (O.S.)	What the fuck is that!
+M	FRED (O.S.)	That's it. Let's bag it.
+M	RANDY (O.S.)	That's not mine, man! That's not mine!
+M	FRED (O.S.)	Randy...
+M	RANDY (O.S.)	No way, man!
+M	RANDY (cont'd)	That ain't mine!
+M	FRED	C'mon, Randy.
+M	RANDY	I swear to God. I didn't kill her. I swear to God...
+M	FRED	You look like shit, cowboy.
+M	WILL	That's an understatement.
+M	FRED	Looks like we can wrap this one up.
+M	FRED (cont'd)	We're getting together for a couple of beers later on. Might not be the Seattle thing to do. But you're welcome to come.
+M	FARRELL (O.S.)	I can't believe it. Randy Stetz.
+M	RICH	What do you mean, you can't believe it?
+M	FRANCIS	He was an asshole.
+M	FARRELL	That doesn't mean anything.
+M	FRED	Didn't you grow up with him?
+M	FARRELL	Our dads were on the same boat. We used to wait for them together.
+M	FRANCIS	He used to pick fights at the gas station.
+M	RICH	And remember when he did all those donut holes that one summer?
+M	FRED	Just a bad seed.
+M	FARRELL	How do you like our beer?
+M	WILL	I like it fine.
+M	FRED	What Detective Dormer needs is a little shut-eye.
+M	RICH	The white nights been hard on you?
+M	WILL	They haven't been easy.
+M	FRANCIS	They don't have titanium shades over at the Pioneer.
+M	RICH	Well no wonder.
+M	FRANCIS	You lose all sense of time.
+M	FARRELL	Better than Fred's home town.
+M	FRED	My people are from Barrow. Way up north.
+M	RICH	In the winter there's no sunlight for five straight months.
+M	FRED	Like being swallowed up in a black hole.
+M	ELLIE (O.S.)	Hi, guys.
+M	FRED	Nancy Drew! Pull up a seat!
+M	FRANCIS	You hear what happened, Ellie?
+F	ELLIE	Yeah.
+M	RICH	Pretty cool.
+M	FARRELL	Rich found the gun.
+F	ELLIE	I know. I heard.
+M	FRED	Something's on Nancy's mind.
+F	ELLIE	I found this out on the beach.
+M	FARRELL	What is it?
+F	ELLIE	Shell casing. 9mm.
+M	FRANCIS	Let it go, Ell. We got the bad guy.
+F	ELLIE	None of us carries a 9mm duty weapon. And the murder weapon was a 357.
+M	RICH	Get a hobby, will ya?
+F	ELLIE	It's a legitimate point, isn't it, Detective Dormer?
+M	WILL	It's legitimate.
+F	ELLIE	Worth pursuing?
+M	WILL	The case is closed, Ellie. I got the next round.
+F	ELLIE	Me, Pop!
+M	ELLIE'S DAD	Ellie? You okay?
+F	ELLIE	Where's all my academy stuff?
+M	WALTER	Hi, Will...
+M	WILL	What the hell are you doing calling me at the station?
+M	WALTER	I figured we should touch base. Compare notes. I think it went well. What did you think?
+M	WILL	Randy Stetz is in jail.
+M	WALTER	Told you I could write an ending.
+M	WILL	Congratulations. The tape.
+M	WALTER	I thought maybe we could talk some more.
+M	WILL	There's nothing more to talk about.
+M	WALTER	But we work so well together...
+M	WILL	We do nothing well together. Nothing! You understand me?
+M	WALTER	You run on two settings, Will. I've noticed that... You jump from calm to rage in the blink of an eye. That's okay. I do that too. You're not sleeping, are you?
+M	WILL	What the hell do you know?
+M	WALTER	Kay told me. She comes to me, you know. Tells me things. About you. About me. Does Detective Eckhart come to you? Does he ask you why you shot him?
+M	WILL	I told you that was an accident!
+M	WALTER	Then so was mine...
+M	WILL	Don't you pull that shit with me.
+M	WALTER	I didn't want to kill her, Will. When she called me that night from the party, she'd had a fight with Randy. Wanted to talk. I told her to meet me at our special place. The cabin at the beach... ...When she came she was barefoot. And there was liquor on her breath. I only wanted to comfort her. To touch her. She could have at least let me do that. Her skin...it was like everything I'd ever written about.
+M	WILL	Couldn't get it up, Walter?
+M	WALTER	It was when I went to kiss her. She started laughing. I got angry. After all I'd given her. All I'd shared with her. I just wanted to make her stop. That's all.
+M	WALTER (cont'd)	From calm to rage in the blink of an eye. Remember?
+M	WILL	Like this?
+M	WALTER	Yes. Like that.
+M	WILL	This an accident, Walter?
+M	WALTER	If you want it to be...
+M	WILL	It took ten minutes to beat Kay Connell to death. Ten minutes. Get the fuck out of town, Byrd. Leave and never come back.
+M	WALTER	I have a summer house up by Kgun Lake. I'm going to write my next novel there. It's about a famous detective who goes bad.
+M	WALTER (cont'd)	Just kidding.
+M	WALTER (cont'd)	The never coming back part, though. I'm not sure. To tell you the truth this has been kind of fun. Going to the station, meeting all those nice people. Talking with you. I might miss it.
+M	WALTER (cont'd)	I especially like that new detective.
+M	WALTER (cont'd)	Detective Burr. I liked her very much. Has a real vitality.
+M	CHIEF NYBACK (O.S.)	I was hoping not to send you back with so much paperwork, Will. When are you taking off?
+M	WILL	Six-thirty.
+M	FRED	If Spencer's not too drunk to fly.
+M	CHIEF NYBACK	Can't talk you into staying for a couple of days? Do some fishing? Show you what normally goes on around here.
+M	WILL	I have to get back. Too bad... ...Brought some real class to the place. But, Seattle needs its hero back. Couldn't have done it without you, Will.
+M	WILL	Had a lot of help from Nightmute's finest.
+F	ELLIE	Didn't want to miss anything.
+M	CHIEF NYBACK	Detective Dormer's not leaving for a few hours.
+F	ELLIE	Good.
+M	CHIEF NYBACK	Maybe you could drive him to Spencer's.
+F	ELLIE	Sure. I thought what you did on this case was amazing. We're really going to miss you around here.
+F	RACHEL	I found a new friend. Will. What is it?
+F	ELLIE	Very funny, Farrell...
+F	ELLIE	Hi, Rachel.
+F	RACHEL	I would have seen if he came back.
+F	ELLIE	Detective Dormer?
+F	RACHEL	What is all this?
+M	WALTER (O.S.)	Here to visit me?
+M	WILL	No. I'm here to end this.
+M	WALTER	Where's your back-up?
+M	WILL	No back-up.
+M	WALTER	You're not following procedure.
+M	WILL	Procedure went out the window a long time ago.
+M	WALTER	We're on the same side, Will. You know that. After what we've been through together. We're partners. Bound by a secret.
+M	WILL	That's where you're wrong, Walter. There is no secret. Because the biggest difference between you and me is what we will or will not live with...
+M	WALTER	Will...
+M	WALTER	You give the police a bad name, Will.
+F	ELLIE	Shit!
+M	WILL	Walter? Walter!
+M	WALTER	Wild card.
+M	WILL	Drop the gun, Walter.
+M	WALTER	That jammed the last time, remember?
+M	WILL	Another J. Brody mystery.
+M	ELLIE (O.S.)	Detective Dormer!
+M	WILL	God, you're a pain in the ass.
+F	ELLIE	You're shot.
+M	WILL	You, too.
+F	ELLIE	I'm going to make a tourniquet.
+M	WILL	Walter Byrd killed Kay Connell. Her things are in the house.
+F	ELLIE	I know.
+M	WILL	Byrd's dead.
+F	ELLIE	You shot Detective Eckhart, didn't you?
+M	WILL	Yes.
+F	ELLIE	Did you mean to?
+M	WILL	No. But I covered it up. I lied.
+F	ELLIE	Why?
+M	WILL	Because I just couldn't be wrong. Don't ever get that way, Ellie. Don't ever lose your way. It blurs the line.
+F	ELLIE	This one looks worse.
+M	WILL	Just let me sleep, Ellie... Let me sleep.
+F	ELLIE	No! I will not let you sleep. If you've lost your way then you have to make it right. That's the only way. That's what you'd tell me. I've been a detective for four weeks and I say you're coming with me. C'mon...
+M	WILL	What about your shoulder?
+F	ELLIE	Don't worry. I'll have a cool scar.
+M	FADE OUT.	
