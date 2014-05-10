@@ -23,5 +23,5 @@ for s in scripts:
 m_female = topicmodel.TopicModel(female_docs)
 m_male = topicmodel.TopicModel(male_docs)
 
-lda_female = m_female.lda(40)
-lda_male = m_male.lda(40)
+lda_female_all = m_female.lda(40)
+lda_male_all = m_male.lda(40)
