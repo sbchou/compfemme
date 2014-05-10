@@ -1,0 +1,59 @@
+Topic Modelling Notes
+
+dataset:
+* 325 scripts
+
+Aggregate All Female & All Male Lines
+*get rid of stopwords and words appearing once and words <=2 chars
+*number of terms in male corpus: 25,941
+*number of terms in female corpus: 13,719
+*Treat each script as a document (325 docs per gender)
+
+Training LDA on 40 topics:
+*Topics are not very meaningful for either gender.
+*Too much noise.
+
+10 Female Topics:
+
+0.014*know + 0.011*like + 0.009*get + 0.009*want + 0.007*think + 0.007*one + 0.006*really + 0.006*going + 0.006*right + 0.006*well
+
+0.011*know + 0.011*get + 0.008*like + 0.008*think + 0.008*one + 0.007*good + 0.007*yes + 0.006*well + 0.006*got + 0.006*want
+
+0.018*know + 0.009*like + 0.009*get + 0.009*right + 0.008*got + 0.007*want + 0.007*one + 0.007*yeah + 0.007*think + 0.006*well
+
+0.013*know + 0.011*like + 0.010*get + 0.008*think + 0.007*want + 0.006*one + 0.006*well + 0.006*right + 0.006*back + 0.006*going
+
+0.011*know + 0.011*like + 0.009*one + 0.008*think + 0.007*want + 0.007*get + 0.006*see + 0.006*let + 0.006*going + 0.005*yeah
+
+0.015*know + 0.009*want + 0.008*like + 0.008*one + 0.007*get + 0.006*think + 0.006*let + 0.006*well + 0.006*going + 0.006*see
+
+0.014*know + 0.011*get + 0.011*like + 0.007*right + 0.007*got + 0.007*want + 0.007*one + 0.006*think + 0.006*see + 0.006*well
+
+0.013*know + 0.013*get + 0.011*like + 0.009*one + 0.008*want + 0.006*would + 0.006*think + 0.006*right + 0.006*see + 0.006*got
+
+0.016*know + 0.010*get + 0.009*want + 0.009*one + 0.007*think + 0.007*going + 0.006*see + 0.006*like + 0.006*well + 0.006*let
+
+0.009*like + 0.009*know + 0.008*one + 0.008*going + 0.008*want + 0.008*think + 0.007*get + 0.006*see + 0.006*well + 0.006*yes
+
+10 Male Topics
+0.010*know + 0.009*like + 0.008*get + 0.006*one + 0.006*think + 0.005*want + 0.005*got + 0.005*see + 0.005*back + 0.005*right
+
+0.009*like + 0.008*know + 0.008*get + 0.008*one + 0.006*back + 0.006*think + 0.006*right + 0.005*see + 0.005*want + 0.004*come
+
+0.011*like + 0.011*get + 0.008*know + 0.007*right + 0.007*got + 0.006*well + 0.006*one + 0.006*back + 0.005*want + 0.005*see
+
+0.009*get + 0.008*know + 0.008*like + 0.007*one + 0.005*right + 0.005*want + 0.005*going + 0.005*back + 0.005*got + 0.004*man
+
+0.010*know + 0.008*like + 0.008*get + 0.007*one + 0.006*want + 0.005*back + 0.005*think + 0.005*right + 0.005*well + 0.005*let
+
+0.009*know + 0.008*like + 0.007*right + 0.006*back + 0.006*see + 0.006*going + 0.006*got + 0.006*one + 0.006*come + 0.005*get
+
+0.007*know + 0.006*like + 0.006*get + 0.006*see + 0.006*back + 0.005*time + 0.005*good + 0.005*one + 0.004*right + 0.004*well
+
+0.010*know + 0.009*like + 0.008*get + 0.007*got + 0.007*one + 0.006*right + 0.006*going + 0.005*good + 0.005*back + 0.005*yes
+
+0.010*one + 0.009*back + 0.009*know + 0.009*get + 0.008*like + 0.005*right + 0.005*think + 0.005*see + 0.004*going + 0.004*want
+
+0.007*know + 0.006*one + 0.006*get + 0.006*going + 0.005*back + 0.005*time + 0.005*good + 0.005*want + 0.005*like + 0.004*see
+
+
