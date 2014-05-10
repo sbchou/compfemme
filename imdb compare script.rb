@@ -4,11 +4,12 @@ require 'csv'
 require 'nokogiri'
 require 'open-uri'
 require_relative 'movies'
+require 'lingua'
 
-output_file = "data/line_summary.tsv"
+output_file = "final analysis files/line_summary.tsv"
 
 CSV.open(output_file, "wb", col_sep: "\t") do |csv|
-  csv << ["title", "male_rating", "female_rating", "male_lines", "female_lines", "male_words", "female_words", "female line ratio", "female word ratio"]
+  csv << ["title", "male_rating", "female_rating", "m_num_lines", "f_num_lines", "m_num_words", "f_num_words", "m_u_words","f_u_words","m_flesch", "f_flesch", "m_fog","f_fog","m_kincaid","f_kincaid","m_syllables","f_syllables","m_syl_per_word","f_syl_per_word","m_percent_complex","f_percent_complex"]
 end
 m=Movies.new
 
@@ -23,34 +24,58 @@ Dir.foreach('data/gender_tagged_dialogues') do |input_file|
 
 	male_rating = movie["male_rating"]
 	female_rating = movie["female_rating"]
-	female_lines =0
-	male_lines = 0
-	male_words=0
-	female_words=0
+	f_num_lines =0
+	m_num_lines = 0
+	male_text=""
+	female_text=""
 
 	i=0
 	CSV.foreach(input_file, col_sep: "\t", headers: true, :quote_char => "\x00") do |row|
 		i+=1
 		if(row[0]=="M")
-			male_lines+=1
+			m_num_lines+=1
 			if row[2]
-				male_words+=row[2].split.size
+				male_text+=row[2]
 			end
 		elsif row[0]=="F"
-			female_lines+=1
+			f_num_lines+=1
 			if row[2]
-				female_words+=row[2].split.size 
+				female_text+=row[2]
 			end
 		end
 	end
 				
-	female_line_ratio = (1.0*female_lines/(female_lines+male_lines)).round(3)
-	female_word_ratio = (1.0*female_words/(female_words+male_words)).round(3)
-	puts female_word_ratio
+	male_report = Lingua::EN::Readability.new(male_text)
+	female_report = Lingua::EN::Readability.new(female_text)
+
+	m_flesch = male_report.flesch().round(2)
+	f_flesch = female_report.flesch().round(2)
+
+	m_fog = male_report.fog().round(2)
+	f_fog = female_report.fog().round(2)
+
+	m_kincaid = male_report.kincaid().round(2)
+	f_kincaid = female_report.kincaid().round(2)
+
+	m_syllables = male_report.num_syllables().round(2)
+	f_syllables = female_report.num_syllables().round(2)
+
+	m_num_words = male_report.num_words().round(2)
+	f_num_words = female_report.num_words().round(2)
+
+	m_u_words = male_report.num_unique_words().round(2)
+	f_u_words = female_report.num_unique_words().round(2)
+
+	m_syl_per_word = male_report.syllables_per_word().round(2)
+	f_syl_per_word = female_report.syllables_per_word().round(2)
+
+	m_percent_complex = male_report.percent_fog_complex_words().round(2)
+	f_percent_complex = female_report.percent_fog_complex_words().round(2)
 		
 	CSV.open(output_file, "ab", col_sep: "\t") do |csv|
-	  csv << [title, male_rating, female_rating, male_lines, female_lines, male_words, female_words, female_line_ratio, female_word_ratio]
+  		csv << [title, male_rating, female_rating, m_num_lines, f_num_lines, m_num_words, f_num_words, m_u_words,f_u_words,m_flesch, f_flesch, m_fog,f_fog,m_kincaid,f_kincaid,m_syllables,f_syllables,m_syl_per_word,f_syl_per_word,m_percent_complex,f_percent_complex]
 	end
+	puts title
 end
 
 
